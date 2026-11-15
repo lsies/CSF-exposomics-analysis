@@ -13,15 +13,15 @@ Run commands within the corresponding module. Use Python 3.12 and install each m
 
 ## Input scope
 
-The standalone public-expression analysis module is not included. The metabolite-network module retains the archived gene-level expression summaries needed to reproduce its exposure-response overlays and overlap analyses. Their original public-study sources remain documented in the module. This release does not rerun the upstream expression experiments or differential-expression models.
+This release does not include a standalone public gene-expression analysis module. The metabolite-network module retains archived gene-level expression summaries required to reproduce the exposure-response overlays and overlap analyses. The original public studies from which these data were obtained are documented within the module.
 
-Partition-model inputs are compound-level descriptors and median partition ratios. The same values are provided in Supplementary Data 2, sheet `Model_input`.
+**Partition Model** inputs comprise compound-level molecular descriptors and median serum-to-CSF partition ratios. The same data are provided in the `Model_input` sheet of Supplementary Data 2.
 
-The metabolite network starts from exported comparison statistics, feature annotations and database identifiers. It does not reprocess LC-MS raw files or recompute upstream differential-metabolite tests. P values, adjusted P values and VIP statistics are supplied as inputs. The code verifies the comparison-level BH adjustment and rebuilds the downstream network.
+**Metabolite Network** inputs comprise exported between-group comparison statistics, feature annotations and database identifiers. P values, adjusted P values and variable importance in projection (VIP) statistics are supplied as inputs. The code checks the Benjamini-Hochberg (BH) adjustment within each comparison and reconstructs the downstream association network.
 
-Metascape and Cytoscape plugin results are archived external outputs. The Python code imports them and checks associated input lists. New input gene lists require new external analyses. Metascape adjusted P values are read from the original outputs, not recalculated from filtered tables.
+**Metascape and Cytoscape plugin results** are retained as archived external analysis outputs. The Python code imports these results and checks the corresponding input lists. New input gene lists require rerunning the relevant external analyses. Metascape adjusted P values are read directly from the original outputs rather than recalculated from filtered tables.
 
-Public database responses, source URLs and retrieval metadata accompany the network modules. Third-party data retain their original source terms. The code license does not relicense these data.
+The network module also includes **public database responses, original source URLs and retrieval metadata**. Third-party data remain subject to the terms of their original sources.
 
 ## Outputs
 
