@@ -1,0 +1,10 @@
+{
+  "degreeCutoff": "2",
+  "nodeScoreCutoff": "0.2",
+  "kCore": "2",
+  "maxDepthFromStart": "100",
+  "haircut": "true",
+  "fluff": "false",
+  "includeLoops": "false",
+  "scope": "NETWORK"
+}

@@ -1,0 +1,783 @@
+ENTRY       C15313                      Compound
+NAME        3,17beta-Diacetoxyestra-1,3,5(10)-trien-6-one;
+            3,17beta-Dihydroxyestra-1,3,5(10)-trien-6-one diacetate;
+            6-Oxo-17beta-estradiol diacetate
+FORMULA     C22H26O5
+EXACT_MASS  370.1780
+MOL_WEIGHT  370.44
+DBLINKS     PubChem: 17396310
+            ChEBI: 79815
+            J-GLOBAL: J131.325H
+ATOM        27
+            1   C1y C    28.2332  -19.3833
+            2   C1y C    27.0605  -20.0568
+            3   C1z C    28.2391  -18.0365
+            4   C1x C    30.5609  -19.4126
+            5   C1y C    25.8936  -19.3660
+            6   C1x C    27.0605  -21.4096
+            7   C1x C    27.0837  -17.3512
+            8   C1y C    29.4178  -17.3745
+            9   C1a C    28.2332  -16.6836
+            10  C1x C    30.5790  -18.0653
+            11  C8y C    24.7150  -20.0453
+            12  C1x C    25.9054  -18.0188
+            13  C5x C    25.8818  -22.0774
+            14  C8y C    24.7092  -21.3980
+            15  C8x C    23.5421  -19.3660
+            16  C8x C    23.5421  -22.0715
+            17  C8x C    22.3057  -20.0453
+            18  C8y C    22.2995  -21.3980
+            19  O5x O    25.8755  -23.4498
+            20  O7a O    21.1084  -22.1040
+            21  O7a O    29.3656  -15.9605
+            22  C7a C    30.5780  -15.2605
+            23  C1a C    31.7992  -15.9656
+            24  C7a C    19.9189  -21.4352
+            25  C1a C    18.7443  -22.1315
+            26  O6a O    19.9724  -20.0208
+            27  O6a O    30.5781  -13.8601
+BOND        30
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13   11  14 2
+            14   11  15 1
+            15   14  16 1
+            16   15  17 2
+            17   16  18 2
+            18    7  12 1
+            19    8  10 1
+            20   13  14 1
+            21   17  18 1
+            22   13  19 2
+            23   18  20 1
+            24    8  21 1 #Up
+            25   21  22 1
+            26   22  23 1
+            27   20  24 1
+            28   24  25 1
+            29   24  26 2
+            30   22  27 2
+///
+
+ENTRY       C15318                      Compound
+NAME        17abeta-Hydroxy-D-homoandrost-4-en-3-one;
+            D-Homotestosterone
+FORMULA     C20H30O2
+EXACT_MASS  302.2246
+MOL_WEIGHT  302.45
+DBLINKS     PubChem: 17396315
+            ChEBI: 79820
+            J-GLOBAL: J2.793.864G
+ATOM        22
+            1   C1y C    27.0475  -19.7828
+            2   C1y C    25.8817  -19.1148
+            3   C1y C    28.2197  -19.1026
+            4   C1x C    27.0291  -21.1795
+            5   C1z C    24.7218  -19.7950
+            6   C1x C    25.8695  -17.7605
+            7   C1z C    28.2256  -17.7484
+            8   C1x C    30.5637  -19.1086
+            9   C1x C    25.8877  -21.7989
+            10  C2y C    24.7218  -21.1309
+            11  C1x C    23.5801  -19.1391
+            12  C1a C    24.7036  -18.1673
+            13  C1x C    27.0415  -17.0804
+            14  C1y C    29.3977  -17.0744
+            15  C1a C    28.2255  -16.1363
+            16  C1x C    30.5637  -17.7605
+            17  C2x C    23.5618  -21.8050
+            18  C1x C    22.4203  -19.7950
+            19  C5x C    22.4203  -21.1309
+            20  C1x C    29.4321  -19.8026
+            21  O5x O    21.1852  -21.8359
+            22  O1a O    29.4047  -15.6800
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     4   9 1
+            8     5  10 1
+            9     5  11 1
+            10    5  12 1 #Up
+            11    6  13 1
+            12    7  14 1
+            13    7  15 1 #Up
+            14    8  16 1
+            15   10  17 2
+            16   11  18 1
+            17   17  19 1
+            18    7  13 1
+            19    9  10 1
+            20   14  16 1
+            21   18  19 1
+            22    3  20 1
+            23    8  20 1
+            24   19  21 2
+            25   14  22 1 #Up
+///
+
+ENTRY       C15382                      Compound
+NAME        Estra-1,3,5(10)-triene-3,6alpha,17beta-triol triacetate
+FORMULA     C24H30O6
+EXACT_MASS  414.2042
+MOL_WEIGHT  414.49
+DBLINKS     PubChem: 17396379
+            ChEBI: 79883
+            J-GLOBAL: J130.682K
+ATOM        30
+            1   C1y C    28.2332  -19.3833
+            2   C1y C    27.0605  -20.0568
+            3   C1z C    28.2391  -18.0365
+            4   C1x C    30.5609  -19.4126
+            5   C1y C    25.8936  -19.3660
+            6   C1x C    27.0605  -21.4096
+            7   C1x C    27.0837  -17.3512
+            8   C1y C    29.4178  -17.3745
+            9   C1a C    28.2332  -16.6836
+            10  C1x C    30.5790  -18.0653
+            11  C8y C    24.7150  -20.0453
+            12  C1x C    25.9054  -18.0188
+            13  C1y C    25.8818  -22.0774
+            14  C8y C    24.7092  -21.3980
+            15  C8x C    23.5421  -19.3660
+            16  C8x C    23.5421  -22.0715
+            17  C8x C    22.3057  -20.0453
+            18  C8y C    22.2995  -21.3980
+            19  O7a O    21.1084  -22.1040
+            20  O7a O    25.8755  -23.4498
+            21  O7a O    29.4356  -15.9605
+            22  C7a C    19.9189  -21.4352
+            23  C1a C    18.7443  -22.1315
+            24  O6a O    19.9724  -20.0208
+            25  C7a C    24.6784  -24.1338
+            26  C1a C    23.4997  -23.4463
+            27  O6a O    24.7417  -25.5495
+            28  C7a C    30.6828  -15.2607
+            29  C1a C    31.8692  -15.9655
+            30  O6a O    30.6302  -13.8606
+BOND        33
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13   11  14 2
+            14   11  15 1
+            15   14  16 1
+            16   15  17 2
+            17   16  18 2
+            18    7  12 1
+            19    8  10 1
+            20   13  14 1
+            21   17  18 1
+            22   18  19 1
+            23   13  20 1 #Down
+            24    8  21 1 #Up
+            25   19  22 1
+            26   22  23 1
+            27   22  24 2
+            28   20  25 1
+            29   25  26 1
+            30   25  27 2
+            31   21  28 1
+            32   28  29 1
+            33   28  30 2
+///
+
+ENTRY       C15515                      Compound
+NAME        Murideoxycholate;
+            Murideoxycholic acid;
+            6beta-Hydroxylithocholate;
+            3alpha,6beta-Dihydroxy-5beta-cholanic acid
+FORMULA     C24H40O4
+EXACT_MASS  392.2927
+MOL_WEIGHT  392.57
+REACTION    R07203
+PATHWAY     map00121  Secondary bile acid biosynthesis
+ENZYME      1.14.14.138
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              24-Carbon atoms
+               Cholane derivatives
+                C15515  Murideoxycholate
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C15515  Murideoxycholate
+DBLINKS     PubChem: 17396507
+            ChEBI: 52030
+            LIPIDMAPS: LMST04010025
+            J-GLOBAL: J472.757F
+ATOM        28
+            1   C1y C    26.9404  -20.5936
+            2   C1y C    25.7268  -21.2821
+            3   C1z C    26.9635  -19.1934
+            4   C1y C    24.5250  -20.5762
+            5   C1x C    25.7268  -22.6939
+            6   C1x C    25.7501  -18.4584
+            7   C1z C    23.2997  -21.2821
+            8   C1x C    24.4667  -19.1702
+            9   C1y C    24.5250  -23.3941
+            10  C1y C    23.2997  -22.6939
+            11  C1x C    22.0804  -20.5762
+            12  C1a C    23.2997  -19.8878
+            13  C1x C    22.0804  -23.3941
+            14  C1x C    20.8844  -21.2821
+            15  C1y C    20.8844  -22.6939
+            16  O1a O    19.6593  -23.4174
+            17  O1a O    24.5309  -24.7967
+            18  C1x C    29.4349  -20.5636
+            19  C1x C    29.3881  -19.2335
+            20  C1y C    28.1873  -18.5135
+            21  C1a C    26.9635  -17.7934
+            22  C1c C    28.1873  -17.1135
+            23  C1b C    29.4314  -16.3958
+            24  C1a C    26.9780  -16.4150
+            25  C1b C    30.6132  -17.0787
+            26  C6a C    31.8078  -16.3894
+            27  O6a O    32.9951  -17.0754
+            28  O6a O    31.8084  -14.9803
+BOND        31
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     4   8 1
+            8     5   9 1
+            9     7  10 1
+            10    7  11 1
+            11    7  12 1 #Up
+            12   10  13 1
+            13   11  14 1
+            14   13  15 1
+            15   15  16 1 #Down
+            16    6   8 1
+            17    9  10 1
+            18   14  15 1
+            19    9  17 1 #Up
+            20    1  18 1
+            21   18  19 1
+            22   19  20 1
+            23    3  20 1
+            24    3  21 1 #Up
+            25   20  22 1
+            26   22  23 1
+            27   22  24 1 #Down
+            28   23  25 1
+            29   25  26 1
+            30   26  27 1
+            31   26  28 2
+///
+
+ENTRY       C15559                      Compound
+NAME        Glycochenodeoxycholate 7-sulfate
+FORMULA     C26H43NO8S
+EXACT_MASS  529.2709
+MOL_WEIGHT  529.69
+REACTION    R07289
+ENZYME      2.8.2.34
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST05 Steroid conjugates
+               ST0503 Glycine conjugates
+                C15559  Glycochenodeoxycholate 7-sulfate
+DBLINKS     PubChem: 17396551
+            ChEBI: 52031
+            LIPIDMAPS: LMST05030005
+            J-GLOBAL: J2.795.006J
+ATOM        36
+            1   C1y C    24.7095  -20.6970
+            2   C1y C    23.5118  -21.3806
+            3   C1z C    24.7270  -19.3300
+            4   C1x C    27.0813  -20.7262
+            5   C1y C    22.3318  -20.6796
+            6   C1y C    23.5118  -22.7534
+            7   C1y C    25.9188  -18.6523
+            8   C1x C    23.5351  -18.6289
+            9   C1a C    24.7154  -17.9513
+            10  C1x C    27.0872  -19.3593
+            11  C1z C    21.1342  -21.3689
+            12  C1x C    22.3435  -19.3066
+            13  C1x C    22.3202  -23.4311
+            14  O2a O    24.7094  -23.4428
+            15  C1c C    25.9304  -17.2794
+            16  C1y C    21.1283  -22.7417
+            17  C1x C    19.9483  -20.6736
+            18  C1a C    21.1225  -19.9902
+            19  C1b C    27.1280  -16.6075
+            20  C1a C    24.7504  -16.5784
+            21  C1x C    19.9483  -23.4311
+            22  C1x C    18.7507  -21.3689
+            23  C1b C    28.3256  -17.2852
+            24  C1y C    18.7507  -22.7417
+            25  C5a C    29.5116  -16.6018
+            26  O1a O    17.5646  -23.4311
+            27  N1b N    30.7033  -17.2852
+            28  O5a O    29.5116  -15.2231
+            29  C1b C    31.8892  -16.6018
+            30  C6a C    33.0810  -17.2852
+            31  O6a O    34.2670  -16.5958
+            32  O6a O    33.0810  -18.6641
+            33  S4a S    26.1094  -23.4428
+            34  O1d O    27.5094  -23.4428
+            35  O1d O    26.1094  -24.8428
+            36  O1d O    26.1094  -22.0428
+BOND        39
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    6  14 1 #Down
+            14    7  15 1
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   15  19 1
+            19   15  20 1 #Down
+            20   16  21 1
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   25  28 2
+            28   27  29 1
+            29   29  30 1
+            30   30  31 1
+            31   30  32 2
+            32    7  10 1
+            33    8  12 1
+            34   13  16 1
+            35   22  24 1
+            36   14  33 1
+            37   33  34 2
+            38   33  35 1
+            39   33  36 2
+///
+
+ENTRY       C15569                      Compound
+NAME        12alpha-Hydroxy-3-oxochola-4,6-dienoate
+FORMULA     C24H34O4
+EXACT_MASS  386.2457
+MOL_WEIGHT  386.52
+REACTION    R07318
+ENZYME      4.2.1.106
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C15569  12alpha-Hydroxy-3-oxochola-4,6-dienoate
+DBLINKS     PubChem: 17396561
+            ChEBI: 49270
+            LIPIDMAPS: LMST04010245
+            J-GLOBAL: J745.619K
+ATOM        28
+            1   C1y C    25.4100  -21.9800
+            2   C1y C    26.6000  -21.3500
+            3   C1y C    24.2200  -21.3500
+            4   C2x C    25.4100  -23.3800
+            5   C1z C    26.6000  -19.9500
+            6   C1x C    28.9800  -21.3500
+            7   C1z C    22.9600  -21.9800
+            8   C1x C    24.2200  -19.9500
+            9   C2x C    24.1500  -24.0800
+            10  C1y C    27.7900  -19.3200
+            11  C1y C    25.4100  -19.2500
+            12  C1a C    26.6000  -18.8300
+            13  C1x C    28.9800  -20.0200
+            14  C2y C    22.9600  -23.3800
+            15  C1x C    21.7700  -21.2800
+            16  C1a C    22.9600  -20.5800
+            17  C1c C    27.7900  -17.9200
+            18  O1a O    25.3400  -18.3400
+            19  C2x C    21.7700  -24.0800
+            20  C1x C    20.5800  -21.9800
+            21  C1b C    28.9800  -17.2200
+            22  C1a C    26.8800  -16.4500
+            23  C5x C    20.5800  -23.3800
+            24  C1b C    30.1700  -17.9900
+            25  C6a C    31.4300  -17.2900
+            26  O6a O    32.5500  -17.9900
+            27  O6a O    31.4300  -16.0300
+            28  O5x O    19.3200  -24.0800
+BOND        31
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 2
+            9     5  10 1
+            10    5  11 1
+            11    5  12 1 #Up
+            12    6  13 1
+            13    7  14 1
+            14    7  15 1
+            15    7  16 1 #Up
+            16   10  17 1
+            17   11  18 1 #Down
+            18   14  19 2
+            19   15  20 1
+            20   17  21 1
+            21   17  22 1 #Down
+            22   19  23 1
+            23   21  24 1
+            24   24  25 1
+            25   25  26 1
+            26   25  27 2
+            27    8  11 1
+            28    9  14 1
+            29   10  13 1
+            30   20  23 1
+            31   23  28 2
+///
+
+ENTRY       C15633                      Compound
+NAME        5,6-24(S),25-Diepoxycholesterol;
+            (24S,25)-Epoxycholesterol alpha-epoxide;
+            5alpha,6alpha-24S,25-Diepoxycholesterol
+FORMULA     C27H44O3
+EXACT_MASS  416.3290
+MOL_WEIGHT  416.64
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST01 Sterols
+               ST0101 Cholesterol and derivatives
+                C15633  5,6-24(S),25-Diepoxycholesterol
+DBLINKS     CAS: 220066-69-3
+            PubChem: 17396623
+            ChEBI: 79996
+            LIPIDMAPS: LMST01010384
+            J-GLOBAL: J1.010.716D
+ATOM        30
+            1   C1y C    24.2590   -9.8205
+            2   C1z C    25.4492  -10.5076
+            3   C1a C    26.6393   -9.8205
+            4   C1a C    25.4492  -11.8818
+            5   C1x C    13.5481  -14.6302
+            6   C1y C    13.5481  -16.0044
+            7   C1x C    14.7382  -16.6915
+            8   C1z C    15.9284  -16.0044
+            9   C1z C    15.9284  -14.6302
+            10  C1x C    14.7382  -13.9431
+            11  C1y C    17.1184  -16.6915
+            12  C1x C    18.3085  -16.0044
+            13  C1y C    18.3085  -14.6302
+            14  C1y C    17.1184  -13.9431
+            15  C1y C    19.4987  -13.9431
+            16  C1z C    19.4987  -12.5689
+            17  C1x C    18.3085  -11.8818
+            18  C1x C    17.1184  -12.5689
+            19  C1x C    21.8788  -13.9431
+            20  C1x C    21.8788  -12.5689
+            21  C1y C    20.6887  -11.8818
+            22  C1c C    20.6887  -10.5076
+            23  C1b C    21.8788   -9.8205
+            24  C1b C    23.0690  -10.5076
+            25  O1a O    12.3581  -16.6915
+            26  C1a C    15.9284  -13.2560
+            27  C1a C    19.4987  -11.1947
+            28  C1a C    19.4987   -9.8205
+            29  O2x O    15.9284  -17.3786
+            30  O2x O    25.4491   -9.1334
+BOND        35
+            1     1   2 1
+            2     2   3 1
+            3     2   4 1
+            4     5   6 1
+            5     6   7 1
+            6     7   8 1
+            7     8   9 1
+            8     9  10 1
+            9     5  10 1
+            10    8  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+            14    9  14 1
+            15   13  15 1
+            16   15  16 1
+            17   16  17 1
+            18   17  18 1
+            19   14  18 1
+            20   19  20 1
+            21   20  21 1
+            22   16  21 1
+            23   21  22 1
+            24   22  23 1
+            25   23  24 1
+            26    6  25 1 #Up
+            27    9  26 1 #Up
+            28   16  27 1 #Up
+            29   22  28 1 #Down
+            30   15  19 1
+            31    8  29 1 #Down
+            32   11  29 1 #Down
+            33    1  24 1 #Down
+            34    1  30 1
+            35    2  30 1
+///
+
+ENTRY       C15792                      Compound
+NAME        3-Dehydroteasterone
+FORMULA     C28H46O4
+EXACT_MASS  446.3396
+MOL_WEIGHT  446.66
+REACTION    R07444 R07457 R07469
+PATHWAY     map00905  Brassinosteroid biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+ENZYME      1.14.14.179     1.14.-.-
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST01 Sterols
+               ST0103 Ergosterols and C24-methyl derivatives
+                C15792  3-Dehydroteasterone
+DBLINKS     PubChem: 47205117
+            ChEBI: 20000
+            LIPIDMAPS: LMST01030131
+            J-GLOBAL: J590.103K
+ATOM        32
+            1   C1x C    25.8692  -22.9193
+            2   C5x C    25.8692  -24.2909
+            3   C1x C    27.0571  -24.9765
+            4   C1y C    28.2450  -24.2909
+            5   C1z C    28.2450  -22.9193
+            6   C1x C    27.0571  -22.2336
+            7   C5x C    29.4326  -24.9765
+            8   C1x C    30.6202  -24.2909
+            9   C1y C    30.6202  -22.9193
+            10  C1y C    29.4326  -22.2336
+            11  C1y C    31.8082  -22.2336
+            12  C1z C    31.8082  -20.8621
+            13  C1x C    30.6202  -20.1761
+            14  C1x C    29.4326  -20.8621
+            15  C1x C    34.1838  -22.2336
+            16  C1x C    34.1838  -20.8621
+            17  C1y C    32.9959  -20.1761
+            18  C1c C    32.9959  -18.8049
+            19  C1c C    34.1877  -18.1170
+            20  C1c C    35.3606  -18.7944
+            21  C1c C    36.5228  -18.1234
+            22  C1c C    37.6903  -18.7978
+            23  C1a C    37.6903  -20.1758
+            24  C1a C    28.2450  -21.5477
+            25  C1a C    31.8082  -19.4910
+            26  C1a C    31.8082  -18.1192
+            27  C1a C    38.8779  -18.1119
+            28  O5x O    29.4330  -26.3969
+            29  O1a O    34.1879  -16.7074
+            30  O1a O    35.3610  -20.2206
+            31  O5x O    24.6813  -24.9773
+            32  C1a C    36.5228  -16.7234
+BOND        35
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   15  16 1
+            18   16  17 1
+            19   12  17 1
+            20   11  15 1
+            21   17  18 1
+            22   18  19 1
+            23   19  20 1
+            24   20  21 1
+            25   21  22 1
+            26   22  23 1
+            27    5  24 1 #Up
+            28   12  25 1 #Up
+            29   18  26 1 #Down
+            30   22  27 1
+            31    7  28 2
+            32   19  29 1 #Up
+            33   20  30 1 #Up
+            34    2  31 2
+            35   21  32 1 #Up
+///
+
+ENTRY       C15794                      Compound
+NAME        Castasterone;
+            (2alpha,3alpha,5alpha,22R,23R,24S)-2,3,22,23-Tetrahydroxyergostan-6-one
+FORMULA     C28H48O5
+EXACT_MASS  464.3502
+MOL_WEIGHT  464.68
+REACTION    R07451 R07470 R07471 R09761 R10669
+PATHWAY     map00905  Brassinosteroid biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+MODULE      M00371  Castasterone biosynthesis, plants, campesterol => castasterone
+ENZYME      1.14.14.179     1.14.14.180     1.14.-.-
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST01 Sterols
+               ST0103 Ergosterols and C24-methyl derivatives
+                C15794  Castasterone
+            Phytochemical compounds [BR:br08003]
+             Terpenoids
+              Steroids
+               Ergostane
+                C15794  Castasterone
+            Secondary metabolites in pathway maps [br08011.html]
+             Biosynthetic pathways and modules of secondary metabolites
+              C15794
+DBLINKS     CAS: 80736-41-0
+            PubChem: 47205119
+            ChEBI: 23051
+            LIPIDMAPS: LMST01030129
+            KNApSAcK: C00000181
+            J-GLOBAL: J146.604F
+ATOM        33
+            1   C1y C    18.0205  -20.8126
+            2   C1y C    18.0205  -22.1837
+            3   C1x C    19.2082  -22.8689
+            4   C1y C    20.3957  -22.1837
+            5   C1z C    20.3957  -20.8126
+            6   C1x C    19.2082  -20.1271
+            7   C5x C    21.5827  -22.8689
+            8   C1x C    22.7699  -22.1837
+            9   C1y C    22.7699  -20.8126
+            10  C1y C    21.5827  -20.1271
+            11  C1y C    23.9576  -20.1271
+            12  C1z C    23.9576  -18.7561
+            13  C1x C    22.7699  -18.0703
+            14  C1x C    21.5827  -18.7561
+            15  C1x C    26.3322  -20.1271
+            16  C1x C    26.3322  -18.7561
+            17  C1y C    25.1448  -18.0703
+            18  C1c C    25.1448  -16.6996
+            19  C1c C    26.3361  -16.0119
+            20  C1c C    27.5087  -16.6891
+            21  C1c C    28.6705  -16.0183
+            22  C1c C    29.8377  -16.6925
+            23  C1a C    29.8377  -18.0700
+            24  C1a C    20.3957  -19.4415
+            25  C1a C    23.9576  -17.3854
+            26  C1a C    23.9576  -16.0141
+            27  C1a C    31.0248  -16.0068
+            28  O5x O    21.5831  -24.2890
+            29  O1a O    26.3363  -14.6027
+            30  O1a O    27.5091  -18.1147
+            31  O1a O    16.8322  -22.8700
+            32  O1a O    16.8199  -20.1189
+            33  C1a C    28.6705  -14.6190
+BOND        36
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   15  16 1
+            18   16  17 1
+            19   12  17 1
+            20   11  15 1
+            21   17  18 1
+            22   18  19 1
+            23   19  20 1
+            24   20  21 1
+            25   21  22 1
+            26   22  23 1
+            27    5  24 1 #Up
+            28   12  25 1 #Up
+            29   18  26 1 #Down
+            30   22  27 1
+            31    7  28 2
+            32   19  29 1 #Up
+            33   20  30 1 #Up
+            34    2  31 1 #Down
+            35    1  32 1 #Down
+            36   21  33 1 #Up
+///
+
+ENTRY       C15987                      Compound
+NAME        4-Methylaminobutyrate;
+            gamma-N-Methylaminobutyrate
+FORMULA     C5H11NO2
+EXACT_MASS  117.0790
+MOL_WEIGHT  117.15
+REACTION    R07515 R10101 R10102
+PATHWAY     map00760  Nicotinate and nicotinamide metabolism
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+MODULE      M00810  Nicotine degradation, pyridine pathway, nicotine => 2,6-dihydroxypyridine/succinate semialdehyde
+ENZYME      1.5.3.19        1.5.3.21        3.7.1.19
+DBLINKS     CAS: 1119-48-8
+            PubChem: 47205300
+            ChEBI: 37755
+            J-GLOBAL: J231.911J
+ATOM        8
+            1   O6a O    39.2273  -22.1678
+            2   C6a C    38.0377  -21.4783
+            3   C1b C    36.8420  -22.1678
+            4   O6a O    38.0377  -20.3205
+            5   C1b C    35.6525  -21.4783
+            6   C1b C    34.4629  -22.2395
+            7   N1b N    32.8412  -21.4150
+            8   C1a C    31.6455  -22.1047
+BOND        7
+            1     1   2 1
+            2     2   3 1
+            3     2   4 2
+            4     3   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+///

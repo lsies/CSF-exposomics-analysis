@@ -1,0 +1,6 @@
+{
+  "url": "https://sparql.rhea-db.org/sparql?query=PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+PREFIX+owl%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E+SELECT+DISTINCT+%3Fchebi+%3Fmajor+WHERE+%7B+%7B+%3Fchebi+%3Chttps%3A%2F%2Fw3id.org%2Fchemrof%2Fhas_major_microspecies_at_pH7_3%3E+%3Fmajor+%7D+UNION+%7B+%3Fchebi+rdfs%3AsubClassOf+%3Frestriction+.+%3Frestriction+owl%3AonProperty+%3Chttps%3A%2F%2Fw3id.org%2Fchemrof%2Fhas_major_microspecies_at_pH7_3%3E+%3B+owl%3AsomeValuesFrom+%3Fmajor+%7D+%7D&format=json",
+  "payload": null,
+  "retrieved_utc": "2026-11-13T06:20:20.807687+00:00",
+  "sha256": "7686a0f0e7e47b4d4d485e6e2edacabc280096d34c8a72fb51bd702e042e490a"
+}

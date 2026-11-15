@@ -1,0 +1,577 @@
+ENTRY       C07588                      Compound
+NAME        Salicyluric acid;
+            Salicylurate;
+            N-(2-Hydroxybenzoyl)-glycine
+FORMULA     C9H9NO4
+EXACT_MASS  195.0532
+MOL_WEIGHT  195.17
+DBLINKS     CAS: 487-54-7
+            PubChem: 9790
+            ChEBI: 9008
+            J-GLOBAL: J54.010B
+ATOM        14
+            1   C8y C    26.7702  -20.9405
+            2   C5a C    26.7118  -19.5480
+            3   C8y C    27.9822  -21.6339
+            4   C8x C    25.5641  -21.6513
+            5   N1b N    27.9937  -18.8605
+            6   O5a O    25.5757  -18.8372
+            7   C8x C    27.9996  -23.0381
+            8   O1a O    29.1881  -20.9288
+            9   C8x C    25.5641  -23.0555
+            10  C1b C    28.0053  -17.4621
+            11  C8x C    26.7878  -23.7489
+            12  C6a C    29.2231  -16.7629
+            13  O6a O    30.4292  -17.4738
+            14  O6a O    29.1648  -15.3645
+BOND        14
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     2   6 2
+            6     3   7 2
+            7     3   8 1
+            8     4   9 1
+            9     5  10 1
+            10    7  11 1
+            11   10  12 1
+            12   12  13 1
+            13   12  14 2
+            14    9  11 2
+///
+
+ENTRY       C08150                      Compound
+NAME        Medroxyprogesterone acetate;
+            6-alpha-Methyl-17-alpha-acetoxyprogesterone;
+            6-alpha-Methyl-17-alpha-hydroxyprogesterone acetate
+FORMULA     C24H34O4
+EXACT_MASS  386.2457
+MOL_WEIGHT  386.52
+REMARK      Same as: D00951
+PATHWAY     map05207  Chemical carcinogenesis - receptor activation
+NETWORK     nt06210  ERK signaling (cancer)
+            nt06214  PI3K signaling (cancer)
+            nt06227  Nuclear receptor signaling (cancer)
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00951)]
+             G GENITO URINARY SYSTEM AND SEX HORMONES
+              G03 SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+               G03A HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE
+                G03AC Progestogens
+                 G03AC06 Medroxyprogesterone
+                  D00951  Medroxyprogesterone acetate (JP19/USP) &lt;JP/US&gt;
+               G03D PROGESTOGENS
+                G03DA Pregnen (4) derivatives
+                 G03DA02 Medroxyprogesterone
+                  D00951  Medroxyprogesterone acetate (JP19/USP) &lt;JP/US&gt;
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L02 ENDOCRINE THERAPY
+               L02A HORMONES AND RELATED AGENTS
+                L02AB Progestogens
+                 L02AB02 Medroxyprogesterone
+                  D00951  Medroxyprogesterone acetate (JP19/USP) &lt;JP/US&gt;
+            USP drug classification [BR:br08302(D00951)]
+             Contraceptives
+              Contraceptives, Other
+               Medroxyprogesterone
+                D00951  Medroxyprogesterone acetate (JP19/USP)
+             Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)
+              Progestins
+               Medroxyprogesterone
+                D00951  Medroxyprogesterone acetate (JP19/USP)
+            Therapeutic category of drugs in Japan [BR:br08301(D00951)]
+             2  Agents affecting individual organs
+              24  Hormones
+               247  Estrogen and progesterone preparations
+                2478  Synthetic progestins
+                 D00951  Medroxyprogesterone acetate (JP19/USP)
+            Drug groups [BR:br08330(D00951)]
+             Hormonal agent
+              DG02004  Progesterone
+               DG00458  Medroxyprogesterone
+                D00951  Medroxyprogesterone acetate
+              DG01666  Progesterone receptor agonist
+               DG00458  Medroxyprogesterone
+                D00951  Medroxyprogesterone acetate
+            Target-based classification of drugs [BR:br08310(D00951)]
+             Nuclear receptors
+              Estrogen like receptors
+               3-Ketosteroid receptor
+                NR3C3 (PGR)
+                 D00951  Medroxyprogesterone acetate (JP19/USP) &lt;JP/US&gt;
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00951)]
+             Chemicals
+              D00951  Medroxyprogesterone acetate
+DBLINKS     CAS: 71-58-9
+            PubChem: 10350
+            ChEBI: 6716
+            J-GLOBAL: J5.247G
+ATOM        28
+            1   C1z C    28.1133  -17.0474
+            2   C1z C    26.9252  -17.7172
+            3   C1x C    29.2900  -17.7348
+            4   O7a O    29.2900  -16.3485
+            5   C5a C    28.1718  -15.6728
+            6   C1y C    26.9192  -19.0861
+            7   C1x C    25.7544  -17.0299
+            8   C1a C    26.9078  -16.3485
+            9   C1x C    29.2843  -19.0978
+            10  C7a C    30.4782  -17.0299
+            11  C1a C    26.9019  -14.9796
+            12  O5a O    29.3543  -14.9738
+            13  C1y C    25.7311  -19.7675
+            14  C1x C    24.5603  -17.6998
+            15  C1a C    31.6606  -16.3426
+            16  O6a O    30.4724  -18.4045
+            17  C1y C    24.5487  -19.0685
+            18  C1x C    25.7311  -21.1364
+            19  C1z C    23.3603  -19.7559
+            20  C1y C    24.5370  -21.8238
+            21  C2y C    23.3546  -21.1248
+            22  C1x C    22.1781  -19.0628
+            23  C1a C    23.3488  -18.3812
+            24  C1a C    24.5253  -23.1868
+            25  C2x C    22.1781  -21.8178
+            26  C1x C    20.9840  -19.7559
+            27  C5x C    20.9840  -21.1248
+            28  O5x O    19.7957  -21.8062
+BOND        31
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     1   5 1 #Up
+            5     2   6 1
+            6     2   7 1
+            7     2   8 1 #Up
+            8     3   9 1
+            9     4  10 1
+            10    5  11 1
+            11    5  12 2
+            12    6  13 1
+            13    7  14 1
+            14   10  15 1
+            15   10  16 2
+            16   13  17 1
+            17   13  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   19  22 1
+            22   19  23 1 #Up
+            23   20  24 1 #Down
+            24   21  25 2
+            25   22  26 1
+            26   25  27 1
+            27   27  28 2
+            28    6   9 1
+            29   14  17 1
+            30   20  21 1
+            31   26  27 1
+///
+
+ENTRY       C08262                      Compound
+NAME        3-Methylbutanoic acid;
+            Isovaleric acid;
+            Isovalerate
+FORMULA     C5H10O2
+EXACT_MASS  102.0681
+MOL_WEIGHT  102.13
+REACTION    R08411 R08412
+PATHWAY     map01065  Biosynthesis of alkaloids derived from histidine and purine
+            map01110  Biosynthesis of secondary metabolites
+            map04974  Protein digestion and absorption
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0102 Branched fatty acids
+                C08262  3-Methylbutanoic acid
+DBLINKS     CAS: 503-74-2
+            PubChem: 10461
+            ChEBI: 28484
+            LIPIDMAPS: LMFA01020181
+            KNApSAcK: C00001189 C00033067
+            PDB-CCD: IVA
+            J-GLOBAL: J2.605K
+ATOM        7
+            1   C1c C    27.8817  -18.0895
+            2   C1b C    26.6700  -18.7919
+            3   C1a C    29.0933  -18.7919
+            4   C1a C    27.8817  -16.6906
+            5   C6a C    25.4583  -18.0895
+            6   O6a O    24.2467  -18.7919
+            7   O6a O    25.4583  -16.6906
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     5   6 1
+            6     5   7 2
+///
+
+ENTRY       C08267                      Compound
+NAME        L-Azetidine 2-carboxylic acid;
+            Azetidyl-2-carboxylic acid;
+            (S)-(-)-Azetidine-2-carboxylic acid
+FORMULA     C4H7NO2
+EXACT_MASS  101.0477
+MOL_WEIGHT  101.10
+DBLINKS     CAS: 2133-34-8
+            PubChem: 10466
+            ChEBI: 6198
+            KNApSAcK: C00001343
+            PDB-CCD: 02A
+            J-GLOBAL: J35.234I
+ATOM        7
+            1   C1y C    24.0800  -18.0600
+            2   C1x C    22.6800  -18.0600
+            3   N1x N    24.0800  -19.4600
+            4   C6a C    25.2700  -17.3600
+            5   C1x C    22.6800  -19.4600
+            6   O6a O    26.5300  -18.0600
+            7   O6a O    25.2700  -15.9600
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     4   6 1
+            6     4   7 2
+            7     3   5 1
+///
+
+ENTRY       C08277                      Compound
+NAME        Sebacic acid;
+            Decanedioic acid
+FORMULA     C10H18O4
+EXACT_MASS  202.1205
+MOL_WEIGHT  202.25
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C08277  Decanedioic acid
+DBLINKS     CAS: 111-20-6
+            PubChem: 10475
+            ChEBI: 41865
+            LIPIDMAPS: LMFA01170006
+            KNApSAcK: C00001202
+            PDB-CCD: DEC
+            J-GLOBAL: J10.109E
+ATOM        14
+            1   C6a C    18.3101  -16.3566
+            2   C1b C    19.5352  -17.0334
+            3   O6a O    17.1082  -17.0508
+            4   O6a O    18.3101  -14.9390
+            5   C1b C    20.7486  -16.3274
+            6   C1b C    21.9856  -17.0041
+            7   C1b C    23.1990  -16.3216
+            8   C1b C    24.4126  -16.9926
+            9   C1b C    25.6087  -16.3042
+            10  C1b C    26.8571  -16.9926
+            11  C1b C    28.0531  -16.2749
+            12  C6a C    29.2842  -16.9810
+            13  O6a O    30.4859  -16.2749
+            14  O6a O    29.2258  -18.3693
+BOND        13
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   12  14 2
+///
+
+ENTRY       C08278                      Compound
+NAME        Suberic acid;
+            Cork acid;
+            1,8-Octanedioic acid;
+            Octanedioic acid;
+            1,6-Hexanedicarboxylic acid
+FORMULA     C8H14O4
+EXACT_MASS  174.0892
+MOL_WEIGHT  174.19
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Dicarboxylic acids
+                C08278  Suberate
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C08278  Octanedioic acid
+DBLINKS     CAS: 505-48-6
+            PubChem: 10476
+            ChEBI: 9300
+            LIPIDMAPS: LMFA01170001
+            KNApSAcK: C00001204
+            PDB-CCD: OCE
+            J-GLOBAL: J6.225A
+ATOM        12
+            1   C6a C    19.5522  -16.2404
+            2   C1b C    20.7700  -16.9396
+            3   O6a O    18.3403  -16.9396
+            4   O6a O    19.5522  -14.8419
+            5   C1b C    21.9820  -16.2404
+            6   C1b C    23.1940  -16.9396
+            7   C1b C    24.4060  -16.2404
+            8   C1b C    25.6180  -16.9396
+            9   C1b C    26.8300  -16.2404
+            10  C6a C    28.0478  -16.9396
+            11  O6a O    29.2597  -16.2404
+            12  O6a O    28.0478  -18.3381
+BOND        11
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   10  12 2
+///
+
+ENTRY       C08318                      Compound
+NAME        (9Z,12Z)-(8R)-Hydroxyoctadeca-9,12-dienoic acid;
+            Laetisaric acid;
+            8-Hydroxylinoleic acid
+FORMULA     C18H32O3
+EXACT_MASS  296.2351
+MOL_WEIGHT  296.44
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C08318  (9Z,12Z)-(8R)-Hydroxyoctadeca-9,12-dienoic acid
+              FA02 Octadecanoids
+               FA0200 Other Octadecanoids
+                C08318  (9Z,12Z)-(8R)-Hydroxyoctadeca-9,12-dienoic acid
+DBLINKS     CAS: 138231-04-6
+            PubChem: 10516
+            LIPIDMAPS: LMFA02000287
+            KNApSAcK: C00000398
+            J-GLOBAL: J646.348G
+ATOM        21
+            1   C1b C    24.0569  -17.3792
+            2   C1c C    25.2676  -18.0781
+            3   C1b C    22.8401  -18.0781
+            4   C2b C    26.4844  -17.3792
+            5   O1a O    25.2676  -19.4697
+            6   C1b C    21.6294  -17.3792
+            7   C2b C    27.9446  -17.3792
+            8   C1b C    20.4126  -18.0781
+            9   C1b C    29.1553  -18.0781
+            10  C1b C    19.2021  -17.3792
+            11  C2b C    30.3658  -17.3792
+            12  C1b C    17.9915  -18.0781
+            13  C2b C    31.7449  -17.3730
+            14  C6a C    16.7747  -17.3792
+            15  C1b C    32.9556  -18.0719
+            16  O6a O    15.5640  -18.0781
+            17  O6a O    16.7747  -15.9814
+            18  C1b C    34.1599  -17.3730
+            19  C1b C    35.3643  -18.0719
+            20  C1b C    36.5749  -17.3730
+            21  C1a C    37.7793  -18.0719
+BOND        20
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1 #Down
+            5     3   6 1
+            6     4   7 2
+            7     6   8 1
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 2
+            13   12  14 1
+            14   13  15 1
+            15   14  16 1
+            16   14  17 2
+            17   15  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+///
+
+ENTRY       C08323                      Compound
+NAME        (15Z)-Tetracosenoic acid;
+            Nervonic acid;
+            (Z)-15-Tetracosenoic acid
+FORMULA     C24H46O2
+EXACT_MASS  366.3498
+MOL_WEIGHT  366.62
+REACTION    R08188
+PATHWAY     map01040  Biosynthesis of unsaturated fatty acids
+ENZYME      3.1.2.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Fatty acids
+               Unsaturated fatty acids
+                C08323  Nervonic acid (24:1;15)
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0103 Unsaturated fatty acids
+                Monounsaturated fatty acids
+                 C08323  (Z)-Tetracos-15-enoic acid
+DBLINKS     CAS: 506-37-6
+            PubChem: 10521
+            ChEBI: 44247
+            LIPIDMAPS: LMFA01030092
+            KNApSAcK: C00001230
+            PDB-CCD: NER
+            J-GLOBAL: J11.357C
+ATOM        26
+            1   C1b C    21.5791  -21.6451
+            2   C1b C    22.7937  -20.9391
+            3   C1b C    20.3807  -20.9391
+            4   C1b C    24.0085  -21.6451
+            5   C1b C    19.1662  -21.6451
+            6   C1b C    25.2150  -20.9391
+            7   C1b C    17.9513  -20.9391
+            8   C1b C    26.4296  -21.6451
+            9   C1b C    16.7449  -21.6451
+            10  C1b C    27.6442  -20.9391
+            11  C1b C    15.5303  -20.9391
+            12  C1b C    28.8590  -21.6451
+            13  C1b C    14.3155  -21.6451
+            14  C2b C    30.0655  -20.9391
+            15  C6a C    13.1009  -20.9391
+            16  C2b C    31.4279  -20.9391
+            17  O6a O    11.9027  -21.6451
+            18  O6a O    13.1009  -19.5439
+            19  C1b C    32.6344  -21.6451
+            20  C1b C    33.8408  -20.9391
+            21  C1b C    35.0554  -21.6451
+            22  C1b C    36.2702  -20.9391
+            23  C1b C    37.4848  -21.6451
+            24  C1b C    38.6913  -20.9391
+            25  C1b C    39.9061  -21.6451
+            26  C1a C    41.1207  -20.9391
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   14  16 2
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   22  23 1
+            23   23  24 1
+            24   24  25 1
+            25   25  26 1
+///
+
+ENTRY       C08486                      Compound
+NAME        Ethyl (E,Z)-decadienoate;
+            (2E,4Z)-2,4-Decadienoic acid ethyl ester;
+            Ethyl trans-2,cis-4-decadienoate
+FORMULA     C12H20O2
+EXACT_MASS  196.1463
+MOL_WEIGHT  196.29
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0710 Short fatty esters
+                C08486  Ethyl (E,Z)-decadienoate
+DBLINKS     CAS: 3025-30-7
+            PubChem: 10679
+            ChEBI: 4896
+            LIPIDMAPS: LMFA07010480
+            KNApSAcK: C00001309
+            J-GLOBAL: J22.611D
+ATOM        14
+            1   C2b C    25.5026  -20.6210
+            2   C2b C    26.7163  -19.9150
+            3   C7a C    24.2887  -19.9150
+            4   C2b C    27.9359  -20.6210
+            5   O7a O    23.0690  -20.6210
+            6   O6a O    24.2887  -18.5144
+            7   C2b C    29.2431  -20.6736
+            8   C1b C    21.8553  -19.9150
+            9   C1b C    30.4685  -19.8974
+            10  C1a C    20.6414  -20.6210
+            11  C1b C    31.6824  -20.6036
+            12  C1b C    32.9078  -19.8974
+            13  C1b C    34.1334  -20.6036
+            14  C1a C    35.3529  -19.8974
+BOND        13
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 2
+            6     4   7 2
+            7     5   8 1
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+///
+
+ENTRY       C08489                      Compound
+NAME        (Z)-3,5-Hexadienyl butyrate
+FORMULA     C10H16O2
+EXACT_MASS  168.1150
+MOL_WEIGHT  168.23
+DBLINKS     CAS: 69925-34-4
+            PubChem: 10682
+            ChEBI: 453
+            KNApSAcK: C00001312
+            J-GLOBAL: J2.766.054A
+ATOM        12
+            1   C7a C    25.4402  -19.8679
+            2   O7a O    26.6620  -20.5694
+            3   C1b C    24.2302  -20.5694
+            4   O6a O    25.4402  -18.4590
+            5   C1b C    27.8661  -19.8620
+            6   C1b C    23.0084  -19.8679
+            7   C1b C    29.0762  -20.5518
+            8   C1a C    21.7924  -20.5694
+            9   C2b C    30.2803  -19.8503
+            10  C2b C    31.6833  -19.8503
+            11  C2b C    32.8876  -20.5401
+            12  C2a C    34.2847  -20.5401
+BOND        11
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     3   6 1
+            6     5   7 1
+            7     6   8 1
+            8     7   9 1
+            9     9  10 2
+            10   10  11 1
+            11   11  12 2
+///

@@ -1,0 +1,4483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="evidence" attr.type="string"/>
+<key id="d3" for="node" attr.name="KP_core" attr.type="boolean"/>
+<key id="d2" for="node" attr.name="KEGG" attr.type="string"/>
+<key id="d1" for="node" attr.name="label" attr.type="string"/>
+<key id="d0" for="node" attr.name="node_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="F:NEG_112.0516_43.4">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_112.0516_43.4</data>
+</node>
+<node id="C:C00791">
+  <data key="d0">compound</data>
+  <data key="d1">Creatinine</data>
+  <data key="d2">C00791</data>
+</node>
+<node id="R:72183">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72183</data>
+</node>
+<node id="G:SLC47A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC47A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC47A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC47A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:74539">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74539</data>
+</node>
+<node id="G:SLC22A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC22A7">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A7</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_121.0294_325.0">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_121.0294_325.0</data>
+</node>
+<node id="C:C00180">
+  <data key="d0">compound</data>
+  <data key="d1">Benzoate</data>
+  <data key="d2">C00180</data>
+</node>
+<node id="R:10132">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:10132</data>
+</node>
+<node id="G:ACSM1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSM1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACSM2A">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSM2A</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACSM2B">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSM2B</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:11840">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:11840</data>
+</node>
+<node id="G:ALDH1A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH1A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALDH1B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH1B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALDH3A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH3A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALDH3B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH3B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:21660">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:21660</data>
+</node>
+<node id="R:27506">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:27506</data>
+</node>
+<node id="G:CES2">
+  <data key="d0">human_protein</data>
+  <data key="d1">CES2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:58960">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:58960</data>
+</node>
+<node id="G:AOX1">
+  <data key="d0">human_protein</data>
+  <data key="d1">AOX1</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C00539">
+  <data key="d0">compound</data>
+  <data key="d1">Aromatic acid</data>
+  <data key="d2">C00539</data>
+</node>
+<node id="R:18569">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:18569</data>
+</node>
+<node id="F:NEG_130.0509_53.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_130.0509_53.9</data>
+</node>
+<node id="C:C00430">
+  <data key="d0">compound</data>
+  <data key="d1">5-Aminolevulinate</data>
+  <data key="d2">C00430</data>
+</node>
+<node id="R:12921">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:12921</data>
+</node>
+<node id="G:ALAS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALAS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALAS2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALAS2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:24064">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:24064</data>
+</node>
+<node id="G:ALAD">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALAD</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C01157">
+  <data key="d0">compound</data>
+  <data key="d1">Hydroxyproline</data>
+  <data key="d2">C01157</data>
+</node>
+<node id="R:52512">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:52512</data>
+</node>
+<node id="G:PRODH2">
+  <data key="d0">human_protein</data>
+  <data key="d1">PRODH2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:52516">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:52516</data>
+</node>
+<node id="R:84331">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84331</data>
+</node>
+<node id="G:SLC1A4">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC1A4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:84335">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84335</data>
+</node>
+<node id="R:84339">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84339</data>
+</node>
+<node id="F:NEG_137.0244_255.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_137.0244_255.3</data>
+</node>
+<node id="C:C00156">
+  <data key="d0">compound</data>
+  <data key="d1">4-Hydroxybenzoate</data>
+  <data key="d2">C00156</data>
+</node>
+<node id="R:17709">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17709</data>
+</node>
+<node id="G:COQ2">
+  <data key="d0">human_protein</data>
+  <data key="d1">COQ2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:44504">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44504</data>
+</node>
+<node id="R:44564">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44564</data>
+</node>
+<node id="G:UBIAD1">
+  <data key="d0">human_protein</data>
+  <data key="d1">UBIAD1</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_143.1077_327.6">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_143.1077_327.6</data>
+</node>
+<node id="C:CHEBI:86055">
+  <data key="d0">compound</data>
+  <data key="d1">ethyl hexanoate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:54856">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:54856</data>
+</node>
+<node id="G:FMO5">
+  <data key="d0">human_protein</data>
+  <data key="d1">FMO5</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_143.1077_421.5">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_143.1077_421.5</data>
+</node>
+<node id="C:C06423">
+  <data key="d0">compound</data>
+  <data key="d1">Octanoic acid</data>
+  <data key="d2">C06423</data>
+</node>
+<node id="R:30143">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:30143</data>
+</node>
+<node id="G:ACAA2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACAA2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT13">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT13</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT7">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT7</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT8">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT8</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT9">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT9</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:THEM4">
+  <data key="d0">human_protein</data>
+  <data key="d1">THEM4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:33631">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:33631</data>
+</node>
+<node id="G:ACSF2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSF2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACSM3">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSM3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACSM4">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSM4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:40047">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:40047</data>
+</node>
+<node id="G:LIPF">
+  <data key="d0">human_protein</data>
+  <data key="d1">LIPF</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:44100">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44100</data>
+</node>
+<node id="G:ALDH3A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH3A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALDH3B2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH3B2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ALDH7A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ALDH7A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:44328">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44328</data>
+</node>
+<node id="G:ABHD6">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABHD6</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:MGLL">
+  <data key="d0">human_protein</data>
+  <data key="d1">MGLL</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:45092">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:45092</data>
+</node>
+<node id="G:ASAH1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ASAH1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ASAH2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ASAH2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:47864">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:47864</data>
+</node>
+<node id="G:CEL">
+  <data key="d0">human_protein</data>
+  <data key="d1">CEL</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:PNLIPRP2">
+  <data key="d0">human_protein</data>
+  <data key="d1">PNLIPRP2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:48692">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:48692</data>
+</node>
+<node id="R:48696">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:48696</data>
+</node>
+<node id="R:54468">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:54468</data>
+</node>
+<node id="G:ABHD3">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABHD3</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:59904">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:59904</data>
+</node>
+<node id="F:NEG_144.0666_75.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_144.0666_75.3</data>
+</node>
+<node id="C:C04076">
+  <data key="d0">compound</data>
+  <data key="d1">L-2-Aminoadipate 6-semialdehyde</data>
+  <data key="d2">C04076</data>
+</node>
+<node id="R:12308">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:12308</data>
+</node>
+<node id="R:24520">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:24520</data>
+</node>
+<node id="G:AASS">
+  <data key="d0">human_protein</data>
+  <data key="d1">AASS</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:34091">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:34091</data>
+</node>
+<node id="G:PHYKPL">
+  <data key="d0">human_protein</data>
+  <data key="d1">PHYKPL</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C03239">
+  <data key="d0">compound</data>
+  <data key="d1">6-Amino-2-oxohexanoate</data>
+  <data key="d2">C03239</data>
+</node>
+<node id="R:37583">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:37583</data>
+</node>
+<node id="G:DAO">
+  <data key="d0">human_protein</data>
+  <data key="d1">DAO</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_145.0506_206.2">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_145.0506_206.2</data>
+</node>
+<node id="C:C06104">
+  <data key="d0">compound</data>
+  <data key="d1">Adipate</data>
+  <data key="d2">C06104</data>
+</node>
+<node id="R:40583">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:40583</data>
+</node>
+<node id="R:71743">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71743</data>
+</node>
+<node id="G:SLC25A21">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC25A21</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:81711">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:81711</data>
+</node>
+<node id="G:SUGCT">
+  <data key="d0">human_protein</data>
+  <data key="d1">SUGCT</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_146.0247_264.5">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_146.0247_264.5</data>
+</node>
+<node id="C:C11129">
+  <data key="d0">compound</data>
+  <data key="d1">Isatin</data>
+  <data key="d2">C11129</data>
+</node>
+<node id="R:68608">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:68608</data>
+</node>
+<node id="G:DHRS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">DHRS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:DHRS4">
+  <data key="d0">human_protein</data>
+  <data key="d1">DHRS4</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_149.0607_356.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_149.0607_356.3</data>
+</node>
+<node id="C:C05629">
+  <data key="d0">compound</data>
+  <data key="d1">Phenylpropanoate</data>
+  <data key="d2">C05629</data>
+</node>
+<node id="R:88119">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:88119</data>
+</node>
+<node id="F:POS_153.0407_87.0">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_153.0407_87.0</data>
+</node>
+<node id="C:C00385">
+  <data key="d0">compound</data>
+  <data key="d1">Xanthine</data>
+  <data key="d2">C00385</data>
+</node>
+<node id="R:14665">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:14665</data>
+</node>
+<node id="G:GDA">
+  <data key="d0">human_protein</data>
+  <data key="d1">GDA</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:16669">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:16669</data>
+</node>
+<node id="G:XDH">
+  <data key="d0">human_protein</data>
+  <data key="d1">XDH</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:21132">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:21132</data>
+</node>
+<node id="R:24670">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:24670</data>
+</node>
+<node id="F:NEG_159.0663_256.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_159.0663_256.9</data>
+</node>
+<node id="C:C02656">
+  <data key="d0">compound</data>
+  <data key="d1">Pimelate</data>
+  <data key="d2">C02656</data>
+</node>
+<node id="R:71759">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71759</data>
+</node>
+<node id="F:NEG_171.1389_475.4">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_171.1389_475.4</data>
+</node>
+<node id="C:C01571">
+  <data key="d0">compound</data>
+  <data key="d1">Decanoic acid</data>
+  <data key="d2">C01571</data>
+</node>
+<node id="R:33627">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:33627</data>
+</node>
+<node id="G:ACSL6">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACSL6</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:40059">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:40059</data>
+</node>
+<node id="G:ACOT1">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ACOT4">
+  <data key="d0">human_protein</data>
+  <data key="d1">ACOT4</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:OLAH">
+  <data key="d0">human_protein</data>
+  <data key="d1">OLAH</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:44104">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44104</data>
+</node>
+<node id="R:44320">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44320</data>
+</node>
+<node id="G:ABHD12">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABHD12</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:48596">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:48596</data>
+</node>
+<node id="G:ABHD11">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABHD11</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:75283">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75283</data>
+</node>
+<node id="G:CYP4B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">CYP4B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:87475">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:87475</data>
+</node>
+<node id="F:NEG_178.0509_244.8">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_178.0509_244.8</data>
+</node>
+<node id="C:C01586">
+  <data key="d0">compound</data>
+  <data key="d1">Hippurate</data>
+  <data key="d2">C01586</data>
+</node>
+<node id="R:18493">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:18493</data>
+</node>
+<node id="G:GLYAT">
+  <data key="d0">human_protein</data>
+  <data key="d1">GLYAT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:75991">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75991</data>
+</node>
+<node id="G:SLC22A6">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A6</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC22A8">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A8</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_212.0022_290.7">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_212.0022_290.7</data>
+</node>
+<node id="C:CHEBI:43355">
+  <data key="d0">compound</data>
+  <data key="d1">indoxyl sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:61332">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:61332</data>
+</node>
+<node id="G:ABCG2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABCG2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:75987">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75987</data>
+</node>
+<node id="R:82891">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:82891</data>
+</node>
+<node id="G:SLC17A3">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC17A3</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:POS_218.1387_67.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_218.1387_67.3</data>
+</node>
+<node id="C:CHEBI:53210">
+  <data key="d0">compound</data>
+  <data key="d1">O-propanoyl-L-carnitine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:44976">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44976</data>
+</node>
+<node id="G:CRAT">
+  <data key="d0">human_protein</data>
+  <data key="d1">CRAT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:49912">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:49912</data>
+</node>
+<node id="G:SLC25A20">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC25A20</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71295">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71295</data>
+</node>
+<node id="G:SLC6A14">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A14</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:72103">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72103</data>
+</node>
+<node id="G:SLC22A5">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A5</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_239.0923_399.2">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_239.0923_399.2</data>
+</node>
+<node id="C:CHEBI:41254">
+  <data key="d0">compound</data>
+  <data key="d1">2-(2-carboxyethyl)-4-methyl-5-propylfuran-3-carboxylic acid</data>
+  <data key="d2"></data>
+</node>
+<node id="R:75995">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75995</data>
+</node>
+<node id="F:POS_246.1700_214.8">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_246.1700_214.8</data>
+</node>
+<node id="C:CHEBI:70819">
+  <data key="d0">compound</data>
+  <data key="d1">isovaleryl-L-carnitine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:44984">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44984</data>
+</node>
+<node id="F:POS_260.1857_258.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_260.1857_258.9</data>
+</node>
+<node id="C:CHEBI:84834">
+  <data key="d0">compound</data>
+  <data key="d1">O-hexanoyl-L-carnitine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:44972">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:44972</data>
+</node>
+<node id="F:NEG_269.2121_514.2">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_269.2121_514.2</data>
+</node>
+<node id="C:C19614">
+  <data key="d0">compound</data>
+  <data key="d1">16-Oxopalmitate</data>
+  <data key="d2">C19614</data>
+</node>
+<node id="R:60984">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:60984</data>
+</node>
+<node id="G:ADH1B">
+  <data key="d0">human_protein</data>
+  <data key="d1">ADH1B</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ADH1C">
+  <data key="d0">human_protein</data>
+  <data key="d1">ADH1C</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ADH7">
+  <data key="d0">human_protein</data>
+  <data key="d1">ADH7</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:POS_274.2742_369.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_274.2742_369.3</data>
+</node>
+<node id="C:C13915">
+  <data key="d0">compound</data>
+  <data key="d1">Hexadecasphinganine</data>
+  <data key="d2">C13915</data>
+</node>
+<node id="R:43040">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:43040</data>
+</node>
+<node id="G:CERS5">
+  <data key="d0">human_protein</data>
+  <data key="d1">CERS5</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:CERS6">
+  <data key="d0">human_protein</data>
+  <data key="d1">CERS6</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:43044">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:43044</data>
+</node>
+<node id="G:CERS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">CERS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:CERS4">
+  <data key="d0">human_protein</data>
+  <data key="d1">CERS4</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:POS_288.2170_328.0">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_288.2170_328.0</data>
+</node>
+<node id="C:C02838">
+  <data key="d0">compound</data>
+  <data key="d1">L-Octanoylcarnitine</data>
+  <data key="d2">C02838</data>
+</node>
+<node id="R:17177">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17177</data>
+</node>
+<node id="G:CPT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">CPT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:CROT">
+  <data key="d0">human_protein</data>
+  <data key="d1">CROT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:49920">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:49920</data>
+</node>
+<node id="F:POS_298.0969_247.1">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_298.0969_247.1</data>
+</node>
+<node id="C:C00170">
+  <data key="d0">compound</data>
+  <data key="d1">5'-Methylthioadenosine</data>
+  <data key="d2">C00170</data>
+</node>
+<node id="R:11852">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:11852</data>
+</node>
+<node id="G:LACC1">
+  <data key="d0">human_protein</data>
+  <data key="d1">LACC1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:MTAP">
+  <data key="d0">human_protein</data>
+  <data key="d1">MTAP</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:12721">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:12721</data>
+</node>
+<node id="G:SRM">
+  <data key="d0">human_protein</data>
+  <data key="d1">SRM</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:19973">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19973</data>
+</node>
+<node id="G:SMS">
+  <data key="d0">human_protein</data>
+  <data key="d1">SMS</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:36355">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:36355</data>
+</node>
+<node id="G:TYW2">
+  <data key="d0">human_protein</data>
+  <data key="d1">TYW2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:36783">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:36783</data>
+</node>
+<node id="G:DPH1">
+  <data key="d0">human_protein</data>
+  <data key="d1">DPH1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:62432">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:62432</data>
+</node>
+<node id="G:DTWD1">
+  <data key="d0">human_protein</data>
+  <data key="d1">DTWD1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:DTWD2">
+  <data key="d0">human_protein</data>
+  <data key="d1">DTWD2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63292">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63292</data>
+</node>
+<node id="G:TSR3">
+  <data key="d0">human_protein</data>
+  <data key="d1">TSR3</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63296">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63296</data>
+</node>
+<node id="F:POS_303.1956_364.7">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_303.1956_364.7</data>
+</node>
+<node id="C:C05284">
+  <data key="d0">compound</data>
+  <data key="d1">11beta-Hydroxyandrost-4-ene-3,17-dione</data>
+  <data key="d2">C05284</data>
+</node>
+<node id="R:53488">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:53488</data>
+</node>
+<node id="G:HSD17B3">
+  <data key="d0">human_protein</data>
+  <data key="d1">HSD17B3</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:69408">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:69408</data>
+</node>
+<node id="G:HSD11B2">
+  <data key="d0">human_protein</data>
+  <data key="d1">HSD11B2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:84071">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84071</data>
+</node>
+<node id="G:CYP11B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">CYP11B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:86411">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:86411</data>
+</node>
+<node id="G:HSD11B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">HSD11B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:POS_313.1548_267.4">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_313.1548_267.4</data>
+</node>
+<node id="C:CHEBI:72723">
+  <data key="d0">compound</data>
+  <data key="d1">Phe-Phe</data>
+  <data key="d2"></data>
+</node>
+<node id="R:71707">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71707</data>
+</node>
+<node id="G:SLC15A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC15A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:POS_344.2796_413.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_344.2796_413.3</data>
+</node>
+<node id="C:CHEBI:77086">
+  <data key="d0">compound</data>
+  <data key="d1">O-lauroyl-L-carnitine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:40279">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:40279</data>
+</node>
+<node id="F:POS_365.1055_44.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_365.1055_44.9</data>
+</node>
+<node id="C:C01083">
+  <data key="d0">compound</data>
+  <data key="d1">alpha,alpha-Trehalose</data>
+  <data key="d2">C01083</data>
+</node>
+<node id="R:17629">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17629</data>
+</node>
+<node id="G:SLC2A8">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC2A8</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:32675">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:32675</data>
+</node>
+<node id="G:TREH">
+  <data key="d0">human_protein</data>
+  <data key="d1">TREH</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C00185">
+  <data key="d0">compound</data>
+  <data key="d1">Cellobiose</data>
+  <data key="d2">C00185</data>
+</node>
+<node id="R:30679">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:30679</data>
+</node>
+<node id="G:LCT">
+  <data key="d0">human_protein</data>
+  <data key="d1">LCT</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_367.1579_464.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_367.1579_464.3</data>
+</node>
+<node id="C:CHEBI:84094">
+  <data key="d0">compound</data>
+  <data key="d1">testosterone sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:71375">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71375</data>
+</node>
+<node id="G:SLC10A6">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC10A6</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:86827">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:86827</data>
+</node>
+<node id="G:ABCC3">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABCC3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ABCC4">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABCC4</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C04555">
+  <data key="d0">compound</data>
+  <data key="d1">Dehydroepiandrosterone sulfate</data>
+  <data key="d2">C04555</data>
+</node>
+<node id="R:19873">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19873</data>
+</node>
+<node id="G:STS">
+  <data key="d0">human_protein</data>
+  <data key="d1">STS</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:47224">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:47224</data>
+</node>
+<node id="G:CYP3A7">
+  <data key="d0">human_protein</data>
+  <data key="d1">CYP3A7</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:51216">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:51216</data>
+</node>
+<node id="G:SULT1E1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1E1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT2A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT2A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT2B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT2B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:61364">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:61364</data>
+</node>
+<node id="G:ABCC11">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABCC11</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71091">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71091</data>
+</node>
+<node id="R:71839">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71839</data>
+</node>
+<node id="G:SLC22A11">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A11</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC51A">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC51A</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC51B">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC51B</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO1A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO1A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO1B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO1B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO1B3">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO1B3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO1B3-SLCO1B7">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO1B3-SLCO1B7</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO2B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO2B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLCO3A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO3A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:72355">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72355</data>
+</node>
+<node id="G:SLC22A24">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A24</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:72543">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72543</data>
+</node>
+<node id="R:72563">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72563</data>
+</node>
+<node id="G:SLC22A9">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC22A9</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:72567">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72567</data>
+</node>
+<node id="R:72571">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72571</data>
+</node>
+<node id="R:75487">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75487</data>
+</node>
+<node id="G:SLC46A3">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC46A3</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_369.1737_439.8">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_369.1737_439.8</data>
+</node>
+<node id="C:CHEBI:138026">
+  <data key="d0">compound</data>
+  <data key="d1">5alpha-dihydrotestosterone sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:53120">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:53120</data>
+</node>
+<node id="G:AKR1C1">
+  <data key="d0">human_protein</data>
+  <data key="d1">AKR1C1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AKR1C4">
+  <data key="d0">human_protein</data>
+  <data key="d1">AKR1C4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:53136">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:53136</data>
+</node>
+<node id="G:AKR1C2">
+  <data key="d0">human_protein</data>
+  <data key="d1">AKR1C2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71355">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71355</data>
+</node>
+<node id="F:NEG_369.1736_479.2">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_369.1736_479.2</data>
+</node>
+<node id="C:CHEBI:83037">
+  <data key="d0">compound</data>
+  <data key="d1">androsterone sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:60644">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:60644</data>
+</node>
+<node id="R:71351">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71351</data>
+</node>
+<node id="R:86831">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:86831</data>
+</node>
+<node id="F:NEG_409.2358_645.6">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_409.2358_645.6</data>
+</node>
+<node id="C:C04036">
+  <data key="d0">compound</data>
+  <data key="d1">1-Palmitoylglycerol 3-phosphate</data>
+  <data key="d2">C04036</data>
+</node>
+<node id="R:17341">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17341</data>
+</node>
+<node id="G:DHRS7B">
+  <data key="d0">human_protein</data>
+  <data key="d1">DHRS7B</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:33187">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:33187</data>
+</node>
+<node id="G:ABHD5">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABHD5</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AGPAT1">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGPAT1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AGPAT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGPAT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AGPAT3">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGPAT3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AGPAT5">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGPAT5</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GPAT3">
+  <data key="d0">human_protein</data>
+  <data key="d1">GPAT3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:LCLAT1">
+  <data key="d0">human_protein</data>
+  <data key="d1">LCLAT1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:LPCAT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">LPCAT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:MBOAT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">MBOAT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:35723">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:35723</data>
+</node>
+<node id="G:GPAM">
+  <data key="d0">human_protein</data>
+  <data key="d1">GPAM</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GPAT4">
+  <data key="d0">human_protein</data>
+  <data key="d1">GPAT4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:35899">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:35899</data>
+</node>
+<node id="R:35903">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:35903</data>
+</node>
+<node id="R:35907">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:35907</data>
+</node>
+<node id="R:35915">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:35915</data>
+</node>
+<node id="R:37223">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:37223</data>
+</node>
+<node id="R:38975">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:38975</data>
+</node>
+<node id="G:ENPP2">
+  <data key="d0">human_protein</data>
+  <data key="d1">ENPP2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GDPD1">
+  <data key="d0">human_protein</data>
+  <data key="d1">GDPD1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GDPD3">
+  <data key="d0">human_protein</data>
+  <data key="d1">GDPD3</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:43308">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:43308</data>
+</node>
+<node id="G:AGK">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGK</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:45592">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:45592</data>
+</node>
+<node id="G:NAPEPLD">
+  <data key="d0">human_protein</data>
+  <data key="d1">NAPEPLD</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:49092">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:49092</data>
+</node>
+<node id="G:LYPLA2">
+  <data key="d0">human_protein</data>
+  <data key="d1">LYPLA2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:PNPLA6">
+  <data key="d0">human_protein</data>
+  <data key="d1">PNPLA6</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:PNPLA7">
+  <data key="d0">human_protein</data>
+  <data key="d1">PNPLA7</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:53172">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:53172</data>
+</node>
+<node id="R:53604">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:53604</data>
+</node>
+<node id="G:EPHX2">
+  <data key="d0">human_protein</data>
+  <data key="d1">EPHX2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:55300">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:55300</data>
+</node>
+<node id="G:AGPAT4">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGPAT4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63304">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63304</data>
+</node>
+<node id="G:PLA2G6">
+  <data key="d0">human_protein</data>
+  <data key="d1">PLA2G6</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63996">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63996</data>
+</node>
+<node id="G:PLA2G10">
+  <data key="d0">human_protein</data>
+  <data key="d1">PLA2G10</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_411.1843_464.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_411.1843_464.9</data>
+</node>
+<node id="C:CHEBI:89454">
+  <data key="d0">compound</data>
+  <data key="d1">17alpha-hydroxypregnenolone 3-sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:71363">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71363</data>
+</node>
+<node id="F:NEG_447.0933_299.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_447.0933_299.9</data>
+</node>
+<node id="C:C03951">
+  <data key="d0">compound</data>
+  <data key="d1">Luteolin 7-O-beta-D-glucoside</data>
+  <data key="d2">C03951</data>
+</node>
+<node id="R:69663">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:69663</data>
+</node>
+<node id="F:NEG_448.3067_411.6">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_448.3067_411.6</data>
+</node>
+<node id="C:C05466">
+  <data key="d0">compound</data>
+  <data key="d1">Glycochenodeoxycholate</data>
+  <data key="d2">C05466</data>
+</node>
+<node id="R:49788">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:49788</data>
+</node>
+<node id="G:BAAT">
+  <data key="d0">human_protein</data>
+  <data key="d1">BAAT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:50060">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:50060</data>
+</node>
+<node id="G:ABCB11">
+  <data key="d0">human_protein</data>
+  <data key="d1">ABCB11</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:65056">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:65056</data>
+</node>
+<node id="R:66408">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:66408</data>
+</node>
+<node id="R:71859">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71859</data>
+</node>
+<node id="R:85747">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:85747</data>
+</node>
+<node id="F:POS_450.3215_459.0">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_450.3215_459.0</data>
+</node>
+<node id="C:C05464">
+  <data key="d0">compound</data>
+  <data key="d1">Glycodeoxycholate</data>
+  <data key="d2">C05464</data>
+</node>
+<node id="R:66380">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:66380</data>
+</node>
+<node id="R:71867">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71867</data>
+</node>
+<node id="R:77207">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77207</data>
+</node>
+<node id="F:NEG_464.3017_423.5">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_464.3017_423.5</data>
+</node>
+<node id="C:C01921">
+  <data key="d0">compound</data>
+  <data key="d1">Glycocholate</data>
+  <data key="d2">C01921</data>
+</node>
+<node id="R:14001">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:14001</data>
+</node>
+<node id="R:50056">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:50056</data>
+</node>
+<node id="R:66400">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:66400</data>
+</node>
+<node id="R:71851">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71851</data>
+</node>
+<node id="G:SLCO4C1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLCO4C1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71935">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71935</data>
+</node>
+<node id="G:SLC10A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC10A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC10A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC10A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:72351">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72351</data>
+</node>
+<node id="R:75503">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75503</data>
+</node>
+<node id="F:POS_466.3164_423.8">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_466.3164_423.8</data>
+</node>
+<node id="F:NEG_471.2422_478.6">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_471.2422_478.6</data>
+</node>
+<node id="C:CHEBI:89060">
+  <data key="d0">compound</data>
+  <data key="d1">Chenodeoxycholic acid 3-sulfate</data>
+  <data key="d2"></data>
+</node>
+<node id="R:85739">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:85739</data>
+</node>
+<node id="F:POS_482.3240_496.7">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_482.3240_496.7</data>
+</node>
+<node id="C:CHEBI:83047">
+  <data key="d0">compound</data>
+  <data key="d1">1-stearoyl-sn-glycero-3-phosphoethanolamine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:37523">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:37523</data>
+</node>
+<node id="G:MBOAT1">
+  <data key="d0">human_protein</data>
+  <data key="d1">MBOAT1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63256">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63256</data>
+</node>
+<node id="R:63776">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63776</data>
+</node>
+<node id="G:PLA2G4C">
+  <data key="d0">human_protein</data>
+  <data key="d1">PLA2G4C</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:63788">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:63788</data>
+</node>
+<node id="F:NEG_495.2964_452.4">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_495.2964_452.4</data>
+</node>
+<node id="C:CHEBI:88765">
+  <data key="d0">compound</data>
+  <data key="d1">Pregnanediol-3-glucuronide</data>
+  <data key="d2"></data>
+</node>
+<node id="R:68680">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:68680</data>
+</node>
+<node id="G:CHST10">
+  <data key="d0">human_protein</data>
+  <data key="d1">CHST10</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_498.2894_464.2">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_498.2894_464.2</data>
+</node>
+<node id="C:C16868">
+  <data key="d0">compound</data>
+  <data key="d1">Tauroursodeoxycholic acid</data>
+  <data key="d2">C16868</data>
+</node>
+<node id="R:50072">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:50072</data>
+</node>
+<node id="R:66420">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:66420</data>
+</node>
+<node id="R:68980">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:68980</data>
+</node>
+<node id="R:71843">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71843</data>
+</node>
+<node id="R:71927">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71927</data>
+</node>
+<node id="R:85727">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:85727</data>
+</node>
+<node id="C:C05463">
+  <data key="d0">compound</data>
+  <data key="d1">Taurodeoxycholate</data>
+  <data key="d2">C05463</data>
+</node>
+<node id="R:50080">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:50080</data>
+</node>
+<node id="R:71863">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71863</data>
+</node>
+<node id="R:72087">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72087</data>
+</node>
+<node id="R:77211">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77211</data>
+</node>
+<node id="F:NEG_528.2640_438.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_528.2640_438.3</data>
+</node>
+<node id="C:CHEBI:89129">
+  <data key="d0">compound</data>
+  <data key="d1">N-[(3a,5b,7b)-7-hydroxy-24-oxo-3-(sulfooxy)cholan-24-yl]-Glycine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:85735">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:85735</data>
+</node>
+<node id="F:NEG_788.5446_485.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_788.5446_485.3</data>
+</node>
+<node id="C:CHEBI:79096">
+  <data key="d0">compound</data>
+  <data key="d1">1-stearoyl-2-oleoyl-sn-glycero-3-phosphoserine</data>
+  <data key="d2"></data>
+</node>
+<node id="R:40795">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:40795</data>
+</node>
+<node id="G:PTDSS2">
+  <data key="d0">human_protein</data>
+  <data key="d1">PTDSS2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:57136">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:57136</data>
+</node>
+<node id="G:PLA2G15">
+  <data key="d0">human_protein</data>
+  <data key="d1">PLA2G15</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:57140">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:57140</data>
+</node>
+<node id="F:POS_86.0600_75.3">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">POS_86.0600_75.3</data>
+</node>
+<node id="C:C03665">
+  <data key="d0">compound</data>
+  <data key="d1">2-Amino-2-methylpropanoate</data>
+  <data key="d2">C03665</data>
+</node>
+<node id="R:74063">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74063</data>
+</node>
+<node id="G:SLC7A10">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC7A10</data>
+  <data key="d3">False</data>
+</node>
+<node id="F:NEG_88.0404_53.9">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_88.0404_53.9</data>
+</node>
+<node id="C:C00099">
+  <data key="d0">compound</data>
+  <data key="d1">beta-Alanine</data>
+  <data key="d2">C00099</data>
+</node>
+<node id="R:11184">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:11184</data>
+</node>
+<node id="G:UPB1">
+  <data key="d0">human_protein</data>
+  <data key="d1">UPB1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:14077">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:14077</data>
+</node>
+<node id="G:AGXT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGXT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:16029">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:16029</data>
+</node>
+<node id="G:AGMAT">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGMAT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:19297">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19297</data>
+</node>
+<node id="G:CARNS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">CARNS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:19497">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19497</data>
+</node>
+<node id="G:CSAD">
+  <data key="d0">human_protein</data>
+  <data key="d1">CSAD</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GADL1">
+  <data key="d0">human_protein</data>
+  <data key="d1">GADL1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:29459">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:29459</data>
+</node>
+<node id="G:SLC36A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC36A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC36A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC36A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:59360">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:59360</data>
+</node>
+<node id="G:CNDP1">
+  <data key="d0">human_protein</data>
+  <data key="d1">CNDP1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:59576">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:59576</data>
+</node>
+<node id="R:59608">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:59608</data>
+</node>
+<node id="G:PM20D2">
+  <data key="d0">human_protein</data>
+  <data key="d1">PM20D2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:59612">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:59612</data>
+</node>
+<node id="R:70987">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:70987</data>
+</node>
+<node id="G:SLC32A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC32A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71247">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71247</data>
+</node>
+<node id="G:SLC6A11">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A11</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC6A13">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A13</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC6A6">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A6</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:74059">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74059</data>
+</node>
+<node id="R:75943">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75943</data>
+</node>
+<node id="G:GATM">
+  <data key="d0">human_protein</data>
+  <data key="d1">GATM</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C00213">
+  <data key="d0">compound</data>
+  <data key="d1">Sarcosine</data>
+  <data key="d2">C00213</data>
+</node>
+<node id="R:13313">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:13313</data>
+</node>
+<node id="G:PIPOX">
+  <data key="d0">human_protein</data>
+  <data key="d1">PIPOX</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:19793">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19793</data>
+</node>
+<node id="G:SARDH">
+  <data key="d0">human_protein</data>
+  <data key="d1">SARDH</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:19937">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19937</data>
+</node>
+<node id="G:GNMT">
+  <data key="d0">human_protein</data>
+  <data key="d1">GNMT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:52856">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:52856</data>
+</node>
+<node id="G:DMGDH">
+  <data key="d0">human_protein</data>
+  <data key="d1">DMGDH</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:70655">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:70655</data>
+</node>
+<node id="R:72227">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:72227</data>
+</node>
+<node id="G:SLC6A20">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A20</data>
+  <data key="d3">False</data>
+</node>
+<node id="C:C00041">
+  <data key="d0">compound</data>
+  <data key="d1">L-Alanine</data>
+  <data key="d2">C00041</data>
+</node>
+<node id="R:11632">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:11632</data>
+</node>
+<node id="G:SCLY">
+  <data key="d0">human_protein</data>
+  <data key="d1">SCLY</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:12540">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:12540</data>
+</node>
+<node id="G:AARS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">AARS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:AARS2">
+  <data key="d0">human_protein</data>
+  <data key="d1">AARS2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:16813">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:16813</data>
+</node>
+<node id="G:KYNU">
+  <data key="d0">human_protein</data>
+  <data key="d1">KYNU</data>
+  <data key="d3">True</data>
+</node>
+<node id="R:17457">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17457</data>
+</node>
+<node id="G:NFS1">
+  <data key="d0">human_protein</data>
+  <data key="d1">NFS1</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:17793">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17793</data>
+</node>
+<node id="G:DTD2">
+  <data key="d0">human_protein</data>
+  <data key="d1">DTD2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:18393">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:18393</data>
+</node>
+<node id="R:19453">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:19453</data>
+</node>
+<node id="G:GPT">
+  <data key="d0">human_protein</data>
+  <data key="d1">GPT</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:GPT2">
+  <data key="d0">human_protein</data>
+  <data key="d1">GPT2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:22852">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:22852</data>
+</node>
+<node id="G:AGXT">
+  <data key="d0">human_protein</data>
+  <data key="d1">AGXT</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:24248">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:24248</data>
+</node>
+<node id="R:25143">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:25143</data>
+</node>
+<node id="R:29283">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:29283</data>
+</node>
+<node id="G:SLC38A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC38A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC38A4">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A4</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC6A15">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A15</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC6A17">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A17</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC6A19">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC6A19</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:29443">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:29443</data>
+</node>
+<node id="R:37283">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:37283</data>
+</node>
+<node id="R:42636">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:42636</data>
+</node>
+<node id="G:MOCOS">
+  <data key="d0">human_protein</data>
+  <data key="d1">MOCOS</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:43892">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:43892</data>
+</node>
+<node id="R:67380">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:67380</data>
+</node>
+<node id="G:CNDP2">
+  <data key="d0">human_protein</data>
+  <data key="d1">CNDP2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:70719">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:70719</data>
+</node>
+<node id="G:SFXN1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SFXN1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC36A4">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC36A4</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC38A10">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A10</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC38A8">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A8</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:70867">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:70867</data>
+</node>
+<node id="G:SLC1A5">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC1A5</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71043">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71043</data>
+</node>
+<node id="G:SLC7A5">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC7A5</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SLC7A8">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC7A8</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71163">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71163</data>
+</node>
+<node id="G:SLC38A5">
+  <data key="d0">human_protein</data>
+  <data key="d1">SLC38A5</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:71311">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:71311</data>
+</node>
+<node id="R:74019">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74019</data>
+</node>
+<node id="R:74023">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74023</data>
+</node>
+<node id="R:74027">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74027</data>
+</node>
+<node id="R:74031">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74031</data>
+</node>
+<node id="R:74035">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74035</data>
+</node>
+<node id="R:74039">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74039</data>
+</node>
+<node id="R:74043">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74043</data>
+</node>
+<node id="R:74047">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74047</data>
+</node>
+<node id="R:74051">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74051</data>
+</node>
+<node id="R:74055">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:74055</data>
+</node>
+<node id="R:75311">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:75311</data>
+</node>
+<node id="R:77303">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77303</data>
+</node>
+<node id="R:77307">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77307</data>
+</node>
+<node id="R:77319">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77319</data>
+</node>
+<node id="R:77327">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77327</data>
+</node>
+<node id="R:77347">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77347</data>
+</node>
+<node id="R:77355">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:77355</data>
+</node>
+<node id="R:78543">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:78543</data>
+</node>
+<node id="G:CARS2">
+  <data key="d0">human_protein</data>
+  <data key="d1">CARS2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:78627">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:78627</data>
+</node>
+<node id="R:83491">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:83491</data>
+</node>
+<node id="G:APEH">
+  <data key="d0">human_protein</data>
+  <data key="d1">APEH</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:83507">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:83507</data>
+</node>
+<node id="R:84323">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84323</data>
+</node>
+<node id="R:84343">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84343</data>
+</node>
+<node id="R:84347">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84347</data>
+</node>
+<node id="R:84351">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84351</data>
+</node>
+<node id="R:84355">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84355</data>
+</node>
+<node id="R:84359">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:84359</data>
+</node>
+<node id="F:NEG_93.0345_306.1">
+  <data key="d0">LCMS_feature</data>
+  <data key="d1">NEG_93.0345_306.1</data>
+</node>
+<node id="C:C15584">
+  <data key="d0">compound</data>
+  <data key="d1">Phenol</data>
+  <data key="d2">C15584</data>
+</node>
+<node id="R:12164">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:12164</data>
+</node>
+<node id="G:SULT1A1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1A1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1A2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1A2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1A3">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1A3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1A4">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1A4</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1B1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1B1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1C2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1C2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1C3">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1C3</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULT1C4">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULT1C4</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:17261">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17261</data>
+</node>
+<node id="G:ARSF">
+  <data key="d0">human_protein</data>
+  <data key="d1">ARSF</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ARSG">
+  <data key="d0">human_protein</data>
+  <data key="d1">ARSG</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ARSK">
+  <data key="d0">human_protein</data>
+  <data key="d1">ARSK</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:ARSL">
+  <data key="d0">human_protein</data>
+  <data key="d1">ARSL</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULF1">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULF1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:SULF2">
+  <data key="d0">human_protein</data>
+  <data key="d1">SULF2</data>
+  <data key="d3">False</data>
+</node>
+<node id="R:17309">
+  <data key="d0">reaction</data>
+  <data key="d1">RHEA:17309</data>
+</node>
+<node id="G:PON1">
+  <data key="d0">human_protein</data>
+  <data key="d1">PON1</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:PON2">
+  <data key="d0">human_protein</data>
+  <data key="d1">PON2</data>
+  <data key="d3">False</data>
+</node>
+<node id="G:PON3">
+  <data key="d0">human_protein</data>
+  <data key="d1">PON3</data>
+  <data key="d3">False</data>
+</node>
+<edge source="F:NEG_112.0516_43.4" target="C:C00791">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00791" target="R:72183">
+  <data key="d4">exact_ChEBI:16737</data>
+</edge>
+<edge source="C:C00791" target="R:74539">
+  <data key="d4">exact_ChEBI:16737</data>
+</edge>
+<edge source="R:72183" target="G:SLC47A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:72183" target="G:SLC47A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:74539" target="G:SLC22A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:74539" target="G:SLC22A7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_121.0294_325.0" target="C:C00180">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_121.0294_325.0" target="C:C00539">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00180" target="R:10132">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150;KEGG_reaction:R01422;exact_ChEBI:16150</data>
+</edge>
+<edge source="C:C00180" target="R:11840">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150;KEGG_reaction:R01419;exact_ChEBI:16150</data>
+</edge>
+<edge source="C:C00180" target="R:21660">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150;KEGG_reaction:R01420;exact_ChEBI:16150</data>
+</edge>
+<edge source="C:C00180" target="R:27506">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150;KEGG_reaction:R06728;exact_ChEBI:16150</data>
+</edge>
+<edge source="C:C00180" target="R:58960">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150;exact_ChEBI:16150</data>
+</edge>
+<edge source="R:10132" target="G:ACSM1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:10132" target="G:ACSM2A">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:10132" target="G:ACSM2B">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:10132" target="C:C00539">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150</data>
+</edge>
+<edge source="G:ACSM1" target="R:33631">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM1" target="R:33627">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM2A" target="R:33631">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM2A" target="R:33627">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM2B" target="R:33631">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM2B" target="R:33627">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11840" target="G:ALDH1A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11840" target="G:ALDH1B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11840" target="G:ALDH3A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11840" target="G:ALDH3B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11840" target="C:C00539">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150</data>
+</edge>
+<edge source="G:ALDH1A1" target="R:44100">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH1A1" target="R:88119">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH1A1" target="R:44104">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:21660">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:44100">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:59904">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:88119">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:44104">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A1" target="R:87475">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3B1" target="R:21660">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3B1" target="R:44100">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3B1" target="R:59904">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:21660" target="C:C00539">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150</data>
+</edge>
+<edge source="R:27506" target="G:CES2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:27506" target="C:C00539">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150</data>
+</edge>
+<edge source="R:58960" target="G:AOX1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:58960" target="C:C00539">
+  <data key="d4">ChEBI_microspecies:30746&gt;16150</data>
+</edge>
+<edge source="G:AOX1" target="R:18569">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C00539" target="R:18569">
+  <data key="d4">KEGG_reaction:R01489</data>
+</edge>
+<edge source="F:NEG_130.0509_53.9" target="C:C00430">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_130.0509_53.9" target="C:C01157">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00430" target="R:12921">
+  <data key="d4">ChEBI_microspecies:17549&gt;356416;KEGG_reaction:R00830</data>
+</edge>
+<edge source="C:C00430" target="R:24064">
+  <data key="d4">ChEBI_microspecies:17549&gt;356416;KEGG_reaction:R00036</data>
+</edge>
+<edge source="R:12921" target="G:ALAS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12921" target="G:ALAS2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:24064" target="G:ALAD">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C01157" target="R:52512">
+  <data key="d4">ChEBI_microspecies:18095&gt;58375;KEGG_reaction:R03295</data>
+</edge>
+<edge source="C:C01157" target="R:52516">
+  <data key="d4">ChEBI_microspecies:18095&gt;58375</data>
+</edge>
+<edge source="C:C01157" target="R:84331">
+  <data key="d4">ChEBI_microspecies:18095&gt;58375</data>
+</edge>
+<edge source="C:C01157" target="R:84335">
+  <data key="d4">ChEBI_microspecies:18095&gt;58375</data>
+</edge>
+<edge source="C:C01157" target="R:84339">
+  <data key="d4">ChEBI_microspecies:18095&gt;58375</data>
+</edge>
+<edge source="R:52512" target="G:PRODH2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PRODH2" target="R:52516">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:84331" target="G:SLC1A4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84335">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84339">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:75311">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84323">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84343">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84347">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84351">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84355">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A4" target="R:84359">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:84335" target="C:C00041">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="F:NEG_137.0244_255.3" target="C:C00156">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00156" target="R:17709">
+  <data key="d4">ChEBI_microspecies:30763&gt;17879;KEGG_reaction:R07273;exact_ChEBI:17879</data>
+</edge>
+<edge source="C:C00156" target="R:44504">
+  <data key="d4">ChEBI_microspecies:30763&gt;17879;KEGG_reaction:R05000;exact_ChEBI:17879</data>
+</edge>
+<edge source="C:C00156" target="R:44564">
+  <data key="d4">ChEBI_microspecies:30763&gt;17879;exact_ChEBI:17879</data>
+</edge>
+<edge source="R:17709" target="G:COQ2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:COQ2" target="R:44504">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:COQ2" target="R:44564">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44564" target="G:UBIAD1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_143.1077_327.6" target="C:CHEBI:86055">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:86055" target="R:54856">
+  <data key="d4">exact_ChEBI:86055</data>
+</edge>
+<edge source="R:54856" target="G:FMO5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_143.1077_421.5" target="C:C06423">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C06423" target="R:30143">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:33631">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:40047">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:44100">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:44328">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:45092">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:47864">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:48692">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:48696">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:54468">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="C:C06423" target="R:59904">
+  <data key="d4">ChEBI_microspecies:28837&gt;25646</data>
+</edge>
+<edge source="R:30143" target="G:ACAA2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:30143" target="G:ACOT13">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:30143" target="G:ACOT7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:30143" target="G:ACOT8">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:30143" target="G:ACOT9">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:30143" target="G:THEM4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACAA2" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACOT13" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACOT7" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACOT8" target="R:40583">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACOT8" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACOT9" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:THEM4" target="R:40059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33631" target="G:ACSF2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33631" target="G:ACSM3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33631" target="G:ACSM4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ACSM4" target="R:33627">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:40047" target="G:LIPF">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44100" target="G:ALDH3A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44100" target="G:ALDH3B2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44100" target="G:ALDH7A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH3A2" target="R:44104">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ALDH7A1" target="R:12308">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44328" target="G:ABHD6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44328" target="G:MGLL">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABHD6" target="R:44320">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:MGLL" target="R:44320">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:45092" target="G:ASAH1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:45092" target="G:ASAH2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:47864" target="G:CEL">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:47864" target="G:PNLIPRP2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PNLIPRP2" target="R:48692">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PNLIPRP2" target="R:48696">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PNLIPRP2" target="R:48596">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:54468" target="G:ABHD3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_144.0666_75.3" target="C:C04076">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_144.0666_75.3" target="C:C03239">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C04076" target="R:12308">
+  <data key="d4">ChEBI_microspecies:17917&gt;58321;KEGG_reaction:R03102</data>
+</edge>
+<edge source="C:C04076" target="R:24520">
+  <data key="d4">ChEBI_microspecies:17917&gt;58321;KEGG_reaction:R02313</data>
+</edge>
+<edge source="C:C04076" target="R:34091">
+  <data key="d4">ChEBI_microspecies:17917&gt;58321;KEGG_reaction:R10270</data>
+</edge>
+<edge source="R:24520" target="G:AASS">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:34091" target="G:PHYKPL">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C03239" target="R:37583">
+  <data key="d4">ChEBI_microspecies:17534&gt;58183</data>
+</edge>
+<edge source="R:37583" target="G:DAO">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_145.0506_206.2" target="C:C06104">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C06104" target="R:40583">
+  <data key="d4">ChEBI_microspecies:30832&gt;17128</data>
+</edge>
+<edge source="C:C06104" target="R:71743">
+  <data key="d4">ChEBI_microspecies:30832&gt;17128</data>
+</edge>
+<edge source="C:C06104" target="R:81711">
+  <data key="d4">ChEBI_microspecies:30832&gt;17128</data>
+</edge>
+<edge source="R:71743" target="G:SLC25A21">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC25A21" target="R:71759">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:81711" target="G:SUGCT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_146.0247_264.5" target="C:C11129">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C11129" target="R:68608">
+  <data key="d4">exact_ChEBI:27539</data>
+</edge>
+<edge source="R:68608" target="G:DHRS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:68608" target="G:DHRS4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_149.0607_356.3" target="C:C05629">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C05629" target="R:88119">
+  <data key="d4">ChEBI_microspecies:28631&gt;51057</data>
+</edge>
+<edge source="F:POS_153.0407_87.0" target="C:C00385">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00385" target="R:14665">
+  <data key="d4">KEGG_reaction:R01676;exact_ChEBI:17712</data>
+</edge>
+<edge source="C:C00385" target="R:16669">
+  <data key="d4">KEGG_reaction:R02103;exact_ChEBI:17712</data>
+</edge>
+<edge source="C:C00385" target="R:21132">
+  <data key="d4">KEGG_reaction:R02107;exact_ChEBI:17712</data>
+</edge>
+<edge source="C:C00385" target="R:24670">
+  <data key="d4">KEGG_reaction:R01768;exact_ChEBI:17712</data>
+</edge>
+<edge source="R:14665" target="G:GDA">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:16669" target="G:XDH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:XDH" target="R:21132">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:XDH" target="R:24670">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_159.0663_256.9" target="C:C02656">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C02656" target="R:71759">
+  <data key="d4">ChEBI_microspecies:30531&gt;36165</data>
+</edge>
+<edge source="F:NEG_171.1389_475.4" target="C:C01571">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C01571" target="R:33627">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:40059">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:44104">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:44320">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:48596">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:75283">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="C:C01571" target="R:87475">
+  <data key="d4">ChEBI_microspecies:30813&gt;27689;exact_ChEBI:27689</data>
+</edge>
+<edge source="R:33627" target="G:ACSL6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:40059" target="G:ACOT1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:40059" target="G:ACOT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:40059" target="G:ACOT4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:40059" target="G:OLAH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:44320" target="G:ABHD12">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:48596" target="G:ABHD11">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:75283" target="G:CYP4B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_178.0509_244.8" target="C:C01586">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C01586" target="R:18493">
+  <data key="d4">ChEBI_microspecies:18089&gt;606565;KEGG_reaction:R02452</data>
+</edge>
+<edge source="C:C01586" target="R:75991">
+  <data key="d4">ChEBI_microspecies:18089&gt;606565</data>
+</edge>
+<edge source="R:18493" target="G:GLYAT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:75991" target="G:SLC22A6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:75991" target="G:SLC22A8">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A6" target="R:75987">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A6" target="R:75995">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A8" target="R:75987">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A8" target="R:75995">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A8" target="R:72355">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A8" target="R:72543">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_212.0022_290.7" target="C:CHEBI:43355">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:43355" target="R:61332">
+  <data key="d4">ChEBI_microspecies:43355&gt;144643</data>
+</edge>
+<edge source="C:CHEBI:43355" target="R:75987">
+  <data key="d4">ChEBI_microspecies:43355&gt;144643</data>
+</edge>
+<edge source="C:CHEBI:43355" target="R:82891">
+  <data key="d4">ChEBI_microspecies:43355&gt;144643</data>
+</edge>
+<edge source="R:61332" target="G:ABCG2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCG2" target="R:86827">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCG2" target="R:61364">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:82891" target="G:SLC17A3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_218.1387_67.3" target="C:CHEBI:53210">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:53210" target="R:44976">
+  <data key="d4">exact_ChEBI:53210</data>
+</edge>
+<edge source="C:CHEBI:53210" target="R:49912">
+  <data key="d4">exact_ChEBI:53210</data>
+</edge>
+<edge source="C:CHEBI:53210" target="R:71295">
+  <data key="d4">exact_ChEBI:53210</data>
+</edge>
+<edge source="C:CHEBI:53210" target="R:72103">
+  <data key="d4">exact_ChEBI:53210</data>
+</edge>
+<edge source="R:44976" target="G:CRAT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CRAT" target="R:44984">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CRAT" target="R:44972">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CRAT" target="R:17177">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:49912" target="G:SLC25A20">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC25A20" target="R:49920">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71295" target="G:SLC6A14">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC6A14" target="R:71247">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC6A14" target="R:71311">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:72103" target="G:SLC22A5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_239.0923_399.2" target="C:CHEBI:41254">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:41254" target="R:75995">
+  <data key="d4">ChEBI_microspecies:41254&gt;194524</data>
+</edge>
+<edge source="F:POS_246.1700_214.8" target="C:CHEBI:70819">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:70819" target="R:44984">
+  <data key="d4">exact_ChEBI:70819</data>
+</edge>
+<edge source="F:POS_260.1857_258.9" target="C:CHEBI:84834">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:84834" target="R:44972">
+  <data key="d4">exact_ChEBI:84834</data>
+</edge>
+<edge source="F:NEG_269.2121_514.2" target="C:C19614">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C19614" target="R:60984">
+  <data key="d4">ChEBI_microspecies:134195&gt;144068</data>
+</edge>
+<edge source="R:60984" target="G:ADH1B">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:60984" target="G:ADH1C">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:60984" target="G:ADH7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_274.2742_369.3" target="C:C13915">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C13915" target="R:43040">
+  <data key="d4">ChEBI_microspecies:71050&gt;71009</data>
+</edge>
+<edge source="C:C13915" target="R:43044">
+  <data key="d4">ChEBI_microspecies:71050&gt;71009</data>
+</edge>
+<edge source="R:43040" target="G:CERS5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:43040" target="G:CERS6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:43044" target="G:CERS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:43044" target="G:CERS4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_288.2170_328.0" target="C:C02838">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C02838" target="R:17177">
+  <data key="d4">KEGG_reaction:R03779;exact_ChEBI:18102</data>
+</edge>
+<edge source="C:C02838" target="R:49920">
+  <data key="d4">exact_ChEBI:18102</data>
+</edge>
+<edge source="R:17177" target="G:CPT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17177" target="G:CROT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CPT2" target="R:40279">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_298.0969_247.1" target="C:C00170">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00170" target="R:11852">
+  <data key="d4">KEGG_reaction:R01402;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:12721">
+  <data key="d4">KEGG_reaction:R01920;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:19973">
+  <data key="d4">KEGG_reaction:R02869;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:36355">
+  <data key="d4">KEGG_reaction:R10611;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:36783">
+  <data key="d4">KEGG_reaction:R10455;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:62432">
+  <data key="d4">KEGG_reaction:R03019;exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:63292">
+  <data key="d4">exact_ChEBI:17509</data>
+</edge>
+<edge source="C:C00170" target="R:63296">
+  <data key="d4">exact_ChEBI:17509</data>
+</edge>
+<edge source="R:11852" target="G:LACC1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:11852" target="G:MTAP">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12721" target="G:SRM">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19973" target="G:SMS">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:36355" target="G:TYW2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:36783" target="G:DPH1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:62432" target="G:DTWD1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:62432" target="G:DTWD2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:63292" target="G:TSR3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:TSR3" target="R:63296">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_303.1956_364.7" target="C:C05284">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C05284" target="R:53488">
+  <data key="d4">exact_ChEBI:27967</data>
+</edge>
+<edge source="C:C05284" target="R:69408">
+  <data key="d4">exact_ChEBI:27967</data>
+</edge>
+<edge source="C:C05284" target="R:84071">
+  <data key="d4">KEGG_reaction:R02725;exact_ChEBI:27967</data>
+</edge>
+<edge source="C:C05284" target="R:86411">
+  <data key="d4">KEGG_reaction:R04758;exact_ChEBI:27967</data>
+</edge>
+<edge source="R:53488" target="G:HSD17B3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:69408" target="G:HSD11B2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:84071" target="G:CYP11B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:86411" target="G:HSD11B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:HSD11B1" target="R:65056">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:HSD11B1" target="R:68980">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_313.1548_267.4" target="C:CHEBI:72723">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:72723" target="R:71707">
+  <data key="d4">ChEBI_microspecies:72723&gt;191205</data>
+</edge>
+<edge source="R:71707" target="G:SLC15A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_344.2796_413.3" target="C:CHEBI:77086">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:77086" target="R:40279">
+  <data key="d4">exact_ChEBI:77086</data>
+</edge>
+<edge source="F:POS_365.1055_44.9" target="C:C01083">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:POS_365.1055_44.9" target="C:C00185">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C01083" target="R:17629">
+  <data key="d4">exact_ChEBI:16551</data>
+</edge>
+<edge source="C:C01083" target="R:32675">
+  <data key="d4">KEGG_reaction:R00010;exact_ChEBI:16551</data>
+</edge>
+<edge source="R:17629" target="G:SLC2A8">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:32675" target="G:TREH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C00185" target="R:30679">
+  <data key="d4">KEGG_reaction:R00026;exact_ChEBI:17057</data>
+</edge>
+<edge source="R:30679" target="G:LCT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:LCT" target="R:69663">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_367.1579_464.3" target="C:CHEBI:84094">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_367.1579_464.3" target="C:C04555">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:84094" target="R:71375">
+  <data key="d4">ChEBI_microspecies:84094&gt;190489</data>
+</edge>
+<edge source="C:CHEBI:84094" target="R:86827">
+  <data key="d4">ChEBI_microspecies:84094&gt;190489</data>
+</edge>
+<edge source="R:71375" target="G:SLC10A6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A6" target="R:71091">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A6" target="R:71355">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A6" target="R:71351">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A6" target="R:71363">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:86827" target="G:ABCC3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:86827" target="G:ABCC4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC3" target="R:61364">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC3" target="R:86831">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC3" target="R:50056">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC4" target="R:61364">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC4" target="R:66408">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC4" target="R:66380">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC4" target="R:66400">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC4" target="R:66420">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C04555" target="R:19873">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905;KEGG_reaction:R03404</data>
+</edge>
+<edge source="C:C04555" target="R:47224">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:51216">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:61364">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:71091">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:71839">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:72355">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:72543">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:72563">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:72567">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:72571">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="C:C04555" target="R:75487">
+  <data key="d4">ChEBI_microspecies:16814&gt;57905</data>
+</edge>
+<edge source="R:19873" target="G:STS">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:47224" target="G:CYP3A7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:51216" target="G:SULT1E1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:51216" target="G:SULT2A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:51216" target="G:SULT2B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:60644">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:85747">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:77207">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:85739">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:85727">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:77211">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SULT2A1" target="R:85735">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:61364" target="G:ABCC11">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCC11" target="R:50056">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLC22A11">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLC51A">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLC51B">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO1A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO1B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO1B3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO1B3-SLCO1B7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO2B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71839" target="G:SLCO3A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51A" target="R:71859">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51A" target="R:71867">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51A" target="R:71851">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51A" target="R:71843">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51A" target="R:71863">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51B" target="R:71859">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51B" target="R:71867">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51B" target="R:71851">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51B" target="R:71843">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC51B" target="R:71863">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO1A2" target="R:71859">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO1A2" target="R:71867">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO1A2" target="R:71851">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO1A2" target="R:71843">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO1A2" target="R:71863">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLCO3A1" target="R:71851">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:72355" target="G:SLC22A24">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A24" target="R:72351">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:72563" target="G:SLC22A9">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A9" target="R:72567">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC22A9" target="R:72571">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:75487" target="G:SLC46A3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC46A3" target="R:75503">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_369.1737_439.8" target="C:CHEBI:138026">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:138026" target="R:53120">
+  <data key="d4">ChEBI_microspecies:138026&gt;136982</data>
+</edge>
+<edge source="C:CHEBI:138026" target="R:53136">
+  <data key="d4">ChEBI_microspecies:138026&gt;136982</data>
+</edge>
+<edge source="C:CHEBI:138026" target="R:71355">
+  <data key="d4">ChEBI_microspecies:138026&gt;136982</data>
+</edge>
+<edge source="R:53120" target="G:AKR1C1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:53120" target="G:AKR1C4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AKR1C4" target="R:53136">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:53136" target="G:AKR1C2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_369.1736_479.2" target="C:CHEBI:83037">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:83037" target="R:60644">
+  <data key="d4">ChEBI_microspecies:83037&gt;133003</data>
+</edge>
+<edge source="C:CHEBI:83037" target="R:71351">
+  <data key="d4">ChEBI_microspecies:83037&gt;133003</data>
+</edge>
+<edge source="C:CHEBI:83037" target="R:86831">
+  <data key="d4">ChEBI_microspecies:83037&gt;133003</data>
+</edge>
+<edge source="F:NEG_409.2358_645.6" target="C:C04036">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C04036" target="R:17341">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518;KEGG_reaction:R03357</data>
+</edge>
+<edge source="C:C04036" target="R:33187">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:35723">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:35899">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:35903">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:35907">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:35915">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:37223">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:38975">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:43308">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:45592">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:49092">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:53172">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:53604">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:55300">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:63304">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="C:C04036" target="R:63996">
+  <data key="d4">ChEBI_microspecies:15799&gt;57518</data>
+</edge>
+<edge source="R:17341" target="G:DHRS7B">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:ABHD5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:AGPAT1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:AGPAT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:AGPAT3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:AGPAT5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:GPAT3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:LCLAT1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:LPCAT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:33187" target="G:MBOAT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGPAT2" target="R:35899">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGPAT2" target="R:35903">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGPAT2" target="R:35907">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGPAT2" target="R:35915">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGPAT3" target="R:35915">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:GPAT3" target="R:35723">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:MBOAT2" target="R:37223">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:MBOAT2" target="R:37523">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:35723" target="G:GPAM">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:35723" target="G:GPAT4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:38975" target="G:ENPP2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:38975" target="G:GDPD1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:38975" target="G:GDPD3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:GDPD1" target="R:45592">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:GDPD1" target="R:53172">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:43308" target="G:AGK">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:45592" target="G:NAPEPLD">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:49092" target="G:LYPLA2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:49092" target="G:PNPLA6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:49092" target="G:PNPLA7">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:53604" target="G:EPHX2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:55300" target="G:AGPAT4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:63304" target="G:PLA2G6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PLA2G6" target="R:63256">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:63996" target="G:PLA2G10">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_411.1843_464.9" target="C:CHEBI:89454">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:89454" target="R:71363">
+  <data key="d4">ChEBI_microspecies:89454&gt;133742</data>
+</edge>
+<edge source="F:NEG_447.0933_299.9" target="C:C03951">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C03951" target="R:69663">
+  <data key="d4">ChEBI_microspecies:27994&gt;77791</data>
+</edge>
+<edge source="F:NEG_448.3067_411.6" target="C:C05466">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C05466" target="R:49788">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252;KEGG_reaction:R08744</data>
+</edge>
+<edge source="C:C05466" target="R:50060">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252</data>
+</edge>
+<edge source="C:C05466" target="R:65056">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252</data>
+</edge>
+<edge source="C:C05466" target="R:66408">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252</data>
+</edge>
+<edge source="C:C05466" target="R:71859">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252</data>
+</edge>
+<edge source="C:C05466" target="R:85747">
+  <data key="d4">ChEBI_microspecies:36274&gt;36252</data>
+</edge>
+<edge source="C:C05466" target="F:POS_450.3215_459.0">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="R:49788" target="G:BAAT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:BAAT" target="R:14001">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:50060" target="G:ABCB11">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCB11" target="R:50056">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCB11" target="R:50072">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:ABCB11" target="R:50080">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_450.3215_459.0" target="C:C05464">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C05464" target="R:66380">
+  <data key="d4">ChEBI_microspecies:27471&gt;82982</data>
+</edge>
+<edge source="C:C05464" target="R:71867">
+  <data key="d4">ChEBI_microspecies:27471&gt;82982</data>
+</edge>
+<edge source="C:C05464" target="R:77207">
+  <data key="d4">ChEBI_microspecies:27471&gt;82982</data>
+</edge>
+<edge source="F:NEG_464.3017_423.5" target="C:C01921">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C01921" target="R:14001">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;KEGG_reaction:R03718;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:50056">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:66400">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:71851">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:71935">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:72351">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="R:75503">
+  <data key="d4">ChEBI_microspecies:17687&gt;29746;exact_ChEBI:29746</data>
+</edge>
+<edge source="C:C01921" target="F:POS_466.3164_423.8">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="R:71851" target="G:SLCO4C1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71935" target="G:SLC10A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71935" target="G:SLC10A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A1" target="R:71927">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A1" target="R:72087">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A2" target="R:71927">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC10A2" target="R:72087">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_471.2422_478.6" target="C:CHEBI:89060">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:89060" target="R:85739">
+  <data key="d4">ChEBI_microspecies:89060&gt;234532</data>
+</edge>
+<edge source="F:POS_482.3240_496.7" target="C:CHEBI:83047">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:83047" target="R:37523">
+  <data key="d4">ChEBI_microspecies:83047&gt;75036</data>
+</edge>
+<edge source="C:CHEBI:83047" target="R:63256">
+  <data key="d4">ChEBI_microspecies:83047&gt;75036</data>
+</edge>
+<edge source="C:CHEBI:83047" target="R:63776">
+  <data key="d4">ChEBI_microspecies:83047&gt;75036</data>
+</edge>
+<edge source="C:CHEBI:83047" target="R:63788">
+  <data key="d4">ChEBI_microspecies:83047&gt;75036</data>
+</edge>
+<edge source="R:37523" target="G:MBOAT1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:63776" target="G:PLA2G4C">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PLA2G4C" target="R:63788">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_495.2964_452.4" target="C:CHEBI:88765">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:88765" target="R:68680">
+  <data key="d4">ChEBI_microspecies:88765&gt;178102</data>
+</edge>
+<edge source="R:68680" target="G:CHST10">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_498.2894_464.2" target="C:C16868">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_498.2894_464.2" target="C:C05463">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C16868" target="R:50072">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C16868" target="R:66420">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C16868" target="R:68980">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C16868" target="R:71843">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C16868" target="R:71927">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C16868" target="R:85727">
+  <data key="d4">ChEBI_microspecies:80774&gt;132028</data>
+</edge>
+<edge source="C:C05463" target="R:50080">
+  <data key="d4">ChEBI_microspecies:9410&gt;36261;exact_ChEBI:36261</data>
+</edge>
+<edge source="C:C05463" target="R:71863">
+  <data key="d4">ChEBI_microspecies:9410&gt;36261;exact_ChEBI:36261</data>
+</edge>
+<edge source="C:C05463" target="R:72087">
+  <data key="d4">ChEBI_microspecies:9410&gt;36261;exact_ChEBI:36261</data>
+</edge>
+<edge source="C:C05463" target="R:77211">
+  <data key="d4">ChEBI_microspecies:9410&gt;36261;exact_ChEBI:36261</data>
+</edge>
+<edge source="F:NEG_528.2640_438.3" target="C:CHEBI:89129">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:89129" target="R:85735">
+  <data key="d4">ChEBI_microspecies:89129&gt;234531</data>
+</edge>
+<edge source="F:NEG_788.5446_485.3" target="C:CHEBI:79096">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:CHEBI:79096" target="R:40795">
+  <data key="d4">ChEBI_microspecies:79096&gt;78260</data>
+</edge>
+<edge source="C:CHEBI:79096" target="R:57136">
+  <data key="d4">ChEBI_microspecies:79096&gt;78260</data>
+</edge>
+<edge source="C:CHEBI:79096" target="R:57140">
+  <data key="d4">ChEBI_microspecies:79096&gt;78260</data>
+</edge>
+<edge source="R:40795" target="G:PTDSS2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:57136" target="G:PLA2G15">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PLA2G15" target="R:57140">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:POS_86.0600_75.3" target="C:C03665">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C03665" target="R:74063">
+  <data key="d4">ChEBI_microspecies:27971&gt;193090</data>
+</edge>
+<edge source="R:74063" target="G:SLC7A10">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:74063" target="C:C00041">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74059">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74019">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74023">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74027">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74031">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74035">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74039">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74043">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74047">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74051">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC7A10" target="R:74055">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_88.0404_53.9" target="C:C00099">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_88.0404_53.9" target="C:C00213">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="F:NEG_88.0404_53.9" target="C:C00041">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C00099" target="R:11184">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R00905</data>
+</edge>
+<edge source="C:C00099" target="R:14077">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R00907</data>
+</edge>
+<edge source="C:C00099" target="R:16029">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R00913</data>
+</edge>
+<edge source="C:C00099" target="R:19297">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R01164</data>
+</edge>
+<edge source="C:C00099" target="R:19497">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R00489</data>
+</edge>
+<edge source="C:C00099" target="R:29459">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="C:C00099" target="R:59360">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R01166</data>
+</edge>
+<edge source="C:C00099" target="R:59576">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R03288</data>
+</edge>
+<edge source="C:C00099" target="R:59608">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966;KEGG_reaction:R00911</data>
+</edge>
+<edge source="C:C00099" target="R:59612">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="C:C00099" target="R:70987">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="C:C00099" target="R:71247">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="C:C00099" target="R:74059">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="C:C00099" target="R:75943">
+  <data key="d4">ChEBI_microspecies:16958&gt;57966</data>
+</edge>
+<edge source="R:11184" target="G:UPB1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:14077" target="G:AGXT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:14077" target="C:C00041">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00907</data>
+</edge>
+<edge source="G:AGXT2" target="R:18393">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:24248">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77303">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77307">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77319">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77327">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77347">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT2" target="R:77355">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:16029" target="G:AGMAT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19297" target="G:CARNS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19497" target="G:CSAD">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19497" target="G:GADL1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29459" target="G:SLC36A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29459" target="G:SLC36A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC36A1" target="R:29443">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC36A2" target="R:70655">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC36A2" target="R:29443">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:59360" target="G:CNDP1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CNDP1" target="R:59576">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CNDP1" target="R:37283">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:59608" target="G:PM20D2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:PM20D2" target="R:59612">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70987" target="G:SLC32A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71247" target="G:SLC6A11">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71247" target="G:SLC6A13">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71247" target="G:SLC6A6">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:74059" target="C:C00041">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="R:75943" target="G:GATM">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C00213" target="R:13313">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433;KEGG_reaction:R00610</data>
+</edge>
+<edge source="C:C00213" target="R:19793">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433;KEGG_reaction:R00611</data>
+</edge>
+<edge source="C:C00213" target="R:19937">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433;KEGG_reaction:R00367</data>
+</edge>
+<edge source="C:C00213" target="R:52856">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433;KEGG_reaction:R01565</data>
+</edge>
+<edge source="C:C00213" target="R:70655">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433</data>
+</edge>
+<edge source="C:C00213" target="R:72227">
+  <data key="d4">ChEBI_microspecies:15611&gt;57433</data>
+</edge>
+<edge source="R:13313" target="G:PIPOX">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19793" target="G:SARDH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19937" target="G:GNMT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:52856" target="G:DMGDH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:72227" target="G:SLC6A20">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="C:C00041" target="R:11632">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R03599</data>
+</edge>
+<edge source="C:C00041" target="R:12540">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R03038</data>
+</edge>
+<edge source="C:C00041" target="R:16813">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00987</data>
+</edge>
+<edge source="C:C00041" target="R:17457">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R07460</data>
+</edge>
+<edge source="C:C00041" target="R:17793">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:18393">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R02050</data>
+</edge>
+<edge source="C:C00041" target="R:19453">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00258</data>
+</edge>
+<edge source="C:C00041" target="R:22852">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00585</data>
+</edge>
+<edge source="C:C00041" target="R:24248">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00369</data>
+</edge>
+<edge source="C:C00041" target="R:25143">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R02668</data>
+</edge>
+<edge source="C:C00041" target="R:29283">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:29443">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:37283">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:42636">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R11583</data>
+</edge>
+<edge source="C:C00041" target="R:43892">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R11528</data>
+</edge>
+<edge source="C:C00041" target="R:67380">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:70719">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:70867">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:71043">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:71163">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:71311">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74019">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74023">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74027">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74031">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74035">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74039">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74043">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74047">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74051">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:74055">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:75311">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:77303">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:77307">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:77319">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:77327">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:77347">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R00400</data>
+</edge>
+<edge source="C:C00041" target="R:77355">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972;KEGG_reaction:R10992</data>
+</edge>
+<edge source="C:C00041" target="R:78543">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:78627">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:83491">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:83507">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84323">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84343">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84347">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84351">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84355">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="C:C00041" target="R:84359">
+  <data key="d4">ChEBI_microspecies:16977&gt;57972</data>
+</edge>
+<edge source="R:11632" target="G:SCLY">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12540" target="G:AARS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12540" target="G:AARS2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:16813" target="G:KYNU">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:KYNU" target="R:25143">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17457" target="G:NFS1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:NFS1" target="R:43892">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17793" target="G:DTD2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19453" target="G:GPT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:19453" target="G:GPT2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:22852" target="G:AGXT">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:AGXT" target="R:24248">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC38A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC38A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC38A4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC6A15">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC6A17">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:29283" target="G:SLC6A19">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:42636" target="G:MOCOS">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:67380" target="G:CNDP2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70719" target="G:SFXN1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70719" target="G:SLC36A4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70719" target="G:SLC38A10">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70719" target="G:SLC38A8">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:70867" target="G:SLC1A5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:SLC1A5" target="R:75311">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71043" target="G:SLC7A5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71043" target="G:SLC7A8">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:71163" target="G:SLC38A5">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:78543" target="G:CARS2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:CARS2" target="R:78627">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:83491" target="G:APEH">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="G:APEH" target="R:83507">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="F:NEG_93.0345_306.1" target="C:C15584">
+  <data key="d4">supplier_candidate_annotation</data>
+</edge>
+<edge source="C:C15584" target="R:12164">
+  <data key="d4">KEGG_reaction:R01242;exact_ChEBI:33853</data>
+</edge>
+<edge source="C:C15584" target="R:17261">
+  <data key="d4">KEGG_reaction:R01243;exact_ChEBI:33853</data>
+</edge>
+<edge source="C:C15584" target="R:17309">
+  <data key="d4">KEGG_reaction:R07342;exact_ChEBI:33853</data>
+</edge>
+<edge source="R:12164" target="G:SULT1A1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1A2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1A3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1A4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1B1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1C2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1C3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:12164" target="G:SULT1C4">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:ARSF">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:ARSG">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:ARSK">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:ARSL">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:SULF1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17261" target="G:SULF2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17309" target="G:PON1">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17309" target="G:PON2">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+<edge source="R:17309" target="G:PON3">
+  <data key="d4">reviewed_UniProt_Rhea_annotation</data>
+</edge>
+</graph></graphml>

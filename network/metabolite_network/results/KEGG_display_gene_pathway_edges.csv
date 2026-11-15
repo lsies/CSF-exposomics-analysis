@@ -1,0 +1,43 @@
+gene_symbol,pathway_id,pathway_name,q_value
+ALDH3A1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH1B1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH3B1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH3B2,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH3A2,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH7A1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+CSAD,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+UPB1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+CNDP2,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+CARNS1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+CNDP1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+GADL1,hsa00410,beta-Alanine metabolism,1.1281994409862374e-05
+ALDH1B1,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+ALDH3A2,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+ALDH7A1,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+CEL,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+PNLIPRP2,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+LIPF,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGPAT1,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGPAT2,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+MGLL,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGPAT5,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGK,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGPAT3,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGPAT4,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+GPAM,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+GPAT3,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+MBOAT2,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+GPAT4,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+MBOAT1,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+LCLAT1,hsa00561,Glycerolipid metabolism,8.21807945229374e-05
+AGXT,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+ALAS1,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+ALAS2,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+ALDH7A1,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+DAO,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+SARDH,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+GATM,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+GNMT,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+DMGDH,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+PIPOX,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504
+AGXT2,hsa00260,"Glycine, serine and threonine metabolism",0.00021001377004356504

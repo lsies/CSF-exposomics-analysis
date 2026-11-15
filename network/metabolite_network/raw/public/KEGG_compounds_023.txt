@@ -1,0 +1,526 @@
+ENTRY       C13945                      Compound
+NAME        2-Oxodecanoic acid;
+            2-Oxodecanoate
+FORMULA     C10H18O3
+EXACT_MASS  186.1256
+MOL_WEIGHT  186.25
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0106 Oxo fatty acids
+                C13945  2-Oxodecanoic acid
+DBLINKS     PubChem: 854188
+            ChEBI: 34301
+            LIPIDMAPS: LMFA01060001
+            J-GLOBAL: J206.111B
+ATOM        13
+            1   C1b C    30.1263  -17.4993
+            2   C1b C    31.3436  -16.7970
+            3   C1b C    28.9089  -16.7970
+            4   C1b C    32.5493  -17.4993
+            5   C1b C    27.7034  -17.4993
+            6   C1b C    33.7666  -16.7970
+            7   C1b C    26.4860  -16.7970
+            8   C1a C    34.9723  -17.4993
+            9   C5a C    25.2805  -17.4993
+            10  C6a C    24.0632  -16.7970
+            11  O6a O    22.8517  -17.5052
+            12  O6a O    24.0923  -15.3982
+            13  O5a O    25.2836  -18.8885
+BOND        12
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     7   9 1
+            9     9  10 1
+            10   10  11 1
+            11   10  12 2
+            12    9  13 2
+///
+
+ENTRY       C14093                      Compound
+NAME        1,2-Dihydroxy-8-carboxynaphthalene;
+            7,8-Dihydroxy-1-naphthalenecarboxylic acid
+FORMULA     C11H8O4
+EXACT_MASS  204.0423
+MOL_WEIGHT  204.18
+REACTION    R06920 R06921
+PATHWAY     map00626  Naphthalene degradation
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.1.-.-         1.13.-.-
+DBLINKS     CAS: 162794-82-3
+            PubChem: 854329
+            ChEBI: 18891
+            J-GLOBAL: J2.787.858J
+ATOM        15
+            1   C8x C    25.8038  -17.2805
+            2   C8x C    25.8038  -18.6811
+            3   C8x C    27.0207  -19.3850
+            4   C8y C    27.0207  -16.5838
+            5   C8y C    28.2302  -17.2805
+            6   C8y C    28.2243  -18.6811
+            7   C8x C    29.4281  -19.3900
+            8   C8x C    30.6449  -18.6914
+            9   C8y C    30.6509  -17.2908
+            10  C8y C    29.4401  -16.5890
+            11  C6a C    27.0224  -15.1834
+            12  O6a O    28.2371  -14.4810
+            13  O6a O    25.8094  -14.4780
+            14  O1a O    29.4460  -15.1884
+            15  O1a O    31.8677  -16.5993
+BOND        16
+            1     4   1 1
+            2     5   6 1
+            3     6   7 1
+            4     7   8 2
+            5     8   9 1
+            6     9  10 2
+            7    10   5 1
+            8     4  11 1
+            9     1   2 2
+            10   11  12 2
+            11    2   3 1
+            12   11  13 1
+            13    3   6 2
+            14   10  14 1
+            15    5   4 2
+            16    9  15 1
+///
+
+ENTRY       C14100                      Compound
+NAME        4-Formylsalicylic acid;
+            4-Formyl-2-hydroxybenzoic acid
+FORMULA     C8H6O4
+EXACT_MASS  166.0266
+MOL_WEIGHT  166.13
+REACTION    R06929
+PATHWAY     map00626  Naphthalene degradation
+            map01120  Microbial metabolism in diverse environments
+DBLINKS     CAS: 51572-88-4
+            PubChem: 854336
+            ChEBI: 20367
+            J-GLOBAL: J1.288.474E
+ATOM        12
+            1   C8y C    23.8700  -15.8200
+            2   C8x C    23.8700  -17.2200
+            3   C8x C    25.1300  -17.9200
+            4   C8x C    25.1300  -15.1200
+            5   C8y C    26.3200  -15.8200
+            6   C8y C    26.3200  -17.2200
+            7   C6a C    27.5100  -17.9200
+            8   O1a O    27.5100  -15.1200
+            9   C4a C    22.6800  -15.1200
+            10  O4a O    21.4900  -15.8200
+            11  O6a O    27.5100  -19.3200
+            12  O6a O    28.7700  -17.2200
+BOND        12
+            1     2   3 1
+            2     3   6 2
+            3     5   6 1
+            4     6   7 1
+            5     8   5 1
+            6     5   4 2
+            7     1   9 1
+            8     4   1 1
+            9     9  10 2
+            10    7  11 2
+            11    1   2 2
+            12    7  12 1
+///
+
+ENTRY       C14131                      Compound
+NAME        Equol;
+            (S)-Equol
+FORMULA     C15H14O3
+EXACT_MASS  242.0943
+MOL_WEIGHT  242.27
+REACTION    R13057
+PATHWAY     map00946  Degradation of flavonoids
+            map01100  Metabolic pathways
+MODULE      M00966  Equol biosynthesis, daidzein => equol
+BRITE       Lipids [BR:br08002]
+             PK  Polyketides
+              PK12 Flavonoids
+               PK1208 Isoflavans
+                C14131  Equol
+            Phytochemical compounds [BR:br08003]
+             Flavonoids
+              Isoflavonoids
+               Isoflavanes
+                C14131  Equol
+            Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C14131
+DBLINKS     CAS: 531-95-3
+            PubChem: 7846945
+            ChEBI: 34741
+            LIPIDMAPS: LMPK12080003
+            KNApSAcK: C00009707
+            J-GLOBAL: J14.375H
+ATOM        18
+            1   C8y C    24.6159  -15.1654
+            2   C8x C    24.6159  -16.5653
+            3   C8x C    25.8281  -17.2652
+            4   C8y C    27.0404  -16.5653
+            5   C8y C    27.0404  -15.1654
+            6   C8x C    25.8281  -14.4655
+            7   C1x C    28.2528  -17.2652
+            8   C1y C    29.4650  -16.5653
+            9   C1x C    29.4650  -15.1654
+            10  O2x O    28.2528  -14.4655
+            11  C8y C    30.6800  -17.2667
+            12  O1a O    23.4035  -14.4655
+            13  C8x C    30.6800  -18.6650
+            14  C8x C    31.8923  -19.3649
+            15  C8y C    33.1046  -18.6650
+            16  C8x C    33.1046  -17.2667
+            17  C8x C    31.8923  -16.5668
+            18  O1a O    34.3196  -19.3664
+BOND        20
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    8  11 1 #Down
+            13    1  12 1
+            14   11  13 2
+            15   13  14 1
+            16   14  15 2
+            17   15  16 1
+            18   16  17 2
+            19   11  17 1
+            20   15  18 1
+///
+
+ENTRY       C14214                      Compound
+NAME        Dibutyl phthalate;
+            Di-n-butyl phthalate;
+            Dibutyl 1,2-benzenedicarboxylate
+FORMULA     C16H22O4
+EXACT_MASS  278.1518
+MOL_WEIGHT  278.34
+REMARK      ATC code: P03BX03
+BRITE       Endocrine disrupting compounds [BR:br08006]
+             Plasticizers and plastics
+              Phthalates
+               C14214  Dibutyl phthalate
+            Pesticides [BR:br08007]
+             Obsolete pesticides
+              Others
+               Insect repellents
+                C14214  Dibutyl phthalate
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             P ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS
+              P03 ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS
+               P03B INSECTICIDES AND REPELLENTS
+                P03BX Other insecticides and repellents
+                 P03BX03 Dibutylphthalate
+                  C14214  Dibutyl phthalate
+DBLINKS     CAS: 84-74-2
+            PubChem: 7847024
+            ChEBI: 34687
+            PDB-CCD: DB7
+            J-GLOBAL: J3.882B
+ATOM        20
+            1   C8x C    24.0423  -16.1586
+            2   C8x C    24.0434  -17.5488
+            3   C8x C    25.2455  -15.4625
+            4   C8x C    25.2478  -18.2430
+            5   C8y C    26.4501  -16.1566
+            6   C8y C    26.4513  -17.5468
+            7   C7a C    27.6535  -15.4606
+            8   C7a C    27.6558  -18.2409
+            9   O7a O    28.8579  -16.1548
+            10  O7a O    28.8590  -17.5449
+            11  C1b C    30.0508  -15.4644
+            12  C1b C    31.2659  -16.1648
+            13  C1b C    30.0323  -18.2207
+            14  C1b C    31.2226  -17.5319
+            15  O6a O    27.6524  -14.0458
+            16  O6a O    27.6567  -19.8151
+            17  C1b C    32.4937  -15.4543
+            18  C1b C    32.4207  -18.2216
+            19  C1a C    33.6339  -17.5193
+            20  C1a C    33.7039  -16.1516
+BOND        20
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 2
+            5     4   6 2
+            6     5   6 1
+            7     5   7 1
+            8     6   8 1
+            9     7   9 1
+            10    8  10 1
+            11    9  11 1
+            12   11  12 1
+            13   10  13 1
+            14   13  14 1
+            15    7  15 2
+            16    8  16 2
+            17   12  17 1
+            18   14  18 1
+            19   18  19 1
+            20   17  20 1
+///
+
+ENTRY       C14236                      Compound
+NAME        4-Heptyloxyphenol;
+            p-n-Heptyloxyphenol
+FORMULA     C13H20O2
+EXACT_MASS  208.1463
+MOL_WEIGHT  208.30
+DBLINKS     CAS: 13037-86-0
+            PubChem: 7847046
+            ChEBI: 34406
+            J-GLOBAL: J27.312K
+ATOM        15
+            1   C1a C    34.6523  -18.6284
+            2   C8x C    23.8016  -21.0244
+            3   C8x C    22.5325  -18.9581
+            4   C8x C    24.9946  -20.2917
+            5   C8x C    23.7254  -18.2254
+            6   C1b C    33.4213  -17.9617
+            7   C1b C    32.2283  -18.6944
+            8   C1b C    30.9973  -18.0276
+            9   C1b C    29.8044  -18.7603
+            10  C1b C    28.5734  -18.0936
+            11  C1b C    27.3805  -18.8263
+            12  C8y C    22.5705  -20.3575
+            13  C8y C    24.9564  -18.8921
+            14  O1a O    21.3776  -21.0902
+            15  O2a O    26.1494  -18.1594
+BOND        15
+            1     1   6 1
+            2     2   4 2
+            3     2  12 1
+            4     3   5 1
+            5     3  12 2
+            6     4  13 1
+            7     5  13 2
+            8     6   7 1
+            9     7   8 1
+            10    8   9 1
+            11    9  10 1
+            12   10  11 1
+            13   11  15 1
+            14   12  14 1
+            15   13  15 1
+///
+
+ENTRY       C14253                      Compound
+NAME        Dibutyl adipate;
+            Di-n-butyl adipate
+FORMULA     C14H26O4
+EXACT_MASS  258.1831
+MOL_WEIGHT  258.35
+DBLINKS     CAS: 105-99-7
+            PubChem: 7847063
+            ChEBI: 34686
+            J-GLOBAL: J5.048B
+ATOM        18
+            1   C1b C    21.3118  -19.2158
+            2   C1b C    22.5743  -19.9172
+            3   C1b C    20.1194  -19.9172
+            4   O7a O    23.7668  -19.2158
+            5   C1a C    18.9270  -19.2158
+            6   C7a C    24.9591  -19.9172
+            7   C1b C    26.2218  -19.2158
+            8   O6a O    24.9591  -21.3200
+            9   C1b C    27.4141  -19.9172
+            10  C1b C    28.6066  -19.2158
+            11  C1b C    29.8691  -19.9172
+            12  C7a C    31.0615  -19.2158
+            13  O7a O    32.2539  -19.9172
+            14  O6a O    31.0615  -17.8130
+            15  C1b C    33.4463  -19.2158
+            16  C1b C    34.7088  -19.9172
+            17  C1b C    35.9013  -19.2158
+            18  C1a C    37.0936  -19.9172
+BOND        17
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     6   7 1
+            7     6   8 2
+            8     7   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   12  14 2
+            14   13  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+///
+
+ENTRY       C14300                      Compound
+NAME        Di-n-pentyl phthalate;
+            Diamyl phthalate
+FORMULA     C18H26O4
+EXACT_MASS  306.1831
+MOL_WEIGHT  306.40
+BRITE       Endocrine disrupting compounds [BR:br08006]
+             Plasticizers and plastics
+              Phthalates
+               C14300  Di-n-pentyl phthalate
+DBLINKS     CAS: 131-18-0
+            PubChem: 17395300
+            ChEBI: 34680
+            J-GLOBAL: J46.841J
+ATOM        22
+            1   C8x C    23.4566  -16.2021
+            2   C8x C    23.4577  -17.5958
+            3   C8x C    24.6629  -15.5043
+            4   C8x C    24.6652  -18.2918
+            5   C8y C    25.8705  -16.2001
+            6   C8y C    25.8717  -17.5938
+            7   C7a C    27.0769  -15.5024
+            8   C7a C    27.0792  -18.2897
+            9   O7a O    28.2844  -16.1983
+            10  O7a O    28.2855  -17.5919
+            11  C1b C    29.4803  -15.5062
+            12  C1b C    30.6984  -16.2083
+            13  C1b C    29.4617  -18.2694
+            14  C1b C    30.6550  -17.5789
+            15  O6a O    27.0758  -14.0840
+            16  O6a O    27.0801  -19.8678
+            17  C1b C    31.9293  -15.4960
+            18  C1b C    31.8561  -18.2703
+            19  C1b C    33.0724  -17.5662
+            20  C1b C    33.1426  -16.1951
+            21  C1a C    34.3239  -15.5116
+            22  C1a C    34.2547  -18.2470
+BOND        22
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 2
+            5     4   6 2
+            6     5   6 1
+            7     5   7 1
+            8     6   8 1
+            9     7   9 1
+            10    8  10 1
+            11    9  11 1
+            12   11  12 1
+            13   10  13 1
+            14   13  14 1
+            15    7  15 2
+            16    8  16 2
+            17   12  17 1
+            18   14  18 1
+            19   18  19 1
+            20   17  20 1
+            21   20  21 1
+            22   19  22 1
+///
+
+ENTRY       C14465                      Compound
+NAME        4-Hexylphenol;
+            4-n-Hexylphenol
+FORMULA     C12H18O
+EXACT_MASS  178.1358
+MOL_WEIGHT  178.27
+BRITE       Lipids [BR:br08002]
+             PK  Polyketides
+              PK15 Phenolic lipids
+               PK1501 Alkyl phenols and derivatives
+                C14465  4-Hexylphenol
+DBLINKS     CAS: 2446-69-7
+            PubChem: 17395465
+            ChEBI: 34439
+            J-GLOBAL: J141.390B
+ATOM        13
+            1   C8x C    24.9504  -18.1451
+            2   C8x C    26.1879  -20.2396
+            3   C8x C    23.8113  -18.8598
+            4   C8x C    24.9789  -20.9543
+            5   C8y C    26.1736  -18.8350
+            6   C8y C    23.8253  -20.2642
+            7   C1b C    27.3829  -18.1203
+            8   C1b C    28.6064  -18.8105
+            9   C1a C    33.4717  -18.7609
+            10  C1b C    29.8156  -18.0958
+            11  C1b C    32.2482  -18.0710
+            12  C1b C    31.0390  -18.7856
+            13  O1a O    22.5461  -20.9788
+BOND        13
+            1     1   3 2
+            2     1   5 1
+            3     2   4 1
+            4     2   5 2
+            5     3   6 1
+            6     4   6 2
+            7     5   7 1
+            8     6  13 1
+            9     7   8 1
+            10    8  10 1
+            11    9  11 1
+            12   10  12 1
+            13   11  12 1
+///
+
+ENTRY       C14468                      Compound
+NAME        Diisopropyl phthalate
+FORMULA     C14H18O4
+EXACT_MASS  250.1205
+MOL_WEIGHT  250.29
+DBLINKS     CAS: 605-45-8
+            PubChem: 17395468
+            ChEBI: 34712
+            J-GLOBAL: J45.975E
+ATOM        18
+            1   C8x C    25.1873  -16.2224
+            2   C8x C    25.1873  -17.6282
+            3   C8x C    26.4047  -18.3311
+            4   C8y C    27.6223  -17.6282
+            5   C8y C    27.6223  -16.2224
+            6   C8x C    26.4047  -15.5194
+            7   C7a C    28.8585  -15.5084
+            8   C7a C    28.8585  -18.3421
+            9   O7a O    30.0687  -16.2070
+            10  O7a O    30.0687  -17.6435
+            11  O6a O    28.8582  -14.1137
+            12  O6a O    28.8582  -19.7368
+            13  C1c C    31.2559  -15.5214
+            14  C1c C    31.2559  -18.3292
+            15  C1a C    32.4549  -16.2135
+            16  C1a C    31.2559  -14.1138
+            17  C1a C    32.4549  -17.6370
+            18  C1a C    31.2559  -19.7367
+BOND        18
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     5   7 1
+            8     4   8 1
+            9     7   9 1
+            10    8  10 1
+            11    7  11 2
+            12    8  12 2
+            13    9  13 1
+            14   10  14 1
+            15   13  15 1
+            16   13  16 1
+            17   14  17 1
+            18   14  18 1
+///

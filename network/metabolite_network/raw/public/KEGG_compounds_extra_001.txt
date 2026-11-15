@@ -1,0 +1,399 @@
+ENTRY       C10438                      Compound
+NAME        Cinnamic acid;
+            Benzeneacrylic acid
+FORMULA     C9H8O2
+EXACT_MASS  148.0524
+MOL_WEIGHT  148.16
+COMMENT     Generic compound in reaction hierarchy
+            Usually trans-form [CPD:C00423]
+            Exists in cis and trans forms (the trans-form is shown here)
+DBLINKS     CAS: 621-82-9
+            PubChem: 12623
+            ChEBI: 27386 35697
+            KNApSAcK: C00000170 C00029961
+            PDB-CCD: TCA
+            J-GLOBAL: J2.087G
+ATOM        11
+            1   C8y C    19.7400  -16.2400
+            2   C8x C    19.7400  -17.6400
+            3   C8x C    20.9300  -15.4700
+            4   C8x C    21.0700  -18.2700
+            5   C8x C    22.2600  -16.1000
+            6   C8x C    22.2600  -17.5000
+            7   C2b C    18.6200  -15.5400
+            8   C2b C    17.4300  -16.2400
+            9   C6a C    16.2400  -15.5400
+            10  O6a O    15.0500  -16.2400
+            11  O6a O    16.2400  -14.1400
+BOND        11
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 2
+            5     4   6 2
+            6     5   6 1
+            7     1   7 1
+            8     7   8 2
+            9     8   9 1
+            10    9  10 1
+            11    9  11 2
+///
+
+ENTRY       C15571                      Compound
+NAME        Catechol
+FORMULA     C6H6O2
+EXACT_MASS  110.0368
+MOL_WEIGHT  110.11
+COMMENT     Generic compound in reaction hierarchy
+            Catechol (non-generic) [CPD:C00090] 
+REACTION    R07330
+ENZYME      2.1.1.6
+DBLINKS     PubChem: 17396563
+            ChEBI: 18135 33566
+            PDB-CCD: CAQ
+            J-GLOBAL: J2.921A
+ATOM        8
+            1   C8y C    26.5340  -19.9809
+            2   C8y C    25.3132  -19.2844
+            3   C8x C    26.5340  -21.3873
+            4   O1a O    27.7357  -19.2779
+            5   C8x C    24.1116  -19.9809
+            6   O1a O    25.3132  -17.8910
+            7   C8x C    25.3132  -22.0966
+            8   C8x C    24.1116  -21.3873
+BOND        8
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     5   8 1
+            8     7   8 2
+///
+
+ENTRY       C15584                      Compound
+NAME        Phenol
+FORMULA     C6H6O
+EXACT_MASS  94.0419
+MOL_WEIGHT  94.11
+COMMENT     Generic compound in reaction hierarchy
+            Phenol (non-generic) [CPD:C00146] 
+REACTION    R01240 R01242 R01243 R02996 R03979 R07342
+ENZYME      2.4.1.35        2.8.2.1         2.8.2.22        3.1.1.2         
+            3.1.6.1         3.1.8.1
+DBLINKS     PubChem: 17396576
+            ChEBI: 15882 33853
+            PDB-CCD: IPH
+            J-GLOBAL: J2.873H
+ATOM        7
+            1   C8y C    25.8937  -19.2966
+            2   C8x C    24.6922  -19.9933
+            3   C8x C    27.1143  -19.9933
+            4   O1a O    25.8937  -17.9098
+            5   C8x C    24.6922  -21.3992
+            6   C8x C    27.1143  -21.3992
+            7   C8x C    25.8937  -22.1086
+BOND        7
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     5   7 2
+            7     6   7 1
+///
+
+ENTRY       C15603                      Compound
+NAME        Hydroquinone;
+            p-Hydroquinone;
+            Quinol;
+            Reduced quinone
+COMMENT     Generic compound in reaction hierarchy
+            Hydroquinone (non-generic) [CPD:C00530]
+REACTION    R00305 R00361 R00849 R01253 R01374 R01868 R02164 R02365 
+            R03295 R06247 R07222 R07358 R07359 R07361 R07511 R09322 
+            R09489 R09493 R09494 R09497 R09518 R09656 R09658 R09742 
+            R10152 R10572 R10625 R10911 R10912 R11168 R11344 R11487 
+            R11488 R11591 R11929 R12217 R13206 R13207 R13209 R13210 
+            R13224 R13247
+MODULE      M00149  Succinate dehydrogenase, prokaryotes
+            M00150  Fumarate reductase, prokaryotes
+            M00151  Cytochrome bc1 complex respiratory unit
+ENZYME      1.1.5.3         1.1.5.4         1.1.5.7         1.1.5.8         
+            1.1.5.9         1.1.5.10        1.1.5.11        1.1.5.12        
+            1.1.5.13        1.1.98.4        1.1.99.18       1.2.5.2         
+            1.2.5.3         1.3.5.1         1.3.5.2         1.3.5.3         
+            1.3.5.6         1.4.5.1         1.5.5.2         1.5.5.3         
+            1.6.5.2         1.6.5.9         1.6.5.10        1.7.5.1         
+            1.8.5.4         1.8.5.5         1.8.5.6         1.8.5.8         
+            1.10.5.1        1.14.18.3       1.17.5.1        1.17.5.3        
+            7.1.1.3         7.1.1.8
+DBLINKS     PubChem: 17396595
+            ChEBI: 17594
+///
+
+ENTRY       C16868                      Compound
+NAME        Tauroursodeoxycholic acid;
+            N-(3alpha,7beta-Dihydroxy-5beta-cholan-24-oyl)-taurine
+FORMULA     C26H45NO6S
+EXACT_MASS  499.2968
+MOL_WEIGHT  499.71
+REMARK      Same as: D11836
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST05 Steroid conjugates
+               ST0504 Taurine conjugates
+                C16868  Tauroursodeoxycholic acid
+DBLINKS     CAS: 14605-22-2
+            PubChem: 96023383
+            ChEBI: 80774
+            LIPIDMAPS: LMST05040015
+            PDB-CCD: 5D5
+            J-GLOBAL: J339.141H
+ATOM        34
+            1   C1x C    12.9500  -24.5700
+            2   C1y C    12.9500  -25.9700
+            3   C1x C    14.1400  -26.6700
+            4   C1y C    15.3300  -25.9700
+            5   C1z C    15.3300  -24.5700
+            6   C1x C    14.1400  -23.8700
+            7   C1x C    16.5200  -26.6700
+            8   C1y C    17.7100  -25.9700
+            9   C1y C    17.7100  -24.5700
+            10  C1y C    16.5200  -23.8700
+            11  C1y C    18.9000  -23.8700
+            12  C1z C    18.9000  -22.5400
+            13  C1x C    17.7100  -21.8400
+            14  C1x C    16.5200  -22.5400
+            15  C1x C    21.2800  -23.8700
+            16  C1x C    21.2800  -22.5400
+            17  C1y C    20.0900  -21.8400
+            18  C1a C    15.3300  -23.1700
+            19  O1a O    18.8300  -26.6000
+            20  C1a C    18.9000  -21.1400
+            21  C1c C    20.0900  -20.4400
+            22  O1a O    11.6900  -26.6700
+            23  C1a C    18.9000  -19.7400
+            24  C1b C    21.2800  -19.7400
+            25  C1b C    22.4700  -20.4400
+            26  C5a C    23.6600  -19.7400
+            27  N1b N    24.8500  -20.4400
+            28  C1b C    26.0400  -19.7400
+            29  C1b C    27.2300  -20.4400
+            30  S4a S    28.4200  -19.7400
+            31  O5a O    23.6600  -18.4100
+            32  O1d O    29.6100  -19.0400
+            33  O1d O    27.7200  -18.5500
+            34  O1d O    29.1200  -20.9300
+BOND        37
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   11  15 1
+            18   15  16 1
+            19   16  17 1
+            20   12  17 1
+            21    5  18 1 #Up
+            22    8  19 1 #Up
+            23   12  20 1 #Up
+            24   17  21 1 #Up
+            25    2  22 1 #Down
+            26   21  23 1 #Down
+            27   21  24 1
+            28   24  25 1
+            29   25  26 1
+            30   26  27 1
+            31   27  28 1
+            32   28  29 1
+            33   29  30 1
+            34   26  31 2
+            35   30  32 1
+            36   30  33 2
+            37   30  34 2
+///
+
+ENTRY       C17660                      Compound
+NAME        Isochenodeoxycholate;
+            Isochenodeoxycholic acid;
+            3beta,7alpha-Dihydroxy-5beta-cholanic acid
+FORMULA     C24H40O4
+EXACT_MASS  392.2927
+MOL_WEIGHT  392.57
+PATHWAY     map00121  Secondary bile acid biosynthesis
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C17660  Isochenodeoxycholate
+DBLINKS     CAS: 566-24-5
+            PubChem: 96024003
+            ChEBI: 88102
+            LIPIDMAPS: LMST04010034
+            J-GLOBAL: J21.478G
+ATOM        28
+            1   C1x C    21.6421  -20.3784
+            2   C1y C    21.6421  -21.7709
+            3   C1x C    22.8256  -22.4671
+            4   C1y C    24.0093  -21.7709
+            5   C1z C    24.0093  -20.3784
+            6   C1x C    22.8256  -19.7518
+            7   C1x C    25.1930  -22.4671
+            8   C1y C    26.3069  -21.7709
+            9   C1y C    26.3069  -20.3784
+            10  C1y C    25.1930  -19.7518
+            11  C1y C    27.4907  -19.7518
+            12  C1z C    27.4907  -18.3593
+            13  C1x C    26.3069  -17.6631
+            14  C1x C    25.1930  -18.3593
+            15  C1x C    29.7882  -19.7518
+            16  C1x C    29.7882  -18.3593
+            17  C1y C    28.6742  -17.6631
+            18  C1c C    28.6742  -16.3401
+            19  C1b C    29.7882  -15.6439
+            20  C1b C    30.9719  -16.3401
+            21  C6a C    32.1555  -15.6439
+            22  O6a O    33.3391  -16.3401
+            23  C1a C    24.0093  -19.0555
+            24  C1a C    27.4907  -17.0364
+            25  O6a O    32.1555  -14.3210
+            26  O1a O    27.5248  -22.4459
+            27  O1a O    20.4146  -22.4734
+            28  C1a C    27.4573  -15.6653
+BOND        31
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   11  15 1
+            18   15  16 1
+            19   16  17 1
+            20   12  17 1
+            21   17  18 1
+            22   18  19 1
+            23   19  20 1
+            24   20  21 1
+            25   21  22 1
+            26    5  23 1 #Up
+            27   12  24 1 #Up
+            28   21  25 2
+            29    8  26 1 #Down
+            30    2  27 1 #Up
+            31   18  28 1 #Down
+///
+
+ENTRY       C17735                      Compound
+NAME        7-Oxatyphasterol;
+            (22R,23R,24S)-3alpha,22,23-Trihydroxy-7-oxa-5alpha-ergostane-6-one
+FORMULA     C28H48O5
+EXACT_MASS  464.3502
+MOL_WEIGHT  464.68
+REACTION    R08841 R08842 R10683
+PATHWAY     map00905  Brassinosteroid biosynthesis
+ENZYME      1.14.14.180     1.14.-.-
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST01 Sterols
+               ST0114 Brassinolides and derivatives
+                C17735  7-Oxatyphasterol
+DBLINKS     PubChem: 96024065
+            ChEBI: 185407
+            LIPIDMAPS: LMST01140003
+            J-GLOBAL: J491.112A
+ATOM        33
+            1   C1x C    19.1800  -18.4100
+            2   C1y C    19.1800  -19.8100
+            3   C1x C    20.4400  -20.5100
+            4   C1y C    21.6300  -19.8100
+            5   C1z C    21.6300  -18.4100
+            6   C1x C    20.4400  -17.7800
+            7   O1a O    17.9900  -20.5100
+            8   C1y C    22.8200  -17.7100
+            9   C1y C    24.0100  -18.4100
+            10  C7x C    22.3300  -20.7900
+            11  C1x C    24.4300  -19.5300
+            12  O7x O    23.8000  -20.7900
+            13  C1y C    25.2700  -17.7100
+            14  C1z C    25.2700  -16.3800
+            15  C1x C    24.0100  -15.6800
+            16  C1x C    22.8200  -16.3800
+            17  C1a C    21.6300  -17.0800
+            18  O6a O    22.3300  -22.1900
+            19  C1x C    27.6500  -17.7100
+            20  C1x C    27.6500  -16.3800
+            21  C1y C    26.4600  -15.6800
+            22  C1a C    25.2700  -14.9800
+            23  C1c C    26.4600  -14.2800
+            24  C1c C    27.5800  -13.5800
+            25  C1c C    28.7700  -14.2800
+            26  C1c C    29.9600  -13.6500
+            27  C1c C    31.1500  -14.2800
+            28  C1a C    32.2700  -13.6500
+            29  C1a C    31.1500  -15.6800
+            30  C1a C    25.2700  -13.5800
+            31  O1a O    27.5800  -12.2500
+            32  C1a C    29.9600  -12.2500
+            33  O1a O    28.7700  -15.6800
+BOND        36
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     2   7 1 #Down
+            8     5   8 1
+            9     8   9 1
+            10    4  10 1
+            11    9  11 1
+            12   11  12 1
+            13   12  10 1
+            14    9  13 1
+            15   13  14 1
+            16   14  15 1
+            17   15  16 1
+            18    8  16 1
+            19    5  17 1 #Up
+            20   10  18 2
+            21   13  19 1
+            22   19  20 1
+            23   20  21 1
+            24   14  21 1
+            25   14  22 1 #Up
+            26   21  23 1
+            27   23  24 1
+            28   24  25 1
+            29   25  26 1
+            30   26  27 1
+            31   27  28 1
+            32   27  29 1
+            33   23  30 1 #Down
+            34   24  31 1 #Up
+            35   26  32 1 #Up
+            36   25  33 1 #Up
+///

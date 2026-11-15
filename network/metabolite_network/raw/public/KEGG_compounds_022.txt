@@ -1,0 +1,649 @@
+ENTRY       C12289                      Compound
+NAME        Isoamyl isovalerate
+FORMULA     C10H20O2
+EXACT_MASS  172.1463
+MOL_WEIGHT  172.26
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0701 Wax monoesters
+                C12289  Isoamyl isovalerate
+DBLINKS     CAS: 659-70-1
+            PubChem: 14433
+            ChEBI: 31727
+            LIPIDMAPS: LMFA07010919
+            J-GLOBAL: J2.103B
+ATOM        12
+            1   C1a C    23.1658  -20.5853
+            2   C1c C    24.3711  -19.8806
+            3   C1b C    25.5835  -20.5784
+            4   C1b C    26.7956  -19.8735
+            5   O7a O    28.0080  -20.5713
+            6   C7a C    29.2204  -19.8664
+            7   C1b C    30.4326  -20.5642
+            8   C1c C    31.6449  -19.8595
+            9   C1a C    32.8502  -20.5573
+            10  C1a C    24.3680  -18.4779
+            11  C1a C    31.6419  -18.4568
+            12  O6a O    29.2133  -18.4639
+BOND        11
+            1     1   2 1
+            2     6   7 1
+            3     3   4 1
+            4     7   8 1
+            5     8   9 1
+            6     4   5 1
+            7     2  10 1
+            8     2   3 1
+            9     8  11 1
+            10    5   6 1
+            11    6  12 2
+///
+
+ENTRY       C12295                      Compound
+NAME        Citronellyl formate
+FORMULA     C11H20O2
+EXACT_MASS  184.1463
+MOL_WEIGHT  184.27
+BRITE       Lipids [BR:br08002]
+             PR  Prenol lipids
+              PR01 Isoprenoids
+               PR0102 C10 isoprenoids (monoterpenes)
+                PR010201 Acyclic monoterpenoids
+                 C12295  Citronellyl formate
+DBLINKS     CAS: 105-85-1
+            PubChem: 14439
+            ChEBI: 172076 179390 31406
+            LIPIDMAPS: LMPR0102010014
+            KNApSAcK: C00035565
+            J-GLOBAL: J2.854A
+ATOM        13
+            1   C1a C    22.8927  -19.3139
+            2   C2c C    24.1045  -18.6095
+            3   C2b C    25.3161  -19.3070
+            4   C1b C    26.5278  -18.6024
+            5   C1b C    27.7396  -19.2999
+            6   C1c C    28.9442  -18.5953
+            7   C1b C    30.1558  -19.2928
+            8   C1b C    31.3676  -18.5884
+            9   O2a O    32.5793  -19.2858
+            10  C7a C    33.7909  -18.5813
+            11  C1a C    24.1014  -17.2075
+            12  C1a C    28.9412  -17.1935
+            13  O6a O    33.7893  -17.1793
+BOND        12
+            1     6   7 1
+            2     3   4 1
+            3     7   8 1
+            4     8   9 1
+            5     4   5 1
+            6     9  10 1
+            7     2   3 2
+            8     2  11 1
+            9     5   6 1
+            10    6  12 1
+            11    1   2 1
+            12   10  13 2
+///
+
+ENTRY       C13747                      Compound
+NAME        1,7-Dimethylxanthine;
+            Paraxanthine
+FORMULA     C7H8N4O2
+EXACT_MASS  180.0647
+MOL_WEIGHT  180.16
+REACTION    R07921 R07922 R07939 R07940 R07943 R07945 R07954 R07957 
+            R07958 R07959 R07960 R07977
+PATHWAY     map00232  Caffeine metabolism
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+MODULE      M00915  Caffeine degradation, caffeine => xanthine
+ENZYME      1.13.12.-       1.14.13.178     1.14.13.179     1.14.14.1       
+            1.14.14.-       1.17.3.2        2.1.1.160       2.3.1.5
+BRITE       Phytochemical compounds [BR:br08003]
+             Alkaloids
+              Others
+               Purine alkaloids
+                C13747  1,7-Dimethylxanthine
+DBLINKS     CAS: 611-59-6
+            PubChem: 586336
+            ChEBI: 25858
+            KNApSAcK: C00039930
+            J-GLOBAL: J2.991B
+ATOM        13
+            1   C8y C    25.9535  -17.7237
+            2   C8y C    25.9535  -19.1518
+            3   C8y C    27.1591  -17.0157
+            4   N4y N    24.6485  -17.2906
+            5   N4x N    27.1591  -19.8362
+            6   N5x N    24.6485  -19.5847
+            7   N4y N    28.3822  -17.7531
+            8   O5x O    27.1591  -15.6346
+            9   C8x C    23.8294  -18.4494
+            10  C8y C    28.3822  -19.0992
+            11  C1a C    29.6346  -17.0741
+            12  O5x O    29.6346  -19.8012
+            13  C1a C    24.2194  -15.9845
+BOND        14
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 2
+            8     4   9 1
+            9     5  10 1
+            10    7  11 1
+            11   10  12 2
+            12    6   9 2
+            13    7  10 1
+            14    4  13 1
+///
+
+ENTRY       C13798                      Compound
+NAME        8-(5-Hexyl-furan-2-yl)-octanoic acid;
+            8-(5-Hexyl-furan-2-yl)-octanoate
+FORMULA     C18H30O3
+EXACT_MASS  294.2195
+MOL_WEIGHT  294.43
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0115 Heterocyclic fatty acids
+                C13798  8-(5-Hexyl-furan-2-yl)-octanoic acid
+DBLINKS     PubChem: 854043
+            ChEBI: 34491
+            LIPIDMAPS: LMFA01150001
+            J-GLOBAL: J464.088H
+ATOM        21
+            1   O6a O    18.7234  -18.1915
+            2   C6a C    19.9241  -17.4983
+            3   C1b C    21.1248  -18.1915
+            4   C1b C    22.3255  -17.4983
+            5   C1b C    23.5261  -18.1915
+            6   C1b C    24.7269  -17.4983
+            7   C1b C    25.9276  -18.1915
+            8   C1b C    27.1282  -17.4983
+            9   C1b C    28.3290  -18.1915
+            10  C8y C    29.5296  -17.4983
+            11  O2x O    30.7304  -18.1915
+            12  C8y C    31.9311  -17.4983
+            13  C1b C    33.1317  -18.1915
+            14  C1b C    34.3325  -17.4983
+            15  C1b C    35.5331  -18.1915
+            16  C1b C    36.7338  -17.4983
+            17  C1b C    37.9345  -18.1915
+            18  C1a C    39.1352  -17.4983
+            19  O6a O    19.9241  -16.1119
+            20  C8x C    31.5711  -16.1580
+            21  C8x C    29.9073  -16.1580
+BOND        21
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18    2  19 2
+            19   12  20 2
+            20   10  21 2
+            21   21  20 1
+///
+
+ENTRY       C13828                      Compound
+NAME        8,11,14-Eicosatrienoylethanolamide;
+            N-(8Z,11Z,14Z-Eicosatrienoyl)-ethanolamine
+FORMULA     C22H39NO2
+EXACT_MASS  349.2981
+MOL_WEIGHT  349.55
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA08 Fatty amides
+               FA0804 N-acyl ethanolamines (endocannabinoids)
+                C13828  N-(8Z,11Z,14Z-Eicosatrienoyl)-ethanolamine
+DBLINKS     PubChem: 854073
+            ChEBI: 34488
+            LIPIDMAPS: LMFA08040011
+            J-GLOBAL: J573.834B
+ATOM        25
+            1   C2b C    28.0396  -18.2180
+            2   C2b C    29.4389  -18.2180
+            3   C1b C    26.8267  -17.5183
+            4   C1b C    30.6517  -17.5183
+            5   C1b C    25.6140  -18.2180
+            6   C2b C    31.8645  -18.2180
+            7   C1b C    24.4012  -17.5183
+            8   C2b C    33.2638  -18.2180
+            9   C1b C    23.1883  -18.2180
+            10  C1b C    34.4767  -17.5183
+            11  C1b C    21.9756  -17.5183
+            12  C2b C    35.6895  -18.2180
+            13  C1b C    20.7628  -18.2180
+            14  C2b C    37.0888  -18.2180
+            15  C5a C    19.5500  -17.5183
+            16  C1b C    38.3016  -17.5183
+            17  N1b N    18.3372  -18.2180
+            18  O5a O    19.5500  -16.1190
+            19  C1b C    39.5145  -18.2180
+            20  C1b C    40.7272  -17.5183
+            21  C1b C    41.9400  -18.2180
+            22  C1a C    43.1528  -17.5183
+            23  C1b C    17.1255  -17.5179
+            24  C1b C    15.9124  -18.2178
+            25  O1a O    14.7002  -17.5175
+BOND        24
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 2
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   17  23 1
+            23   23  24 1
+            24   24  25 1
+///
+
+ENTRY       C13856                      Compound
+NAME        2-Arachidonoylglycerol;
+            2-Arachidonoyl-sn-glycerol;
+            2-AG
+FORMULA     C23H38O4
+EXACT_MASS  378.2770
+MOL_WEIGHT  378.54
+PATHWAY     map04080  Neuroactive ligand-receptor interaction
+            map04714  Thermogenesis
+            map04723  Retrograde endocannabinoid signaling
+BRITE       Lipids [BR:br08002]
+             GL  Glycerolipids
+              GL01 Monoradylglycerols
+               GL0101 Monoacylglycerols
+                C13856  2-Arachidonoyl-sn-glycerol
+DBLINKS     CAS: 53847-30-6
+            PubChem: 854101
+            ChEBI: 52392
+            LIPIDMAPS: LMGL01010023
+            PDB-CCD: ECB
+            J-GLOBAL: J671.147B
+ATOM        27
+            1   C2b C    23.3266  -22.7923
+            2   C2b C    24.7262  -22.7923
+            3   C1b C    22.1137  -23.4921
+            4   C1b C    25.9391  -23.4921
+            5   C2b C    20.9009  -22.7923
+            6   C2b C    27.1520  -22.7923
+            7   C2b C    19.5013  -22.7923
+            8   C2b C    28.5516  -22.7923
+            9   C1b C    18.2884  -23.4921
+            10  C1b C    29.7644  -23.4921
+            11  C1b C    17.0755  -22.7923
+            12  C2b C    30.9774  -22.7923
+            13  C1b C    15.8626  -23.4921
+            14  C2b C    32.3769  -22.7923
+            15  C7a C    14.6496  -22.7923
+            16  C1b C    33.5898  -23.4921
+            17  O7a O    13.4367  -23.4921
+            18  O6a O    14.6496  -21.3928
+            19  C1b C    34.8027  -22.7923
+            20  C1b C    36.0157  -23.4921
+            21  C1b C    37.2286  -22.7923
+            22  C1a C    38.4415  -23.4921
+            23  C1c C    12.2391  -22.8004
+            24  C1b C    11.0264  -23.5004
+            25  C1b C    12.2394  -21.4200
+            26  O1a O    11.0351  -20.7243
+            27  O1a O     9.8477  -22.8197
+BOND        26
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 2
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 2
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   17  23 1
+            23   23  24 1
+            24   23  25 1
+            25   25  26 1
+            26   24  27 1
+///
+
+ENTRY       C13857                      Compound
+NAME        1-Arachidonoylglycerol;
+            1-Arachidonoyl-sn-glycerol
+FORMULA     C23H38O4
+EXACT_MASS  378.2770
+MOL_WEIGHT  378.54
+BRITE       Lipids [BR:br08002]
+             GL  Glycerolipids
+              GL01 Monoradylglycerols
+               GL0101 Monoacylglycerols
+                C13857  1-Arachidonoyl-sn-glycerol
+DBLINKS     PubChem: 854102
+            ChEBI: 34071 75612
+            LIPIDMAPS: LMGL01010032
+            J-GLOBAL: J2.646.602D
+ATOM        27
+            1   C2b C    23.3266  -22.0925
+            2   C2b C    24.7262  -22.0925
+            3   C1b C    22.1137  -22.7923
+            4   C1b C    25.9391  -22.7923
+            5   C2b C    20.9009  -22.0925
+            6   C2b C    27.1520  -22.0925
+            7   C2b C    19.5013  -22.0925
+            8   C2b C    28.5516  -22.0925
+            9   C1b C    18.2884  -22.7923
+            10  C1b C    29.7644  -22.7923
+            11  C1b C    17.0755  -22.0925
+            12  C2b C    30.9774  -22.0925
+            13  C1b C    15.8626  -22.7923
+            14  C2b C    32.3769  -22.0925
+            15  C7a C    14.6496  -22.0925
+            16  C1b C    33.5898  -22.7923
+            17  O7a O    13.4367  -22.7923
+            18  O6a O    14.6496  -20.6930
+            19  C1b C    34.8027  -22.0925
+            20  C1b C    36.0157  -22.7923
+            21  C1b C    37.2286  -22.0925
+            22  C1a C    38.4415  -22.7923
+            23  C1b C    12.2390  -22.1006
+            24  C1c C    11.0265  -22.8004
+            25  O1a O     9.8477  -22.1197
+            26  C1b C    11.0259  -24.2196
+            27  O1a O     9.8388  -24.9046
+BOND        26
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 2
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 2
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   17  23 1
+            23   23  24 1
+            24   24  25 1
+            25   24  26 1
+            26   26  27 1
+///
+
+ENTRY       C13900                      Compound
+NAME        1-Palmitoyl-2-(5-keto-6-octenedioyl)-sn-glycero-3-phosphocholine
+FORMULA     C32H58NO11P
+EXACT_MASS  663.3747
+MOL_WEIGHT  663.78
+BRITE       Lipids [BR:br08002]
+             GP  Glycerophospholipids
+              GP20 Oxidized glycerophospholipids
+               GP2001 Oxidized glycerophosphocholines
+                C13900  1-Palmitoyl-2-(5-keto-6-octenedioyl)-sn-glycero-3-phosphocholine
+DBLINKS     PubChem: 854145
+            ChEBI: 34121
+            J-GLOBAL: J1.820.522J
+ATOM        45
+            1   C1c C    15.3748  -15.3356
+            2   C1b C    15.3748  -16.7276
+            3   C1b C    16.5775  -14.6399
+            4   O2b O    16.5775  -17.4167
+            5   O7a O    16.5775  -13.2546
+            6   P1b P    16.5775  -18.8083
+            7   C7a C    17.7800  -12.5587
+            8   O2b O    17.7800  -19.5043
+            9   O1c O    15.3748  -19.5043
+            10  O1c O    16.5709  -20.5314 #-
+            11  C1b C    18.9829  -13.2546
+            12  O6a O    17.7800  -11.1667
+            13  C1b C    18.9829  -18.8083
+            14  C1b C    20.1856  -12.5587
+            15  C1b C    20.1856  -19.5043
+            16  C1b C    21.3881  -13.2546
+            17  N1d N    21.3881  -18.8083 #+
+            18  C1b C    22.5908  -12.5587
+            19  C1a C    22.8008  -19.1543
+            20  C1a C    21.3881  -17.4167
+            21  C1a C    21.7463  -20.1461
+            22  C1b C    23.7935  -13.2546
+            23  C1b C    24.9960  -12.5587
+            24  C1b C    26.1987  -13.2546
+            25  C1b C    27.4013  -12.5587
+            26  C1b C    28.6040  -13.2546
+            27  C1b C    29.8067  -12.5587
+            28  C1b C    31.0093  -13.2546
+            29  C1b C    32.2119  -12.5587
+            30  C1b C    33.4144  -13.2546
+            31  C1b C    34.6170  -12.5587
+            32  C1a C    35.8196  -13.2546
+            33  O7a O    16.5825  -16.0322
+            34  C7a C    17.7868  -15.3363
+            35  C1b C    19.0020  -16.0371
+            36  C1b C    20.2124  -15.3377
+            37  O6a O    17.7862  -13.9404
+            38  C1b C    21.4388  -16.0451
+            39  C5a C    22.6484  -15.3461
+            40  C2b C    23.8637  -16.0471
+            41  C2b C    25.0749  -15.3471
+            42  C6a C    26.2894  -16.0476
+            43  O6a O    27.5011  -15.3474
+            44  O6a O    26.2900  -17.4481
+            45  O5a O    22.6478  -13.9489
+BOND        44
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     6   9 2
+            9     6  10 1
+            10    7  11 1
+            11    7  12 2
+            12    8  13 1
+            13   11  14 1
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   16  18 1
+            18   17  19 1
+            19   17  20 1
+            20   17  21 1
+            21   18  22 1
+            22   22  23 1
+            23   23  24 1
+            24   24  25 1
+            25   25  26 1
+            26   26  27 1
+            27   27  28 1
+            28   28  29 1
+            29   29  30 1
+            30   30  31 1
+            31   31  32 1
+            32    1  33 1
+            33   33  34 1
+            34   34  35 1
+            35   35  36 1
+            36   34  37 2
+            37   36  38 1
+            38   38  39 1
+            39   39  40 1
+            40   40  41 2
+            41   41  42 1
+            42   42  43 2
+            43   42  44 1
+            44   39  45 2
+///
+
+ENTRY       C13910                      Compound
+NAME        Undecylenic acid;
+            Undecenoic acid;
+            10-Undecenoic acid;
+            Undec-10-enoic acid
+FORMULA     C11H20O2
+EXACT_MASS  184.1463
+MOL_WEIGHT  184.27
+REMARK      Same as: D02159
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0103 Unsaturated fatty acids
+                Monounsaturated fatty acids
+                 C13910  Undec-10-enoic acid
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D02159)]
+             D DERMATOLOGICALS
+              D01 ANTIFUNGALS FOR DERMATOLOGICAL USE
+               D01A ANTIFUNGALS FOR TOPICAL USE
+                D01AE Other antifungals for topical use
+                 D01AE04 Undecylenic acid
+                  D02159  Undecylenic acid (JAN/USP)
+            Classification of Japanese OTC drugs [BR:br08313(D02159)]
+             Agents for integumentary system
+              58 Ringworm drugs
+               D02159  Undecylenic acid (JAN/USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D02159)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Undecylenic acid
+                D02159  Undecylenic acid (JAN/USP)
+DBLINKS     CAS: 112-38-9
+            PubChem: 854155
+            ChEBI: 35045
+            LIPIDMAPS: LMFA01030036
+            J-GLOBAL: J5.125J
+ATOM        13
+            1   C1b C    26.6638  -19.0201
+            2   C1b C    27.8283  -19.7187
+            3   C1b C    25.4528  -19.7187
+            4   C1b C    29.0394  -19.0201
+            5   C1b C    24.2418  -19.0201
+            6   C2b C    30.2504  -19.7187
+            7   C1b C    23.0308  -19.7187
+            8   C1b C    21.8197  -19.0201
+            9   C1b C    20.6086  -19.7187
+            10  C6a C    19.3976  -19.0201
+            11  O6a O    18.1866  -19.7187
+            12  O6a O    19.3976  -17.6227
+            13  C2a C    31.5080  -18.9735
+BOND        12
+            1     6  13 2
+            2     1   2 1
+            3     1   3 1
+            4     2   4 1
+            5     3   5 1
+            6     4   6 1
+            7     5   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11   10  11 1
+            12   10  12 2
+///
+
+ENTRY       C13915                      Compound
+NAME        Hexadecasphinganine
+FORMULA     C16H35NO2
+EXACT_MASS  273.2668
+MOL_WEIGHT  273.45
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP01 Sphingoid bases
+               SP0104 Sphingoid base homologs and variants
+                C13915  Hexadecasphinganine
+DBLINKS     PubChem: 854159
+            ChEBI: 71050
+            LIPIDMAPS: LMSP01040001
+            J-GLOBAL: J2.309.554H
+ATOM        19
+            1   C1b C    19.6438  -22.8129
+            2   C1b C    20.8541  -23.5070
+            3   C1c C    18.4273  -23.5070
+            4   C1b C    22.0766  -22.8129
+            5   C1c C    17.2110  -22.8129
+            6   O1a O    18.4273  -24.9140
+            7   C1b C    23.2869  -23.5070
+            8   C1b C    15.9945  -23.5070
+            9   N1a N    17.2110  -21.4122
+            10  C1b C    24.5034  -22.8129
+            11  O1a O    14.7782  -22.8129
+            12  C1b C    25.7136  -23.5070
+            13  C1b C    26.9301  -22.8129
+            14  C1b C    28.1465  -23.5070
+            15  C1b C    29.3630  -22.8129
+            16  C1b C    30.5732  -23.5070
+            17  C1b C    31.7896  -22.8129
+            18  C1b C    33.0121  -23.5070
+            19  C1a C    34.2225  -22.8129
+BOND        18
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 1 #Up
+            6     4   7 1
+            7     5   8 1
+            8     5   9 1 #Down
+            9     7  10 1
+            10    8  11 1
+            11   10  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+///

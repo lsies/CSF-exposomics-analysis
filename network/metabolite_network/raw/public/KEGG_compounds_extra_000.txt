@@ -1,0 +1,469 @@
+ENTRY       C00539                      Compound
+NAME        Aromatic acid;
+            Aromatic carboxylic acid
+FORMULA     C7H6O2
+EXACT_MASS  122.0368
+MOL_WEIGHT  122.12
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R01486 R01489 R01490
+ENZYME      1.2.1.29        1.2.1.30        1.2.3.9
+DBLINKS     PubChem: 3820
+            ChEBI: 30746
+            PDB-CCD: BEZ
+            J-GLOBAL: J2.358B
+ATOM        9
+            1   C8y C    27.2003  -20.6285
+            2   C8x C    27.2003  -22.0353
+            3   C8x C    25.9788  -19.9314
+            4   C6a C    28.4024  -19.9314
+            5   C8x C    25.9788  -22.7450
+            6   C8x C    24.7766  -20.6285
+            7   O6a O    29.6110  -20.6220
+            8   C8x C    24.7766  -22.0353
+            9   O6a O    28.4024  -18.5314
+BOND        9
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     5   8 2
+            8     6   8 1
+            9     4   9 2
+///
+
+ENTRY       C01157                      Compound
+NAME        Hydroxyproline;
+            L-Hydroxyproline;
+            trans-4-Hydroxy-L-proline
+FORMULA     C5H9NO3
+EXACT_MASS  131.0582
+MOL_WEIGHT  131.13
+COMMENT     cis-4-Hydroxy-L-proline [CPD:C01015]
+REACTION    R01252 R03291 R03293 R03295 R03296 R11819
+PATHWAY     map00330  Arginine and proline metabolism
+            map00470  D-Amino acid metabolism
+            map01100  Metabolic pathways
+            map02010  ABC transporters
+MODULE      M00948  Hydroxyproline degradation, trans-4-hydroxy-L-proline => 2-oxoglutarate
+ENZYME      1.5.1.2         1.5.5.3         1.14.11.2       1.14.11.57      
+            4.2.1.172       5.1.1.8
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Other amino acids
+                C01157  Hydroxyproline
+DBLINKS     CAS: 51-35-4
+            PubChem: 4385
+            ChEBI: 18095
+            KNApSAcK: C00001370
+            PDB-CCD: HYP
+            J-GLOBAL: J148.015D
+ATOM        9
+            1   C1y C    22.2873  -15.6249
+            2   C1x C    21.1682  -16.4416
+            3   N1x N    23.4256  -16.4416
+            4   C6a C    22.2873  -14.2292
+            5   C1y C    21.5925  -17.7794
+            6   C1x C    22.9948  -17.7794
+            7   O6a O    23.4963  -13.5280
+            8   O6a O    21.0652  -13.5346
+            9   O1a O    20.7629  -18.9113
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     4   8 2
+            8     5   9 1 #Down
+            9     5   6 1
+///
+
+ENTRY       C01697                      Compound
+NAME        Galactitol;
+            Dulcitol;
+            Dulcose
+FORMULA     C6H14O6
+EXACT_MASS  182.0790
+MOL_WEIGHT  182.17
+REACTION    R01093 R01095 R02928 R05570 R11637
+PATHWAY     map00052  Galactose metabolism
+            map01100  Metabolic pathways
+            map02060  Phosphotransferase system (PTS)
+ENZYME      1.1.1.16        1.1.1.21        1.1.1.406       2.7.1.200
+DBLINKS     CAS: 608-66-2
+            PubChem: 4837
+            ChEBI: 16813
+            KNApSAcK: C00001160
+            J-GLOBAL: J7.011D
+ATOM        12
+            1   O1a O    15.9600  -19.1800
+            2   C1b C    17.1724  -18.4800
+            3   C1c C    18.3849  -19.1800
+            4   C1c C    19.5973  -18.4800
+            5   C1c C    20.8097  -19.1800
+            6   C1c C    22.0222  -18.4800
+            7   C1b C    23.2346  -19.1800
+            8   O1a O    24.4470  -18.4800
+            9   O1a O    18.3849  -20.5798
+            10  O1a O    19.5973  -17.0800
+            11  O1a O    20.8097  -20.5799
+            12  O1a O    22.0222  -17.0803
+BOND        11
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     3   9 1 #Up
+            9     4  10 1 #Up
+            10    5  11 1 #Down
+            11    6  12 1 #Down
+///
+
+ENTRY       C01785                      Compound
+NAME        Benzenediol
+FORMULA     C6H6O2
+EXACT_MASS  110.0368
+MOL_WEIGHT  110.11
+COMMENT     Generic compound in reaction hierarchy
+            Including Catechol [CPD:C00090], Hydroquinone [CPD:C00530] and their related compounds [CPD:C15571 C15603]
+REACTION    R00083
+ENZYME      1.10.3.2
+DBLINKS     CAS: 12385-08-9
+            PubChem: 4915
+            ChEBI: 17701 18135
+            PDB-CCD: CAQ
+            J-GLOBAL: J2.921A
+ATOM        8
+            1   C8y C    22.7275  -16.8734
+            2   C8y C    22.7275  -15.4666
+            3   C8x C    21.5125  -17.5833
+            4   O1a O    23.9361  -17.5640
+            5   C8x C    21.5125  -14.7695
+            6   O1a O    23.9298  -14.7695
+            7   C8x C    20.3039  -16.8734
+            8   C8x C    20.3039  -15.4666
+BOND        8
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 2
+            7     5   8 2
+            8     7   8 1
+///
+
+ENTRY       C02154                      Compound
+NAME        Glyceraldehyde;
+            2,3-Dihydroxypropionaldehyde;
+            2,3-Dihydroxypropanal;
+            Glycerose;
+            Aldotriose
+FORMULA     C3H6O3
+EXACT_MASS  90.0317
+MOL_WEIGHT  90.08
+DBLINKS     CAS: 367-47-5
+            PubChem: 5231
+            ChEBI: 5445
+            KNApSAcK: C00007413
+            J-GLOBAL: J5.790H
+ATOM        6
+            1   C1c C    26.6700  -18.0600
+            2   C1b C    25.4800  -18.7600
+            3   C4a C    27.8600  -18.7600
+            4   O1a O    26.6700  -16.7300
+            5   O1a O    24.2900  -18.0600
+            6   O4a O    29.1200  -18.0600
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+///
+
+ENTRY       C02180                      Compound
+NAME        Phenylsulfate;
+            Phenol sulfate
+FORMULA     C6H6O4S
+EXACT_MASS  173.9987
+MOL_WEIGHT  174.18
+DBLINKS     CAS: 937-34-8
+            PubChem: 5252
+            ChEBI: 27905
+            J-GLOBAL: J32.910J
+ATOM        11
+            1   C8y C    17.8588  -15.0259
+            2   O2a O    17.8588  -13.6351
+            3   C8x C    16.6541  -15.7245
+            4   C8x C    19.0830  -15.7245
+            5   S4a S    19.0636  -12.9302
+            6   C8x C    16.6541  -17.1343
+            7   C8x C    19.0830  -17.1343
+            8   O1d O    20.2622  -12.2253
+            9   O1d O    19.7686  -14.1351
+            10  O1d O    18.3587  -11.7318
+            11  C8x C    17.8588  -17.8456
+BOND        11
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 2
+            7     5   8 1
+            8     5   9 2
+            9     5  10 2
+            10    6  11 2
+            11    7  11 1
+///
+
+ENTRY       C02226                      Compound
+NAME        2-Methylmaleate;
+            Citraconate;
+            Citraconic acid;
+            Methylmaleic acid
+FORMULA     C5H6O4
+EXACT_MASS  130.0266
+MOL_WEIGHT  130.10
+REACTION    R03896 R03897 R03898
+PATHWAY     map00290  Valine, leucine and isoleucine biosynthesis
+            map00660  C5-Branched dibasic acid metabolism
+            map01100  Metabolic pathways
+            map01210  2-Oxocarboxylic acid metabolism
+MODULE      M00535  Isoleucine biosynthesis, pyruvate => 2-oxobutanoate
+ENZYME      4.2.1.35
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C02226  Citraconic acid
+DBLINKS     CAS: 498-23-7
+            PubChem: 5291
+            ChEBI: 17626 30719
+            LIPIDMAPS: LMFA01170099
+            PDB-CCD: CIZ
+            J-GLOBAL: J6.106I
+ATOM        9
+            1   C2c C    27.6734  -21.2709
+            2   C2b C    26.4676  -21.9700
+            3   C6a C    27.6734  -19.8787
+            4   C1a C    28.9557  -21.9700
+            5   C6a C    25.1220  -21.2709
+            6   O6a O    28.8860  -19.1859
+            7   O6a O    26.4676  -19.1859
+            8   O6a O    25.1220  -20.0182
+            9   O6a O    23.9159  -21.9764
+BOND        8
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 2
+            8     5   9 1
+///
+
+ENTRY       C02356                      Compound
+NAME        (S)-2-Aminobutanoate;
+            (S)-2-Aminobutanoic acid;
+            (S)-2-Aminobutyric acid
+FORMULA     C4H9NO2
+EXACT_MASS  103.0633
+MOL_WEIGHT  103.12
+REACTION    R10991 R10992 R10993
+PATHWAY     map00270  Cysteine and methionine metabolism
+            map01100  Metabolic pathways
+            map01210  2-Oxocarboxylic acid metabolism
+ENZYME      2.6.1.42        2.6.1.44        6.3.2.2
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0110 Amino fatty acids
+                C02356  (S)-2-Aminobutanoic acid
+DBLINKS     PubChem: 5403
+            ChEBI: 28340 35619 74359
+            LIPIDMAPS: LMFA01100034
+            PDB-CCD: ABA UNK
+            J-GLOBAL: J7.749F
+ATOM        7
+            1   C1c C    23.8363  -16.9624
+            2   C6a C    25.0456  -16.2612
+            3   C1b C    22.6271  -16.2612
+            4   N1a N    23.8363  -18.3580
+            5   O6a O    26.2612  -16.9624
+            6   O6a O    25.0456  -14.8591
+            7   C1a C    21.4115  -16.9624
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+///
+
+ENTRY       C04661                      Compound
+NAME        3alpha,7alpha,12beta-Trihydroxy-5beta-cholanate;
+            3alpha,7alpha,12beta-Trihydroxy-5beta-cholanic acid
+FORMULA     C24H40O5
+EXACT_MASS  408.2876
+MOL_WEIGHT  408.57
+REACTION    R03495
+ENZYME      1.1.1.238
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C04661  3alpha,7alpha,12beta-Trihydroxy-5beta-cholanic acid
+DBLINKS     PubChem: 7245
+            ChEBI: 36240
+            LIPIDMAPS: LMST04010085
+            J-GLOBAL: J363.682H
+ATOM        29
+            1   C1y C    17.1138  -15.8699
+            2   C1y C    18.3160  -15.1660
+            3   C1y C    15.9116  -15.1784
+            4   C1y C    17.0889  -17.2713
+            5   C1z C    18.3160  -13.7831
+            6   C1x C    20.7141  -15.1784
+            7   C1z C    14.7281  -15.8761
+            8   C1x C    15.8992  -13.7956
+            9   C1x C    15.9241  -17.9379
+            10  O1a O    18.2600  -17.9567
+            11  C1y C    19.5244  -13.0855
+            12  C1y C    17.1013  -13.0917
+            13  C1a C    17.7124  -12.2820
+            14  C1x C    20.7205  -13.7895
+            15  C1y C    14.7281  -17.2466
+            16  C1x C    13.5384  -15.1972
+            17  C1a C    14.3668  -14.5680
+            18  C1c C    19.5244  -11.5238
+            19  O1a O    16.5364  -12.3436
+            20  C1x C    13.5384  -17.9379
+            21  C1x C    12.3673  -15.8761
+            22  C1b C    20.7017  -10.8511
+            23  C1a C    18.3533  -10.7686
+            24  C1y C    12.3673  -17.2466
+            25  C1b C    21.8728  -11.5301
+            26  O1a O    11.1900  -17.9193
+            27  C6a C    23.0500  -10.8574
+            28  O6a O    24.2148  -11.5426
+            29  O6a O    23.0500   -9.5693
+BOND        32
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 1
+            9     4  10 1 #Down
+            10    5  11 1
+            11    5  12 1
+            12    5  13 1 #Up
+            13    6  14 1
+            14    7  15 1
+            15    7  16 1
+            16    7  17 1 #Up
+            17   11  18 1 #Up
+            18   12  19 1 #Up
+            19   15  20 1
+            20   16  21 1
+            21   18  22 1
+            22   18  23 1
+            23   20  24 1
+            24   22  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   27  28 1
+            28   27  29 2
+            29    8  12 1
+            30    9  15 1
+            31   11  14 1
+            32   21  24 1
+///
+
+ENTRY       C05402                      Compound
+NAME        Melibiose;
+            6-O-(alpha-D-Galactopyranosyl)-D-glucopyranose;
+            D-Gal-alpha1->6D-Glucose
+FORMULA     C12H22O11
+EXACT_MASS  342.1162
+MOL_WEIGHT  342.30
+REMARK      Same as: G01275
+REACTION    R01101 R02410 R05549
+PATHWAY     map00052  Galactose metabolism
+            map01100  Metabolic pathways
+            map02010  ABC transporters
+ENZYME      3.2.1.22        3.2.1.26
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Oligosaccharides
+               Disaccharides
+                C05402  Melibiose
+DBLINKS     CAS: 585-99-9
+            PubChem: 7769
+            ChEBI: 28053
+            KNApSAcK: C00001142
+            PDB-CCD: MLB
+            J-GLOBAL: J6.735K
+ATOM        23
+            1   C1y C    25.2079  -19.5770
+            2   O2x O    23.9859  -18.8822
+            3   O2a O    26.4175  -18.8698
+            4   C1y C    25.2079  -20.9789
+            5   C1y C    22.7700  -19.5770
+            6   C1b C    27.6270  -18.1688
+            7   C1y C    23.9859  -21.6797
+            8   O1a O    26.4236  -21.7497
+            9   C1y C    22.7700  -20.9789
+            10  C1b C    21.5790  -18.8822
+            11  C1y C    28.8429  -18.8698
+            12  O1a O    23.9859  -23.0816
+            13  O1a O    21.5790  -21.6797
+            14  O1a O    20.5059  -19.7817
+            15  C1y C    28.8429  -20.2654
+            16  O2x O    30.0462  -18.1688
+            17  C1y C    30.0462  -20.9664
+            18  O1a O    27.6333  -20.8201
+            19  C1y C    31.2682  -18.8635
+            20  C1y C    31.2682  -20.2654
+            21  O1a O    30.0462  -22.3683
+            22  O1a O    32.4903  -18.1564
+            23  O1a O    32.4840  -20.9664
+BOND        24
+            1     1   2 1
+            2     1   3 1 #Down
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     4   8 1 #Down
+            8     5   9 1
+            9     5  10 1 #Up
+            10   11   6 1 #Up
+            11    7  12 1 #Up
+            12    9  13 1 #Up
+            13   10  14 1
+            14   11  15 1
+            15   11  16 1
+            16   15  17 1
+            17   15  18 1 #Down
+            18   16  19 1
+            19   17  20 1
+            20   17  21 1 #Up
+            21   19  22 1 #Either
+            22   20  23 1 #Down
+            23    7   9 1
+            24   19  20 1
+///

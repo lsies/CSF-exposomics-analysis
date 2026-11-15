@@ -1,0 +1,599 @@
+ENTRY       C00791                      Compound
+NAME        Creatinine;
+            1-Methylglycocyamidine
+FORMULA     C4H7N3O
+EXACT_MASS  113.0589
+MOL_WEIGHT  113.12
+REMARK      Same as: D03600
+REACTION    R01884 R02922 R07420
+PATHWAY     map00330  Arginine and proline metabolism
+            map01100  Metabolic pathways
+MODULE      M00047  Creatine pathway
+NETWORK     nt06033  Glycine, serine and arginine metabolism
+ENZYME      3.5.2.10        3.5.4.21
+DBLINKS     CAS: 60-27-5
+            PubChem: 4049
+            ChEBI: 16737
+            J-GLOBAL: J1.397H
+ATOM        8
+            1   C5x C    21.2772  -19.9464
+            2   N1x N    22.6768  -19.9464
+            3   C2y C    23.1093  -18.6152
+            4   N1y N    21.9770  -17.7926
+            5   C1x C    20.8447  -18.6152
+            6   O5x O    20.4545  -21.0787
+            7   N2a N    24.4286  -18.1866
+            8   C1a C    21.9770  -16.3774
+BOND        8
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     1   5 1
+            6     1   6 2
+            7     3   7 2
+            8     4   8 1
+///
+
+ENTRY       C00803                      Compound
+NAME        Pentanoate;
+            Valerate;
+            Pentanoic acid;
+            Valeric acid;
+            Valerianic acid;
+            n-Pentanoate;
+            n-Valeric acid
+FORMULA     C5H10O2
+EXACT_MASS  102.0681
+MOL_WEIGHT  102.13
+REACTION    R02938
+ENZYME      3.5.1.50
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Monocarboxylic acids
+                C00803  Valerate; Pentanoate
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0101 Straight chain fatty acids
+                C00803  Pentanoic acid
+DBLINKS     CAS: 109-52-4
+            PubChem: 4061
+            ChEBI: 17418
+            LIPIDMAPS: LMFA01010005
+            KNApSAcK: C00001208
+            PDB-CCD: LEA
+            J-GLOBAL: J1.504K
+ATOM        7
+            1   C1b C    25.0591  -16.8425
+            2   C6a C    23.8543  -16.1406
+            3   C1b C    26.2755  -16.1406
+            4   O6a O    22.6377  -16.8425
+            5   O6a O    23.8543  -14.7427
+            6   C1b C    27.4921  -16.8425
+            7   C1a C    28.6969  -16.1406
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 2
+            5     3   6 1
+            6     6   7 1
+///
+
+ENTRY       C00805                      Compound
+NAME        Salicylate;
+            o-Hydroxybenzoic acid;
+            Salicylic acid
+FORMULA     C7H6O3
+EXACT_MASS  138.0317
+MOL_WEIGHT  138.12
+REMARK      Same as: D00097
+REACTION    R00818 R02941 R02942 R05360 R05537 R06602 R06603 R06925 
+            R07695 R07709 R07710 R08838 R09539 R10448 R12640 R12642 
+            R12805
+PATHWAY     map00621  Dioxin degradation
+            map00624  Polycyclic aromatic hydrocarbon degradation
+            map00626  Naphthalene degradation
+            map00996  Biosynthesis of various alkaloids
+            map01053  Biosynthesis of siderophore group nonribosomal peptides
+            map01061  Biosynthesis of phenylpropanoids
+            map01070  Biosynthesis of plant hormones
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+            map04075  Plant hormone signal transduction
+            map04976  Bile secretion
+MODULE      M00534  Naphthalene degradation, naphthalene => salicylate
+            M00638  Salicylate degradation, salicylate => gentisate
+ENZYME      1.2.1.65        1.2.1.-         1.14.13.1       1.14.13.172     
+            1.14.13.-       2.1.1.274       3.1.1.55        3.7.1.-         
+            4.1.1.91        4.1.1.-         4.2.99.21       6.2.1.61        
+            6.2.1.65
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00097)]
+             D DERMATOLOGICALS
+              D01 ANTIFUNGALS FOR DERMATOLOGICAL USE
+               D01A ANTIFUNGALS FOR TOPICAL USE
+                D01AE Other antifungals for topical use
+                 D01AE12 Salicylic acid
+                  D00097  Salicylic acid (JP19/USP) &lt;JP&gt;
+             S SENSORY ORGANS
+              S01 OPHTHALMOLOGICALS
+               S01B ANTIINFLAMMATORY AGENTS
+                S01BC Antiinflammatory agents, non-steroids
+                 S01BC08 Salicylic acid
+                  D00097  Salicylic acid (JP19/USP) &lt;JP&gt;
+            Therapeutic category of drugs in Japan [BR:br08301(D00097)]
+             2  Agents affecting individual organs
+              26  Epidermides
+               265  Antiparasitic dermatosis agents
+                2652  Salicylic acids for external use
+                 D00097  Salicylic acid (JP19/USP)
+               266  Emollients
+                2661  Organic acids
+                 D00097  Salicylic acid (JP19/USP)
+            Classification of Japanese OTC drugs [BR:br08313(D00097)]
+             Agents for integumentary system
+              56 Purulent skin remedies
+               D00097  Salicylic acid (JP19/USP)
+              58 Ringworm drugs
+               D00097  Salicylic acid (JP19/USP)
+              59 Skin emollient (incl. pus extrusion)
+               D00097  Salicylic acid (JP19/USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D00097)]
+             Designated second-class OTC drugs
+              Inorganic and organic chemicals
+               Salicylic acid
+                D00097  Salicylic acid (JP19/USP)
+             Second-class OTC drugs
+              Inorganic and organic chemicals
+               Salicylic acid
+                D00097  Salicylic acid (JP19/USP)
+            Drug groups [BR:br08330(D00097)]
+             Transporter inhibitor
+              DG02883  SLC22A7 inhibitor
+               D00097  Salicylic acid
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00097)]
+             Chemicals
+              D00097  Salicylic acid
+              D00097  Salicylic acid spirit
+              D00097  Salicylic acid adhesive plaster
+            Drug metabolizing enzymes and transporters [br08309.html(D00097)]
+             Drug transporters
+              D00097
+DBLINKS     CAS: 69-72-7
+            PubChem: 4063
+            ChEBI: 16914 30762
+            KNApSAcK: C00000206
+            PDB-CCD: SAL
+            J-GLOBAL: J2.370A
+ATOM        10
+            1   C8y C    25.1668  -17.0718
+            2   C8y C    26.3896  -17.7698
+            3   C8x C    23.9631  -17.7698
+            4   C6a C    25.2303  -15.6826
+            5   C8x C    26.3896  -19.1783
+            6   O1a O    27.5933  -17.0718
+            7   C8x C    23.9631  -19.1783
+            8   O6a O    26.4403  -14.9847
+            9   O6a O    24.0202  -14.9910
+            10  C8x C    25.1668  -19.8890
+BOND        10
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     4   8 1
+            8     4   9 2
+            9     5  10 1
+            10    7  10 2
+///
+
+ENTRY       C00836                      Compound
+NAME        Sphinganine;
+            Dihydrosphingosine;
+            2-Amino-1,3-dihydroxyoctadecane
+FORMULA     C18H39NO2
+EXACT_MASS  301.2981
+MOL_WEIGHT  301.51
+REACTION    R02976 R02978 R02979 R06517 R06518 R06520 R06525
+PATHWAY     map00600  Sphingolipid metabolism
+            map01100  Metabolic pathways
+            map04071  Sphingolipid signaling pathway
+            map04382  Cornified envelope formation
+MODULE      M00094  Ceramide biosynthesis
+            M00099  Sphingosine biosynthesis
+NETWORK     nt06545  Cornified envelope formation
+ENZYME      1.1.1.102       1.3.99.-        1.14.18.5       2.3.1.24        
+            2.3.1.291       2.3.1.297       2.3.1.298       2.3.1.299       
+            2.7.1.91        3.1.3.114       3.5.1.23
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP01 Sphingoid bases
+               SP0102 Sphinganines
+                C00836  Sphinganine
+DBLINKS     CAS: 764-22-7
+            PubChem: 4094
+            ChEBI: 16566
+            LIPIDMAPS: LMSP01020001
+            KNApSAcK: C00007540
+            J-GLOBAL: J14.383I
+ATOM        21
+            1   C1c C    21.3803  -10.1016
+            2   C1c C    22.6085  -10.7832
+            3   N1a N    21.3680   -8.7014
+            4   C1b C    20.1765  -10.8140
+            5   C1b C    23.8183  -10.0771
+            6   O1a O    22.6207  -12.1896
+            7   O1a O    18.9605  -10.1262
+            8   C1b C    25.0343  -10.7586
+            9   C1b C    26.2441  -10.0525
+            10  C1b C    27.4662  -10.7342
+            11  C1b C    28.6761  -10.0279
+            12  C1b C    29.8921  -10.7097
+            13  C1b C    31.1080  -10.0033
+            14  C1b C    32.3240  -10.6851
+            15  C1b C    33.5338   -9.9727
+            16  C1b C    34.7559  -10.6605
+            17  C1b C    35.9658   -9.9481
+            18  C1b C    37.1879  -10.6359
+            19  C1b C    38.3916   -9.9235
+            20  C1b C    39.6198  -10.6113
+            21  C1a C    40.8236   -9.8990
+BOND        20
+            1     1   2 1
+            2     1   3 1 #Down
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1 #Up
+            6     4   7 1
+            7     5   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+///
+
+ENTRY       C00850                      Compound
+NAME        Aryl sulfate;
+            Phenol sulfate
+FORMULA     C6H6O4S
+EXACT_MASS  173.9987
+MOL_WEIGHT  174.18
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R01242 R01243 R02996
+ENZYME      2.8.2.1         2.8.2.22        3.1.6.1
+DBLINKS     PubChem: 4107
+            J-GLOBAL: J32.910J
+ATOM        11
+            1   C8y C    26.6086  -21.6057
+            2   O2a O    26.6086  -20.2149
+            3   C8x C    25.4039  -22.3043
+            4   C8x C    27.8328  -22.3043
+            5   S4a S    27.8134  -19.5100
+            6   C8x C    25.4039  -23.7141
+            7   C8x C    27.8328  -23.7141
+            8   O1d O    29.0119  -18.8051
+            9   O1d O    28.5183  -20.7149
+            10  O1d O    27.1085  -18.3116
+            11  C8x C    26.6086  -24.4254
+BOND        11
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 2
+            7     5   8 1
+            8     5   9 2
+            9     5  10 2
+            10    6  11 2
+            11    7  11 1
+///
+
+ENTRY       C00869                      Compound
+NAME        2-Oxooctadecanoic acid;
+            2-Oxostearate
+FORMULA     C18H34O3
+EXACT_MASS  298.2508
+MOL_WEIGHT  298.46
+REACTION    R03021 R03022
+ENZYME      1.1.1.98        1.1.1.99
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0106 Oxo fatty acids
+                C00869  2-Oxooctadecanoic acid
+              FA02 Octadecanoids
+               FA0200 Other Octadecanoids
+                C00869  2-Oxooctadecanoic acid
+DBLINKS     PubChem: 4126
+            ChEBI: 17162 30820
+            LIPIDMAPS: LMFA02000262
+            J-GLOBAL: J206.201A
+ATOM        21
+            1   C1b C    32.3417  -18.7937
+            2   C1b C    33.5423  -18.0975
+            3   C1b C    31.1410  -18.0975
+            4   C1b C    34.7492  -18.7937
+            5   C1b C    29.9340  -18.7937
+            6   C5a C    35.9499  -18.0975
+            7   C1b C    28.7333  -18.0975
+            8   C6a C    37.1504  -18.7937
+            9   O5a O    35.9499  -16.7117
+            10  C1b C    27.5264  -18.7937
+            11  O6a O    37.1504  -20.3878
+            12  O6a O    38.3575  -18.0975
+            13  C1b C    26.3258  -18.0975
+            14  C1b C    25.1251  -18.7937
+            15  C1b C    23.9182  -18.0975
+            16  C1b C    22.7175  -18.7937
+            17  C1b C    21.5170  -18.0975
+            18  C1b C    20.3098  -18.7937
+            19  C1b C    19.1094  -18.0975
+            20  C1b C    17.9087  -18.7937
+            21  C1a C    16.7018  -18.0975
+BOND        20
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     6   9 2
+            9     7  10 1
+            10    8  11 2
+            11    8  12 1
+            12   10  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+///
+
+ENTRY       C00946                      Compound
+NAME        Adenosine 2'-phosphate;
+            2'-Adenylic acid;
+            Adenosine-2'-monophosphate;
+            AMP 2'-phosphate
+FORMULA     C10H14N5O7P
+EXACT_MASS  347.0631
+MOL_WEIGHT  347.22
+DBLINKS     CAS: 130-49-4
+            PubChem: 4197
+            ChEBI: 28223
+            PDB-CCD: 2AM
+            J-GLOBAL: J10.017J
+ATOM        23
+            1   C1y C    28.0817  -17.2710
+            2   N4y N    28.7937  -15.2423
+            3   C1y C    27.8160  -18.5911
+            4   O2x O    26.9055  -16.5255
+            5   C8y C    27.5167  -14.8634
+            6   C8x C    29.5392  -14.1486
+            7   C1y C    26.3190  -18.5911
+            8   O2b O    28.5616  -20.1859
+            9   C1y C    25.8667  -17.3506
+            10  C8y C    27.4923  -13.5374
+            11  N5x N    26.3679  -15.5601
+            12  N5x N    28.7450  -13.1096
+            13  O1a O    25.4879  -19.8131
+            14  P1b P    29.8876  -20.1797
+            15  C1b C    24.5835  -16.9962
+            16  C8y C    26.3190  -12.8837
+            17  C8x C    25.1579  -14.8757
+            18  O1c O    31.2197  -20.1797
+            19  O1c O    29.8876  -18.8537
+            20  O1c O    29.8876  -21.5118
+            21  O1a O    23.6364  -17.9187
+            22  N5x N    25.1001  -13.5741
+            23  N1a N    26.3372  -11.4109
+BOND        25
+            1     1   2 1 #Up
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1 #Down
+            8     4   9 1
+            9     5  10 2
+            10    5  11 1
+            11    6  12 2
+            12    7  13 1 #Down
+            13    8  14 1
+            14    9  15 1 #Up
+            15   10  16 1
+            16   11  17 2
+            17   14  18 1
+            18   14  19 1
+            19   14  20 2
+            20   15  21 1
+            21   16  22 2
+            22   16  23 1
+            23    7   9 1
+            24   10  12 1
+            25   17  22 1
+///
+
+ENTRY       C00954                      Compound
+NAME        Indole-3-acetate;
+            Indole-3-acetic acid;
+            (Indol-3-yl)acetate;
+            Indoleacetate;
+            Indoleacetic acid;
+            (1H-indol-3-yl)acetate;
+            IAA
+FORMULA     C10H9NO2
+EXACT_MASS  175.0633
+MOL_WEIGHT  175.18
+REACTION    R02678 R02681 R03092 R03093 R03094 R03095 R03096 R03097 
+            R08609 R10181 R10452 R11730 R12303 R12501 R12513 R12968
+PATHWAY     map00380  Tryptophan metabolism
+            map01070  Biosynthesis of plant hormones
+            map01100  Metabolic pathways
+            map04075  Plant hormone signal transduction
+ENZYME      1.2.1.3         1.2.3.7         1.13.11.-       1.14.11.-       
+            1.14.13.168     1.14.13.235     2.1.1.278       2.4.1.121       
+            2.5.1.-         3.5.1.4         3.5.1.134       3.5.1.-         
+            3.5.5.1         4.1.1.115       6.2.1.75        6.3.2.20
+BRITE       Phytochemical compounds [BR:br08003]
+             Alkaloids
+              Alkaloids derived from tryptophan and anthranilic acid
+               Indole alkaloids
+                C00954  Indole-3-acetate
+            Pesticides [BR:br08007]
+             Pesticides
+              Plant growth regulators
+               Auxins
+                C00954  Indole-3-acetate
+DBLINKS     CAS: 87-51-4
+            PubChem: 4205
+            ChEBI: 16411
+            KNApSAcK: C00000100
+            PDB-CCD: IAC
+            J-GLOBAL: J5.156J
+ATOM        13
+            1   C8x C    17.2200  -18.5500
+            2   C8x C    17.2200  -19.9500
+            3   C8x C    18.4324  -20.6500
+            4   C8y C    19.6449  -19.9500
+            5   C8y C    19.6449  -18.5500
+            6   C8x C    18.4324  -17.8500
+            7   N4x N    20.9764  -20.3826
+            8   C8x C    21.7993  -19.2500
+            9   C8y C    20.9764  -18.1174
+            10  C1b C    21.4076  -16.7906
+            11  C6a C    22.7869  -16.4974
+            12  O6a O    23.7495  -17.5669
+            13  O6a O    23.2163  -15.1773
+BOND        14
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 2
+            10    5   9 1
+            11    9  10 1
+            12   10  11 1
+            13   11  12 2
+            14   11  13 1
+///
+
+ENTRY       C00989                      Compound
+NAME        4-Hydroxybutanoic acid;
+            4-Hydroxybutanoate;
+            4-Hydroxybutyric acid
+FORMULA     C4H8O3
+EXACT_MASS  104.0473
+MOL_WEIGHT  104.10
+REMARK      Drug group: DG00798
+COMMENT     4-Hydroxyacid (generic) [CPD:C01991]
+REACTION    R01644 R05336 R09279 R09281 R10758
+PATHWAY     map00650  Butanoate metabolism
+            map00720  Other carbon fixation pathways
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+MODULE      M00374  Dicarboxylate-hydroxybutyrate cycle
+            M00375  Hydroxypropionate-hydroxybutylate cycle
+ENZYME      1.1.1.61        1.1.1.-         2.8.3.-         6.2.1.40        
+            6.2.1.56
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Hydroxycarboxylic acids
+                C00989  4-Hydroxybutanoate
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C00989  4-Hydroxybutanoic acid
+            Drug groups [BR:br08330]
+             Neuropsychiatric agent
+              DG02030  Anesthetics
+               DG02027  General anesthetics
+                DG00798  Hydroxybutyric acid
+                 C00989  4-Hydroxybutanoic acid
+            Narcotics and psychotropics in Japan [br08308.html]
+             Narcotics by Cabinet Order Article 1 (163 substances)
+              C00989
+DBLINKS     CAS: 591-81-1
+            PubChem: 4235
+            ChEBI: 16724 30830
+            LIPIDMAPS: LMFA01050006
+            J-GLOBAL: J2.691C
+ATOM        7
+            1   C1b C    28.3500  -16.9400
+            2   C6a C    29.4700  -16.2400
+            3   C1b C    27.0900  -16.3100
+            4   O6a O    30.7300  -16.8700
+            5   O6a O    29.4700  -14.7700
+            6   C1b C    25.9700  -17.0800
+            7   O1a O    24.7100  -16.3800
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 2
+            5     3   6 1
+            6     6   7 1
+///
+
+ENTRY       C01015                      Compound
+NAME        cis-4-Hydroxy-L-proline;
+            L-Allohydroxyproline
+FORMULA     C5H9NO3
+EXACT_MASS  131.0582
+MOL_WEIGHT  131.13
+COMMENT     trans-4-Hydroxy-L-proline [CPD:C01157]
+REACTION    R07146 R11594
+ENZYME      1.1.1.104       1.14.11.56
+DBLINKS     CAS: 618-27-9
+            PubChem: 4260
+            ChEBI: 18240 28397
+            PDB-CCD: HZP
+            J-GLOBAL: J148.015D
+ATOM        9
+            1   C1y C    24.3450  -19.1097
+            2   C1x C    23.2070  -19.9403
+            3   N1x N    25.5026  -19.9403
+            4   C6a C    24.3450  -17.9039
+            5   C1y C    23.6385  -21.3007
+            6   C1x C    25.0645  -21.3007
+            7   O6a O    25.5745  -17.1908
+            8   O6a O    23.1022  -17.1975
+            9   O1a O    22.7948  -22.4518
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     4   8 2
+            8     5   9 1 #Up
+            9     5   6 1
+///

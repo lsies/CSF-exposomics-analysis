@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="756pt" height="194.4pt" viewBox="0 0 756 194.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-15T20:43:21.463301</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 194.4 
+L 756 194.4 
+L 756 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 80.563636 103.229217 
+L 283.690909 61.644522 
+" clip-path="url(#pc9c9b6985e)" style="fill: none; stroke: #eea343; stroke-width: 2.16; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 80.563636 103.229217 
+L 283.690909 144.813913 
+" clip-path="url(#pc9c9b6985e)" style="fill: none; stroke: #eea343; stroke-width: 2.16; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 479.563636 103.229217 
+L 283.690909 61.644522 
+" clip-path="url(#pc9c9b6985e)" style="fill: none; stroke: #eea343; stroke-width: 2.16; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 479.563636 103.229217 
+L 283.690909 144.813913 
+" clip-path="url(#pc9c9b6985e)" style="fill: none; stroke: #eea343; stroke-width: 2.16; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 479.563636 103.229217 
+L 660.927273 103.229217 
+" clip-path="url(#pc9c9b6985e)" style="fill: none; stroke-dasharray: 7.992,3.456; stroke-dashoffset: 0; stroke: #6ea9da; stroke-width: 2.16"/>
+   </g>
+   <g id="PathCollection_1">
+    <path d="M 80.563636 108.706443 
+C 82.016214 108.706443 83.409493 108.129328 84.43662 107.102201 
+C 85.463747 106.075074 86.040862 104.681795 86.040862 103.229217 
+C 86.040862 101.77664 85.463747 100.383361 84.43662 99.356234 
+C 83.409493 98.329107 82.016214 97.751992 80.563636 97.751992 
+C 79.111059 97.751992 77.71778 98.329107 76.690653 99.356234 
+C 75.663526 100.383361 75.086411 101.77664 75.086411 103.229217 
+C 75.086411 104.681795 75.663526 106.075074 76.690653 107.102201 
+C 77.71778 108.129328 79.111059 108.706443 80.563636 108.706443 
+z
+" clip-path="url(#pc9c9b6985e)" style="fill: #a877d4"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 14.4px; font-family: 'Arial'; text-anchor: middle; fill: #26333d" x="80.563636" y="77.09614" transform="rotate(-0 80.563636 77.09614)">Alanine</text>
+   </g>
+   <g id="PathCollection_2">
+    <path d="M 278.213684 67.121747 
+L 289.168135 67.121747 
+L 289.168135 56.167296 
+L 278.213684 56.167296 
+z
+" clip-path="url(#pc9c9b6985e)" style="fill: #8b9caa"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 14.4px; font-family: 'Arial'; text-anchor: middle; fill: #26333d" x="283.690909" y="35.511444" transform="rotate(-0 283.690909 35.511444)">RHEA:16813</text>
+   </g>
+   <g id="PathCollection_3">
+    <path d="M 278.213684 150.291139 
+L 289.168135 150.291139 
+L 289.168135 139.336687 
+L 278.213684 139.336687 
+z
+" clip-path="url(#pc9c9b6985e)" style="fill: #8b9caa"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 14.4px; font-family: 'Arial'; text-anchor: middle; fill: #26333d" x="283.690909" y="118.680836" transform="rotate(-0 283.690909 118.680836)">RHEA:25143</text>
+   </g>
+   <g id="PathCollection_4">
+    <path d="M 479.563636 111.889471 
+C 481.860363 111.889471 484.06333 110.976972 485.687361 109.352942 
+C 487.311391 107.728911 488.22389 105.525944 488.22389 103.229217 
+C 488.22389 100.932491 487.311391 98.729524 485.687361 97.105493 
+C 484.06333 95.481462 481.860363 94.568963 479.563636 94.568963 
+C 477.26691 94.568963 475.063943 95.481462 473.439912 97.105493 
+C 471.815881 98.729524 470.903382 100.932491 470.903382 103.229217 
+C 470.903382 105.525944 471.815881 107.728911 473.439912 109.352942 
+C 475.063943 110.976972 477.26691 111.889471 479.563636 111.889471 
+z
+" clip-path="url(#pc9c9b6985e)" style="fill: #eea343"/>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 14.4px; font-family: 'Arial'; text-anchor: middle; fill: #eea343" x="479.563636" y="77.09614" transform="rotate(-0 479.563636 77.09614)">KYNU</text>
+   </g>
+   <g id="PathCollection_5">
+    <path d="M 660.927273 110.975184 
+L 668.673239 103.229217 
+L 660.927273 95.483251 
+L 653.181306 103.229217 
+z
+" clip-path="url(#pc9c9b6985e)" style="fill: #6ea9da"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 14.4px; font-family: 'Arial'; fill: #26333d" transform="translate(624.775398 60.343906)">Tryptophan</text>
+    <text style="font-size: 14.4px; font-family: 'Arial'; fill: #26333d" transform="translate(624.117273 76.016843)">metabolism</text>
+   </g>
+  </g>
+  <g id="legend_1">
+   <g id="line2d_6">
+    <defs>
+     <path id="mb7deca5549" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+"/>
+    </defs>
+    <g>
+     <use xlink:href="#mb7deca5549" x="192.592969" y="186.965294" style="fill: #a877d4"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12.6px; font-family: 'Arial'; text-anchor: start" x="199.242969" y="189.415294" transform="rotate(-0 199.242969 189.415294)">Study annotation</text>
+   </g>
+   <g id="line2d_7">
+    <path d="M 299.059906 186.965294 
+L 303.259906 186.965294 
+L 307.459906 186.965294 
+" style="fill: none; stroke: #eea343; stroke-width: 2.16; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12.6px; font-family: 'Arial'; text-anchor: start" x="309.909906" y="189.415294" transform="rotate(-0 309.909906 189.415294)">Biochemical connection</text>
+   </g>
+   <g id="line2d_8">
+    <path d="M 447.526844 186.965294 
+L 451.726844 186.965294 
+L 455.926844 186.965294 
+" style="fill: none; stroke-dasharray: 7.992,3.456; stroke-dashoffset: 0; stroke: #6ea9da; stroke-width: 2.16"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12.6px; font-family: 'Arial'; text-anchor: start" x="458.376844" y="189.415294" transform="rotate(-0 458.376844 189.415294)">KEGG membership</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc9c9b6985e">
+   <rect x="18.9" y="3.888" width="718.2" height="159.408"/>
+  </clipPath>
+ </defs>
+</svg>

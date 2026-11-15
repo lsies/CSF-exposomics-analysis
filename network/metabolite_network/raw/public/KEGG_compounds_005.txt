@@ -1,0 +1,660 @@
+ENTRY       C00424                      Compound
+NAME        (S)-Lactaldehyde;
+            L-Lactaldehyde;
+            L-2-Hydroxypropionaldehyde
+FORMULA     C3H6O2
+EXACT_MASS  74.0368
+MOL_WEIGHT  74.08
+REACTION    R01446 R02257 R02258 R02259 R02260 R02261 R02262 R02263 
+            R10715 R13181
+PATHWAY     map00051  Fructose and mannose metabolism
+            map00620  Pyruvate metabolism
+            map00640  Propanoate metabolism
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.1.1.6         1.1.1.55        1.1.1.77        1.1.1.283       
+            1.2.1.22        1.2.1.49        4.1.2.17        4.1.2.19        
+            4.1.2.53        4.1.2.64
+DBLINKS     CAS: 3913-64-2
+            PubChem: 3714
+            ChEBI: 18041
+            KNApSAcK: C00019649
+            J-GLOBAL: J2.715D
+ATOM        5
+            1   C1c C    27.4555  -19.7721
+            2   C4a C    28.6296  -19.0914
+            3   C1a C    26.2753  -19.0914
+            4   O1a O    27.4555  -21.3374
+            5   O4a O    29.8034  -19.7721
+BOND        4
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 2
+///
+
+ENTRY       C00427                      Compound
+NAME        Prostaglandin H2;
+            (5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate;
+            (5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate;
+            PGH2;
+            (5Z,9alpha,11alpha,13E,15S)-9,11-Epidioxy-15-hydroxy-prosta-5,13-dienoate
+FORMULA     C20H32O5
+EXACT_MASS  352.2250
+MOL_WEIGHT  352.46
+REACTION    R00073 R01599 R02264 R02265 R02266 R02267 R02268 R09506
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04611  Platelet activation
+            map04723  Retrograde endocannabinoid signaling
+            map04726  Serotonergic synapse
+            map04921  Oxytocin signaling pathway
+            map07034  Eicosanoids
+            map07035  Prostaglandins
+ENZYME      1.1.1.-         1.11.1.20       1.14.99.1       5.3.99.2        
+            5.3.99.3        5.3.99.4        5.3.99.5
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C00427  Prostaglandin H2
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C00427  Prostaglandin H2
+DBLINKS     CAS: 42935-17-1
+            PubChem: 3717
+            ChEBI: 15554
+            LIPIDMAPS: LMFA03010010
+            J-GLOBAL: J16.429A
+ATOM        25
+            1   C1y C    22.0683  -14.7876
+            2   C1y C    22.0626  -16.1406
+            3   C1y C    20.7794  -14.3736
+            4   C1b C    23.4504  -13.5629
+            5   C1y C    20.7911  -16.5665
+            6   C2b C    23.2348  -16.8114
+            7   C1x C    19.9921  -15.4758
+            8   O2x O    19.4381  -14.3736
+            9   C2b C    24.6110  -14.2452
+            10  O2x O    19.4497  -16.5605
+            11  C2b C    24.4011  -16.1406
+            12  C2b C    25.9466  -14.2452
+            13  C1c C    25.5676  -16.8114
+            14  C1b C    27.1071  -13.5629
+            15  C1b C    26.7339  -16.1406
+            16  O1a O    25.5676  -18.1585
+            17  C1b C    28.2677  -14.2335
+            18  C1b C    27.9003  -16.8114
+            19  C1b C    29.4282  -13.5570
+            20  C1b C    29.0783  -16.1406
+            21  C6a C    30.5888  -14.2219
+            22  C1b C    30.2331  -16.8114
+            23  O6a O    31.7786  -13.5163
+            24  O6a O    30.6005  -15.5925
+            25  C1a C    31.4111  -16.1406
+BOND        26
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 1 #Down
+            8     4   9 1
+            9     5  10 1 #Down
+            10    6  11 2
+            11    9  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   13  16 1 #Down
+            16   14  17 1
+            17   15  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   21  23 1
+            23   21  24 2
+            24   22  25 1
+            25    5   7 1
+            26    8  10 1
+///
+
+ENTRY       C00430                      Compound
+NAME        5-Aminolevulinate;
+            5-Amino-4-oxopentanoate;
+            5-Amino-4-oxovaleric acid;
+            5-Amino-4-oxopentanoic acid
+FORMULA     C5H9NO3
+EXACT_MASS  131.0582
+MOL_WEIGHT  131.13
+REMARK      Same as: D07567
+REACTION    R00036 R00830 R02271 R02272
+PATHWAY     map00260  Glycine, serine and threonine metabolism
+            map00860  Porphyrin metabolism
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01240  Biosynthesis of cofactors
+            map02010  ABC transporters
+MODULE      M00121  Heme biosynthesis, plants and bacteria, glutamate => heme
+            M00846  Siroheme biosynthesis, glutamyl-tRNA => siroheme
+            M00868  Heme biosynthesis, animals and fungi, glycine => heme
+            M00926  Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme
+ENZYME      2.3.1.37        2.6.1.43        4.2.1.24        5.4.3.8
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0110 Amino fatty acids
+                C00430  5-Amino-4-oxopentanoic acid
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D07567)]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01X OTHER ANTINEOPLASTIC AGENTS
+                L01XD Sensitizers used in photodynamic/radiation therapy
+                 L01XD04 Aminolevulinic acid
+                  D07567  Aminolevulinic acid
+DBLINKS     CAS: 106-60-5
+            PubChem: 3719
+            ChEBI: 17549
+            LIPIDMAPS: LMFA01100055
+            KNApSAcK: C00007378
+            PDB-CCD: FVT
+            J-GLOBAL: J38.537I
+ATOM        9
+            1   C5a C    20.9136  -15.7908
+            2   C1b C    22.1247  -16.4865
+            3   C1b C    19.6961  -16.4865
+            4   O5a O    20.9136  -14.5265
+            5   C1b C    23.3359  -15.7908
+            6   N1a N    18.4850  -15.7908
+            7   C6a C    24.5534  -16.4865
+            8   O6a O    25.7645  -15.7908
+            9   O6a O    24.5534  -17.9608
+BOND        8
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     3   6 1
+            6     5   7 1
+            7     7   8 1
+            8     7   9 2
+///
+
+ENTRY       C00431                      Compound
+NAME        5-Aminopentanoate;
+            5-Aminopentanoic acid;
+            5-Aminovaleric acid
+FORMULA     C5H11NO2
+EXACT_MASS  117.0790
+MOL_WEIGHT  117.15
+REACTION    R02273 R02274 R02276 R02825 R12215
+PATHWAY     map00310  Lysine degradation
+            map00330  Arginine and proline metabolism
+            map00470  D-Amino acid metabolism
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+MODULE      M00956  Lysine degradation, bacteria, L-lysine => succinate
+            M00957  Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA
+ENZYME      1.2.1.19        1.4.1.12        1.21.4.1        2.6.1.48        
+            3.5.1.30        3.5.1.63
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0110 Amino fatty acids
+                C00431  5-Aminopentanoic acid
+DBLINKS     CAS: 660-88-8
+            PubChem: 3720
+            ChEBI: 15887
+            LIPIDMAPS: LMFA01100040
+            PDB-CCD: DAV KFB
+            J-GLOBAL: J38.132B
+ATOM        8
+            1   C1b C    23.3069  -17.2575
+            2   C1b C    22.0976  -16.5563
+            3   C6a C    24.5225  -16.5563
+            4   C1b C    20.8886  -17.2575
+            5   O6a O    25.7318  -17.2575
+            6   O6a O    24.5225  -15.1542
+            7   C1b C    19.6728  -16.5563
+            8   N1a N    18.4637  -17.2575
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 2
+            6     4   7 1
+            7     7   8 1
+///
+
+ENTRY       C00463                      Compound
+NAME        Indole;
+            2,3-Benzopyrrole
+FORMULA     C8H7N
+EXACT_MASS  117.0578
+MOL_WEIGHT  117.15
+REACTION    R00673 R00674 R02338 R02339 R02340 R07403 R08609 R09488 
+            R12758
+PATHWAY     map00380  Tryptophan metabolism
+            map00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            map00402  Benzoxazinoid biosynthesis
+            map00999  Biosynthesis of various plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map04974  Protein digestion and absorption
+MODULE      M00952  Benzoxazinoid biosynthesis, indoleglycerol phosphate => DIMBOA-glucoside
+ENZYME      1.13.11.17      1.14.14.153     1.14.16.-       2.5.1.-         
+            4.1.1.92        4.1.2.8         4.1.99.1        4.2.1.20        
+            4.2.1.122
+DBLINKS     CAS: 120-72-9
+            PubChem: 3747
+            ChEBI: 16881
+            KNApSAcK: C00001418
+            PDB-CCD: IND
+            J-GLOBAL: J2.920C
+ATOM        9
+            1   C8y C    31.2594  -20.7960
+            2   C8y C    31.2997  -22.1592
+            3   C8x C    32.5396  -20.3217
+            4   C8x C    30.0739  -20.0670
+            5   N4x N    32.6153  -22.6215
+            6   C8x C    30.0207  -22.8526
+            7   C8x C    33.3990  -21.4539
+            8   C8x C    28.8471  -20.7367
+            9   C8x C    28.8175  -22.1354
+BOND        10
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 2
+            7     4   8 2
+            8     6   9 2
+            9     5   7 1
+            10    8   9 1
+///
+
+ENTRY       C00466                      Compound
+NAME        Acetoin;
+            2-Acetoin;
+            3-Hydroxybutan-2-one;
+            3-Hydroxy-2-butanone;
+            Dimethylketol
+FORMULA     C4H8O2
+EXACT_MASS  88.0524
+MOL_WEIGHT  88.11
+COMMENT     (R)-Acetoin [CPD:C00810]
+            (S)-Acetoin [CPD:C01769]
+REACTION    R02343 R02344 R02345 R09524
+ENZYME      2.2.1.4         2.3.1.190
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA12 Oxygenated hydrocarbons
+               C00466  3-Hydroxybutan-2-one
+DBLINKS     CAS: 513-86-0
+            PubChem: 3750
+            ChEBI: 15688
+            LIPIDMAPS: LMFA12000020
+            J-GLOBAL: J2.623I
+ATOM        6
+            1   C1c C    22.7246  -16.5174
+            2   C5a C    21.5154  -15.8226
+            3   C1a C    23.9406  -15.8226
+            4   O1a O    22.7246  -17.9897
+            5   C1a C    20.2994  -16.5174
+            6   O5a O    21.5154  -14.5603
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 2
+///
+
+ENTRY       C00486                      Compound
+NAME        Bilirubin
+FORMULA     C33H36N4O6
+EXACT_MASS  584.2635
+MOL_WEIGHT  584.66
+REACTION    R00062 R02389 R02391 R02393 R02394 R12481
+PATHWAY     map00860  Porphyrin metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map04976  Bile secretion
+ENZYME      1.3.1.24        1.3.3.5         1.3.98.-        2.4.1.17
+DBLINKS     CAS: 635-65-4
+            PubChem: 3769
+            ChEBI: 16990
+            KNApSAcK: C00029828
+            PDB-CCD: BLR
+            J-GLOBAL: J674.476A
+ATOM        43
+            1   C8y C    26.8967  -17.9118
+            2   C8y C    28.0346  -18.7346
+            3   C1b C    25.6888  -18.6121
+            4   N4x N    27.3169  -16.5697
+            5   C8y C    29.1783  -17.9002
+            6   C1b C    27.9705  -20.1292
+            7   C8y C    24.4809  -17.9176
+            8   C8y C    28.7407  -16.5464
+            9   C1a C    30.5088  -18.3261
+            10  C8y C    23.3490  -18.7404
+            11  N4x N    24.1367  -16.6047
+            12  C2b C    29.4410  -15.3268
+            13  C8y C    22.2052  -17.9059
+            14  C1b C    23.3490  -20.1351
+            15  C8y C    22.6487  -16.5638
+            16  C2y C    28.7291  -14.1072
+            17  C1a C    20.8748  -18.3320
+            18  C1b C    22.1468  -20.8353
+            19  C2b C    21.9426  -15.3327
+            20  C2y C    29.1550  -12.7710
+            21  N1x N    27.3169  -14.1072
+            22  C6a C    22.1468  -22.2299
+            23  C2y C    22.6545  -14.1189
+            24  C2y C    28.0171  -11.9598
+            25  C2b C    30.4797  -12.3333
+            26  C5x C    26.9026  -12.7710
+            27  O6a O    20.9389  -22.9301
+            28  O6a O    23.3547  -22.9244
+            29  C2y C    22.2286  -12.7827
+            30  N1x N    24.0607  -14.1189
+            31  C1a C    28.0171  -10.5595
+            32  C2a C    31.5241  -13.2670
+            33  O5x O    26.0973  -11.7440
+            34  C2y C    23.3607  -11.9657
+            35  C1a C    20.9098  -12.3392
+            36  C5x C    24.4868  -12.7827
+            37  C2b C    23.3664  -10.5652
+            38  O5x O    25.2570  -11.6973
+            39  C2a C    24.5801   -9.8767
+            40  C1b C    29.2525  -20.8220
+            41  C6a C    29.2584  -22.2180
+            42  O6a O    30.4704  -22.9110
+            43  O6a O    28.0523  -22.9213
+BOND        46
+            1     2   5 1
+            2     2   6 1
+            3     3   7 1
+            4     4   8 1
+            5     5   9 1
+            6     7  10 2
+            7     7  11 1
+            8     8  12 1
+            9    10  13 1
+            10   10  14 1
+            11   11  15 1
+            12   12  16 2
+            13   13  17 1
+            14   14  18 1
+            15   15  19 1
+            16   16  20 1
+            17   16  21 1
+            18   18  22 1
+            19   19  23 2
+            20   20  24 2
+            21   20  25 1
+            22   21  26 1
+            23   22  27 1
+            24   22  28 2
+            25   23  29 1
+            26   23  30 1
+            27   24  31 1
+            28   25  32 2
+            29   26  33 2
+            30   29  34 2
+            31   29  35 1
+            32   30  36 1
+            33   34  37 1
+            34   36  38 2
+            35   37  39 2
+            36    5   8 2
+            37   13  15 2
+            38   24  26 1
+            39   34  36 1
+            40    6  40 1
+            41    1   2 2
+            42   40  41 1
+            43    1   3 1
+            44   41  42 2
+            45    1   4 1
+            46   41  43 1
+///
+
+ENTRY       C00500                      Compound
+NAME        Biliverdin;
+            Biliverdin IX alpha
+FORMULA     C33H34N4O6
+EXACT_MASS  582.2478
+MOL_WEIGHT  582.64
+REACTION    R00311 R02391 R02393 R02394 R03678 R05817 R05818 R09491 
+            R11579 R12481
+PATHWAY     map00860  Porphyrin metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+ENZYME      1.3.1.24        1.3.3.5         1.3.7.2         1.3.7.4         
+            1.3.7.5         1.3.7.6         1.3.98.-        1.14.14.18      
+            1.14.15.20
+DBLINKS     CAS: 114-25-0
+            PubChem: 3783
+            ChEBI: 17033 188102
+            PDB-CCD: IE5
+            J-GLOBAL: J10.100A
+ATOM        43
+            1   C8y C    26.9083  -17.8985
+            2   C8y C    28.0462  -18.7212
+            3   C2b C    25.7004  -18.5987
+            4   N4x N    27.3285  -16.5564
+            5   C8y C    29.1900  -17.8868
+            6   C1b C    28.0521  -20.1158
+            7   C2y C    24.4925  -17.9042
+            8   C8y C    28.7523  -16.5330
+            9   C1a C    30.5204  -18.3127
+            10  C2y C    23.3606  -18.7270
+            11  N2x N    24.1483  -16.5213
+            12  C2b C    29.4526  -15.3134
+            13  C2y C    22.2168  -17.8925
+            14  C1b C    23.3606  -20.1217
+            15  C2y C    22.6604  -16.5504
+            16  C2y C    28.7407  -14.0938
+            17  C1a C    20.8864  -18.3186
+            18  C1b C    22.1585  -20.8219
+            19  C2b C    21.9542  -15.3193
+            20  C2y C    29.1666  -12.7577
+            21  N1x N    27.3285  -14.0938
+            22  C6a C    22.1585  -22.2165
+            23  C2y C    22.6661  -14.1055
+            24  C2y C    28.0288  -11.9464
+            25  C2b C    30.4913  -12.3199
+            26  C5x C    26.9143  -12.7577
+            27  O6a O    20.9505  -22.9167
+            28  O6a O    23.3664  -22.9110
+            29  C2y C    22.2402  -12.7693
+            30  N1x N    24.0724  -14.1055
+            31  C1a C    28.0288  -10.5461
+            32  C2a C    31.5357  -13.2537
+            33  O5x O    26.1089  -11.7307
+            34  C2y C    23.3723  -11.9523
+            35  C1a C    20.9214  -12.3258
+            36  C5x C    24.4985  -12.7693
+            37  C2b C    23.3780  -10.5519
+            38  O5x O    25.2686  -11.6840
+            39  C2a C    24.5917   -9.8633
+            40  C1b C    29.2642  -20.8087
+            41  C6a C    29.2702  -22.2048
+            42  O6a O    30.4821  -22.8976
+            43  O6a O    28.0640  -22.9079
+BOND        46
+            1     2   5 1
+            2     2   6 1
+            3     3   7 2
+            4     4   8 1
+            5     5   9 1
+            6     7  10 1
+            7     7  11 1
+            8     8  12 1
+            9    10  13 2
+            10   10  14 1
+            11   11  15 2
+            12   12  16 2
+            13   13  17 1
+            14   14  18 1
+            15   15  19 1
+            16   16  20 1
+            17   16  21 1
+            18   18  22 1
+            19   19  23 2
+            20   20  24 2
+            21   20  25 1
+            22   21  26 1
+            23   22  27 1
+            24   22  28 2
+            25   23  29 1
+            26   23  30 1
+            27   24  31 1
+            28   25  32 2
+            29   26  33 2
+            30   29  34 2
+            31   29  35 1
+            32   30  36 1
+            33   34  37 1
+            34   36  38 2
+            35   37  39 2
+            36    5   8 2
+            37   13  15 1
+            38   24  26 1
+            39   34  36 1
+            40    6  40 1
+            41    1   2 2
+            42   40  41 1
+            43    1   3 1
+            44   41  42 2
+            45    1   4 1
+            46   41  43 1
+///
+
+ENTRY       C00530                      Compound
+NAME        Hydroquinone;
+            p-Benzenediol;
+            1,4-Benzenediol;
+            1,4-Dihydroxybenzene;
+            Benzene-1,4-diol;
+            Quinol;
+            4-Hydroxyphenol
+FORMULA     C6H6O2
+EXACT_MASS  110.0368
+MOL_WEIGHT  110.11
+REMARK      Same as: D00073
+REACTION    R01297 R01299 R02363 R02489 R05133 R05244 R05246 R05267 
+            R05482 R05769 R06851 R06893 R09105 R11659 R13227 R13388 
+            R13684
+PATHWAY     map00350  Tyrosine metabolism
+            map00361  Chlorocyclohexane and chlorobenzene degradation
+            map00362  Benzoate degradation
+            map00363  Bisphenol degradation
+            map00627  Aminobenzoate degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map05208  Chemical carcinogenesis - reactive oxygen species
+NETWORK     nt06251  CYP-mediated ROS formation (cancer)
+ENZYME      1.1.5.15        1.6.5.6         1.8.5.7         1.8.5.10        
+            1.13.11.66      1.14.13.64      1.14.13.-       1.14.18.1       
+            1.97.1.14       2.4.1.218       2.5.1.-         3.1.1.2         
+            3.1.1.-         3.2.1.86        4.1.1.62
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00073)]
+             D DERMATOLOGICALS
+              D11 OTHER DERMATOLOGICAL PREPARATIONS
+               D11A OTHER DERMATOLOGICAL PREPARATIONS
+                D11AX Other dermatologicals
+                 D11AX11 Hydroquinone
+                  D00073  Hydroquinone (USP)
+            Drug groups [BR:br08330(D00073)]
+             Cardiovascular agent
+              DG01617  Catecholamine synthesis inhibitors
+               D00073  Hydroquinone
+            Target-based classification of drugs [BR:br08310(D00073)]
+             Enzymes
+              Oxidoreductases (EC1)
+               Other monooxygenases
+                TYR
+                 D00073  Hydroquinone (USP)
+            Dietary phytochemicals [br08012.html]
+             Other phytochemicals
+              C00530
+DBLINKS     CAS: 123-31-9
+            PubChem: 3812
+            ChEBI: 17594
+            KNApSAcK: C00002656
+            PDB-CCD: HQE
+            J-GLOBAL: J2.929G
+ATOM        8
+            1   C8y C    23.5900  -17.5133
+            2   C8x C    22.3815  -16.7971
+            3   C8x C    24.8050  -16.7971
+            4   O1a O    23.5837  -18.9007
+            5   C8x C    22.3815  -15.3901
+            6   C8x C    24.8050  -15.3901
+            7   C8y C    23.5900  -14.6995
+            8   O1a O    23.5837  -13.3056
+BOND        8
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     5   7 2
+            7     7   8 1
+            8     6   7 1
+///
+
+ENTRY       C00577                      Compound
+NAME        D-Glyceraldehyde
+FORMULA     C3H6O3
+EXACT_MASS  90.0317
+MOL_WEIGHT  90.08
+REACTION    R01036 R01041 R01059 R01752 R02568 R08570 R08571 R10050 
+            R10324 R10615 R10616
+PATHWAY     map00030  Pentose phosphate pathway
+            map00051  Fructose and mannose metabolism
+            map00052  Galactose metabolism
+            map00561  Glycerolipid metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+MODULE      M00309  Non-phosphorylative Entner-Doudoroff pathway, gluconate/galactonate => glycerate
+ENZYME      1.1.1.2         1.1.1.21        1.1.1.72        1.1.1.372       
+            1.2.1.3         1.2.1.89        1.2.7.5         1.2.99.8        
+            2.2.1.11        2.7.1.28        4.1.2.13        4.1.2.51        
+            4.1.2.55
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Monosaccharides
+               Aldoses
+                C00577  D-Glyceraldehyde
+DBLINKS     CAS: 453-17-8 367-47-5
+            PubChem: 3856
+            ChEBI: 17378
+            PDB-CCD: 3GR
+            J-GLOBAL: J5.790H J9.119G
+ATOM        6
+            1   C1c C    26.4600  -20.2300
+            2   C1b C    25.2700  -20.9300
+            3   C4a C    27.7200  -20.9300
+            4   O1a O    26.4600  -18.8300
+            5   O1a O    24.0800  -20.2300
+            6   O4a O    28.9100  -20.2300
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 2
+///

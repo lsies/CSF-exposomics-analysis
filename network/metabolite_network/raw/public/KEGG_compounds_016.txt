@@ -1,0 +1,590 @@
+ENTRY       C05466                      Compound
+NAME        Glycochenodeoxycholate;
+            Glycochenodeoxycholic acid;
+            Chenodeoxyglycocholate
+FORMULA     C26H43NO5
+EXACT_MASS  449.3141
+MOL_WEIGHT  449.62
+REACTION    R03975 R07289 R08744
+PATHWAY     map00120  Primary bile acid biosynthesis
+            map00121  Secondary bile acid biosynthesis
+            map04976  Bile secretion
+            map04979  Cholesterol metabolism
+ENZYME      2.3.1.65        2.8.2.34        3.5.1.24
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0402 C26 bile acids, alcohols, and derivatives
+                C05466  Glycochenodeoxycholic acid
+              ST05 Steroid conjugates
+               ST0503 Glycine conjugates
+                C05466  Glycochenodeoxycholate
+DBLINKS     CAS: 640-79-9
+            PubChem: 7826
+            ChEBI: 36274
+            LIPIDMAPS: LMST05030008
+            PDB-CCD: CHO
+            J-GLOBAL: J22.601G
+ATOM        32
+            1   C1y C    24.7449  -21.0875
+            2   C1y C    23.4790  -21.7702
+            3   C1z C    24.6925  -19.7224
+            4   C1x C    27.0435  -21.0468
+            5   C1y C    22.3006  -21.0701
+            6   C1y C    23.4790  -23.1411
+            7   C1y C    25.8826  -19.0457
+            8   C1x C    23.5023  -19.0223
+            9   C1a C    24.6809  -18.3456
+            10  C1x C    27.0494  -19.7517
+            11  C1z C    21.1047  -21.7585
+            12  C1x C    22.3123  -19.6991
+            13  C1x C    22.2890  -23.8178
+            14  O1a O    24.6749  -23.8295
+            15  C1c C    25.8942  -17.6748
+            16  C1y C    21.0988  -23.1294
+            17  C1x C    19.9204  -21.0642
+            18  C1a C    21.0930  -20.3817
+            19  C1b C    27.0902  -17.0038
+            20  C1a C    24.7159  -16.9747
+            21  C1x C    19.9204  -23.8178
+            22  C1x C    18.7245  -21.7585
+            23  C1b C    28.2861  -17.6805
+            24  C1y C    18.7245  -23.1294
+            25  C5a C    29.4704  -16.9981
+            26  O1a O    17.5402  -23.8178
+            27  N1b N    30.6605  -17.6805
+            28  O5a O    29.4704  -15.6213
+            29  C1b C    31.8447  -16.9981
+            30  C6a C    33.0349  -17.6805
+            31  O6a O    34.2192  -16.9921
+            32  O6a O    33.0349  -19.0574
+BOND        35
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    6  14 1 #Down
+            14    7  15 1
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   15  19 1
+            19   15  20 1 #Down
+            20   16  21 1
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   25  28 2
+            28   27  29 1
+            29   29  30 1
+            30   30  31 1
+            31   30  32 2
+            32    7  10 1
+            33    8  12 1
+            34   13  16 1
+            35   22  24 1
+///
+
+ENTRY       C05472                      Compound
+NAME        Urocortisol;
+            Tetrahydrocortisol;
+            5beta-Pregnane-3alpha,11beta,17alpha,21-tetrol-20-one
+FORMULA     C21H34O5
+EXACT_MASS  366.2406
+MOL_WEIGHT  366.49
+REACTION    R04832 R04833 R04834
+PATHWAY     map00140  Steroid hormone biosynthesis
+            map01100  Metabolic pathways
+ENZYME      1.1.1.50        1.1.1.53
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0203 C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+                C05472  Urocortisol
+DBLINKS     CAS: 53-02-1
+            PubChem: 7832
+            ChEBI: 28320
+            LIPIDMAPS: LMST02030143
+            J-GLOBAL: J39.547A
+ATOM        26
+            1   C1x C    15.2600  -16.5200
+            2   C1y C    15.2600  -17.9200
+            3   C1x C    16.4724  -18.6200
+            4   C1y C    17.6849  -17.9200
+            5   C1z C    17.6849  -16.5200
+            6   C1x C    16.4724  -15.8200
+            7   C1x C    18.8973  -18.6200
+            8   C1x C    20.1097  -17.9200
+            9   C1y C    20.1097  -16.5200
+            10  C1y C    18.8973  -15.8200
+            11  C1y C    21.3222  -15.8200
+            12  C1z C    21.3222  -14.4200
+            13  C1x C    20.1097  -13.7200
+            14  C1y C    18.8973  -14.4200
+            15  C1x C    23.7470  -15.8200
+            16  C1x C    23.7470  -14.4200
+            17  C1z C    22.5346  -13.7200
+            18  C1a C    17.6849  -15.1202
+            19  O1a O    17.6869  -13.7212
+            20  C1a C    21.3222  -13.0200
+            21  O1a O    14.0476  -18.6200
+            22  C5a C    22.5346  -12.3200
+            23  C1b C    23.7511  -11.6177
+            24  O5a O    21.3262  -11.6223
+            25  O1a O    24.9486  -12.3093
+            26  O1a O    23.7470  -13.0200
+BOND        29
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   11  15 1
+            18   15  16 1
+            19   16  17 1
+            20   12  17 1
+            21    5  18 1 #Up
+            22   14  19 1 #Up
+            23   12  20 1 #Up
+            24    2  21 1 #Down
+            25   17  22 1
+            26   22  23 1
+            27   22  24 2
+            28   23  25 1
+            29   17  26 1 #Down
+///
+
+ENTRY       C05488                      Compound
+NAME        11-Deoxycortisol;
+            Cortodoxone
+FORMULA     C21H30O4
+EXACT_MASS  346.2144
+MOL_WEIGHT  346.46
+REMARK      Same as: D03595
+REACTION    R02843 R03326 R04849
+PATHWAY     map00140  Steroid hormone biosynthesis
+            map01100  Metabolic pathways
+            map04927  Cortisol synthesis and secretion
+            map04934  Cushing syndrome
+MODULE      M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone
+ENZYME      1.1.1.145       1.14.14.16      1.14.15.4       5.3.3.1
+BRITE       Compounds with biological roles [BR:br08001]
+             Hormones and transmitters
+              Steroid hormones
+               Glucocorticoids
+                C05488  11-Deoxycortisol
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0203 C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+                C05488  11-Deoxycortisol
+DBLINKS     CAS: 152-58-9
+            PubChem: 7847
+            ChEBI: 181455 28324
+            LIPIDMAPS: LMST02030086
+            J-GLOBAL: J5.867J
+ATOM        25
+            1   C1y C    24.9786  -14.0059
+            2   C1y C    23.7709  -14.7118
+            3   C1z C    24.9786  -12.6290
+            4   C1x C    27.3765  -14.0176
+            5   C1y C    22.5806  -14.0293
+            6   C1x C    23.7825  -16.0947
+            7   C1z C    26.1804  -11.9405
+            8   C1x C    23.7650  -11.9464
+            9   C1a C    24.9727  -11.2754
+            10  C1x C    27.3765  -12.6407
+            11  C1z C    21.3962  -14.7235
+            12  C1x C    22.6391  -12.6407
+            13  C1x C    22.5922  -16.7714
+            14  C5a C    26.1804  -10.5929
+            15  O1a O    27.1198  -11.4563
+            16  C2y C    21.3962  -16.0887
+            17  C1x C    20.2177  -14.0467
+            18  C1a C    21.3845  -13.3699
+            19  C1b C    27.3590   -9.9161
+            20  O5a O    25.0136   -9.9044
+            21  C2x C    20.2177  -16.7714
+            22  C1x C    19.0450  -14.7235
+            23  O1a O    28.5726  -10.6220
+            24  C5x C    19.0450  -16.0887
+            25  O5x O    17.8723  -16.7539
+BOND        28
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    7  14 1
+            14    7  15 1 #Down
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   14  19 1
+            19   14  20 2
+            20   16  21 2
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   24  25 2
+            25    7  10 1
+            26    8  12 1
+            27   13  16 1
+            28   22  24 1
+///
+
+ENTRY       C05574                      Compound
+NAME        3-Aminopentanedioate;
+            Isoglutamate;
+            Isoglutamic acid;
+            3-Aminopentanedioic acid
+FORMULA     C5H9NO4
+EXACT_MASS  147.0532
+MOL_WEIGHT  147.13
+REACTION    R10153
+ENZYME      5.4.3.9
+DBLINKS     PubChem: 7900
+            ChEBI: 28791
+            PDB-CCD: B3D
+            J-GLOBAL: J80.351K
+ATOM        10
+            1   O6a O    11.2000  -10.9900
+            2   C6a C    12.4124  -10.2900
+            3   C1b C    13.6249  -10.9900
+            4   C1c C    14.8373  -10.2900
+            5   C1b C    16.0497  -10.9900
+            6   C6a C    17.2622  -10.2900
+            7   O6a O    18.4746  -10.9900
+            8   O6a O    12.4124   -8.8902
+            9   O6a O    17.2622   -8.8903
+            10  N1a N    14.8373   -8.8900
+BOND        9
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     2   8 2
+            8     6   9 2
+            9     4  10 1
+///
+
+ENTRY       C05583                      Compound
+NAME        3-Methoxy-4-hydroxyphenylglycolaldehyde
+FORMULA     C9H10O4
+EXACT_MASS  182.0579
+MOL_WEIGHT  182.17
+REACTION    R04891 R04892 R04893 R04894
+PATHWAY     map00350  Tyrosine metabolism
+            map01100  Metabolic pathways
+NETWORK     nt06544  Neuroactive ligand signaling
+ENZYME      1.2.1.5         1.4.3.4
+DBLINKS     PubChem: 7909
+            ChEBI: 27932
+            J-GLOBAL: J2.370.679B
+ATOM        13
+            1   C8x C    19.6000  -20.9300
+            2   C8y C    19.6000  -22.3300
+            3   C8y C    20.8124  -23.0300
+            4   C8x C    22.0249  -22.3300
+            5   C8y C    22.0249  -20.9300
+            6   C8x C    20.8124  -20.2300
+            7   C1c C    23.2624  -20.2300
+            8   C4a C    24.4749  -20.9300
+            9   O4a O    25.6873  -20.2300
+            10  O1a O    23.2686  -18.8303
+            11  O2a O    20.8124  -24.4298
+            12  C1a C    19.5832  -25.1397
+            13  O1a O    18.3876  -23.0300
+BOND        13
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     5   7 1
+            8     7   8 1
+            9     8   9 2
+            10    7  10 1
+            11    3  11 1
+            12   11  12 1
+            13    2  13 1
+///
+
+ENTRY       C05593                      Compound
+NAME        3-Hydroxyphenylacetate;
+            3-Hydroxyphenylacetic acid
+FORMULA     C8H8O3
+EXACT_MASS  152.0473
+MOL_WEIGHT  152.15
+REACTION    R02515 R02517 R03299 R06791
+PATHWAY     map00350  Tyrosine metabolism
+            map00360  Phenylalanine metabolism
+            map00643  Styrene degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.14.13.63      1.14.14.9
+DBLINKS     CAS: 621-37-4
+            PubChem: 7917
+            ChEBI: 17445
+            PDB-CCD: 3HP
+            J-GLOBAL: J3.004J
+ATOM        11
+            1   C8y C    22.0518  -22.4759
+            2   C8x C    22.0518  -23.8747
+            3   C8x C    23.2673  -24.5707
+            4   C8x C    24.4755  -23.8747
+            5   C8y C    24.4755  -22.4759
+            6   C8x C    23.2673  -21.7728
+            7   O1a O    20.8397  -21.7722
+            8   C1b C    25.6885  -21.7737
+            9   C6a C    26.9005  -22.4776
+            10  O6a O    28.1136  -21.7755
+            11  O6a O    26.8994  -23.8766
+BOND        11
+            1     5   6 2
+            2     6   1 1
+            3     1   7 1
+            4     1   2 2
+            5     5   8 1
+            6     2   3 1
+            7     8   9 1
+            8     3   4 2
+            9     9  10 1
+            10    4   5 1
+            11    9  11 2
+///
+
+ENTRY       C05627                      Compound
+NAME        4-Hydroxystyrene;
+            4-Vinylphenol
+FORMULA     C8H8O
+EXACT_MASS  120.0575
+MOL_WEIGHT  120.15
+REACTION    R02952 R13380 R13673 R13705
+ENZYME      1.3.1.131       1.13.11.94      2.1.1.407       4.1.1.102
+DBLINKS     CAS: 2628-17-3
+            PubChem: 7942
+            ChEBI: 1883
+            PDB-CCD: 4VP
+            J-GLOBAL: J38.247G
+ATOM        9
+            1   C8y C    21.1400  -20.5800
+            2   C8x C    21.1400  -21.9800
+            3   C8x C    22.3524  -22.6800
+            4   C8y C    23.5649  -21.9800
+            5   C8x C    23.5649  -20.5800
+            6   C8x C    22.3524  -19.8800
+            7   O1a O    24.7960  -22.6910
+            8   C2b C    19.9276  -19.8800
+            9   C2a C    18.7321  -20.5704
+BOND        9
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     4   7 1
+            8     1   8 1
+            9     8   9 2
+///
+
+ENTRY       C05629                      Compound
+NAME        Phenylpropanoate;
+            3-Phenylpropanoate;
+            3-Phenyl-propionic acid;
+            3-Phenylpropanoic acid;
+            3-Phenylpropionic acid
+FORMULA     C9H10O2
+EXACT_MASS  150.0681
+MOL_WEIGHT  150.17
+REACTION    R02252 R04899 R06780 R06782 R12535
+PATHWAY     map00360  Phenylalanine metabolism
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+ENZYME      1.3.1.31        1.3.8.15        1.14.12.19
+BRITE       Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C05629
+DBLINKS     CAS: 501-52-0
+            PubChem: 7943
+            ChEBI: 28631
+            PDB-CCD: HCI
+            J-GLOBAL: J2.601H
+ATOM        11
+            1   C8y C    28.1642  -20.9195
+            2   C1b C    28.1577  -19.5290
+            3   C8x C    26.9594  -21.6180
+            4   C8x C    29.3880  -21.6180
+            5   C1b C    29.3623  -18.8242
+            6   C8x C    26.9594  -23.0277
+            7   C8x C    29.3880  -23.0277
+            8   C6a C    29.3623  -17.4335
+            9   C8x C    28.1642  -23.7390
+            10  O6a O    30.5671  -16.7352
+            11  O6a O    28.1513  -16.7415
+BOND        11
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 2
+            7     5   8 1
+            8     6   9 2
+            9     8  10 1
+            10    8  11 2
+            11    7   9 1
+///
+
+ENTRY       C05843                      Compound
+NAME        N1-Methyl-4-pyridone-5-carboxamide;
+            N'-Methyl-4-pyridone-5-carboxamide;
+            1-Methyl-4-pyridone-3-carboximide
+FORMULA     C7H8N2O2
+EXACT_MASS  152.0586
+MOL_WEIGHT  152.15
+REACTION    R04085
+PATHWAY     map00760  Nicotinate and nicotinamide metabolism
+            map01100  Metabolic pathways
+ENZYME      1.2.3.1
+DBLINKS     CAS: 769-49-3
+            PubChem: 8136
+            ChEBI: 27838
+            J-GLOBAL: J367.452E
+ATOM        11
+            1   C8y C    35.1585  -17.5985
+            2   C8y C    33.9462  -16.9021
+            3   C8x C    35.1649  -18.9978
+            4   C5a C    36.3642  -16.8829
+            5   C8x C    32.7405  -17.6050
+            6   O5x O    33.9333  -15.4965
+            7   N4y N    33.9591  -19.7007
+            8   N1a N    37.5765  -17.5856
+            9   O5a O    36.3579  -15.4770
+            10  C8x C    32.7468  -19.0041
+            11  C1a C    33.9528  -21.0998
+BOND        11
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+            7     4   8 1
+            8     4   9 2
+            9     5  10 2
+            10    7  11 1
+            11    7  10 1
+///
+
+ENTRY       C05953                      Compound
+NAME        Prostaglandin A2;
+            PGA2;
+            Medullin
+FORMULA     C20H30O4
+EXACT_MASS  334.2144
+MOL_WEIGHT  334.45
+REACTION    R02583 R05056
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04726  Serotonergic synapse
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C05953  Prostaglandin A2
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C05953  Prostaglandin A2
+DBLINKS     PubChem: 8237
+            ChEBI: 27820
+            LIPIDMAPS: LMFA03010035
+            PDB-CCD: 8SU
+            J-GLOBAL: J15.713I
+ATOM        24
+            1   C1y C    21.7541  -14.9952
+            2   C1y C    21.7720  -16.3920
+            3   C5x C    20.5199  -14.5142
+            4   C1b C    23.0239  -13.8592
+            5   C2x C    20.4273  -16.7571
+            6   C2b C    22.9775  -17.0701
+            7   C2x C    19.6563  -15.5980
+            8   O5x O    20.1549  -13.1520
+            9   C2b C    24.2294  -14.5547
+            10  C2b C    24.1773  -16.3747
+            11  C2b C    25.6147  -14.5488
+            12  C1c C    25.3827  -17.0527
+            13  C1b C    26.8145  -13.8476
+            14  C1b C    26.5768  -16.3631
+            15  O1a O    25.3770  -18.4554
+            16  C1b C    28.0200  -14.5372
+            17  C1b C    27.7766  -17.0470
+            18  C1b C    29.2140  -13.8360
+            19  C1b C    28.9821  -16.3572
+            20  C6a C    30.4195  -14.5199
+            21  C1b C    30.1877  -17.0411
+            22  O6a O    31.6134  -13.8187
+            23  O6a O    30.4252  -15.9051
+            24  C1a C    31.3932  -16.3456
+BOND        24
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 2
+            8     4   9 1
+            9     6  10 2
+            10    9  11 2
+            11   10  12 1
+            12   11  13 1
+            13   12  14 1
+            14   12  15 1 #Down
+            15   13  16 1
+            16   14  17 1
+            17   16  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   20  23 2
+            23   21  24 1
+            24    5   7 2
+///

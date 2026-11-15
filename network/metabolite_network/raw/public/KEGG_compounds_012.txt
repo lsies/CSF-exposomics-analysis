@@ -1,0 +1,534 @@
+ENTRY       C02990                      Compound
+NAME        L-Palmitoylcarnitine
+FORMULA     C23H45NO4
+EXACT_MASS  399.3349
+MOL_WEIGHT  399.61
+REACTION    R01923
+PATHWAY     map00071  Fatty acid degradation
+            map01212  Fatty acid metabolism
+NETWORK     nt06020  beta-Oxidation in mitochondria
+ENZYME      2.3.1.21
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0707 Fatty acyl carnitines
+                C02990  L-Palmitoylcarnitine
+DBLINKS     CAS: 2364-67-2
+            PubChem: 5899
+            ChEBI: 17490
+            LIPIDMAPS: LMFA07070004
+            J-GLOBAL: J410.749G
+ATOM        28
+            1   C1c C    33.9199   -8.2220
+            2   O7a O    32.7219   -8.9099
+            3   C1b C    35.1124   -8.9041
+            4   C1b C    33.9143   -6.8405
+            5   C7a C    31.5298   -8.2220
+            6   N1d N    35.1180  -10.2855 #+
+            7   C6a C    35.1124   -6.1470
+            8   C1b C    30.3376   -8.9099
+            9   O6a O    31.5298   -6.8463
+            10  C1a C    36.4480  -10.9045
+            11  C1a C    33.9199  -10.9790
+            12  C1a C    35.4046  -11.8218
+            13  O6a O    35.1066   -4.7713
+            14  O6a O    36.3046   -6.8405 #-
+            15  C1b C    29.0976   -8.1900
+            16  C1b C    27.8851   -8.8900
+            17  C1b C    26.6727   -8.1900
+            18  C1b C    25.4603   -8.8900
+            19  C1b C    24.2478   -8.1900
+            20  C1b C    23.0354   -8.8900
+            21  C1b C    21.8230   -8.1900
+            22  C1b C    20.6105   -8.8900
+            23  C1b C    19.3981   -8.1900
+            24  C1b C    18.1856   -8.8900
+            25  C1b C    16.9732   -8.1900
+            26  C1b C    15.7608   -8.8900
+            27  C1b C    14.5483   -8.1900
+            28  C1a C    13.3447   -8.8850
+BOND        27
+            1     1   2 1 #Down
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6  10 1
+            10    6  11 1
+            11    6  12 1
+            12    7  13 2
+            13    7  14 1
+            14    8  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   22  23 1
+            23   23  24 1
+            24   24  25 1
+            25   25  26 1
+            26   26  27 1
+            27   27  28 1
+///
+
+ENTRY       C03017                      Compound
+NAME        O-Propanoylcarnitine;
+            O-Propionylcarnitine
+FORMULA     C10H19NO4
+EXACT_MASS  217.1314
+MOL_WEIGHT  217.26
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0707 Fatty acyl carnitines
+                C03017  O-Propanoylcarnitine
+DBLINKS     PubChem: 5923
+            ChEBI: 28867
+            LIPIDMAPS: LMFA07070005 LMFA07070105
+            J-GLOBAL: J608.164I
+ATOM        15
+            1   C1c C    25.0436  -16.9629
+            2   O7a O    23.8323  -17.6651
+            3   C1b C    26.2548  -17.6651
+            4   C1b C    25.0436  -15.5644
+            5   C7a C    22.6150  -16.9629
+            6   N1d N    26.2548  -19.0638 #+
+            7   C6a C    26.2548  -14.8622
+            8   C1b C    21.4037  -17.6651
+            9   O6a O    22.6150  -15.5644
+            10  C1a C    26.2336  -20.8861
+            11  C1a C    27.5361  -19.8361
+            12  C1a C    24.9031  -19.8210
+            13  O6a O    26.2548  -13.4636
+            14  O6a O    27.4661  -15.5644 #-
+            15  C1a C    20.1923  -16.9629
+BOND        14
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6  10 1
+            10    6  11 1
+            11    6  12 1
+            12    7  13 2
+            13    7  14 1
+            14    8  15 1
+///
+
+ENTRY       C03042                      Compound
+NAME        (R)-2-Hydroxystearate;
+            (R)-2-Hydroxystearic acid;
+            (R)-2-Hydroxyoctadecanoate;
+            (R)-2-Hydroxyoctadecanoic acid
+FORMULA     C18H36O3
+EXACT_MASS  300.2664
+MOL_WEIGHT  300.48
+REACTION    R03021
+ENZYME      1.1.1.98
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C03042  (R)-2-Hydroxyoctadecanoic acid
+              FA02 Octadecanoids
+               FA0200 Other Octadecanoids
+                C03042  (R)-2-Hydroxyoctadecanoic acid
+DBLINKS     CAS: 629-22-1
+            PubChem: 5945
+            ChEBI: 15913
+            LIPIDMAPS: LMFA02000195
+            J-GLOBAL: J95.427F
+ATOM        21
+            1   C1b C    23.3026  -14.4032
+            2   C1b C    24.5123  -15.1045
+            3   C1b C    22.0930  -15.1045
+            4   C1b C    25.7282  -14.4032
+            5   C1b C    20.8770  -14.4032
+            6   C1c C    26.9379  -15.1045
+            7   C1b C    19.6674  -15.1045
+            8   C6a C    28.1473  -14.4032
+            9   O1a O    26.9379  -16.5008
+            10  C1b C    18.4514  -14.4032
+            11  O6a O    29.3569  -15.1045
+            12  O6a O    28.1473  -13.0006
+            13  C1b C    17.2418  -15.1045
+            14  C1b C    16.0322  -14.4032
+            15  C1b C    14.8162  -15.1045
+            16  C1b C    13.6066  -14.4032
+            17  C1b C    12.3972  -15.1045
+            18  C1b C    11.1810  -14.4032
+            19  C1b C     9.9716  -15.1045
+            20  C1b C     8.7619  -14.4032
+            21  C1a C     7.5460  -15.1045
+BOND        20
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     6   9 1 #Down
+            9     7  10 1
+            10    8  11 1
+            11    8  12 2
+            12   10  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+///
+
+ENTRY       C03065                      Compound
+NAME        3-Guanidinopropanoate;
+            Guanidinopropionic acid
+FORMULA     C4H9N3O2
+EXACT_MASS  131.0695
+MOL_WEIGHT  131.13
+REMARK      Same as: D12779
+REACTION    R00913
+ENZYME      3.5.3.17
+BRITE       Target-based classification of drugs [BR:br08310(D12779)]
+             Transporters
+              Solute carrier family
+               SLC6
+                SLC6A8
+                 D12779  Ompenaclid (USAN/INN)
+DBLINKS     CAS: 353-09-3
+            PubChem: 5965
+            ChEBI: 15968
+            J-GLOBAL: J193.824J
+ATOM        9
+            1   C6a C     3.4300   -3.8500
+            2   C1b C     4.6200   -4.4800
+            3   O6a O     3.4300   -2.3100
+            4   O6a O     2.2400   -4.4800
+            5   C1b C     5.8100   -3.8500
+            6   N1b N     7.0000   -4.4800
+            7   C2c C     8.2600   -3.8500
+            8   N1a N     9.5200   -4.4800
+            9   N2a N     8.2600   -2.3100
+BOND        8
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     7   9 2
+///
+
+ENTRY       C03067                      Compound
+NAME        3-Hydroxybenzaldehyde
+FORMULA     C7H6O2
+EXACT_MASS  122.0368
+MOL_WEIGHT  122.12
+REACTION    R04136 R07666 R07667
+PATHWAY     map00623  Toluene degradation
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+ENZYME      1.1.1.97        1.2.1.7         1.2.1.28        1.2.1.64
+DBLINKS     CAS: 100-83-4
+            PubChem: 5967
+            ChEBI: 16207
+            J-GLOBAL: J43.313F
+ATOM        9
+            1   C8y C    17.7907  -14.4030
+            2   C8x C    19.0121  -15.0937
+            3   C8x C    16.5885  -15.0937
+            4   C4a C    17.7907  -13.0090
+            5   C8y C    19.0121  -16.5006
+            6   C8x C    16.5885  -16.5006
+            7   O4a O    18.9930  -12.3119
+            8   C8x C    17.7907  -17.2104
+            9   O1a O    20.2271  -17.2041
+BOND        9
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     3   6 1
+            6     4   7 2
+            7     5   8 1
+            8     5   9 1
+            9     6   8 2
+///
+
+ENTRY       C03139                      Compound
+NAME        N-Amidino-L-aspartate;
+            N-Amidino-L-aspartic acid;
+            Guanidinosuccinic acid
+FORMULA     C5H9N3O4
+EXACT_MASS  175.0593
+MOL_WEIGHT  175.14
+REACTION    R00777
+ENZYME      3.5.3.14
+DBLINKS     CAS: 6133-30-8
+            PubChem: 6028
+            ChEBI: 17072
+            J-GLOBAL: J322.537B
+ATOM        12
+            1   O6a O    19.1253  -14.7851
+            2   C6a C    20.3865  -15.4858
+            3   C1b C    21.5776  -14.7851
+            4   C1c C    22.7687  -15.4858
+            5   C6a C    24.0298  -14.7851
+            6   O6a O    25.2209  -15.4858
+            7   O6a O    24.0298  -13.3838
+            8   N1b N    22.7687  -16.8871
+            9   C2c C    23.9598  -17.5877
+            10  N1a N    25.1509  -16.8871
+            11  N2a N    23.9598  -18.9890
+            12  O6a O    20.3865  -16.8871
+BOND        11
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     5   7 2
+            7     4   8 1 #Up
+            8     8   9 1
+            9     9  10 1
+            10    9  11 2
+            11    2  12 2
+///
+
+ENTRY       C03239                      Compound
+NAME        6-Amino-2-oxohexanoate;
+            2-Oxo-6-aminocaproate
+FORMULA     C6H11NO3
+EXACT_MASS  145.0739
+MOL_WEIGHT  145.16
+REACTION    R00447 R02851 R04174 R04175 R13034
+PATHWAY     map00310  Lysine degradation
+            map00470  D-Amino acid metabolism
+            map00960  Tropane, piperidine and pyridine alkaloid biosynthesis
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+MODULE      M00960  Lysine degradation, bacteria, L-lysine => D-lysine => succinate
+ENZYME      1.4.3.14        2.6.1.21        3.5.1.17
+DBLINKS     PubChem: 6109
+            ChEBI: 17534
+            PDB-CCD: 7C3
+            J-GLOBAL: J39.064J
+ATOM        10
+            1   C5a C    27.6636  -16.3330
+            2   C1b C    26.4798  -15.6465
+            3   C6a C    28.8536  -15.6465
+            4   O5a O    27.6636  -17.8361
+            5   C1b C    25.2960  -16.3330
+            6   O6a O    30.0373  -16.3330
+            7   O6a O    28.8536  -14.2739
+            8   C1b C    24.1060  -15.6465
+            9   C1b C    22.9223  -16.3330
+            10  N1a N    21.6743  -15.6157
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 1
+            8     8   9 1
+            9     9  10 1
+///
+
+ENTRY       C03242                      Compound
+NAME        Dihomo-gamma-linolenate;
+            Dihomo-gamma-linolenic acid;
+            (8Z,11Z,14Z)-Icosatrienoic acid;
+            (Z,Z,Z)-8,11,14-Eicosatrienoic acid;
+            (Z,Z,Z)-8,11,14-Icosatrienoic acid;
+            (Z,Z,Z)-8,11,14-Eicosatrienoate;
+            (Z,Z,Z)-8,11,14-Icosatrienoate;
+            8,11,14-Eicosatrienoate;
+            8,11,14-Icosatrienoate;
+            8Z,11Z,14Z-Eicosatrienoic acid;
+            (8Z,11Z,14Z)-Icosa-8,11,14-trienoic acid
+FORMULA     C20H34O2
+EXACT_MASS  306.2559
+MOL_WEIGHT  306.48
+REACTION    R08182
+PATHWAY     map00591  Linoleic acid metabolism
+            map01040  Biosynthesis of unsaturated fatty acids
+            map01100  Metabolic pathways
+ENZYME      3.1.2.2
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0103 Unsaturated fatty acids
+                Polyunsaturated fatty acids
+                 C03242  (8Z,11Z,14Z)-Icosa-8,11,14-trienoic acid
+DBLINKS     CAS: 1783-84-2
+            PubChem: 6112
+            ChEBI: 53486
+            LIPIDMAPS: LMFA01030158
+            PDB-CCD: LAX
+            J-GLOBAL: J110.768B
+ATOM        22
+            1   C2b C    29.1796  -21.6001
+            2   C2b C    27.7794  -21.6562
+            3   C1b C    30.3986  -20.9665
+            4   C1b C    26.5673  -20.9596
+            5   C1b C    31.6038  -21.6701
+            6   C2b C    25.3552  -21.6632
+            7   C1b C    32.8160  -20.9665
+            8   C2b C    23.9550  -21.6562
+            9   C1b C    34.0281  -21.6701
+            10  C1b C    22.7428  -20.9596
+            11  C1b C    35.2402  -20.9665
+            12  C2b C    21.5307  -21.6632
+            13  C1b C    36.4523  -21.6701
+            14  C2b C    20.1305  -21.6493
+            15  C6a C    37.6644  -20.9665
+            16  C1b C    18.9113  -20.9525
+            17  O6a O    38.8695  -21.6562
+            18  O6a O    37.6574  -19.5594
+            19  C1b C    17.7063  -21.6562
+            20  C1b C    16.4942  -20.9596
+            21  C1b C    15.2820  -21.6562
+            22  C1a C    14.0699  -20.9596
+BOND        21
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 2
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+///
+
+ENTRY       C03264                      Compound
+NAME        (R)-2-Hydroxyisocaproate;
+            D-2-Hydroxyisocaproate;
+            (R)-2-Hydroxy-4-methylpentanoate;
+            (2R)-2-Hydroxy-4-methylpentanoic acid;
+            D-Leucate
+FORMULA     C6H12O3
+EXACT_MASS  132.0786
+MOL_WEIGHT  132.16
+REACTION    R11462
+ENZYME      2.8.3.24
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C03264  (2R)-2-Hydroxy-4-methylpentanoic acid
+DBLINKS     CAS: 20312-37-2
+            PubChem: 6128
+            ChEBI: 55534
+            LIPIDMAPS: LMFA01050402
+            PDB-CCD: 2RH
+            J-GLOBAL: J84.593K
+ATOM        9
+            1   C1c C    27.0606  -15.6602
+            2   C1b C    25.8587  -16.3571
+            3   C6a C    28.2689  -16.3571
+            4   O1a O    27.0606  -14.2665
+            5   C1c C    24.6569  -15.6602
+            6   O6a O    28.2945  -17.8083
+            7   O6a O    29.4709  -15.6537
+            8   C1a C    23.4484  -16.3571
+            9   C1a C    24.6569  -14.2665
+BOND        8
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 2
+            6     3   7 1
+            7     5   8 1
+            8     5   9 1
+///
+
+ENTRY       C03299                      Compound
+NAME        O-Decanoyl-L-carnitine
+FORMULA     C17H33NO4
+EXACT_MASS  315.2410
+MOL_WEIGHT  315.45
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0707 Fatty acyl carnitines
+                C03299  O-Decanoyl-L-carnitine
+DBLINKS     PubChem: 6155
+            ChEBI: 28717
+            LIPIDMAPS: LMFA07070006
+            J-GLOBAL: J576.143C
+ATOM        22
+            1   C1c C    27.5676  -16.1828
+            2   O7a O    26.3601  -16.8826
+            3   C1b C    28.7810  -16.8769
+            4   C1b C    27.5676  -14.7885
+            5   C7a C    25.1584  -16.1944
+            6   N1d N    28.7866  -18.2709 #+
+            7   C6a C    28.7692  -14.0827
+            8   C1b C    23.9509  -16.8885
+            9   O6a O    25.1526  -14.7944
+            10  C1a C    30.0638  -18.8956
+            11  C1a C    27.5793  -18.9709
+            12  C1a C    29.2096  -19.7175
+            13  O6a O    29.9825  -14.7768 #-
+            14  O6a O    28.7692  -12.6884
+            15  C1b C    22.7493  -16.2002
+            16  C1b C    21.5417  -16.9002
+            17  C1b C    20.3342  -16.2059
+            18  C1b C    19.1326  -16.9059
+            19  C1b C    17.9251  -16.2118
+            20  C1b C    16.7176  -16.9118
+            21  C1b C    15.5158  -16.2236
+            22  C1a C    14.3083  -16.9176
+BOND        21
+            1     1   2 1 #Down
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6  10 1
+            10    6  11 1
+            11    6  12 1
+            12    7  13 1
+            13    7  14 2
+            14    8  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+///

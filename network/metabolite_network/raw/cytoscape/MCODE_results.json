@@ -1,0 +1,267 @@
+{
+  "data": {
+    "id": 2,
+    "parameters": {
+      "scope": "NETWORK",
+      "includeLoops": false,
+      "degreeCutoff": 2,
+      "kCore": 2,
+      "maxDepthFromStart": 100,
+      "nodeScoreCutoff": 0.2,
+      "haircut": true,
+      "fluff": false,
+      "fluffNodeDensityCutoff": 0.1,
+      "selectedNodes": []
+    },
+    "clusters": [
+      {
+        "rank": 1,
+        "name": "Cluster 1",
+        "score": 13.11111111111111,
+        "seedNode": 789,
+        "nodes": [
+          450,
+          642,
+          453,
+          837,
+          777,
+          783,
+          786,
+          789,
+          663,
+          351,
+          357,
+          678,
+          360,
+          681,
+          363,
+          876,
+          879,
+          753,
+          882,
+          435,
+          756,
+          888,
+          441,
+          762,
+          444,
+          636,
+          447,
+          639
+        ]
+      },
+      {
+        "rank": 2,
+        "name": "Cluster 2",
+        "score": 8.200000000000001,
+        "seedNode": 945,
+        "nodes": [
+          576,
+          945,
+          930,
+          915,
+          933,
+          903,
+          936,
+          921,
+          939,
+          924,
+          927
+        ]
+      },
+      {
+        "rank": 3,
+        "name": "Cluster 3",
+        "score": 7.692307692307693,
+        "seedNode": 744,
+        "nodes": [
+          705,
+          963,
+          582,
+          486,
+          744,
+          618,
+          459,
+          555,
+          492,
+          495,
+          528,
+          633,
+          474,
+          477
+        ]
+      },
+      {
+        "rank": 4,
+        "name": "Cluster 4",
+        "score": 6.608695652173913,
+        "seedNode": 807,
+        "nodes": [
+          384,
+          771,
+          387,
+          867,
+          708,
+          390,
+          711,
+          807,
+          393,
+          873,
+          714,
+          810,
+          396,
+          717,
+          813,
+          399,
+          849,
+          402,
+          723,
+          819,
+          948,
+          726,
+          408,
+          858
+        ]
+      },
+      {
+        "rank": 5,
+        "name": "Cluster 5",
+        "score": 6.0,
+        "seedNode": 546,
+        "nodes": [
+          537,
+          546,
+          522,
+          540,
+          543,
+          519
+        ]
+      },
+      {
+        "rank": 6,
+        "name": "Cluster 6",
+        "score": 5.0,
+        "seedNode": 675,
+        "nodes": [
+          369,
+          675,
+          372,
+          693,
+          504,
+          378,
+          366
+        ]
+      },
+      {
+        "rank": 7,
+        "name": "Cluster 7",
+        "score": 4.800000000000001,
+        "seedNode": 834,
+        "nodes": [
+          792,
+          834,
+          780,
+          774,
+          894,
+          831
+        ]
+      },
+      {
+        "rank": 8,
+        "name": "Cluster 8",
+        "score": 4.5,
+        "seedNode": 432,
+        "nodes": [
+          738,
+          645,
+          456,
+          648,
+          489,
+          426,
+          429,
+          432,
+          498,
+          501,
+          471,
+          381,
+          702
+        ]
+      },
+      {
+        "rank": 9,
+        "name": "Cluster 9",
+        "score": 4.3999999999999995,
+        "seedNode": 825,
+        "nodes": [
+          768,
+          864,
+          825,
+          804,
+          822,
+          870
+        ]
+      },
+      {
+        "rank": 10,
+        "name": "Cluster 10",
+        "score": 4.0,
+        "seedNode": 516,
+        "nodes": [
+          513,
+          507,
+          516,
+          510
+        ]
+      },
+      {
+        "rank": 11,
+        "name": "Cluster 11",
+        "score": 4.0,
+        "seedNode": 912,
+        "nodes": [
+          465,
+          657,
+          651,
+          468
+        ]
+      },
+      {
+        "rank": 12,
+        "name": "Cluster 12",
+        "score": 3.3333333333333335,
+        "seedNode": 957,
+        "nodes": [
+          600,
+          954,
+          603,
+          957
+        ]
+      },
+      {
+        "rank": 13,
+        "name": "Cluster 13",
+        "score": 3.0,
+        "seedNode": 615,
+        "nodes": [
+          552,
+          483,
+          615
+        ]
+      },
+      {
+        "rank": 14,
+        "name": "Cluster 14",
+        "score": 3.0,
+        "seedNode": 531,
+        "nodes": [
+          336,
+          345,
+          531
+        ]
+      }
+    ],
+    "stale": false,
+    "lock": {}
+  },
+  "errors": []
+}

@@ -1,0 +1,26 @@
+{
+  "connected_nodes": 209,
+  "STRING_edges": 1113,
+  "MCODE_modules": 14,
+  "CytoNCA_medians": {
+    "Degree": 9.0,
+    "Betweenness": 169.01293027215934,
+    "Closeness": 0.3141993957703927
+  },
+  "CytoNCA_selected": 63,
+  "MCC_top10_including_ties": 10,
+  "consensus_hubs": [
+    "AGK",
+    "AGPAT2",
+    "GPAM",
+    "MBOAT2"
+  ],
+  "enrichment_FDR05_by_category": {
+    "GO Molecular Functions": 79,
+    "GO Biological Processes": 67,
+    "KEGG Pathway": 16,
+    "GO Cellular Components": 8
+  },
+  "independent_topology_verification": "passed",
+  "CytoNCA_betweenness_convention": "ordered pairs; twice NetworkX unnormalized undirected betweenness"
+}

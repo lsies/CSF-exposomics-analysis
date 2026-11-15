@@ -1,0 +1,612 @@
+ENTRY       C03343                      Compound
+NAME        Mono-(2-ethylhexyl)phthalate;
+            2-Ethylhexyl phthalate
+FORMULA     C16H22O4
+EXACT_MASS  278.1518
+MOL_WEIGHT  278.34
+REACTION    R04202
+ENZYME      3.1.1.60
+DBLINKS     CAS: 4376-20-9
+            PubChem: 6186
+            ChEBI: 17243
+            J-GLOBAL: J28.572B
+ATOM        20
+            1   C8y C    29.4897  -14.3323
+            2   C8y C    29.4550  -12.9233
+            3   C8x C    28.2903  -15.0426
+            4   C8x C    28.2396  -12.2432
+            5   C6a C    30.7134  -12.1630
+            6   C8x C    27.0352  -14.3713
+            7   C8x C    27.0268  -12.9690
+            8   O6a O    31.9377  -12.8452
+            9   O6a O    30.7552  -10.7649
+            10  C7a C    30.6824  -15.0500
+            11  O7a O    31.8949  -14.3500
+            12  C1b C    33.1073  -15.0500
+            13  C1c C    34.3197  -14.3500
+            14  C1b C    35.5322  -15.0500
+            15  C1b C    36.7446  -14.3500
+            16  C1b C    37.9570  -15.0500
+            17  C1a C    39.1695  -14.3500
+            18  O6a O    30.6698  -16.4500
+            19  C1b C    34.3197  -12.9500
+            20  C1a C    35.5173  -12.2585
+BOND        20
+            1     1   2 1
+            2     1   3 2
+            3     2   4 2
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6   7 2
+            10    1  10 1
+            11   10  11 1
+            12   11  12 1
+            13   12  13 1
+            14   13  14 1
+            15   14  15 1
+            16   15  16 1
+            17   16  17 1
+            18   10  18 2
+            19   13  19 1
+            20   19  20 1
+///
+
+ENTRY       C03588                      Compound
+NAME        4,5alpha-Dihydrocortisone
+FORMULA     C21H30O5
+EXACT_MASS  362.2093
+MOL_WEIGHT  362.46
+REACTION    R02892
+ENZYME      1.3.1.22
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0203 C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+                C03588  4,5alpha-Dihydrocortisone
+DBLINKS     PubChem: 6379
+            ChEBI: 16372
+            LIPIDMAPS: LMST02030096
+            J-GLOBAL: J236.344E
+ATOM        26
+            1   C1y C    19.7397  -17.5556
+            2   C1y C    18.5428  -18.2565
+            3   C1z C    19.7460  -16.1790
+            4   C1x C    22.1335  -17.5680
+            5   C1y C    17.3523  -17.5743
+            6   C1x C    18.5552  -19.6332
+            7   C1z C    20.9428  -15.4844
+            8   C1x C    18.5367  -15.4907
+            9   C1a C    19.5909  -14.7589
+            10  C1x C    22.1397  -16.1852
+            11  C1z C    16.1677  -18.2628
+            12  C5x C    17.3399  -16.1914
+            13  C1x C    17.3584  -20.3153
+            14  C5a C    20.9491  -14.1386
+            15  O1a O    22.2886  -15.4844
+            16  C1y C    16.1677  -19.6271
+            17  C1x C    14.9895  -17.5929
+            18  C1a C    15.8639  -16.8611
+            19  O5x O    16.1677  -15.5216
+            20  C1b C    22.1211  -13.4689
+            21  O5a O    19.7832  -13.4565
+            22  C1x C    14.9895  -20.3153
+            23  C1x C    13.8173  -18.2628
+            24  O1a O    23.2870  -14.1449
+            25  C5x C    13.8173  -19.6271
+            26  O5x O    12.6453  -20.2968
+BOND        29
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    7  14 1
+            14    7  15 1 #Down
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   12  19 2
+            19   14  20 1
+            20   14  21 2
+            21   16  22 1
+            22   17  23 1
+            23   20  24 1
+            24   22  25 1
+            25   25  26 2
+            26    7  10 1
+            27    8  12 1
+            28   13  16 1
+            29   23  25 1
+///
+
+ENTRY       C03590                      Compound
+NAME        4-Hydroxyphenylglyoxylate;
+            4-Hydroxybenzoylformate;
+            4-Hydroxyphenylglyoxylic acid;
+            2-(4-Hydroxyphenyl)-2-oxoacetate
+FORMULA     C8H6O4
+EXACT_MASS  166.0266
+MOL_WEIGHT  166.13
+REACTION    R02672 R04160 R04234 R06626 R06633
+PATHWAY     map00261  Monobactam biosynthesis
+            map00627  Aminobenzoate degradation
+            map01055  Biosynthesis of vancomycin group antibiotics
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.1.3.46        1.1.99.31       2.6.1.72        2.6.1.103       
+            4.1.1.7
+DBLINKS     CAS: 15573-67-8
+            PubChem: 6381
+            ChEBI: 28719
+            J-GLOBAL: J410.258D
+ATOM        12
+            1   C5a C    26.4009  -16.5136
+            2   C8y C    25.2054  -17.2067
+            3   C6a C    27.5966  -17.2132
+            4   O5a O    26.4136  -15.1274
+            5   C8x C    25.2054  -18.6059
+            6   C8x C    23.9907  -16.5136
+            7   O6a O    27.5456  -18.7075
+            8   O6a O    28.8048  -16.5264
+            9   C8x C    23.9907  -19.3117
+            10  C8x C    22.7889  -17.2067
+            11  C8y C    22.7889  -18.6059
+            12  O1a O    21.5934  -19.2927
+BOND        12
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 2
+            5     2   6 1
+            6     3   7 2
+            7     3   8 1
+            8     5   9 1
+            9     6  10 2
+            10    9  11 2
+            11   11  12 1
+            12   10  11 1
+///
+
+ENTRY       C03657                      Compound
+NAME        1,4-Dihydroxy-2-naphthoate;
+            1,4-Dihydroxy-2-naphthoic acid
+FORMULA     C11H8O4
+EXACT_MASS  204.0423
+MOL_WEIGHT  204.18
+REACTION    R04150 R07262 R10757 R12254
+PATHWAY     map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01240  Biosynthesis of cofactors
+MODULE      M00116  Menaquinone biosynthesis, chorismate (+ polyprenyl-PP) => menaquinol
+            M00932  Phylloquinone biosynthesis, chorismate (+ phytyl-PP) => phylloquinol
+ENZYME      2.5.1.74        3.1.2.28        4.1.3.36
+DBLINKS     CAS: 31519-22-9
+            PubChem: 6435
+            ChEBI: 18094
+            KNApSAcK: C00000736
+            PDB-CCD: DNA
+            J-GLOBAL: J27.838F
+ATOM        15
+            1   C8y C    17.2239  -14.0500
+            2   C8y C    17.2239  -15.4471
+            3   C8y C    18.4424  -13.3355
+            4   C8x C    16.0118  -13.3546
+            5   C8y C    18.4488  -16.1552
+            6   C8x C    16.0118  -16.1616
+            7   C8y C    19.6673  -14.0372
+            8   O1a O    18.4361  -11.9448
+            9   C8x C    14.8061  -14.0500
+            10  C8x C    19.6800  -15.4534
+            11  O1a O    18.4488  -17.5395
+            12  C8x C    14.8061  -15.4471
+            13  C6a C    20.8666  -13.3418
+            14  O6a O    22.0660  -14.0309
+            15  O6a O    20.8539  -11.9511
+BOND        16
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 2
+            9     5  10 1
+            10    5  11 1
+            11    6  12 2
+            12    7  13 1
+            13   13  14 1
+            14   13  15 2
+            15    7  10 2
+            16    9  12 1
+///
+
+ENTRY       C03665                      Compound
+NAME        2-Amino-2-methylpropanoate;
+            2-Aminoisobutyric acid
+FORMULA     C4H9NO2
+EXACT_MASS  103.0633
+MOL_WEIGHT  103.12
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0110 Amino fatty acids
+                C03665  2-Aminoisobutyric acid
+DBLINKS     CAS: 62-57-7
+            PubChem: 6443
+            ChEBI: 27971
+            LIPIDMAPS: LMFA01100053
+            PDB-CCD: AIB
+            J-GLOBAL: J38.908K
+ATOM        7
+            1   C1a C    16.1700  -15.4700
+            2   C1d C    17.3824  -16.1700
+            3   C6a C    18.5949  -15.4700
+            4   O6a O    19.8073  -16.1700
+            5   O6a O    18.5949  -14.0702
+            6   N1a N    18.3723  -17.1599
+            7   C1a C    16.3925  -17.1599
+BOND        6
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     3   5 2
+            5     2   6 1
+            6     2   7 1
+///
+
+ENTRY       C03672                      Compound
+NAME        3-(4-Hydroxyphenyl)lactate;
+            4-Hydroxyphenyllactate;
+            p-Hydroxyphenyllactate;
+            2-Hydroxy-3-(4-hydroxyphenyl)propanoate
+FORMULA     C9H10O4
+EXACT_MASS  182.0579
+MOL_WEIGHT  182.17
+DBLINKS     PubChem: 6448
+            ChEBI: 17385 36659
+            J-GLOBAL: J70.493H
+ATOM        13
+            1   C8x C    18.9700  -26.6000
+            2   C8y C    18.9700  -28.0000
+            3   C8x C    20.1824  -28.7000
+            4   C8x C    21.3949  -28.0000
+            5   C8y C    21.3949  -26.6000
+            6   C8x C    20.1824  -25.9000
+            7   O1a O    17.7576  -28.7000
+            8   C1b C    22.6260  -25.8890
+            9   C1c C    23.8312  -26.5847
+            10  C6a C    25.0135  -25.9019
+            11  O6a O    26.2075  -26.5912
+            12  O6a O    25.0135  -24.5002
+            13  O1a O    23.8316  -27.9996
+BOND        13
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     2   7 1
+            8     5   8 1
+            9     8   9 1
+            10    9  10 1
+            11   10  11 1
+            12   10  12 2
+            13    9  13 1
+///
+
+ENTRY       C03916                      Compound
+NAME        1-Oleoylglycerophosphocholine;
+            1-Oleoyl-sn-glycero-3-phosphocholine
+FORMULA     C26H53NO7P
+EXACT_MASS  522.3560
+MOL_WEIGHT  522.67
+BRITE       Lipids [BR:br08002]
+             GP  Glycerophospholipids
+              GP01 Glycerophosphocholines
+               GP0105 Monoacylglycerophosphocholines
+                C03916  1-Oleoyl-sn-glycero-3-phosphocholine
+DBLINKS     PubChem: 6645
+            ChEBI: 182947 28610
+            LIPIDMAPS: LMGP01050032
+            J-GLOBAL: J2.626.150C
+ATOM        35
+            1   C1b C    23.1898  -21.4094
+            2   C1c C    23.2015  -19.5544
+            3   O2b O    24.3602  -22.1057
+            4   C1b C    24.4597  -18.8521
+            5   O1a O    22.0838  -18.8696
+            6   P1b P    25.6828  -22.1057
+            7   O7a O    25.6885  -19.5953
+            8   O2b O    26.9876  -22.1057
+            9   O1c O    25.6828  -20.7774
+            10  O1c O    25.6885  -23.5219
+            11  C7a C    26.9410  -18.8990
+            12  C1b C    27.6547  -23.2353
+            13  C1b C    28.1756  -19.6246
+            14  O6a O    26.9584  -17.4536
+            15  C1b C    28.9598  -23.2353
+            16  C1b C    29.3929  -18.9399
+            17  N1d N    29.6211  -24.3764 #+
+            18  C1b C    30.5983  -19.6538
+            19  C1a C    30.9260  -24.3764
+            20  C1a C    28.5398  -25.6515
+            21  C1a C    30.4871  -25.6695
+            22  C1b C    31.8213  -18.9633
+            23  C1b C    33.0269  -19.6772
+            24  C1b C    34.2440  -18.9926
+            25  C1b C    35.4495  -19.7066
+            26  C2b C    36.6725  -19.0161
+            27  C2b C    37.8722  -19.7298
+            28  C1b C    37.8605  -21.1285
+            29  C1b C    36.6374  -21.8191
+            30  C1b C    35.4378  -21.1051
+            31  C1b C    34.2149  -21.7897
+            32  C1b C    33.0093  -21.0817
+            33  C1b C    31.7921  -21.7663
+            34  C1b C    30.5866  -21.0525
+            35  C1a C    29.3635  -21.7431
+BOND        34
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     6   8 1
+            8     6   9 1
+            9     6  10 2
+            10    7  11 1
+            11    8  12 1
+            12   11  13 1
+            13   11  14 2
+            14   12  15 1
+            15   13  16 1
+            16   15  17 1
+            17   16  18 1
+            18   17  19 1
+            19   17  20 1
+            20   17  21 1
+            21   18  22 1
+            22   22  23 1
+            23   23  24 1
+            24   24  25 1
+            25   25  26 1
+            26   26  27 2
+            27   27  28 1
+            28   28  29 1
+            29   29  30 1
+            30   30  31 1
+            31   31  32 1
+            32   32  33 1
+            33   33  34 1
+            34   34  35 1
+///
+
+ENTRY       C03951                      Compound
+NAME        Luteolin 7-O-beta-D-glucoside;
+            Luteolin 7-O-glucoside;
+            7-O-beta-D-Glucosyl-5,7,3',4'-tetrahydroxyflavone;
+            Cynaroside;
+            Luteoloside
+FORMULA     C21H20O11
+EXACT_MASS  448.1006
+MOL_WEIGHT  448.38
+REACTION    R03588 R06829
+PATHWAY     map00944  Flavone and flavonol biosynthesis
+ENZYME      2.4.1.81        2.4.1.236
+BRITE       Lipids [BR:br08002]
+             PK  Polyketides
+              PK12 Flavonoids
+               PK1211 Flavones and Flavonols
+                C03951  Luteolin 7-O-beta-D-glucoside
+            Phytochemical compounds [BR:br08003]
+             Flavonoids
+              Flavonoids
+               Flavones
+                C03951  Luteolin 7-O-beta-D-glucoside
+            Glycosides [BR:br08021]
+             O-glycosides
+              Flavonoid glycosides
+               Flavones and flavonols
+                C03951  Luteolin 7-O-beta-D-glucoside
+            Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C03951
+DBLINKS     CAS: 5373-11-5
+            PubChem: 6673
+            ChEBI: 27994
+            LIPIDMAPS: LMPK12113403
+            KNApSAcK: C00004266
+            J-GLOBAL: J94.450E
+ATOM        32
+            1   C8y C    29.9508  -18.0447
+            2   C8y C    29.9508  -16.6291
+            3   C8y C    31.1807  -18.7485
+            4   C8y C    28.7257  -18.7485
+            5   O2x O    31.1691  -15.9196
+            6   C8x C    28.7257  -15.9371
+            7   C8x C    32.4165  -18.0506
+            8   O5x O    31.1807  -20.1408
+            9   C8x C    27.5238  -18.0447
+            10  O1a O    28.7200  -20.1467
+            11  C8y C    32.4048  -16.6244
+            12  C8y C    27.5238  -16.6291
+            13  C8y C    33.6138  -15.9255
+            14  O2a O    26.3159  -15.9358
+            15  C8x C    33.6079  -14.5388
+            16  C8x C    34.8202  -16.6128
+            17  C1y C    25.1024  -16.6291
+            18  C8x C    34.8040  -13.8281
+            19  C8y C    36.0349  -15.9196
+            20  O2x O    23.8832  -15.9358
+            21  C1y C    25.1024  -18.0214
+            22  C8y C    36.0232  -14.4261
+            23  C1y C    22.6752  -16.6291
+            24  C1y C    23.8832  -18.7323
+            25  O1a O    26.3159  -18.7323
+            26  O1a O    37.2138  -13.8117
+            27  C1y C    22.6752  -18.0214
+            28  C1b C    21.4850  -15.9358
+            29  O1a O    23.8889  -20.1246
+            30  O1a O    21.4850  -18.7323
+            31  O1a O    20.4219  -16.8371
+            32  O1a O    37.2410  -16.6136
+BOND        35
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 2
+            8     4   9 2
+            9     4  10 1
+            10    5  11 1
+            11    6  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 2
+            15   13  16 1
+            16   17  14 1 #Up
+            17   15  18 1
+            18   16  19 2
+            19   17  20 1
+            20   17  21 1
+            21   18  22 2
+            22   20  23 1
+            23   21  24 1
+            24   21  25 1 #Down
+            25   22  26 1
+            26   23  27 1
+            27   23  28 1 #Up
+            28   24  29 1 #Up
+            29   27  30 1 #Down
+            30   28  31 1
+            31    7  11 2
+            32    9  12 1
+            33   19  22 1
+            34   24  27 1
+            35   19  32 1
+///
+
+ENTRY       C03969                      Compound
+NAME        1-Aminocyclopentanecarboxylate;
+            1-Aminocyclopentanecarboxylic acid;
+            Cycloleucine
+FORMULA     C6H11NO2
+EXACT_MASS  129.0790
+MOL_WEIGHT  129.16
+DBLINKS     CAS: 52-52-8
+            PubChem: 6689
+            ChEBI: 40547
+            PDB-CCD: AC5
+            J-GLOBAL: J4.131I
+ATOM        9
+            1   C1z C    17.7818  -14.7927
+            2   C6a C    18.9979  -14.0977
+            3   C1x C    18.9272  -15.6035
+            4   C1x C    16.6622  -15.6035
+            5   N1a N    16.6556  -13.9561
+            6   O6a O    20.2012  -14.8119
+            7   O6a O    18.9979  -12.7013
+            8   C1x C    18.4896  -16.9418
+            9   C1x C    17.0867  -16.9418
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     1   5 1
+            5     2   6 1
+            6     2   7 2
+            7     3   8 1
+            8     4   9 1
+            9     8   9 1
+///
+
+ENTRY       C04036                      Compound
+NAME        1-Palmitoylglycerol 3-phosphate;
+            1-Hexadecanoyl-sn-glycero-3-phosphate
+FORMULA     C19H39O7P
+EXACT_MASS  410.2433
+MOL_WEIGHT  410.48
+REACTION    R03357
+ENZYME      1.1.1.101
+BRITE       Lipids [BR:br08002]
+             GP  Glycerophospholipids
+              GP10 Glycerophosphates
+               GP1005 Monoacylglycerophosphates
+                C04036  1-Hexadecanoyl-sn-glycero-3-phosphate
+DBLINKS     PubChem: 6739
+            ChEBI: 15799 176398 64023
+            LIPIDMAPS: LMGP10050006 LMGP10050041
+            J-GLOBAL: J225.505G
+ATOM        27
+            1   C1b C    11.6900  -16.1700
+            2   C1b C    12.9024  -15.4700
+            3   C1b C    14.1149  -16.1700
+            4   C1b C    15.3273  -15.4700
+            5   C1b C    16.5397  -16.1700
+            6   C1b C    17.7522  -15.4700
+            7   C1b C    18.9646  -16.1700
+            8   C1b C    20.1770  -15.4700
+            9   C1b C    21.3895  -16.1700
+            10  C1b C    22.6019  -15.4700
+            11  C1b C    23.8144  -16.1700
+            12  C7a C    25.0268  -15.4700
+            13  O7a O    26.2639  -16.1846
+            14  O6a O    25.0270  -14.0704
+            15  C1b C    27.4723  -15.4873
+            16  C1c C    28.6529  -16.1693
+            17  C1b C    29.8479  -15.4795
+            18  O1a O    28.6527  -17.5698
+            19  O2b O    31.0352  -16.1653
+            20  P1b P    32.4352  -16.1653
+            21  O1c O    33.8352  -16.1653
+            22  O1c O    32.4352  -14.7653
+            23  O1c O    32.4352  -17.5653
+            24  C1b C    10.4776  -15.4700
+            25  C1b C     9.2821  -16.1604
+            26  C1b C     8.0947  -15.4750
+            27  C1a C     6.9035  -16.1629
+BOND        26
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   12  14 2
+            14   13  15 1
+            15   15  16 1
+            16   16  17 1
+            17   16  18 1
+            18   17  19 1
+            19   19  20 1
+            20   20  21 1
+            21   20  22 2
+            22   20  23 1
+            23    1  24 1
+            24   24  25 1
+            25   25  26 1
+            26   26  27 1
+///

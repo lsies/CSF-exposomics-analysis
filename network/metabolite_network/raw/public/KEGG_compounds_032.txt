@@ -1,0 +1,453 @@
+ENTRY       C20793                      Compound
+NAME        3-Hydroxyoctanoate;
+            3-Hydroxyoctanoic acid
+FORMULA     C8H16O3
+EXACT_MASS  160.1099
+MOL_WEIGHT  160.21
+PATHWAY     map04024  cAMP signaling pathway
+DBLINKS     CAS: 14292-27-4
+            PubChem: 254741260
+ATOM        11
+            1   C1c C    17.4199  -16.5204
+            2   C1b C    18.6368  -17.2192
+            3   C1b C    16.2086  -17.2192
+            4   C1b C    19.8481  -16.5204
+            5   C6a C    14.9916  -16.5204
+            6   C1b C    21.0592  -17.2192
+            7   O6a O    13.7805  -17.2192
+            8   O6a O    14.9916  -15.1170
+            9   C1b C    22.2762  -16.5204
+            10  C1a C    23.4816  -17.2192
+            11  O1a O    17.4185  -15.1200
+BOND        10
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     5   8 2
+            8     6   9 1
+            9     9  10 1
+            10    1  11 1
+///
+
+ENTRY       C20826                      Compound
+NAME        Isovalerylcarnitine;
+            O-Isovaleryl-L-carnitine
+FORMULA     C12H23NO4
+EXACT_MASS  245.1627
+MOL_WEIGHT  245.32
+DBLINKS     PubChem: 254741292
+ATOM        17
+            1   C1c C    19.8081  -15.9838
+            2   O7a O    18.6368  -16.6628
+            3   C1b C    20.9794  -16.6628
+            4   C1b C    19.8081  -14.6314
+            5   C7a C    17.4596  -15.9838
+            6   N1d N    20.9794  -18.0154 #+
+            7   C6a C    20.9794  -13.9523
+            8   C1b C    16.2882  -16.6628
+            9   O6a O    17.4596  -14.6314
+            10  C1a C    22.2185  -18.7623
+            11  C1a C    19.6723  -18.7477
+            12  O6a O    20.9794  -12.5998
+            13  O6a O    22.1508  -14.6314 #-
+            14  C1c C    15.1167  -15.9838
+            15  C1a C    20.9794  -19.4154
+            16  C1a C    13.9159  -16.6742
+            17  C1a C    15.1191  -14.5600
+BOND        16
+            1     1   2 1 #Down
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6  10 1
+            10    6  11 1
+            11    7  12 2
+            12    7  13 1
+            13    8  14 1
+            14    6  15 1
+            15   14  16 1
+            16   14  17 1
+///
+
+ENTRY       C20839                      Compound
+NAME        (25R)-3-Oxocholest-4-en-26-oate;
+            3-Oxo-4-cholesten-26-oate;
+            3-Oxo-4-cholesten-26-oic acid
+FORMULA     C27H42O3
+EXACT_MASS  414.3134
+MOL_WEIGHT  414.62
+REACTION    R11360 R11361 R13461
+PATHWAY     map00984  Steroid degradation
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.14.15.28      6.2.1.42
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0403 C27 bile acids, alcohols, and derivatives
+                C20839  (25R)-3-Oxocholest-4-en-26-oate
+DBLINKS     PubChem: 254741305
+            LIPIDMAPS: LMST04030217
+            PDB-CCD: DL4
+ATOM        30
+            1   C1x C     8.7500  -18.1300
+            2   C5x C     8.7500  -19.5300
+            3   C2x C     9.9624  -20.2300
+            4   C2y C    11.1749  -19.5300
+            5   C1z C    11.1749  -18.1300
+            6   C1x C     9.9624  -17.4300
+            7   C1x C    12.3873  -20.2300
+            8   C1x C    13.5997  -19.5300
+            9   C1y C    13.5997  -18.1300
+            10  C1y C    12.3873  -17.4300
+            11  C1y C    14.8122  -17.4300
+            12  C1z C    14.8122  -16.0300
+            13  C1x C    13.5997  -15.3300
+            14  C1x C    12.3873  -16.0300
+            15  C1x C    17.2370  -17.4300
+            16  C1x C    17.2370  -16.0300
+            17  C1y C    16.0246  -15.3300
+            18  O5x O     7.5376  -20.2300
+            19  C1a C    11.1749  -16.7300
+            20  C1a C    14.8122  -14.6300
+            21  C1c C    16.0246  -13.9300
+            22  C1b C    17.2411  -13.2277
+            23  C1a C    14.8162  -13.2323
+            24  C1b C    18.4386  -13.9192
+            25  C1b C    19.6249  -13.2343
+            26  C1c C    20.8167  -13.9226
+            27  C6a C    22.0059  -13.2361
+            28  C1a C    20.8167  -15.3297
+            29  O6a O    23.1962  -13.9235
+            30  O6a O    22.0061  -11.8302
+BOND        33
+            1     1   2 1
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   11  15 1
+            18   15  16 1
+            19   16  17 1
+            20   12  17 1
+            21    2  18 2
+            22    5  19 1 #Up
+            23   12  20 1 #Up
+            24   17  21 1
+            25   21  22 1
+            26   21  23 1 #Down
+            27   22  24 1
+            28   24  25 1
+            29   25  26 1
+            30   26  27 1
+            31   26  28 1 #Down
+            32   27  29 1
+            33   27  30 2
+///
+
+ENTRY       C20851                      Compound
+NAME        Dihydromonacolin L acid;
+            (3R,5R)-7-[(1S,2S,4aR,6R,8aS)-2,6-Dimethyl-1,2,4a,5,6,7,8,8a-octahydronaphthalen1yl]-3,5-dihydroxyheptanoate
+FORMULA     C19H32O4
+EXACT_MASS  324.2301
+MOL_WEIGHT  324.45
+REACTION    R10791 R10793 R11187
+PATHWAY     map00997  Biosynthesis of various other secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+ENZYME      1.14.14.124     3.1.2.31
+DBLINKS     PubChem: 254741317
+ATOM        23
+            1   C1y C    22.8200  -19.0400
+            2   C2x C    22.8200  -20.4400
+            3   C2x C    21.6300  -21.1400
+            4   C1y C    20.3700  -20.4400
+            5   C1y C    20.3700  -19.0400
+            6   C1y C    21.6300  -18.4100
+            7   C1x C    19.2500  -21.1400
+            8   C1y C    18.0600  -20.4400
+            9   C1x C    18.0600  -19.0400
+            10  C1x C    19.2500  -18.4100
+            11  C1a C    16.9400  -21.1400
+            12  C1a C    23.9400  -18.4100
+            13  C1b C    21.6300  -17.0100
+            14  C1b C    22.8200  -16.3100
+            15  C1c C    22.8200  -14.9800
+            16  C1b C    21.5600  -14.2800
+            17  C1c C    21.5600  -12.3900
+            18  O1a O    24.2900  -14.6300
+            19  O1a O    20.4400  -11.7600
+            20  C1b C    22.8200  -11.6900
+            21  C6a C    23.9400  -12.3900
+            22  O6a O    25.1300  -11.6900
+            23  O6a O    23.9400  -13.6500
+BOND        24
+            1     1   2 1
+            2     2   3 2
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    8  11 1 #Down
+            13    1  12 1 #Up
+            14    6  13 1 #Up
+            15   13  14 1
+            16   14  15 1
+            17   15  16 1
+            18   16  17 1
+            19   15  18 1 #Down
+            20   17  19 1 #Up
+            21   17  20 1
+            22   20  21 1
+            23   21  22 2
+            24   21  23 1
+///
+
+ENTRY       C20896                      Compound
+NAME        D-Galactaro-1,4-lactone
+FORMULA     C6H8O7
+EXACT_MASS  192.0270
+MOL_WEIGHT  192.12
+REACTION    R10846 R10847
+PATHWAY     map00053  Ascorbate and aldarate metabolism
+            map01100  Metabolic pathways
+ENZYME      5.4.1.4         5.5.1.27
+DBLINKS     PubChem: 254741359
+            ChEBI: 85532
+ATOM        13
+            1   C1y C    24.1504  -25.2295
+            2   C1y C    24.5760  -26.5706
+            3   O7x O    25.2814  -24.4131
+            4   C1c C    22.8209  -24.7980
+            5   C1y C    25.9871  -26.5706
+            6   O1a O    23.7538  -27.6959
+            7   C7x C    26.4184  -25.2295
+            8   C6a C    21.7829  -25.7251
+            9   O1a O    22.5409  -23.4276
+            10  O1a O    26.8092  -27.6959
+            11  O6a O    27.7538  -24.7863
+            12  O6a O    20.4592  -25.2877
+            13  O6a O    22.0747  -27.1264
+BOND        13
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     4   8 1
+            8     4   9 1 #Up
+            9     5  10 1 #Down
+            10    7  11 2
+            11    8  12 1
+            12    5   7 1
+            13    8  13 2
+///
+
+ENTRY       C20913                      Compound
+NAME        C20913;
+            Tabtoxin biosynthesis intermediate 3
+FORMULA     C8H14N2O6
+EXACT_MASS  234.0852
+MOL_WEIGHT  234.21
+REACTION    R10886 R10887
+PATHWAY     map00261  Monobactam biosynthesis
+            map01110  Biosynthesis of secondary metabolites
+ENZYME      4.1.1.-
+DBLINKS     PubChem: 254741376
+            ChEBI: 190244
+ATOM        16
+            1   C1c C    22.1991  -16.5002
+            2   C1b C    20.9902  -15.8020
+            3   N1a N    22.1926  -17.9031
+            4   C6a C    23.4078  -15.7957
+            5   C1b C    19.7813  -16.5068
+            6   O6a O    24.6233  -16.4875
+            7   O6a O    23.4013  -14.3864
+            8   C1c C    18.5659  -15.8086
+            9   C1c C    17.3570  -16.5131
+            10  C6a C    16.1482  -15.8150
+            11  N1a N    17.3506  -17.9225
+            12  O6a O    14.9328  -16.5197
+            13  O6a O    16.1353  -14.4123
+            14  C6a C    18.5616  -14.4385
+            15  O6a O    17.3508  -13.7444
+            16  O6a O    19.7788  -13.7308
+BOND        15
+            1     1   2 1
+            2     1   3 1 #Up
+            3     1   4 1
+            4     2   5 1
+            5     4   6 1
+            6     4   7 2
+            7     5   8 1
+            8     8   9 1
+            9     9  10 1
+            10    9  11 1
+            11   10  12 1
+            12   10  13 2
+            13    8  14 1
+            14   14  15 2
+            15   14  16 1
+///
+
+ENTRY       C21297                      Compound
+NAME        2-Hydroxy-2-methylpropanoate;
+            2-Hydroxyisobutyrate
+FORMULA     C4H8O3
+EXACT_MASS  104.0473
+MOL_WEIGHT  104.10
+REACTION    R11350
+ENZYME      1.2.1.98
+DBLINKS     PubChem: 318172277
+ATOM        7
+            1   C6a C    18.0639  -15.8682
+            2   C1d C    19.2680  -16.5057
+            3   O6a O    16.7890  -16.5057
+            4   C1a C    20.4721  -15.8682
+            5   C1a C    19.2680  -17.9222
+            6   O1a O    19.2680  -15.0891
+            7   O6a O    18.0639  -14.4516
+BOND        6
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1
+            5     2   6 1
+            6     1   7 2
+///
+
+ENTRY       C21298                      Compound
+NAME        2,6-Dihydroxybenzoate;
+            gamma-Resorcylate
+FORMULA     C7H6O4
+EXACT_MASS  154.0266
+MOL_WEIGHT  154.12
+REACTION    R11353
+PATHWAY     map00362  Benzoate degradation
+            map01120  Microbial metabolism in diverse environments
+ENZYME      4.1.1.103
+DBLINKS     CAS: 303-07-1
+            PubChem: 318172278
+            PDB-CCD: GRE
+ATOM        11
+            1   C8y C    18.6202  -15.7865
+            2   C8y C    17.4105  -16.4778
+            3   C8y C    19.8364  -16.4778
+            4   C6a C    18.6139  -14.3911
+            5   C8x C    17.4105  -17.8861
+            6   C8x C    19.8364  -17.8861
+            7   O6a O    19.8171  -13.6934
+            8   O6a O    17.4040  -13.6999
+            9   C8x C    18.6202  -18.5965
+            10  O1a O    21.0383  -15.7782
+            11  O1a O    16.2025  -15.7767
+BOND        11
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     4   8 2
+            8     5   9 2
+            9     6   9 1
+            10    3  10 1
+            11    2  11 1
+///
+
+ENTRY       C21396                      Compound
+NAME        Ethylenediaminetriacetic acid;
+            Ethylenediaminetriacetate;
+            ED3A
+FORMULA     C8H14N2O6
+EXACT_MASS  234.0852
+MOL_WEIGHT  234.21
+REACTION    R11454 R11455
+ENZYME      1.14.14.33
+DBLINKS     PubChem: 328082939
+ATOM        16
+            1   N1c N    16.8229  -16.5448
+            2   C1b C    18.0046  -15.8497
+            3   C1b C    15.5717  -15.8497
+            4   C1b C    16.8229  -17.9351
+            5   C1b C    19.2558  -16.5448
+            6   C6a C    15.5717  -14.4595
+            7   C6a C    15.5717  -18.6302
+            8   N1b N    20.4375  -15.8497
+            9   O6a O    14.3900  -13.6949
+            10  O6a O    16.8229  -13.6949
+            11  O6a O    15.5717  -20.0204
+            12  O6a O    14.3900  -17.9351
+            13  C1b C    21.6192  -16.5448
+            14  C6a C    21.6192  -17.9351
+            15  O6a O    22.8704  -18.6302
+            16  O6a O    20.4375  -18.6302
+BOND        15
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     6   9 1
+            9     6  10 2
+            10    7  11 1
+            11    7  12 2
+            12    8  13 1
+            13   13  14 1
+            14   14  15 1
+            15   14  16 2
+///
+
+ENTRY       C21399                      Compound
+NAME        Isocaproate;
+            4-Methylpentanoate
+FORMULA     C6H12O2
+EXACT_MASS  116.0837
+MOL_WEIGHT  116.16
+REACTION    R11462
+ENZYME      2.8.3.24
+DBLINKS     PubChem: 328082942
+            PDB-CCD: 4MV
+ATOM        8
+            1   C1b C    19.2206  -15.8002
+            2   C1b C    18.0187  -16.4971
+            3   C6a C    20.4289  -16.4971
+            4   C1c C    16.8169  -15.8002
+            5   O6a O    20.4545  -17.9483
+            6   O6a O    21.6309  -15.7937
+            7   C1a C    15.6084  -16.4971
+            8   C1a C    16.8169  -14.4065
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 2
+            5     3   6 1
+            6     4   7 1
+            7     4   8 1
+///

@@ -1,0 +1,6 @@
+{
+  "url": "https://sparql.rhea-db.org/sparql?query=PREFIX+obo%3A+%3Chttp%3A%2F%2Fwww.geneontology.org%2Fformats%2FoboInOwl%23%3E+PREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E+SELECT+%3Fchebi+%3Fxref+%3Flabel+%3Fformula+WHERE+%7B+%3Fchebi+obo%3AhasDbXref+%3Fxref+.+FILTER%28REGEX%28STR%28%3Fxref%29%2C%22HMDB%7CKEGG%22%2C+%22i%22%29%29+OPTIONAL+%7B+%3Fchebi+rdfs%3Alabel+%3Flabel+%7D+OPTIONAL+%7B+%3Fchebi+%3Chttps%3A%2F%2Fw3id.org%2Fchemrof%2Fgeneralized_empirical_formula%3E+%3Fformula+%7D+%7D&format=json",
+  "payload": null,
+  "retrieved_utc": "2026-11-13T06:17:13.155598+00:00",
+  "sha256": "4d69a55b4864d9cd893e0d412d06c78e50848b0afafd8b966d7fe70554429ade"
+}

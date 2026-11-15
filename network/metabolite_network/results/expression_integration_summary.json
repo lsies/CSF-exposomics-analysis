@@ -1,0 +1,22 @@
+{
+  "responsive_overlap_all_experiments": [
+    "ABCG2",
+    "ALAS1",
+    "GPAT3",
+    "MBOAT1",
+    "SLC7A5",
+    "SLC7A8"
+  ],
+  "responsive_overlap_primary": [
+    "ABCG2",
+    "ALAS1",
+    "GPAT3",
+    "MBOAT1",
+    "SLC7A5",
+    "SLC7A8"
+  ],
+  "experiments_FDR05": [],
+  "mapped_KP_core": [
+    "KYNU"
+  ]
+}

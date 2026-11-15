@@ -1,0 +1,1464 @@
+ENTRY       C00008                      Compound
+NAME        ADP;
+            Adenosine 5'-diphosphate
+FORMULA     C10H15N5O10P2
+EXACT_MASS  427.0294
+MOL_WEIGHT  427.20
+REMARK      Same as: G11113
+REACTION    R00002 R00076 R00086 R00104 R00105 R00122 R00123 R00124 
+            R00125 R00126 R00127 R00129 R00130 R00139 R00140 R00141 
+            R00149 R00150 R00156 R00157 R00158 R00162 R00174 R00185 
+            R00187 R00200 R00229 R00239 R00251 R00253 R00283 R00299 
+            R00315 R00330 R00331 R00332 R00333 R00334 R00341 R00344 
+            R00352 R00405 R00437 R00480 R00482 R00497 R00509 R00512 
+            R00513 R00518 R00530 R00549 R00554 R00570 R00571 R00573 
+            R00575 R00616 R00617 R00722 R00742 R00756 R00760 R00774 
+            R00847 R00866 R00867 R00894 R00910 R00912 R00920 R00942 
+            R00943 R00949 R00964 R01011 R01021 R01050 R01051 R01052 
+            R01053 R01059 R01092 R01121 R01131 R01137 R01150 R01164 
+            R01201 R01228 R01256 R01322 R01326 R01353 R01395 R01417 
+            R01441 R01468 R01476 R01495 R01512 R01514 R01523 R01526 
+            R01541 R01547 R01567 R01568 R01573 R01585 R01600 R01639 
+            R01654 R01665 R01666 R01688 R01724 R01737 R01754 R01771 
+            R01786 R01843 R01844 R01857 R01859 R01881 R01888 R01901 
+            R01902 R01909 R01917 R01926 R01961 R01967 R01980 R01991 
+            R02017 R02071 R02089 R02090 R02093 R02094 R02098 R02099 
+            R02134 R02136 R02184 R02225 R02227 R02237 R02238 R02240 
+            R02245 R02301 R02303 R02324 R02326 R02331 R02402 R02404 
+            R02412 R02420 R02421 R02430 R02439 R02451 R02493 R02575 
+            R02584 R02625 R02626 R02649 R02650 R02658 R02664 R02705 
+            R02732 R02741 R02750 R02757 R02758 R02783 R02786 R02788 
+            R02848 R02865 R02884 R02903 R02927 R02929 R02971 R02976 
+            R02980 R03014 R03018 R03095 R03142 R03150 R03157 R03161 
+            R03182 R03187 R03193 R03236 R03241 R03245 R03274 R03286 
+            R03298 R03315 R03347 R03361 R03362 R03384 R03387 R03395 
+            R03428 R03429 R03433 R03449 R03469 R03471 R03474 R03478 
+            R03479 R03494 R03516 R03530 R03576 R03607 R03632 R03691 
+            R03744 R03754 R03766 R03770 R03780 R03785 R03819 R03822 
+            R03840 R03877 R03905 R03920 R03939 R03944 R04002 R04023 
+            R04068 R04126 R04138 R04143 R04144 R04208 R04212 R04235 
+            R04241 R04267 R04275 R04358 R04369 R04385 R04388 R04391 
+            R04401 R04403 R04448 R04463 R04504 R04509 R04545 R04555 
+            R04573 R04589 R04591 R04617 R04657 R04730 R04779 R04928 
+            R05030 R05185 R05186 R05197 R05202 R05221 R05224 R05225 
+            R05227 R05328 R05453 R05496 R05626 R05634 R05646 R05661 
+            R05795 R05799 R05800 R05801 R05802 R05803 R05804 R05805 
+            R05806 R05815 R06282 R06367 R06396 R06529 R06531 R06588 
+            R06836 R06974 R06975 R06976 R07127 R07279 R07302 R07404 
+            R07414 R07641 R07642 R07828 R08052 R08124 R08154 R08201 
+            R08217 R08223 R08232 R08233 R08241 R08242 R08323 R08352 
+            R08353 R08354 R08355 R08480 R08515 R08572 R08676 R08844 
+            R08855 R08905 R08906 R08924 R08946 R08962 R08964 R08967 
+            R08968 R09053 R09060 R09084 R09085 R09086 R09087 R09378 
+            R09401 R09588 R09590 R09592 R09593 R09594 R09595 R09596 
+            R09598 R09599 R09640 R09665 R09729 R09767 R09770 R09775 
+            R09776 R09880 R09945 R09946 R10065 R10093 R10267 R10268 
+            R10288 R10470 R10531 R10548 R10561 R10657 R10677 R10678 
+            R10679 R10693 R10758 R10772 R10779 R10780 R10821 R10822 
+            R10892 R10901 R10902 R10929 R10930 R10941 R10942 R10943 
+            R10944 R10948 R10951 R10953 R10970 R10993 R10994 R11024 
+            R11039 R11064 R11085 R11090 R11183 R11184 R11185 R11207 
+            R11234 R11319 R11400 R11406 R11460 R11461 R11530 R11531 
+            R11535 R11536 R11627 R11628 R11629 R11662 R11673 R11706 
+            R11707 R11783 R11784 R11803 R11891 R11892 R11894 R11895 
+            R11933 R12084 R12245 R12246 R12272 R12330 R12342 R12344 
+            R12530 R12594 R12616 R12633 R12695 R12746 R12755 R12786 
+            R12792 R12793 R12824 R12852 R12853 R12897 R12934 R12940 
+            R12951 R12980 R13003 R13004 R13005 R13089 R13188 R13189 
+            R13202 R13203 R13205 R13206 R13207 R13208 R13209 R13210 
+            R13211 R13222 R13256 R13401 R13453 R13489 R13566 R13572 
+            R13583 R13626 R13633 R13637
+PATHWAY     map00190  Oxidative phosphorylation
+            map00195  Photosynthesis
+            map00230  Purine metabolism
+            map00908  Zeatin biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01232  Nucleotide metabolism
+            map01240  Biosynthesis of cofactors
+            map04068  FoxO signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+            map04082  Neuroactive ligand signaling
+            map04142  Lysosome biogenesis
+            map04152  AMPK signaling pathway
+            map04611  Platelet activation
+            map04714  Thermogenesis
+            map04742  Taste transduction
+            map04924  Renin secretion
+            map05012  Parkinson disease
+            map05014  Amyotrophic lateral sclerosis
+            map05022  Pathways of neurodegeneration - multiple diseases
+MODULE      M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP
+            M00157  F-type ATPase, prokaryotes and chloroplasts
+            M00158  F-type ATPase, eukaryotes
+            M00159  V/A-type ATPase, prokaryotes
+            M00160  V-type ATPase, eukaryotes
+NETWORK     nt06535  Efferocytosis
+            nt06544  Neuroactive ligand signaling
+            nt06551  Lysosome
+ENZYME      1.3.7.7         1.3.7.8         1.3.7.14        1.3.7.15        
+            1.17.4.1        1.18.6.1        1.18.6.2        1.19.6.1        
+            1.20.1.2        2.3.3.8         2.4.1.13        2.4.1.21        
+            2.4.1.113       2.4.1.213       2.4.1.242       2.4.1.245       
+            2.4.1.268       2.4.1.342       2.4.1.347       2.4.99.23       
+            2.4.99.24       2.4.99.25       2.5.1.112       2.7.1.1         
+            2.7.1.2         2.7.1.3         2.7.1.4         2.7.1.5         
+            2.7.1.6         2.7.1.7         2.7.1.8         2.7.1.10        
+            2.7.1.11        2.7.1.12        2.7.1.13        2.7.1.14        
+            2.7.1.15        2.7.1.16        2.7.1.17        2.7.1.18        
+            2.7.1.19        2.7.1.20        2.7.1.21        2.7.1.22        
+            2.7.1.23        2.7.1.24        2.7.1.25        2.7.1.26        
+            2.7.1.27        2.7.1.28        2.7.1.29        2.7.1.30        
+            2.7.1.31        2.7.1.32        2.7.1.33        2.7.1.34        
+            2.7.1.35        2.7.1.36        2.7.1.39        2.7.1.40        
+            2.7.1.43        2.7.1.44        2.7.1.45        2.7.1.46        
+            2.7.1.47        2.7.1.48        2.7.1.49        2.7.1.50        
+            2.7.1.51        2.7.1.52        2.7.1.53        2.7.1.54        
+            2.7.1.55        2.7.1.56        2.7.1.58        2.7.1.59        
+            2.7.1.60        2.7.1.64        2.7.1.65        2.7.1.66        
+            2.7.1.67        2.7.1.68        2.7.1.71        2.7.1.72        
+            2.7.1.73        2.7.1.74        2.7.1.76        2.7.1.78        
+            2.7.1.82        2.7.1.83        2.7.1.84        2.7.1.85        
+            2.7.1.86        2.7.1.87        2.7.1.88        2.7.1.89        
+            2.7.1.91        2.7.1.92        2.7.1.93        2.7.1.94        
+            2.7.1.95        2.7.1.100       2.7.1.101       2.7.1.102       
+            2.7.1.103       2.7.1.105       2.7.1.107       2.7.1.113       
+            2.7.1.118       2.7.1.119       2.7.1.122       2.7.1.127       
+            2.7.1.130       2.7.1.134       2.7.1.136       2.7.1.137       
+            2.7.1.138       2.7.1.140       2.7.1.144       2.7.1.145       
+            2.7.1.146       2.7.1.147       2.7.1.148       2.7.1.149       
+            2.7.1.150       2.7.1.151       2.7.1.153       2.7.1.154       
+            2.7.1.156       2.7.1.157       2.7.1.158       2.7.1.159       
+            2.7.1.162       2.7.1.163       2.7.1.164       2.7.1.165       
+            2.7.1.166       2.7.1.167       2.7.1.168       2.7.1.169       
+            2.7.1.170       2.7.1.173       2.7.1.175       2.7.1.176       
+            2.7.1.177       2.7.1.178       2.7.1.179       2.7.1.181       
+            2.7.1.183       2.7.1.184       2.7.1.185       2.7.1.186       
+            2.7.1.187       2.7.1.188       2.7.1.189       2.7.1.209       
+            2.7.1.210       2.7.1.212       2.7.1.213       2.7.1.214       
+            2.7.1.215       2.7.1.217       2.7.1.218       2.7.1.219       
+            2.7.1.220       2.7.1.221       2.7.1.222       2.7.1.223       
+            2.7.1.224       2.7.1.225       2.7.1.226       2.7.1.229       
+            2.7.1.230       2.7.1.231       2.7.1.232       2.7.1.233       
+            2.7.1.234       2.7.1.235       2.7.1.236       2.7.1.239       
+            2.7.1.-         2.7.2.1         2.7.2.2         2.7.2.3         
+            2.7.2.4         2.7.2.6         2.7.2.7         2.7.2.8         
+            2.7.2.11        2.7.2.14        2.7.2.15        2.7.2.16        
+            2.7.2.17        2.7.2.18        2.7.2.19        2.7.3.1         
+            2.7.3.2         2.7.3.3         2.7.3.4         2.7.3.5         
+            2.7.3.6         2.7.3.7         2.7.3.8         2.7.3.10        
+            2.7.4.1         2.7.4.2         2.7.4.3         2.7.4.4         
+            2.7.4.6         2.7.4.7         2.7.4.8         2.7.4.9         
+            2.7.4.10        2.7.4.11        2.7.4.12        2.7.4.13        
+            2.7.4.14        2.7.4.15        2.7.4.16        2.7.4.18        
+            2.7.4.19        2.7.4.21        2.7.4.22        2.7.4.23        
+            2.7.4.24        2.7.4.25        2.7.4.26        2.7.4.31        
+            2.7.4.33        2.7.4.-         2.7.7.5         2.7.7.8         
+            2.7.7.35        2.7.7.36        2.7.7.53        2.7.7.89        
+            2.7.10.1        2.7.10.2        2.7.10.3        2.7.11.1        
+            2.7.11.2        2.7.11.3        2.7.11.4        2.7.11.5        
+            2.7.11.6        2.7.11.7        2.7.11.8        2.7.11.9        
+            2.7.11.10       2.7.11.11       2.7.11.12       2.7.11.13       
+            2.7.11.14       2.7.11.15       2.7.11.17       2.7.11.18       
+            2.7.11.19       2.7.11.21       2.7.11.22       2.7.11.23       
+            2.7.11.24       2.7.11.25       2.7.11.26       2.7.11.28       
+            2.7.11.29       2.7.11.30       2.7.11.31       2.7.11.35       
+            2.7.11.38       2.7.11.39       2.7.12.1        2.7.12.2        
+            2.7.13.1        2.7.13.2        2.7.14.1        3.5.2.9         
+            3.5.2.14        3.5.4.7         3.5.4.17        3.6.1.5         
+            3.6.1.8         3.6.1.15        3.6.1.29        3.6.1.41        
+            3.6.1.61        3.6.1.-         4.1.1.33        4.1.1.49        
+            4.1.1.99        4.2.1.93        4.2.1.136       6.1.2.1         
+            6.2.1.5         6.2.1.6         6.2.1.9         6.2.1.13        
+            6.2.1.18        6.2.1.39        6.2.1.56        6.2.1.-         
+            6.3.1.2         6.3.1.4         6.3.1.6         6.3.1.8         
+            6.3.1.9         6.3.1.10        6.3.1.11        6.3.1.12        
+            6.3.1.17        6.3.1.18        6.3.1.19        6.3.1.21        
+            6.3.2.2         6.3.2.3         6.3.2.4         6.3.2.6         
+            6.3.2.7         6.3.2.8         6.3.2.9         6.3.2.10        
+            6.3.2.11        6.3.2.12        6.3.2.13        6.3.2.16        
+            6.3.2.17        6.3.2.20        6.3.2.23        6.3.2.25        
+            6.3.2.29        6.3.2.30        6.3.2.32        6.3.2.33        
+            6.3.2.35        6.3.2.37        6.3.2.41        6.3.2.42        
+            6.3.2.43        6.3.2.44        6.3.2.45        6.3.2.47        
+            6.3.2.48        6.3.2.49        6.3.2.53        6.3.2.60        
+            6.3.2.65        6.3.2.-         6.3.3.1         6.3.3.2         
+            6.3.3.3         6.3.3.5         6.3.3.7         6.3.4.2         
+            6.3.4.3         6.3.4.6         6.3.4.7         6.3.4.8         
+            6.3.4.12        6.3.4.13        6.3.4.14        6.3.4.16        
+            6.3.4.17        6.3.4.18        6.3.4.21        6.3.4.23        
+            6.3.4.24        6.3.4.25        6.3.4.26        6.3.5.3         
+            6.3.5.5         6.3.5.6         6.3.5.7         6.3.5.9         
+            6.3.5.10        6.3.5.11        6.3.5.12        6.3.5.13        
+            6.3.5.-         6.4.1.1         6.4.1.2         6.4.1.3         
+            6.4.1.4         6.4.1.5         6.4.1.7         6.4.1.8         
+            6.4.1.9         6.4.1.-         6.5.1.7         6.5.1.9         
+            6.6.1.1         6.6.1.2         7.1.2.2         7.3.2.6
+BRITE       Compounds with biological roles [BR:br08001]
+             Nucleic acids
+              Nucleotides
+               Ribonucleotides
+                C00008  ADP
+            Glycosides [BR:br08021]
+             N-glycosides
+              C00008  ADP
+DBLINKS     CAS: 58-64-0
+            PubChem: 3310
+            ChEBI: 16761
+            KNApSAcK: C00019353
+            PDB-CCD: ADP
+            J-GLOBAL: J10.683F
+ATOM        27
+            1   N4y N    29.0043  -15.0163
+            2   C8y C    30.0699  -15.7560
+            3   C1y C    27.7172  -15.4356
+            4   C8x C    29.4819  -13.6186
+            5   C8y C    31.3046  -14.8474
+            6   N5x N    30.2039  -17.1827
+            7   O2x O    26.5759  -14.5855
+            8   C1y C    27.2805  -16.6935
+            9   N5x N    30.9319  -13.6245
+            10  C8y C    32.5625  -15.4066
+            11  C8x C    31.5316  -17.7709
+            12  C1y C    25.4694  -15.3774
+            13  C1y C    25.9004  -16.6935
+            14  O1a O    28.0900  -17.8292
+            15  N5x N    32.7197  -16.8916
+            16  N1a N    33.6690  -14.5796
+            17  C1b C    24.1474  -14.9465
+            18  O1a O    25.4519  -18.0097
+            19  O2b O    23.1108  -15.8783
+            20  P1b P    21.7133  -15.8783
+            21  O2c O    20.3214  -15.8783
+            22  O1c O    21.7074  -17.2700
+            23  O1c O    21.7074  -14.4863
+            24  P1b P    18.9297  -15.8724
+            25  O1c O    18.9237  -17.2643
+            26  O1c O    17.5377  -15.8724
+            27  O1c O    18.9237  -14.4747
+BOND        29
+            1     1   2 1
+            2     3   1 1 #Up
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 2
+            9     5  10 1
+            10    6  11 2
+            11    7  12 1
+            12    8  13 1
+            13    8  14 1 #Down
+            14   10  15 2
+            15   10  16 1
+            16   12  17 1 #Up
+            17   13  18 1 #Down
+            18   17  19 1
+            19   19  20 1
+            20   20  21 1
+            21   20  22 1
+            22   20  23 2
+            23   21  24 1
+            24   24  25 1
+            25   24  26 1
+            26   24  27 2
+            27    5   9 1
+            28   11  15 1
+            29   12  13 1
+///
+
+ENTRY       C00020                      Compound
+NAME        AMP;
+            Adenosine 5'-monophosphate;
+            Adenylic acid;
+            Adenylate;
+            5'-AMP;
+            5'-Adenylic acid;
+            5'-Adenosine monophosphate;
+            Adenosine 5'-phosphate
+FORMULA     C10H14N5O7P
+EXACT_MASS  347.0631
+MOL_WEIGHT  347.22
+REMARK      Same as: D02769
+REACTION    R00085 R00087 R00103 R00122 R00127 R00157 R00160 R00181 
+            R00182 R00183 R00184 R00185 R00187 R00188 R00189 R00190 
+            R00191 R00199 R00206 R00235 R00236 R00257 R00322 R00333 
+            R00381 R00382 R00389 R00390 R00429 R00436 R00483 R00531 
+            R00542 R00578 R00619 R00686 R00735 R00860 R00925 R00926 
+            R00951 R00982 R01049 R01054 R01075 R01083 R01176 R01230 
+            R01231 R01280 R01300 R01357 R01406 R01407 R01422 R01423 
+            R01490 R01558 R01568 R01571 R01598 R01616 R01723 R01885 
+            R01943 R01954 R02194 R02221 R02255 R02473 R02539 R02677 
+            R02699 R02711 R02718 R02794 R02918 R02986 R03004 R03036 
+            R03038 R03209 R03258 R03383 R03503 R03570 R03595 R03613 
+            R03631 R03646 R03647 R03648 R03650 R03651 R03652 R03654 
+            R03655 R03656 R03657 R03658 R03659 R03660 R03661 R03662 
+            R03663 R03664 R03665 R03762 R03876 R03932 R04030 R04036 
+            R04038 R04157 R04230 R04274 R04449 R04507 R04562 R04563 
+            R04580 R04582 R04604 R04773 R04863 R04870 R04927 R05145 
+            R05193 R05451 R05452 R05467 R05537 R05577 R05578 R05620 
+            R05625 R05717 R05735 R05804 R05805 R06368 R06409 R06410 
+            R06515 R06583 R06731 R06746 R06751 R06777 R06778 R06944 
+            R07176 R07325 R07416 R07461 R07636 R07640 R07644 R07646 
+            R07771 R07887 R08088 R08117 R08218 R08244 R08553 R08576 
+            R08578 R08700 R08733 R08738 R08743 R08872 R09084 R09085 
+            R09086 R09195 R09279 R09286 R09379 R09475 R09589 R09591 
+            R09597 R09735 R09881 R09882 R09978 R10003 R10090 R10091 
+            R10267 R10268 R10453 R10495 R10496 R10543 R10544 R10556 
+            R10613 R10648 R10661 R10711 R10767 R10768 R10769 R10770 
+            R10771 R10820 R10822 R10836 R10880 R10940 R11084 R11104 
+            R11143 R11279 R11319 R11367 R11370 R11392 R11515 R11535 
+            R11632 R11679 R11723 R11775 R11872 R11873 R11922 R11923 
+            R11924 R11925 R11926 R11941 R11950 R11964 R12017 R12057 
+            R12060 R12062 R12064 R12066 R12148 R12235 R12271 R12300 
+            R12308 R12311 R12312 R12342 R12346 R12352 R12353 R12354 
+            R12394 R12395 R12397 R12398 R12417 R12419 R12429 R12433 
+            R12435 R12449 R12450 R12485 R12494 R12495 R12573 R12574 
+            R12575 R12577 R12590 R12594 R12596 R12598 R12599 R12633 
+            R12641 R12642 R12722 R12723 R12726 R12727 R12729 R12730 
+            R12766 R12767 R12773 R12774 R12776 R12777 R12780 R12781 
+            R12783 R12784 R12789 R12804 R12805 R12812 R12863 R12867 
+            R12871 R12873 R12875 R12904 R12943 R12968 R13030 R13207 
+            R13209 R13210 R13211 R13241 R13274 R13315 R13316 R13317 
+            R13318 R13319 R13320 R13353 R13355 R13461 R13496 R13498 
+            R13505 R13506 R13507 R13509 R13510 R13511 R13526 R13530 
+            R13531 R13532 R13533 R13534 R13536 R13576 R13578 R13579 
+            R13580 R13581 R13582 R13584 R13585 R13587 R13591 R13592 
+            R13595 R13596 R13601 R13602 R13603 R13608 R13609 R13610 
+            R13633 R13681 R13682 R13694 R13695 R13720 R13721 R13722 
+            R13798
+PATHWAY     map00230  Purine metabolism
+            map00908  Zeatin biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01065  Biosynthesis of alkaloids derived from histidine and purine
+            map01070  Biosynthesis of plant hormones
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01232  Nucleotide metabolism
+            map01240  Biosynthesis of cofactors
+            map01523  Antifolate resistance
+            map04022  cGMP-PKG signaling pathway
+            map04024  cAMP signaling pathway
+            map04068  FoxO signaling pathway
+            map04150  mTOR signaling pathway
+            map04151  PI3K-Akt signaling pathway
+            map04152  AMPK signaling pathway
+            map04211  Longevity regulating pathway
+            map04740  Olfactory transduction
+            map04742  Taste transduction
+            map04923  Regulation of lipolysis in adipocytes
+            map04924  Renin secretion
+            map04925  Aldosterone synthesis and secretion
+            map04927  Cortisol synthesis and secretion
+            map04928  Parathyroid hormone synthesis, secretion and action
+            map04934  Cushing syndrome
+            map05012  Parkinson disease
+            map05022  Pathways of neurodegeneration - multiple diseases
+            map05032  Morphine addiction
+MODULE      M00049  Adenine ribonucleotide biosynthesis, IMP => ADP,ATP
+            M00958  Adenine ribonucleotide degradation, AMP => Urate
+            M00968  Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate
+NETWORK     nt06027  Purine salvage pathway
+            nt06030  Methionine metabolism
+            nt06544  Neuroactive ligand signaling
+ENZYME      1.2.1.30        1.2.1.95        1.2.1.101       1.8.4.9         
+            1.8.4.10        1.8.99.2        1.13.12.7       1.20.1.2        
+            2.3.1.234       2.3.1.-         2.4.2.7         2.4.2.57        
+            2.5.1.27        2.5.1.143       2.7.1.20        2.7.1.114       
+            2.7.1.118       2.7.1.146       2.7.1.147       2.7.1.180       
+            2.7.1.212       2.7.1.226       2.7.1.238       2.7.3.13        
+            2.7.4.3         2.7.4.10        2.7.4.33        2.7.6.1         
+            2.7.6.2         2.7.6.3         2.7.6.4         2.7.6.5         
+            2.7.6.-         2.7.9.1         2.7.9.2         2.7.9.3         
+            2.7.9.6         2.7.9.7         2.8.1.4         2.8.1.11        
+            2.8.1.13        2.10.1.1        3.1.3.5         3.1.3.7         
+            3.1.3.97        3.1.4.17        3.1.4.53        3.1.4.60        
+            3.2.2.4         3.5.4.6         3.5.4.17        3.6.1.5         
+            3.6.1.8         3.6.1.9         3.6.1.13        3.6.1.17        
+            3.6.1.18        3.6.1.20        3.6.1.21        3.6.1.22        
+            3.6.1.29        3.6.1.53        3.6.1.60        3.6.1.61        
+            3.6.1.-         3.6.2.1         4.2.1.136       4.2.1.186       
+            4.3.2.2         4.3.3.9         4.4.1.37        4.4.1.45        
+            4.6.1.15        5.1.1.11        5.1.1.23        6.1.1.1         
+            6.1.1.2         6.1.1.3         6.1.1.4         6.1.1.5         
+            6.1.1.6         6.1.1.7         6.1.1.9         6.1.1.10        
+            6.1.1.11        6.1.1.12        6.1.1.13        6.1.1.14        
+            6.1.1.15        6.1.1.16        6.1.1.17        6.1.1.18        
+            6.1.1.19        6.1.1.20        6.1.1.21        6.1.1.22        
+            6.1.1.23        6.1.1.24        6.1.1.26        6.1.1.27        
+            6.1.2.2         6.1.3.1         6.1.3.2         6.2.1.1         
+            6.2.1.2         6.2.1.3         6.2.1.7         6.2.1.8         
+            6.2.1.11        6.2.1.12        6.2.1.14        6.2.1.15        
+            6.2.1.16        6.2.1.17        6.2.1.19        6.2.1.20        
+            6.2.1.22        6.2.1.23        6.2.1.24        6.2.1.25        
+            6.2.1.26        6.2.1.27        6.2.1.28        6.2.1.30        
+            6.2.1.31        6.2.1.32        6.2.1.33        6.2.1.35        
+            6.2.1.36        6.2.1.37        6.2.1.38        6.2.1.40        
+            6.2.1.41        6.2.1.42        6.2.1.43        6.2.1.44        
+            6.2.1.46        6.2.1.47        6.2.1.48        6.2.1.50        
+            6.2.1.51        6.2.1.52        6.2.1.53        6.2.1.57        
+            6.2.1.58        6.2.1.60        6.2.1.61        6.2.1.62        
+            6.2.1.63        6.2.1.65        6.2.1.66        6.2.1.67        
+            6.2.1.68        6.2.1.69        6.2.1.70        6.2.1.71        
+            6.2.1.72        6.2.1.73        6.2.1.74        6.2.1.75        
+            6.2.1.76        6.2.1.77        6.2.1.78        6.2.1.-         
+            6.2.2.4         6.3.1.1         6.3.1.5         6.3.1.7         
+            6.3.1.13        6.3.1.14        6.3.1.15        6.3.1.20        
+            6.3.2.1         6.3.2.14        6.3.2.24        6.3.2.26        
+            6.3.2.36        6.3.2.38        6.3.2.39        6.3.2.40        
+            6.3.2.46        6.3.2.50        6.3.2.51        6.3.2.52        
+            6.3.2.54        6.3.2.55        6.3.2.56        6.3.2.57        
+            6.3.2.58        6.3.2.63        6.3.2.64        6.3.2.-         
+            6.3.3.4         6.3.3.6         6.3.4.5         6.3.4.9         
+            6.3.4.10        6.3.4.11        6.3.4.15        6.3.4.19        
+            6.3.4.20        6.3.4.22        6.3.5.1         6.3.5.2         
+            6.3.5.4         6.3.5.-         6.4.1.6         6.4.1.10        
+            6.4.1.11        6.4.1.12        6.5.1.1         6.5.1.2         
+            6.5.1.3         6.5.1.4         6.5.1.6         6.5.1.7         
+            6.7.1.1         6.7.1.2
+BRITE       Compounds with biological roles [BR:br08001]
+             Nucleic acids
+              Nucleotides
+               Ribonucleotides
+                C00020  AMP
+            Glycosides [BR:br08021]
+             N-glycosides
+              C00020  AMP
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D02769)]
+             C CARDIOVASCULAR SYSTEM
+              C01 CARDIAC THERAPY
+               C01E OTHER CARDIAC PREPARATIONS
+                C01EB Other cardiac preparations
+                 C01EB10 Adenosine
+                  D02769  Adenosine phosphate (USAN/INN)
+            Target-based classification of drugs [BR:br08310(D02769)]
+             G Protein-coupled receptors
+              Rhodopsin family
+               Adenosine
+                ADORA
+                 D02769  Adenosine phosphate (USAN/INN)
+DBLINKS     CAS: 61-19-8
+            PubChem: 3322
+            ChEBI: 16027
+            KNApSAcK: C00019347
+            PDB-CCD: A AMP AP7
+            J-GLOBAL: J4.814C
+ATOM        23
+            1   N4y N    26.8561  -17.8969
+            2   C8y C    27.9291  -18.6376
+            3   C1y C    25.5732  -18.3168
+            4   C8x C    27.3401  -16.4973
+            5   C8y C    29.1654  -17.7277
+            6   N5x N    28.0632  -20.0603
+            7   O2x O    24.4302  -17.4595
+            8   C1y C    25.1416  -19.5706
+            9   N5x N    28.7923  -16.5032
+            10  C8y C    30.4251  -18.2818
+            11  C8x C    29.3928  -20.6493
+            12  C1y C    23.3223  -18.2584
+            13  C1y C    23.7537  -19.5706
+            14  O1a O    25.8007  -20.7077
+            15  N5x N    30.5883  -19.7747
+            16  N1a N    31.5329  -17.4538
+            17  C1b C    21.9985  -17.8270
+            18  O1a O    23.3047  -20.8944
+            19  O2b O    20.9605  -18.7541
+            20  P1b P    19.5609  -18.7541
+            21  O1c O    19.5552  -20.1537
+            22  O1c O    18.1673  -18.7541
+            23  O1c O    19.5552  -17.3604
+BOND        25
+            1     1   2 1
+            2     3   1 1 #Up
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 2
+            9     5  10 1
+            10    6  11 2
+            11    7  12 1
+            12    8  13 1
+            13    8  14 1 #Down
+            14   10  15 2
+            15   10  16 1
+            16   12  17 1 #Up
+            17   13  18 1 #Down
+            18   17  19 1
+            19   19  20 1
+            20   20  21 1
+            21   20  22 1
+            22   20  23 2
+            23    5   9 1
+            24   11  15 1
+            25   12  13 1
+///
+
+ENTRY       C00025                      Compound
+NAME        L-Glutamate;
+            L-Glutamic acid;
+            L-Glutaminic acid;
+            Glutamate
+FORMULA     C5H9NO4
+EXACT_MASS  147.0532
+MOL_WEIGHT  147.13
+REMARK      Same as: D00007
+REACTION    R00021 R00093 R00114 R00239 R00243 R00245 R00248 R00250 
+            R00251 R00253 R00254 R00256 R00257 R00258 R00259 R00260 
+            R00261 R00262 R00263 R00355 R00372 R00411 R00457 R00494 
+            R00525 R00573 R00575 R00578 R00609 R00667 R00668 R00684 
+            R00694 R00707 R00708 R00734 R00768 R00894 R00895 R00908 
+            R00942 R00986 R01072 R01090 R01155 R01161 R01214 R01231 
+            R01339 R01585 R01586 R01648 R01654 R01684 R01716 R01939 
+            R01956 R02040 R02077 R02199 R02237 R02274 R02282 R02283 
+            R02285 R02287 R02313 R02315 R02433 R02619 R02700 R02772 
+            R02773 R02929 R02930 R03053 R03120 R03189 R03207 R03243 
+            R03266 R03651 R03905 R03916 R03952 R03970 R03971 R04028 
+            R04029 R04051 R04171 R04173 R04188 R04212 R04217 R04234 
+            R04241 R04242 R04269 R04338 R04438 R04463 R04467 R04475 
+            R04529 R04558 R04776 R05052 R05085 R05197 R05207 R05224 
+            R05225 R05507 R05578 R05815 R06423 R06426 R06586 R06631 
+            R06634 R06977 R07275 R07276 R07277 R07396 R07414 R07419 
+            R07456 R07613 R07643 R07659 R08244 R08855 R08897 R08903 
+            R08905 R08906 R08931 R08956 R09195 R09399 R09400 R09401 
+            R09495 R09594 R09598 R09599 R09778 R09824 R09825 R09875 
+            R10086 R10089 R10094 R10141 R10153 R10460 R10677 R10678 
+            R10679 R10687 R10688 R10693 R10698 R10772 R10845 R10902 
+            R10929 R10932 R10991 R10993 R11021 R11118 R11269 R11270 
+            R11285 R11291 R11297 R11298 R11299 R11395 R11409 R11475 
+            R11515 R11561 R11607 R11627 R11705 R11792 R11793 R11794 
+            R11795 R11960 R11963 R12214 R12251 R12272 R12352 R12410 
+            R12412 R12590 R12606 R12663 R12688 R12728 R12730 R12906 
+            R12936 R12939 R13098 R13148 R13305 R13442 R13554 R13714 
+            R13716 R13763 R13764 R13769
+PATHWAY     map00220  Arginine biosynthesis
+            map00250  Alanine, aspartate and glutamate metabolism
+            map00330  Arginine and proline metabolism
+            map00332  Carbapenem biosynthesis
+            map00340  Histidine metabolism
+            map00430  Taurine and hypotaurine metabolism
+            map00470  D-Amino acid metabolism
+            map00480  Glutathione metabolism
+            map00524  Neomycin, kanamycin and gentamicin biosynthesis
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map00650  Butanoate metabolism
+            map00660  C5-Branched dibasic acid metabolism
+            map00860  Porphyrin metabolism
+            map00910  Nitrogen metabolism
+            map00970  Aminoacyl-tRNA biosynthesis
+            map00975  Biosynthesis of various siderophores
+            map00998  Biosynthesis of various antibiotics
+            map01060  Biosynthesis of plant secondary metabolites
+            map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01240  Biosynthesis of cofactors
+            map02010  ABC transporters
+            map02020  Two-component system
+            map04068  FoxO signaling pathway
+            map04072  Phospholipase D signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+            map04082  Neuroactive ligand signaling
+            map04216  Ferroptosis
+            map04540  Gap junction
+            map04713  Circadian entrainment
+            map04720  Long-term potentiation
+            map04721  Synaptic vesicle cycle
+            map04723  Retrograde endocannabinoid signaling
+            map04724  Glutamatergic synapse
+            map04727  GABAergic synapse
+            map04730  Long-term depression
+            map04742  Taste transduction
+            map04900  Neuroendocrine signaling pathway of hypothalamus-pituitary axis
+            map04964  Proximal tubule bicarbonate reclamation
+            map04974  Protein digestion and absorption
+            map05014  Amyotrophic lateral sclerosis
+            map05016  Huntington disease
+            map05017  Spinocerebellar ataxia
+            map05022  Pathways of neurodegeneration - multiple diseases
+            map05030  Cocaine addiction
+            map05031  Amphetamine addiction
+            map05033  Nicotine addiction
+            map05034  Alcoholism
+            map05215  Prostate cancer
+            map05230  Central carbon metabolism in cancer
+MODULE      M00015  Proline biosynthesis, glutamate => proline
+            M00027  GABA (gamma-Aminobutyrate) shunt
+            M00028  Ornithine biosynthesis, glutamate => ornithine
+            M00045  Histidine degradation, histidine => N-formiminoglutamate => glutamate
+            M00118  Glutathione biosynthesis, glutamate => glutathione
+            M00121  Heme biosynthesis, plants and bacteria, glutamate => heme
+            M00532  Photorespiration
+            M00740  Methylaspartate cycle
+            M00763  Ornithine biosynthesis, mediated by LysW, glutamate => ornithine
+            M00845  Arginine biosynthesis, glutamate => acetylcitrulline => arginine
+            M00879  Arginine succinyltransferase pathway, arginine => glutamate
+            M00970  Proline degradation, proline => glutamate
+            M01054  Schizokinen biosynthesis, glutamate => schizokinen
+            M01062  Ergothioneine biosynthesis, bacteria, histidine => ergothioneine
+NETWORK     nt06010  Urea cycle
+            nt06026  Glutathione biosynthesis
+            nt06033  Glycine, serine and arginine metabolism
+            nt06037  Histidine metabolism
+            nt06460  Alzheimer disease
+            nt06461  Huntington disease
+            nt06462  Spinocerebellar ataxia
+            nt06463  Parkinson disease
+            nt06464  Amyotrophic lateral sclerosis
+            nt06465  Prion disease
+            nt06466  Pathways of neurodegeneration
+            nt06525  Ferroptosis
+            nt06528  Calcium signaling
+            nt06544  Neuroactive ligand signaling
+ENZYME      1.2.1.88        1.4.1.2         1.4.1.3         1.4.1.4         
+            1.4.1.13        1.4.1.14        1.4.3.11        1.4.7.1         
+            1.5.1.9         1.5.1.10        1.5.3.18        1.5.99.5        
+            1.14.11.76      2.1.1.21        2.1.2.5         2.3.1.1         
+            2.3.1.14        2.3.1.35        2.3.2.2         2.3.2.-         
+            2.4.2.14        2.5.1.140       2.6.1.1         2.6.1.2         
+            2.6.1.3         2.6.1.4         2.6.1.5         2.6.1.6         
+            2.6.1.7         2.6.1.9         2.6.1.11        2.6.1.13        
+            2.6.1.16        2.6.1.17        2.6.1.19        2.6.1.22        
+            2.6.1.23        2.6.1.24        2.6.1.26        2.6.1.27        
+            2.6.1.29        2.6.1.33        2.6.1.34        2.6.1.36        
+            2.6.1.38        2.6.1.39        2.6.1.42        2.6.1.44        
+            2.6.1.48        2.6.1.49        2.6.1.52        2.6.1.55        
+            2.6.1.57        2.6.1.59        2.6.1.65        2.6.1.67        
+            2.6.1.72        2.6.1.75        2.6.1.76        2.6.1.79        
+            2.6.1.80        2.6.1.81        2.6.1.82        2.6.1.83        
+            2.6.1.85        2.6.1.86        2.6.1.87        2.6.1.89        
+            2.6.1.90        2.6.1.92        2.6.1.93        2.6.1.94        
+            2.6.1.95        2.6.1.98        2.6.1.102       2.6.1.103       
+            2.6.1.104       2.6.1.106       2.6.1.107       2.6.1.109       
+            2.6.1.110       2.6.1.111       2.6.1.114       2.6.1.116       
+            2.6.1.118       2.6.1.120       2.6.1.122       2.6.1.123       
+            2.6.1.125       2.6.1.-         2.7.2.11        3.4.17.21       
+            3.4.19.9        3.4.19.13       3.4.19.14       3.4.19.16       
+            3.5.1.2         3.5.1.38        3.5.1.55        3.5.1.65        
+            3.5.1.68        3.5.1.87        3.5.1.94        3.5.1.96        
+            3.5.1.118       3.5.1.123       3.5.1.129       3.5.2.9         
+            3.5.3.8         4.1.1.15        4.1.3.27        4.2.1.168       
+            4.3.2.10        4.3.3.6         5.1.1.3         5.4.3.9         
+            5.4.99.1        6.1.1.17        6.1.1.24        6.2.1.39        
+            6.2.1.68        6.3.1.2         6.3.1.6         6.3.1.11        
+            6.3.1.17        6.3.1.18        6.3.2.2         6.3.2.12        
+            6.3.2.17        6.3.2.18        6.3.2.31        6.3.2.32        
+            6.3.2.33        6.3.2.34        6.3.2.41        6.3.2.42        
+            6.3.2.53        6.3.2.60        6.3.2.-         6.3.4.2         
+            6.3.4.12        6.3.4.24        6.3.5.1         6.3.5.2         
+            6.3.5.3         6.3.5.4         6.3.5.5         6.3.5.6         
+            6.3.5.7         6.3.5.9         6.3.5.10        6.3.5.11        
+            6.3.5.12        6.3.5.13        6.3.5.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00025  Glutamic acid (Glu)
+             Hormones and transmitters
+              Neurotransmitters
+               Amino acids
+                C00025  Glutamate
+            Risk category of Japanese OTC drugs [BR:br08312(D00007)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Glutamic acid
+                D00007  Glutamic acid (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00007)]
+             Chemicals
+              D00007  L-Glutamic acid
+DBLINKS     CAS: 56-86-0
+            PubChem: 3327
+            ChEBI: 16015
+            KNApSAcK: C00001358
+            PDB-CCD: GGL GLU
+            J-GLOBAL: J9.171E
+ATOM        10
+            1   C1c C    23.8372  -17.4608
+            2   C1b C    25.0252  -16.7233
+            3   C6a C    22.6023  -16.7994
+            4   N1a N    23.8781  -18.8595
+            5   C1b C    26.2601  -17.3788
+            6   O6a O    21.4434  -17.5954
+            7   O6a O    22.6198  -15.4007
+            8   C6a C    27.4482  -16.6414
+            9   O6a O    28.6830  -17.3028
+            10  O6a O    27.4714  -15.2426
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 1
+            8     8   9 1
+            9     8  10 2
+///
+
+ENTRY       C00031                      Compound
+NAME        D-Glucose;
+            Grape sugar;
+            Dextrose;
+            Glucose;
+            D-Glucopyranose
+FORMULA     C6H12O6
+EXACT_MASS  180.0634
+MOL_WEIGHT  180.16
+REMARK      Same as: D00009
+COMMENT     alpha-D-Glucose [CPD:C00267]
+            beta-D-Glucose [CPD:C00221]
+REACTION    R00010 R00015 R00028 R00049 R00063 R00299 R00300 R00301 
+            R00302 R00303 R00304 R00305 R00306 R00308 R00327 R00337 
+            R00503 R00534 R00550 R00725 R00801 R00837 R00838 R00839 
+            R00850 R00874 R00952 R00953 R00960 R01006 R01100 R01101 
+            R01139 R01444 R01460 R01498 R01555 R01718 R01790 R01791 
+            R02185 R02558 R02595 R02727 R02738 R02887 R02985 R03075 
+            R03323 R03527 R03604 R03703 R03801 R03802 R03820 R04006 
+            R04094 R04194 R04333 R04409 R04410 R04411 R04498 R04503 
+            R04949 R04998 R05061 R05140 R05141 R05142 R05196 R05804 
+            R05980 R05981 R06040 R06053 R06056 R06058 R06059 R06067 
+            R06069 R06079 R06080 R06087 R06091 R06103 R06104 R06105 
+            R06106 R06107 R06108 R06109 R06112 R06113 R06114 R06115 
+            R06135 R06204 R06620 R07147 R07264 R08404 R08432 R08514 
+            R08819 R08823 R08946 R09039 R09723 R09941 R09943 R10411 
+            R10494 R10525 R10530 R10580 R10581 R11215 R11306 R11682 
+            R11791 R11942 R12208 R12209 R12250 R12983 R12997 R13178 
+            R13191 R13253 R13254 R13280 R13778 R13779 R13786 R13793
+PATHWAY     map00010  Glycolysis / Gluconeogenesis
+            map00030  Pentose phosphate pathway
+            map00052  Galactose metabolism
+            map00074  Mycolic acid biosynthesis
+            map00500  Starch and sucrose metabolism
+            map00520  Amino sugar and nucleotide sugar metabolism
+            map00521  Streptomycin biosynthesis
+            map00524  Neomycin, kanamycin and gentamicin biosynthesis
+            map00566  Sulfoquinovose metabolism
+            map00901  Indole alkaloid biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map02010  ABC transporters
+            map02020  Two-component system
+            map02060  Phosphotransferase system (PTS)
+            map04066  HIF-1 signaling pathway
+            map04068  FoxO signaling pathway
+            map04113  Meiosis - yeast
+            map04148  Efferocytosis
+            map04152  AMPK signaling pathway
+            map04742  Taste transduction
+            map04910  Insulin signaling pathway
+            map04911  Insulin secretion
+            map04917  Prolactin signaling pathway
+            map04922  Glucagon signaling pathway
+            map04930  Type II diabetes mellitus
+            map04931  Insulin resistance
+            map04932  Non-alcoholic fatty liver disease
+            map04933  AGE-RAGE signaling pathway in diabetic complications
+            map04973  Carbohydrate digestion and absorption
+            map04976  Bile secretion
+            map04978  Mineral absorption
+            map05111  Biofilm formation - Vibrio cholerae
+            map05230  Central carbon metabolism in cancer
+            map05415  Diabetic cardiomyopathy
+MODULE      M00887  Mycolic acid biosynthesis, meromycolic acid + alpha-carboxyacyl-CoA + trehalose => TMM => TDM/mAGP/GMM
+            M01051  Sulfoquinovose degradation, sulfoquinovose => glucose
+NETWORK     nt06017  Glycogen metabolism
+            nt06535  Efferocytosis
+            nt06551  Lysosome
+ENZYME      1.1.1.118       1.1.1.119       1.1.1.121       1.1.1.359       
+            1.1.1.360       1.1.1.432       1.1.3.10        1.1.5.2         
+            1.1.5.9         1.1.99.28       1.1.99.35       2.3.1.72        
+            2.3.1.90        2.3.1.91        2.3.1.92        2.3.1.103       
+            2.3.1.143       2.3.1.152       2.3.1.-         2.4.1.8         
+            2.4.1.9         2.4.1.10        2.4.1.20        2.4.1.22        
+            2.4.1.25        2.4.1.31        2.4.1.64        2.4.1.99        
+            2.4.1.230       2.4.1.245       2.4.1.279       2.4.1.281       
+            2.4.1.400       2.7.1.1         2.7.1.2         2.7.1.41        
+            2.7.1.42        2.7.1.61        2.7.1.62        2.7.1.63        
+            2.7.1.142       2.7.1.147       2.7.1.199       3.1.1.33        
+            3.1.3.9         3.1.3.10        3.1.3.58        3.1.4.48        
+            3.1.6.3         3.2.1.3         3.2.1.10        3.2.1.20        
+            3.2.1.21        3.2.1.22        3.2.1.23        3.2.1.26        
+            3.2.1.28        3.2.1.39        3.2.1.42        3.2.1.45        
+            3.2.1.48        3.2.1.58        3.2.1.74        3.2.1.86        
+            3.2.1.93        3.2.1.104       3.2.1.105       3.2.1.107       
+            3.2.1.108       3.2.1.117       3.2.1.118       3.2.1.122       
+            3.2.1.125       3.2.1.126       3.2.1.147       3.2.1.175       
+            3.2.1.182       3.2.1.186       3.2.1.188       3.2.1.189       
+            3.2.1.205       3.2.1.206       3.2.1.207       3.2.1.208       
+            3.2.1.216       3.2.1.220       3.2.1.-         4.2.99.22       
+            4.2.99.23
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Monosaccharides
+               Aldoses
+                C00031  D-Glucose
+            Nucleotide sugars [br08020.html]
+             Monosaccharides vs nucleotides
+              C00031
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00009)]
+             B BLOOD AND BLOOD FORMING ORGANS
+              B05 BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS
+               B05C IRRIGATING SOLUTIONS
+                B05CX Other irrigating solutions
+                 B05CX01 Glucose
+                  D00009  Glucose (JP19) &lt;JP&gt;
+             V VARIOUS
+              V04 DIAGNOSTIC AGENTS
+               V04C OTHER DIAGNOSTIC AGENTS
+                V04CA Tests for diabetes
+                 V04CA02 Glucose
+                  D00009  Glucose (JP19) &lt;JP&gt;
+              V06 GENERAL NUTRIENTS
+               V06D OTHER NUTRIENTS
+                V06DC Carbohydrates
+                 V06DC01 Glucose
+                  D00009  Glucose (JP19) &lt;JP&gt;
+            Therapeutic category of drugs in Japan [BR:br08301(D00009)]
+             3  Agents affecting metabolism
+              32  Nutrients, tonics
+               323  Saccharide preparations
+                3231  Glucoses
+                 D00009  Glucose (JP19); Purified glucose (JP19)
+            Risk category of Japanese OTC drugs [BR:br08312(D00009)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Glucose
+                D00009  Glucose (JP19)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00009)]
+             Chemicals
+              D00009  Glucose
+              D00009  Purified glucose
+              D00009  Glucose injection
+DBLINKS     CAS: 50-99-7 2280-44-6
+            PubChem: 3333
+            ChEBI: 4167
+            KNApSAcK: C00042470
+            PDB-CCD: BGC GLC
+            J-GLOBAL: J4.109B
+ATOM        12
+            1   C1y C    24.2781  -16.5372
+            2   C1y C    24.2781  -17.9377
+            3   O2x O    25.4860  -15.8370
+            4   C1b C    23.0643  -15.8370
+            5   C1y C    25.4860  -18.6379
+            6   O1a O    23.0643  -18.6379
+            7   C1y C    26.7055  -16.5372
+            8   O1a O    22.0023  -16.7474
+            9   C1y C    26.7055  -17.9377
+            10  O1a O    25.4860  -20.0383
+            11  O1a O    27.9134  -15.8370
+            12  O1a O    27.9134  -18.6379
+BOND        12
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     2   6 1 #Down
+            6     3   7 1
+            7     4   8 1
+            8     5   9 1
+            9     5  10 1 #Up
+            10    7  11 1 #Either
+            11    9  12 1 #Down
+            12    7   9 1
+///
+
+ENTRY       C00041                      Compound
+NAME        L-Alanine;
+            L-2-Aminopropionic acid;
+            L-alpha-Alanine
+FORMULA     C3H7NO2
+EXACT_MASS  89.0477
+MOL_WEIGHT  89.09
+REMARK      Same as: D00012
+REACTION    R00258 R00369 R00396 R00397 R00398 R00400 R00401 R00453 
+            R00576 R00585 R00692 R00863 R00907 R00987 R01215 R01261 
+            R01712 R02050 R02271 R02293 R02668 R02970 R03001 R03038 
+            R03193 R03210 R03502 R03599 R03854 R03936 R04112 R04152 
+            R04187 R05652 R07460 R08197 R08714 R08872 R09048 R09254 
+            R10124 R10178 R10180 R10992 R11038 R11064 R11528 R11583 
+            R12343 R12417 R12419 R12622 R12725 R12727 R13583
+PATHWAY     map00250  Alanine, aspartate and glutamate metabolism
+            map00270  Cysteine and methionine metabolism
+            map00430  Taurine and hypotaurine metabolism
+            map00450  Selenocompound metabolism
+            map00470  D-Amino acid metabolism
+            map00710  Carbon fixation by Calvin cycle
+            map00970  Aminoacyl-tRNA biosynthesis
+            map00997  Biosynthesis of various other secondary metabolites
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01502  Vancomycin resistance
+            map02010  ABC transporters
+            map04122  Sulfur relay system
+            map04974  Protein digestion and absorption
+            map04978  Mineral absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00171  C4-dicarboxylic acid cycle, NAD - malic enzyme type
+            M00901  Fumiquinazoline biosynthesis, tryptophan + alanine + anthranilate => fumiquinazoline
+ENZYME      1.4.1.1         1.5.1.17        2.3.1.47        2.6.1.2         
+            2.6.1.12        2.6.1.15        2.6.1.18        2.6.1.30        
+            2.6.1.37        2.6.1.40        2.6.1.41        2.6.1.43        
+            2.6.1.44        2.6.1.46        2.6.1.47        2.6.1.51        
+            2.6.1.56        2.6.1.58        2.6.1.66        2.6.1.71        
+            2.6.1.77        2.6.1.84        2.6.1.96        2.6.1.99        
+            2.6.1.108       2.6.1.113       2.6.1.115       2.6.1.119       
+            2.6.1.-         2.8.1.7         2.8.1.9         3.5.1.28        
+            3.7.1.3         4.1.1.12        4.1.1.64        4.4.1.16        
+            5.1.1.1         6.1.1.7         6.2.1.67        6.3.2.8         
+            6.3.2.49        6.3.2.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00041  Alanine (Ala)
+            Risk category of Japanese OTC drugs [BR:br08312(D00012)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Alanine
+                D00012  Alanine (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00012)]
+             Chemicals
+              D00012  L-Alanine
+DBLINKS     CAS: 56-41-7
+            PubChem: 3343
+            ChEBI: 16977
+            KNApSAcK: C00001332
+            PDB-CCD: ALA
+            J-GLOBAL: J9.168E
+ATOM        6
+            1   O6a O    22.7503  -15.7507
+            2   C6a C    23.9627  -15.0506
+            3   C1c C    25.1753  -15.7507
+            4   C1a C    26.3878  -15.0506
+            5   O6a O    23.9627  -13.6508
+            6   N1a N    25.1753  -17.1506
+BOND        5
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     2   5 2
+            5     3   6 1 #Down
+///
+
+ENTRY       C00047                      Compound
+NAME        L-Lysine;
+            Lysine acid;
+            2,6-Diaminohexanoic acid
+FORMULA     C6H14N2O2
+EXACT_MASS  146.1055
+MOL_WEIGHT  146.19
+REMARK      Same as: D02304
+REACTION    R00445 R00446 R00447 R00448 R00449 R00451 R00452 R00453 
+            R00454 R00457 R00458 R00459 R00460 R00461 R00462 R00463 
+            R00545 R00612 R00715 R00716 R00910 R00911 R01077 R01396 
+            R01620 R02786 R03095 R03658 R07598 R07646 R08125 R09597 
+            R09779 R10010 R10011 R10054 R10277 R10699 R11190 R11862 
+            R12407 R12506 R13534 R13535
+PATHWAY     map00300  Lysine biosynthesis
+            map00310  Lysine degradation
+            map00470  D-Amino acid metabolism
+            map00780  Biotin metabolism
+            map00960  Tropane, piperidine and pyridine alkaloid biosynthesis
+            map00970  Aminoacyl-tRNA biosynthesis
+            map00975  Biosynthesis of various siderophores
+            map00997  Biosynthesis of various other secondary metabolites
+            map01060  Biosynthesis of plant secondary metabolites
+            map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map02010  ABC transporters
+            map04974  Protein digestion and absorption
+MODULE      M00016  Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+            M00030  Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine
+            M00031  Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine
+            M00032  Lysine degradation, lysine => saccharopine => acetoacetyl-CoA
+            M00525  Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine
+            M00526  Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine
+            M00527  Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine
+            M00906  Ethynylserine biosynthesis, lysine => ethynylserine
+            M00918  Aerobactin biosynthesis, lysine => aerobactin
+            M00956  Lysine degradation, bacteria, L-lysine => succinate
+            M00957  Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA
+            M00960  Lysine degradation, bacteria, L-lysine => D-lysine => succinate
+            M01053  Deferoxamine biosynthesis, lysine => deferoxamine E/B
+NETWORK     nt06036  Lysine degradation
+ENZYME      1.4.1.15        1.4.1.18        1.4.3.14        1.4.3.20        
+            1.5.1.7         1.5.1.8         1.5.1.16        1.5.3.4         
+            1.13.12.2       1.14.13.59      1.14.20.-       2.1.3.8         
+            2.1.4.3         2.3.1.32        2.3.1.306       2.6.1.36        
+            2.6.1.71        2.6.1.105       3.4.13.4        3.4.14.13       
+            3.5.1.12        3.5.1.17        3.5.1.130       3.5.2.11        
+            3.5.-.-         4.1.1.18        4.1.1.20        4.3.1.28        
+            4.3.2.8         5.1.1.5         5.1.1.10        5.4.3.2         
+            5.4.99.58       6.1.1.6         6.2.1.77        6.3.2.7         
+            6.3.2.11        6.3.2.20        6.3.2.59        6.3.4.19
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00047  Lysine (Lys)
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D02304)]
+             B BLOOD AND BLOOD FORMING ORGANS
+              B05 BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS
+               B05X I.V. SOLUTION ADDITIVES
+                B05XB Amino acids
+                 B05XB03 Lysine
+                  D02304  Lysine (USAN/INN)
+            Risk category of Japanese OTC drugs [BR:br08312(D02304)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Lysine
+                D02304  Lysine (USAN/INN)
+DBLINKS     CAS: 56-87-1
+            PubChem: 3349
+            ChEBI: 18019
+            KNApSAcK: C00001378
+            PDB-CCD: LYS
+            J-GLOBAL: J9.176F
+ATOM        10
+            1   C1c C    29.3300  -16.8700
+            2   C1b C    28.1400  -16.1700
+            3   C6a C    30.5200  -16.1000
+            4   N1a N    29.3300  -18.2700
+            5   C1b C    26.9500  -16.8700
+            6   O6a O    31.7100  -16.8000
+            7   O6a O    30.5200  -14.7000
+            8   C1b C    25.6900  -16.2400
+            9   C1b C    24.5000  -16.9400
+            10  N1a N    23.2400  -16.2400
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 1
+            8     8   9 1
+            9     9  10 1
+///
+
+ENTRY       C00048                      Compound
+NAME        Glyoxylate;
+            Glyoxalate;
+            Glyoxylic acid
+FORMULA     C2H2O3
+EXACT_MASS  74.0004
+MOL_WEIGHT  74.04
+REACTION    R00013 R00364 R00365 R00366 R00369 R00372 R00373 R00465 
+            R00466 R00468 R00469 R00470 R00471 R00472 R00473 R00474 
+            R00475 R00476 R00477 R00478 R00479 R00588 R00652 R00717 
+            R00776 R00932 R00934 R01180 R01957 R03040 R03121 R03874 
+            R05418 R05419 R05493 R05862 R05863 R07982 R08702 R09144 
+            R09151 R09717 R09718 R09798 R10179 R10245 R10283 R10908 
+            R11351 R11454 R11455 R11456 R11486 R12692 R12693 R12694
+PATHWAY     map00230  Purine metabolism
+            map00232  Caffeine metabolism
+            map00260  Glycine, serine and threonine metabolism
+            map00330  Arginine and proline metabolism
+            map00625  Chloroalkane and chloroalkene degradation
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map00660  C5-Branched dibasic acid metabolism
+            map00680  Methane metabolism
+            map00720  Other carbon fixation pathways
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+MODULE      M00012  Glyoxylate cycle
+            M00346  Formaldehyde assimilation, serine pathway
+            M00373  Ethylmalonyl pathway
+            M00376  3-Hydroxypropionate bi-cycle
+            M00532  Photorespiration
+            M00740  Methylaspartate cycle
+ENZYME      1.1.1.26        1.1.1.29        1.1.1.79        1.1.3.15        
+            1.1.99.14       1.2.1.17        1.2.3.5         1.2.3.15        
+            1.4.1.1         1.4.1.10        1.4.2.1         1.4.3.3         
+            1.4.3.19        1.5.3.23        1.5.3.-         1.14.11.83      
+            1.14.12.11      1.14.13.-       1.14.14.10      1.14.14.33      
+            2.2.1.5         2.3.3.7         2.3.3.9         2.3.3.11        
+            2.3.3.12        2.6.1.4         2.6.1.35        2.6.1.44        
+            2.6.1.45        2.6.1.60        2.6.1.63        2.6.1.73        
+            2.6.1.96        2.6.1.112       2.6.1.-         3.5.1.116       
+            4.1.1.47        4.1.3.1         4.1.3.13        4.1.3.14        
+            4.1.3.16        4.1.3.24        4.1.3.41        4.1.3.42        
+            4.3.2.3         4.3.2.5
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               2-Oxocarboxylic acids
+                C00048  Glyoxylate; Oxoacetate
+DBLINKS     CAS: 298-12-4
+            PubChem: 3350
+            ChEBI: 16891
+            KNApSAcK: C00001186
+            PDB-CCD: GLV
+            J-GLOBAL: J38.150K
+ATOM        5
+            1   C6a C    28.6100  -19.1878
+            2   C4a C    27.3875  -19.8668
+            3   O6a O    29.8091  -19.9152
+            4   O6a O    28.6335  -17.7810
+            5   O4a O    27.3644  -21.2607
+BOND        4
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 2
+///
+
+ENTRY       C00049                      Compound
+NAME        L-Aspartate;
+            L-Aspartic acid;
+            2-Aminosuccinic acid;
+            L-Asp
+FORMULA     C4H7NO4
+EXACT_MASS  133.0375
+MOL_WEIGHT  133.10
+REMARK      Same as: D00013
+REACTION    R00355 R00357 R00373 R00397 R00400 R00480 R00481 R00482 
+            R00483 R00484 R00485 R00486 R00487 R00488 R00489 R00490 
+            R00491 R00493 R00526 R00546 R00578 R00695 R00777 R01135 
+            R01397 R01713 R01731 R01954 R03421 R03647 R04591 R05577 
+            R07164 R07165 R07407 R07410 R08478 R09592 R09805 R12513 
+            R12786 R12907 R12908 R13190 R13306 R13811
+PATHWAY     map00220  Arginine biosynthesis
+            map00250  Alanine, aspartate and glutamate metabolism
+            map00260  Glycine, serine and threonine metabolism
+            map00261  Monobactam biosynthesis
+            map00270  Cysteine and methionine metabolism
+            map00300  Lysine biosynthesis
+            map00340  Histidine metabolism
+            map00410  beta-Alanine metabolism
+            map00460  Cyanoamino acid metabolism
+            map00470  D-Amino acid metabolism
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map00710  Carbon fixation by Calvin cycle
+            map00760  Nicotinate and nicotinamide metabolism
+            map00770  Pantothenate and CoA biosynthesis
+            map00970  Aminoacyl-tRNA biosynthesis
+            map00997  Biosynthesis of various other secondary metabolites
+            map00998  Biosynthesis of various antibiotics
+            map00999  Biosynthesis of various plant secondary metabolites
+            map01060  Biosynthesis of plant secondary metabolites
+            map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+            map01070  Biosynthesis of plant hormones
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01240  Biosynthesis of cofactors
+            map02010  ABC transporters
+            map02020  Two-component system
+            map02030  Bacterial chemotaxis
+            map04080  Neuroactive ligand-receptor interaction
+            map04974  Protein digestion and absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00016  Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine
+            M00017  Methionine biosynthesis, aspartate => homoserine => methionine
+            M00018  Threonine biosynthesis, aspartate => homoserine => threonine
+            M00029  Urea cycle
+            M00033  Ectoine biosynthesis, aspartate => ectoine
+            M00115  NAD biosynthesis, aspartate => quinolinate => NAD
+            M00119  Pantothenate biosynthesis, valine/L-aspartate => pantothenate
+            M00170  C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type
+            M00171  C4-dicarboxylic acid cycle, NAD - malic enzyme type
+            M00525  Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine
+            M00526  Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine
+            M00527  Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine
+            M00844  Arginine biosynthesis, ornithine => arginine
+            M00845  Arginine biosynthesis, glutamate => acetylcitrulline => arginine
+            M00919  Ectoine degradation, ectoine => aspartate
+            M00951  Cremeomycin biosynthesis, aspartate/3,4-AHBA => cremeomycin
+ENZYME      1.2.1.-         1.4.1.21        1.4.1.29        1.4.3.2         
+            1.4.3.16        1.14.13.248     2.1.3.2         2.3.1.17        
+            2.6.1.1         2.6.1.12        2.6.1.31        2.6.1.35        
+            2.6.1.57        2.6.1.70        2.6.1.78        2.6.1.126       
+            2.6.1.-         2.7.2.4         3.1.1.121       3.5.1.1         
+            3.5.1.7         3.5.1.8         3.5.1.15        3.5.1.26        
+            3.5.1.38        3.5.1.134       3.5.3.14        3.5.5.4         
+            4.1.1.11        4.1.1.12        4.1.1.15        4.3.1.1         
+            5.1.1.13        6.1.1.12        6.1.1.23        6.3.1.1         
+            6.3.1.4         6.3.2.6         6.3.2.29        6.3.4.4         
+            6.3.4.5         6.3.4.25        6.3.4.-         6.3.5.4
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00049  Aspartic acid (Asp)
+             Hormones and transmitters
+              Neurotransmitters
+               Amino acids
+                C00049  Aspartate
+            Risk category of Japanese OTC drugs [BR:br08312(D00013)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Aspartic acid
+                D00013  Aspartic acid (USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00013)]
+             Chemicals
+              D00013  L-Aspartic acid
+DBLINKS     CAS: 56-84-8
+            PubChem: 3351
+            ChEBI: 17053
+            KNApSAcK: C00001342
+            PDB-CCD: ASP IAS
+            J-GLOBAL: J9.169C
+ATOM        9
+            1   O6a O    29.0500  -17.5000
+            2   C6a C    30.2400  -16.8000
+            3   C1c C    31.5000  -17.5000
+            4   C1b C    32.6900  -16.8000
+            5   C6a C    33.8800  -17.5000
+            6   O6a O    35.1400  -16.8000
+            7   O6a O    30.2400  -15.4000
+            8   N1a N    31.5000  -18.9000
+            9   O6a O    33.8800  -18.9000
+BOND        8
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     2   7 2
+            7     3   8 1 #Down
+            8     5   9 2
+///
+
+ENTRY       C00054                      Compound
+NAME        Adenosine 3',5'-bisphosphate;
+            PAP;
+            3'-Phosphoadenylate;
+            Phosphoadenosine phosphate
+FORMULA     C10H15N5O10P2
+EXACT_MASS  427.0294
+MOL_WEIGHT  427.20
+REACTION    R00188 R00507 R00535 R00536 R00537 R00629 R01027 R01236 
+            R01242 R01625 R01861 R02021 R02122 R02159 R02180 R02181 
+            R02350 R02586 R02632 R02633 R02809 R02839 R03138 R03214 
+            R03289 R03405 R03553 R03700 R03946 R03987 R04017 R04213 
+            R04476 R04643 R04940 R05105 R05798 R06122 R06279 R06809 
+            R07287 R07288 R07289 R07797 R07798 R08167 R08662 R08669 
+            R08671 R08688 R08699 R08977 R08978 R09444 R10655 R10747 
+            R10751 R10805 R10868 R10869 R10873 R10971 R11796 R11887 
+            R11888 R12794 R12960 R13047 R13048 R13797
+PATHWAY     map00230  Purine metabolism
+            map00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            map00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            map00770  Pantothenate and CoA biosynthesis
+            map00920  Sulfur metabolism
+            map01100  Metabolic pathways
+ENZYME      1.8.4.8         2.7.8.7         2.7.8.-         2.8.2.1         
+            2.8.2.2         2.8.2.3         2.8.2.4         2.8.2.5         
+            2.8.2.6         2.8.2.7         2.8.2.8         2.8.2.9         
+            2.8.2.10        2.8.2.11        2.8.2.13        2.8.2.14        
+            2.8.2.15        2.8.2.16        2.8.2.17        2.8.2.18        
+            2.8.2.19        2.8.2.20        2.8.2.21        2.8.2.23        
+            2.8.2.24        2.8.2.25        2.8.2.26        2.8.2.27        
+            2.8.2.28        2.8.2.29        2.8.2.30        2.8.2.31        
+            2.8.2.32        2.8.2.33        2.8.2.34        2.8.2.35        
+            2.8.2.36        2.8.2.37        2.8.2.38        2.8.2.39        
+            2.8.2.40        2.8.2.-         3.1.3.7         3.1.3.97        
+            3.6.1.77        3.6.2.2
+DBLINKS     CAS: 1053-73-2
+            PubChem: 3356
+            ChEBI: 17985
+            KNApSAcK: C00019352
+            PDB-CCD: A3P
+            J-GLOBAL: J14.396K
+ATOM        27
+            1   N4y N    34.3645  -20.1970
+            2   C1y C    34.2534  -22.6952
+            3   C8y C    33.0813  -19.7898
+            4   C8x C    35.1541  -19.1174
+            5   C1y C    33.8525  -23.9537
+            6   O2x O    33.1493  -21.8934
+            7   C8y C    33.0813  -18.4328
+            8   N5x N    31.9031  -20.4746
+            9   N5x N    34.3706  -18.0133
+            10  C1y C    32.4891  -23.9537
+            11  O1a O    34.6419  -25.0332
+            12  C1y C    32.0636  -22.6768
+            13  C8y C    31.9031  -17.7603
+            14  C8x C    30.7373  -19.7898
+            15  O2b O    31.7181  -25.0455
+            16  C1b C    30.7249  -21.5357
+            17  N5x N    30.7373  -18.4328
+            18  N1a N    31.8970  -16.4217
+            19  P1b P    30.3732  -25.0455
+            20  O2b O    29.7627  -22.4795
+            21  O1c O    29.0408  -25.0455
+            22  O1c O    30.3671  -26.3842
+            23  O1c O    30.3732  -23.7008
+            24  P1b P    28.4240  -22.4795
+            25  O1c O    27.0854  -22.4856
+            26  O1c O    28.4177  -23.8242
+            27  O1c O    28.4177  -21.1408
+BOND        29
+            1     2   1 1 #Up
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 2
+            7     3   8 1
+            8     4   9 2
+            9     5  10 1
+            10    5  11 1 #Down
+            11    6  12 1
+            12    7  13 1
+            13    8  14 2
+            14   10  15 1 #Down
+            15   12  16 1 #Up
+            16   13  17 2
+            17   13  18 1
+            18   15  19 1
+            19   16  20 1
+            20   19  21 1
+            21   19  22 1
+            22   19  23 2
+            23   20  24 1
+            24   24  25 1
+            25   24  26 1
+            26   24  27 2
+            27    7   9 1
+            28   10  12 1
+            29   14  17 1
+///
+
+ENTRY       C00064                      Compound
+NAME        L-Glutamine;
+            L-2-Aminoglutaramic acid
+FORMULA     C5H10N2O3
+EXACT_MASS  146.0691
+MOL_WEIGHT  146.14
+REMARK      Same as: D00015
+REACTION    R00021 R00093 R00114 R00253 R00256 R00257 R00573 R00575 
+            R00576 R00577 R00578 R00579 R00768 R00986 R01072 R01149 
+            R01231 R01375 R01716 R02576 R02781 R02895 R03652 R03905 
+            R04011 R04212 R04463 R04558 R05224 R05225 R05815 R07456 
+            R08244 R08855 R08890 R08891 R08956 R09195 R09598 R09599 
+            R10089 R11515 R11627 R11941 R12352 R12478 R12507 R12590 
+            R12939 R13353 R13355 R13608 R13610
+PATHWAY     map00220  Arginine biosynthesis
+            map00230  Purine metabolism
+            map00240  Pyrimidine metabolism
+            map00250  Alanine, aspartate and glutamate metabolism
+            map00470  D-Amino acid metabolism
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map00750  Vitamin B6 metabolism
+            map00910  Nitrogen metabolism
+            map00970  Aminoacyl-tRNA biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01230  Biosynthesis of amino acids
+            map01232  Nucleotide metabolism
+            map01240  Biosynthesis of cofactors
+            map02010  ABC transporters
+            map02020  Two-component system
+            map04382  Cornified envelope formation
+            map04724  Glutamatergic synapse
+            map04727  GABAergic synapse
+            map04964  Proximal tubule bicarbonate reclamation
+            map04974  Protein digestion and absorption
+            map04978  Mineral absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00048  De novo purine biosynthesis, PRPP + glutamine => IMP
+            M00051  De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP
+            M00916  Pyridoxal phosphate biosynthesis, R5P + glyceraldehyde-3P + glutamine => pyridoxal-P
+            M00978  Ornithine-ammonia cycle
+NETWORK     nt06544  Neuroactive ligand signaling
+ENZYME      1.4.1.13        1.4.1.14        1.4.7.1         2.3.1.14        
+            2.3.1.68        2.3.2.1         2.3.2.14        2.4.2.14        
+            2.6.1.15        2.6.1.16        2.6.1.50        2.6.1.64        
+            2.6.1.85        2.6.1.86        2.6.1.100       2.6.1.101       
+            2.6.1.117       2.6.1.123       2.7.3.13        3.5.1.2         
+            3.5.1.38        3.5.1.133       4.1.3.27        4.2.1.186       
+            4.3.2.10        4.3.3.6         4.3.3.9         5.1.1.10        
+            6.1.1.18        6.3.1.2         6.3.4.2         6.3.5.1         
+            6.3.5.2         6.3.5.3         6.3.5.4         6.3.5.5         
+            6.3.5.6         6.3.5.7         6.3.5.9         6.3.5.10        
+            6.3.5.11        6.3.5.12        6.3.5.13        6.3.5.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00064  Glutamine (Gln)
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00015)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A16 OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS
+               A16A OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS
+                A16AA Amino acids and derivatives
+                 A16AA03 Glutamine
+                  D00015  Glutamine (USP) &lt;US&gt;
+            USP drug classification [BR:br08302(D00015)]
+             Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment
+              Glutamine
+               D00015  Glutamine (USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D00015)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Glutamine
+                D00015  Glutamine (USP)
+            Drug groups [BR:br08330(D00015)]
+             Gastrointestinal agent
+              DG01975  Agents for peptic ulcer
+               DG02008  Gastric mucosal protectant
+                D00015  Glutamine
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00015)]
+             Chemicals
+              D00015  L-Glutamine
+            New drug approvals in the USA [br08319.html(D00015)]
+             New molecular entities and new therapeutic biological products
+              D00015
+            New drug approvals in the USA, Europe and Japan [br08328.html(D00015)]
+             Approval dates by FDA, EMA and PMDA
+              D00015
+DBLINKS     CAS: 56-85-9
+            PubChem: 3364
+            ChEBI: 18050
+            KNApSAcK: C00001359
+            PDB-CCD: GLN
+            J-GLOBAL: J9.170G
+ATOM        10
+            1   C1c C    23.8378  -17.4606
+            2   C1b C    25.0254  -16.7178
+            3   C6a C    22.6035  -16.7995
+            4   N1a N    23.8787  -18.8587
+            5   C1b C    26.2597  -17.3787
+            6   O6a O    21.4451  -17.5952
+            7   O6a O    22.6209  -15.4015
+            8   C5a C    27.4472  -16.6416
+            9   N1a N    28.6814  -17.3027
+            10  O5a O    27.4704  -15.2435
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 1
+            8     8   9 1
+            9     8  10 2
+///

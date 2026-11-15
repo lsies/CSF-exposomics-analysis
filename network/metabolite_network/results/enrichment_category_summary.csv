@@ -1,0 +1,5 @@
+analysis_family,Category,returned_terms,FDR_below_005
+GO_BP,GO Biological Processes,210,67
+GO_CC,GO Cellular Components,15,8
+GO_MF,GO Molecular Functions,149,79
+KEGG,KEGG Pathway,30,16

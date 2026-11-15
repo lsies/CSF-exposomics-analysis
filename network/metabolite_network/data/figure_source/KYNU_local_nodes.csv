@@ -1,0 +1,6 @@
+node,node_type,label,FeaturesPeak,physical_feature,x,y,UniProt,pathway_q_value,equation
+Alanine,metabolite_annotation,Alanine,M88T54_C_1,NEG_88.0404_53.9,0.1,0.6,,,
+KYNU,human_gene,KYNU,,,0.65,0.6,Q16719,,
+hsa00380,KEGG_pathway,Tryptophan metabolism,,,0.9,0.6,,0.3470120533264835,
+RHEA:16813,biochemical_reaction,RHEA:16813,,,0.38,0.78,,,L-kynurenine + H2O = anthranilate + L-alanine + H(+)
+RHEA:25143,biochemical_reaction,RHEA:25143,,,0.38,0.42,,,3-hydroxy-L-kynurenine + H2O = 3-hydroxyanthranilate + L-alanine + H(+)

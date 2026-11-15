@@ -1,0 +1,17 @@
+compound	Metabolites and other chemical substances
+cpd	19,689 entries
+	Last update 2026/11/10
+	Kanehisa Laboratories
+
+linked db	pathway
+	brite
+	module
+	genome
+	glycan
+	reaction
+	enzyme
+	network
+	ntmap
+	drug
+	pubchem
+	chebi

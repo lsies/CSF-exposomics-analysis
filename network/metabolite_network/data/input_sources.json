@@ -1,0 +1,20 @@
+[
+  {
+    "file": "raw/study/LVSH_diff_featurespeaks.txt",
+    "source": "Study differential-feature comparison statistics",
+    "comparison": "LVSH",
+    "sha256": "1aa3cd51a7cb24ce562be04bf708698028f39ced312d3195df83698995ea29f3"
+  },
+  {
+    "file": "raw/study/LVSM_diff_featurespeaks.txt",
+    "source": "Study differential-feature comparison statistics",
+    "comparison": "LVSM",
+    "sha256": "6a0cf9b97edf00b73e2e76efe627dcf8921355aae46206f441ecfbdf6c407e84"
+  },
+  {
+    "file": "raw/study/MVSH_diff_featurespeaks.txt",
+    "source": "Study differential-feature comparison statistics",
+    "comparison": "MVSH",
+    "sha256": "1ad6f20d0ba6ad980661b45a7ffbfa673f5909bce18c9d76639b87bb6f871c8f"
+  }
+]

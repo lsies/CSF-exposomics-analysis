@@ -1,0 +1,1064 @@
+ENTRY       C00584                      Compound
+NAME        Prostaglandin E2;
+            (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate;
+            Dinoprostone;
+            PGE2
+FORMULA     C20H32O5
+EXACT_MASS  352.2250
+MOL_WEIGHT  352.46
+REMARK      Same as: D00079
+REACTION    R02265 R02580 R02581 R02583
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04024  cAMP signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+            map04148  Efferocytosis
+            map04625  C-type lectin receptor signaling pathway
+            map04726  Serotonergic synapse
+            map04750  Inflammatory mediator regulation of TRP channels
+            map04921  Oxytocin signaling pathway
+            map04923  Regulation of lipolysis in adipocytes
+            map04924  Renin secretion
+            map04976  Bile secretion
+            map05140  Leishmaniasis
+            map05143  African trypanosomiasis
+            map05146  Amoebiasis
+            map05163  Human cytomegalovirus infection
+            map05165  Human papillomavirus infection
+            map05200  Pathways in cancer
+            map05323  Rheumatoid arthritis
+NETWORK     nt06535  Efferocytosis
+ENZYME      1.1.1.141       1.1.1.184       1.1.1.189       5.3.99.3
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C00584  Prostaglandin E2
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C00584  Prostaglandin E2
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00079)]
+             G GENITO URINARY SYSTEM AND SEX HORMONES
+              G02 OTHER GYNECOLOGICALS
+               G02A UTEROTONICS
+                G02AD Prostaglandins
+                 G02AD02 Dinoprostone
+                  D00079  Dinoprostone (JAN/USP/INN) &lt;JP/US&gt;
+            Therapeutic category of drugs in Japan [BR:br08301(D00079)]
+             2  Agents affecting individual organs
+              24  Hormones
+               249  Miscellaneous
+                2499  Others
+                 D00079  Dinoprostone (JAN/USP/INN)
+            Drug groups [BR:br08330(D00079)]
+             Hormonal agent
+              DG01961  Prostaglandin derivative
+               DG01959  Prostaglandin E2 derivative
+                DG00448  Dinoprostone
+                 D00079  Dinoprostone
+            Target-based classification of drugs [BR:br08310(D00079)]
+             G Protein-coupled receptors
+              Rhodopsin family
+               Prostaglandin
+                PTGER2
+                 D00079  Dinoprostone (JAN/USP/INN) &lt;JP/US&gt;
+DBLINKS     CAS: 363-24-6
+            PubChem: 3863
+            ChEBI: 15551 174980 174982 174983 174985
+            LIPIDMAPS: LMFA03010003
+            PDB-CCD: P2E
+            J-GLOBAL: J9.243F
+ATOM        25
+            1   C1y C    26.1950  -14.5606
+            2   C1y C    26.1891  -15.9477
+            3   C5x C    24.8718  -14.1409
+            4   C1b C    27.6054  -13.1091
+            5   C1y C    24.8951  -16.3732
+            6   C2b C    27.3839  -16.8396
+            7   C1x C    24.0733  -15.2657
+            8   O5x O    24.4289  -12.7946
+            9   C2b C    28.7943  -13.8085
+            10  O1a O    24.4580  -17.7313
+            11  C2b C    28.5729  -16.1577
+            12  C2b C    30.1524  -13.8085
+            13  C1c C    29.7561  -16.8396
+            14  C1b C    31.3356  -13.1091
+            15  C1b C    30.9509  -16.1577
+            16  O1a O    29.7561  -18.2151
+            17  C1b C    32.5128  -13.7911
+            18  C1b C    32.1398  -16.8396
+            19  C1b C    33.7019  -13.1034
+            20  C1b C    33.3462  -16.1577
+            21  C6a C    34.8850  -13.7794
+            22  C1b C    34.5236  -16.8396
+            23  O6a O    36.1031  -13.0625
+            24  O6a O    34.8267  -15.1781
+            25  C1a C    35.7242  -16.1577
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 2
+            8     4   9 1
+            9     5  10 1 #Down
+            10    6  11 2
+            11    9  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   13  16 1 #Down
+            16   14  17 1
+            17   15  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   21  23 1
+            23   21  24 2
+            24   22  25 1
+            25    5   7 1
+///
+
+ENTRY       C00587                      Compound
+NAME        3-Hydroxybenzoate;
+            3-Hydroxybenzoic acid;
+            m-Hydroxybenzoic acid
+FORMULA     C7H6O3
+EXACT_MASS  138.0317
+MOL_WEIGHT  138.12
+REACTION    R01427 R01508 R01628 R02589 R05375 R07666 R07667 R09589 
+            R10597
+PATHWAY     map00362  Benzoate degradation
+            map00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            map00623  Toluene degradation
+            map00624  Polycyclic aromatic hydrocarbon degradation
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+ENZYME      1.2.1.7         1.2.1.28        1.2.1.64        1.14.13.23      
+            1.14.13.24      1.14.99.23      4.1.1.55        4.1.3.45        
+            6.2.1.37
+DBLINKS     CAS: 99-06-9
+            PubChem: 3866
+            ChEBI: 16193 30764
+            KNApSAcK: C00040822 C00048480
+            PDB-CCD: 3HB
+            J-GLOBAL: J43.202D
+ATOM        10
+            1   C8y C    29.3027  -23.4498
+            2   C8x C    28.0973  -22.7476
+            3   C8x C    29.3027  -24.8482
+            4   C6a C    30.5196  -22.7536
+            5   C8y C    26.8804  -23.4498
+            6   C8x C    28.0973  -25.5504
+            7   O6a O    31.7308  -23.4498
+            8   O6a O    30.5196  -21.3493
+            9   C8x C    26.8804  -24.8482
+            10  O1a O    25.6692  -22.7476
+BOND        10
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     4   8 2
+            8     5   9 2
+            9     5  10 1
+            10    6   9 1
+///
+
+ENTRY       C00633                      Compound
+NAME        4-Hydroxybenzaldehyde;
+            p-Hydroxybenzaldehyde
+FORMULA     C7H6O2
+EXACT_MASS  122.0368
+MOL_WEIGHT  122.12
+REACTION    R01293 R01294 R01303 R02672 R02673 R02675 R02676 R06886 
+            R12134 R13288 R13289 R13380
+PATHWAY     map00363  Bisphenol degradation
+            map00623  Toluene degradation
+            map00627  Aminobenzoate degradation
+            map01061  Biosynthesis of phenylpropanoids
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.1.3.19        1.2.1.7         1.2.1.28        1.2.1.64        
+            1.2.1.96        1.3.-.-         1.13.11.94      1.14.99.-       
+            1.17.9.1        4.1.1.7         4.1.2.11        4.1.2.66
+DBLINKS     CAS: 123-08-0
+            PubChem: 3906
+            ChEBI: 17597
+            KNApSAcK: C00002657
+            PDB-CCD: HBA
+            J-GLOBAL: J43.312H
+ATOM        9
+            1   C8y C    28.0314  -18.4596
+            2   C8x C    26.8219  -19.1573
+            3   C8x C    29.2539  -19.1573
+            4   C4a C    28.0250  -17.0706
+            5   C8x C    26.8219  -20.5653
+            6   C8x C    29.2539  -20.5653
+            7   O4a O    29.2283  -16.3732
+            8   C8y C    28.0314  -21.2759
+            9   O1a O    28.0250  -22.6711
+BOND        9
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     3   6 1
+            6     4   7 2
+            7     5   8 1
+            8     8   9 1
+            9     6   8 2
+///
+
+ENTRY       C00639                      Compound
+NAME        Prostaglandin F2alpha;
+            (5Z,13E)-(15S)-9alpha,11alpha,15-Trihydroxyprosta-5,13-dienoate;
+            (+)-Prostaglandin F2a;
+            7-[3,5-Dihydroxy-2-(3-hydroxy-1-octenyl)cyclopentyl]-5-heptenoic acid;
+            9a,11a-PGF2;
+            Amoglandin;
+            Cyclosin;
+            Dinoprost;
+            Enzaprost;
+            Enzaprost F;
+            Panacelan;
+            PGF2a;
+            9,11,15-Trihydroxy-(5Z,9a,11a,13E,15S)-prosta-5,13-dien-1-oic acid;
+            Prostaglandin F2a;
+            Prostin F 2 alpha;
+            Protamodin;
+            U 14583;
+            (5Z,9alpha,11alpha,13E,15S)-9,11,15-Trihydroxyprosta-5,13-dienoate
+FORMULA     C20H34O5
+EXACT_MASS  354.2406
+MOL_WEIGHT  354.48
+REMARK      Same as: D00081
+REACTION    R02264 R02581 R02683 R02684 R09506
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04072  Phospholipase D signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+            map04726  Serotonergic synapse
+            map04913  Ovarian steroidogenesis
+            map04921  Oxytocin signaling pathway
+            map04976  Bile secretion
+ENZYME      1.1.1.141       1.1.1.184       1.1.1.188       1.1.1.189       
+            1.1.1.-         1.11.1.20
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C00639  Prostaglandin F2alpha
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C00639  Prostaglandin F2alpha
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00081)]
+             G GENITO URINARY SYSTEM AND SEX HORMONES
+              G02 OTHER GYNECOLOGICALS
+               G02A UTEROTONICS
+                G02AD Prostaglandins
+                 G02AD01 Dinoprost
+                  D00081  Dinoprost (JP19/USAN/INN) &lt;JP&gt;
+            Therapeutic category of drugs in Japan [BR:br08301(D00081)]
+             2  Agents affecting individual organs
+              24  Hormones
+               249  Miscellaneous
+                2499  Others
+                 D00081  Dinoprost (JP19/USAN/INN)
+            Drug groups [BR:br08330(D00081)]
+             Hormonal agent
+              DG01961  Prostaglandin derivative
+               DG01960  Prostaglandin F derivative
+                DG00447  Dinoprost
+                 D00081  Dinoprost
+            Target-based classification of drugs [BR:br08310(D00081)]
+             G Protein-coupled receptors
+              Rhodopsin family
+               Prostaglandin
+                PTGFR
+                 D00081  Dinoprost (JP19/USAN/INN) &lt;JP&gt;
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00081)]
+             Chemicals
+              D00081  Dinoprost
+DBLINKS     CAS: 551-11-1
+            PubChem: 3912
+            ChEBI: 15553 187232
+            LIPIDMAPS: LMFA03010002
+            PDB-CCD: UGU
+            J-GLOBAL: J9.246K
+ATOM        25
+            1   C1y C    26.2679  -14.3734
+            2   C1y C    26.2619  -15.7447
+            3   C1y C    24.9657  -13.9586
+            4   C1b C    27.6563  -13.1462
+            5   C1y C    24.9829  -16.1653
+            6   C2b C    27.6507  -16.8339
+            7   C1x C    24.1706  -15.0705
+            8   O1a O    24.5221  -12.6278
+            9   C2b C    28.8317  -13.8376
+            10  O1a O    24.5508  -17.5078
+            11  C2b C    28.8261  -16.1598
+            12  C2b C    30.1799  -13.8376
+            13  C1c C    30.0014  -16.8339
+            14  C1b C    31.3495  -13.1462
+            15  C1b C    31.1768  -16.1598
+            16  O1a O    30.0014  -18.1936
+            17  C1b C    32.5133  -13.8204
+            18  C1b C    32.3521  -16.8339
+            19  C1b C    33.6887  -13.1406
+            20  C1b C    33.5447  -16.1598
+            21  C6a C    34.8583  -13.8089
+            22  C1b C    34.7027  -16.8339
+            23  O6a O    36.0566  -13.1001
+            24  O6a O    34.8698  -15.1915
+            25  C1a C    35.8954  -16.1598
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 1 #Down
+            8     4   9 1
+            9     5  10 1 #Down
+            10    6  11 2
+            11    9  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   13  16 1 #Down
+            16   14  17 1
+            17   15  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   21  23 1
+            23   21  24 2
+            24   22  25 1
+            25    5   7 1
+///
+
+ENTRY       C00642                      Compound
+NAME        4-Hydroxyphenylacetate;
+            4-Hydroxyphenylacetic acid
+FORMULA     C8H8O3
+EXACT_MASS  152.0473
+MOL_WEIGHT  152.15
+REACTION    R00042 R02514 R02516 R02695 R02697 R02698 R02699 R06790 
+            R07312 R13086
+PATHWAY     map00350  Tyrosine metabolism
+            map00360  Phenylalanine metabolism
+            map00946  Degradation of flavonoids
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+ENZYME      1.2.1.5         1.2.1.29        1.2.1.39        1.2.1.53        
+            1.2.3.13        1.14.13.18      1.14.14.9       4.1.1.83        
+            6.2.1.-
+BRITE       Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C00642
+DBLINKS     CAS: 156-38-7
+            PubChem: 3915
+            ChEBI: 18101
+            PDB-CCD: 4HP
+            J-GLOBAL: J5.873D
+ATOM        11
+            1   C8y C    28.0700  -18.9000
+            2   C8x C    26.8100  -18.2000
+            3   C8x C    28.0700  -20.3000
+            4   C1b C    29.2600  -18.2000
+            5   C8x C    25.6200  -18.9000
+            6   C8x C    26.8100  -21.0000
+            7   C6a C    30.4500  -18.9000
+            8   C8y C    25.6200  -20.3000
+            9   O6a O    31.6400  -18.1300
+            10  O6a O    30.4500  -20.2300
+            11  O1a O    24.4300  -21.0000
+BOND        11
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     7   9 1
+            9     7  10 2
+            10    8  11 1
+            11    6   8 2
+///
+
+ENTRY       C00695                      Compound
+NAME        Cholic acid;
+            Cholate;
+            3alpha,7alpha,12alpha-Trihydroxy-5beta-cholanate;
+            3alpha,7alpha,12alpha-Trihydroxy-5beta-cholanic acid
+FORMULA     C24H40O5
+EXACT_MASS  408.2876
+MOL_WEIGHT  408.57
+REMARK      Same as: D10699
+REACTION    R02792 R02793 R02794 R02797 R02798 R05835 R07220 R07295 
+            R07296 R11539 R12550
+PATHWAY     map00120  Primary bile acid biosynthesis
+            map00121  Secondary bile acid biosynthesis
+            map01100  Metabolic pathways
+            map04976  Bile secretion
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+            M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate
+NETWORK     nt06022  Bile acid biosynthesis
+ENZYME      1.1.1.159       1.1.1.176       1.14.14.139     2.8.3.25        
+            3.1.2.27        3.5.1.24        6.2.1.7
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              24-Carbon atoms
+               Cholane derivatives
+                C00695  Cholic acid
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C00695  3alpha,7alpha,12alpha-Trihydroxy-5beta-cholanic acid
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D10699)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A05 BILE AND LIVER THERAPY
+               A05A BILE THERAPY
+                A05AA Bile acids and derivatives
+                 A05AA03 Cholic acid
+                  D10699  Cholic acid (JAN/USAN) &lt;JP/US&gt;
+            USP drug classification [BR:br08302(D10699)]
+             Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment
+              Cholic Acid
+               D10699  Cholic acid (JAN/USAN)
+            Therapeutic category of drugs in Japan [BR:br08301(D10699)]
+             3  Agents affecting metabolism
+              39  Other agents affecting metabolism
+               399  Miscellaneous
+                3999  Others
+                 D10699  Cholic acid (JAN/USAN)
+            Risk category of Japanese OTC drugs [BR:br08312]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Cholic acid
+                C00695  Cholic acid
+            Drug groups [BR:br08330(D10699)]
+             Gastrointestinal agent
+              DG01956  Bile acid preparation
+               D10699  Cholic acid
+            Target-based classification of drugs [BR:br08310(D10699)]
+             Nuclear receptors
+              Thyroid hormone like receptors
+               Liver X receptor like receptor
+                NR1H4 (FXR)
+                 D10699  Cholic acid (JAN/USAN) &lt;JP/US&gt;
+            New drug approvals in the USA [br08319.html(D10699)]
+             New molecular entities and new therapeutic biological products
+              D10699
+            New drug approvals in Europe [br08329.html(D10699)]
+             European public assessment reports (EPAR) authorised medicine
+              D10699
+            New drug approvals in Japan [br08318.html(D10699)]
+             Drugs with new active ingredients
+              D10699
+            New drug approvals in the USA, Europe and Japan [br08328.html(D10699)]
+             Approval dates by FDA, EMA and PMDA
+              D10699
+DBLINKS     CAS: 81-25-4
+            PubChem: 3963
+            ChEBI: 16359
+            LIPIDMAPS: LMST04010001
+            PDB-CCD: CHD
+            J-GLOBAL: J8.604E
+ATOM        29
+            1   C1y C    25.7619  -22.4683
+            2   C1y C    26.9363  -21.7947
+            3   C1y C    24.5932  -21.7888
+            4   C1y C    25.7446  -23.8270
+            5   C1z C    26.9537  -20.4647
+            6   C1x C    29.2452  -21.7535
+            7   C1z C    23.4070  -22.4510
+            8   C1x C    24.5403  -20.4359
+            9   C1x C    24.5757  -24.5007
+            10  O1a O    26.9192  -24.6731
+            11  C1y C    28.1167  -19.8141
+            12  C1y C    25.7791  -19.7451
+            13  C1a C    26.9006  -19.1174
+            14  C1x C    29.2566  -20.4936
+            15  C1y C    23.4013  -23.7925
+            16  C1x C    22.2497  -21.7773
+            17  C1a C    23.4301  -21.0923
+            18  C1c C    28.1340  -17.8434
+            19  O1a O    25.7848  -18.3947
+            20  C1x C    22.2267  -24.4718
+            21  C1x C    21.0637  -22.4396
+            22  C1b C    29.3084  -17.1812
+            23  C1a C    26.9006  -16.9461
+            24  C1y C    21.0464  -23.8099
+            25  C1b C    30.4715  -17.8722
+            26  O1a O    20.1249  -24.6731
+            27  C6a C    31.6519  -17.2158
+            28  O6a O    32.8092  -17.9066
+            29  O6a O    31.6637  -16.0008
+BOND        32
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 1
+            9     4  10 1 #Down
+            10    5  11 1
+            11    5  12 1
+            12    5  13 1 #Up
+            13    6  14 1
+            14    7  15 1
+            15    7  16 1
+            16    7  17 1 #Up
+            17   11  18 1
+            18   12  19 1 #Down
+            19   15  20 1
+            20   16  21 1
+            21   18  22 1
+            22   18  23 1 #Down
+            23   20  24 1
+            24   22  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   27  28 1
+            28   27  29 2
+            29    8  12 1
+            30    9  15 1
+            31   11  14 1
+            32   21  24 1
+///
+
+ENTRY       C00696                      Compound
+NAME        Prostaglandin D2;
+            (5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate;
+            (5Z,13E,15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate;
+            PGD2
+FORMULA     C20H32O5
+EXACT_MASS  352.2250
+MOL_WEIGHT  352.46
+REACTION    R02266 R02684 R02799 R02800 R02801
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04080  Neuroactive ligand-receptor interaction
+            map04664  Fc epsilon RI signaling pathway
+            map04726  Serotonergic synapse
+            map05143  African trypanosomiasis
+            map05310  Asthma
+ENZYME      1.1.1.188       1.1.1.196       5.3.99.2
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C00696  Prostaglandin D2
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C00696  Prostaglandin D2
+DBLINKS     CAS: 41598-07-6
+            PubChem: 3964
+            ChEBI: 15555
+            LIPIDMAPS: LMFA03010004
+            PDB-CCD: PG2
+            J-GLOBAL: J16.416J
+ATOM        25
+            1   C1y C    21.7790  -14.9846
+            2   C1y C    21.7970  -16.3802
+            3   C1y C    20.5462  -14.5040
+            4   C1b C    23.0189  -13.8554
+            5   C5x C    20.4476  -16.7508
+            6   C2b C    22.9957  -17.0694
+            7   C1x C    19.6774  -15.5927
+            8   O1a O    20.1639  -13.1489
+            9   C2b C    24.2581  -14.4633
+            10  O5x O    19.9554  -18.0711
+            11  C2b C    24.1944  -16.3686
+            12  C2b C    25.6422  -14.4633
+            13  C1c C    25.3989  -17.0462
+            14  C1b C    26.8408  -13.7627
+            15  C1b C    26.5976  -16.3513
+            16  O1a O    25.3932  -18.4534
+            17  C1b C    28.0454  -14.4576
+            18  C1b C    27.8080  -17.0403
+            19  C1b C    29.2383  -13.7511
+            20  C1b C    29.0010  -16.3454
+            21  C6a C    30.4429  -14.4460
+            22  C1b C    30.1996  -17.0346
+            23  O6a O    31.6416  -13.7395
+            24  O6a O    30.4545  -15.8300
+            25  C1a C    31.4042  -16.3397
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 1 #Down
+            8     4   9 1
+            9     5  10 2
+            10    6  11 2
+            11    9  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   13  16 1 #Down
+            16   14  17 1
+            17   15  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   21  23 1
+            23   21  24 2
+            24   22  25 1
+            25    5   7 1
+///
+
+ENTRY       C00719                      Compound
+NAME        Betaine;
+            Trimethylaminoacetate;
+            Glycine betaine;
+            N,N,N-Trimethylglycine;
+            Trimethylammonioacetate
+FORMULA     C5H11NO2
+EXACT_MASS  117.0790
+MOL_WEIGHT  117.15
+REMARK      Same as: D07523
+REACTION    R02565 R02566 R02821 R07228 R07244 R08211 R08212 R10061 
+            R10062 R12614 R12787 R13016 R13307
+PATHWAY     map00260  Glycine, serine and threonine metabolism
+            map00670  One carbon pool by folate
+            map01100  Metabolic pathways
+            map02010  ABC transporters
+            map04981  Folate transport and metabolism
+MODULE      M00555  Betaine biosynthesis, choline => betaine
+            M00974  Betaine metabolism, animals, betaine => glycine
+            M00975  Betaine degradation, bacteria, betaine => pyruvate
+NETWORK     nt06033  Glycine, serine and arginine metabolism
+ENZYME      1.1.3.17        1.2.1.8         1.13.11.90      1.14.13.251     
+            1.21.4.4        2.1.1.5         2.1.1.157       2.1.1.161       
+            2.1.1.162       2.1.1.376       3.1.2.33
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D07523)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A16 OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS
+               A16A OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS
+                A16AA Amino acids and derivatives
+                 A16AA06 Betaine
+                  D07523  Betaine (JAN) &lt;JP/US&gt;
+            USP drug classification [BR:br08302(D07523)]
+             Genetic, Enzyme, or Protein Disorder: Replacement, Modifiers, Treatment
+              Betaine
+               D07523  Betaine (JAN)
+            Therapeutic category of drugs in Japan [BR:br08301(D07523)]
+             3  Agents affecting metabolism
+              39  Other agents affecting metabolism
+               399  Miscellaneous
+                3999  Others
+                 D07523  Betaine (JAN)
+            Risk category of Japanese OTC drugs [BR:br08312(D07523)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Betaine
+                D07523  Betaine (JAN)
+            New drug approvals in Europe [br08329.html(D07523)]
+             European public assessment reports (EPAR) authorised medicine
+              D07523
+            New drug approvals in Japan [br08318.html(D07523)]
+             Drugs with new active ingredients
+              D07523
+            New drug approvals in the USA, Europe and Japan [br08328.html(D07523)]
+             Approval dates by FDA, EMA and PMDA
+              D07523
+DBLINKS     CAS: 107-43-7
+            PubChem: 3985
+            ChEBI: 17750
+            KNApSAcK: C00007291
+            PDB-CCD: BET
+            J-GLOBAL: J5.058J
+ATOM        8
+            1   N1d N    25.9158  -16.0186 #+
+            2   C1b C    27.1247  -16.7218
+            3   C1a C    24.7013  -16.7218
+            4   C1a C    25.9158  -14.6182
+            5   C6a C    28.3392  -16.0186
+            6   O6a O    28.3392  -14.6182
+            7   O6a O    29.5478  -16.7218 #-
+            8   C1a C    24.6962  -15.3153
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     5   6 2
+            6     5   7 1
+            7     1   8 1
+///
+
+ENTRY       C00735                      Compound
+NAME        Cortisol;
+            Hydrocortisone;
+            11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione;
+            Kendall's compound F;
+            Reichstein's substance M
+FORMULA     C21H30O5
+EXACT_MASS  362.2093
+MOL_WEIGHT  362.46
+REMARK      Same as: D00088
+REACTION    R02834 R02836 R02837 R02838 R02839 R02840 R02841 R02843 
+            R13605 R13669
+PATHWAY     map00140  Steroid hormone biosynthesis
+            map01100  Metabolic pathways
+            map04080  Neuroactive ligand-receptor interaction
+            map04900  Neuroendocrine signaling pathway of hypothalamus-pituitary axis
+            map04927  Cortisol synthesis and secretion
+            map04934  Cushing syndrome
+            map04960  Aldosterone-regulated sodium reabsorption
+            map04976  Bile secretion
+            map05200  Pathways in cancer
+            map05215  Prostate cancer
+            map07225  Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+MODULE      M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone
+NETWORK     nt06019  Steroid hormone biosynthesis
+            nt06227  Nuclear receptor signaling (cancer)
+            nt06272  Prostate cancer
+            nt06310  CRH-ACTH-cortisol signaling
+            nt06360  Cushing syndrome
+ENZYME      1.1.1.145       1.1.1.146       1.1.1.442       1.1.1.-         
+            1.3.1.3         1.14.14.16      1.14.15.4       2.3.1.27        
+            2.8.2.18        4.1.2.68        5.3.3.1
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              21-Carbon atoms
+               Pregnane derivatives
+                C00735  Cortisol
+             Hormones and transmitters
+              Steroid hormones
+               Glucocorticoids
+                C00735  Cortisol
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0203 C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+                C00735  Cortisol
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00088)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A01 STOMATOLOGICAL PREPARATIONS
+               A01A STOMATOLOGICAL PREPARATIONS
+                A01AC Corticosteroids for local oral treatment
+                 A01AC03 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+              A07 ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS
+               A07E INTESTINAL ANTIINFLAMMATORY AGENTS
+                A07EA Corticosteroids acting locally
+                 A07EA02 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+             C CARDIOVASCULAR SYSTEM
+              C05 VASOPROTECTIVES
+               C05A AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE
+                C05AA Corticosteroids
+                 C05AA01 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+             D DERMATOLOGICALS
+              D07 CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS
+               D07A CORTICOSTEROIDS, PLAIN
+                D07AA Corticosteroids, weak (group I)
+                 D07AA02 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+               D07X CORTICOSTEROIDS, OTHER COMBINATIONS
+                D07XA Corticosteroids, weak, other combinations
+                 D07XA01 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+             H SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS
+              H02 CORTICOSTEROIDS FOR SYSTEMIC USE
+               H02A CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN
+                H02AB Glucocorticoids
+                 H02AB09 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+             S SENSORY ORGANS
+              S01 OPHTHALMOLOGICALS
+               S01B ANTIINFLAMMATORY AGENTS
+                S01BA Corticosteroids, plain
+                 S01BA02 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+               S01C ANTIINFLAMMATORY AGENTS AND ANTIINFECTIVES IN COMBINATION
+                S01CB Corticosteroids/antiinfectives/mydriatics in combination
+                 S01CB03 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+              S02 OTOLOGICALS
+               S02B CORTICOSTEROIDS
+                S02BA Corticosteroids
+                 S02BA01 Hydrocortisone
+                  D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+            USP drug classification [BR:br08302(D00088)]
+             Dermatological Agents
+              Dermatitis and Pruitus Agents
+               Glucocorticoids, Low Potency
+                Hydrocortisone
+                 D00088  Hydrocortisone (JP19/USP/INN)
+             Hormonal Agents, Stimulant/Replacement/Modifying (Adrenal)
+              Hydrocortisone
+               D00088  Hydrocortisone (JP19/USP/INN)
+             Inflammatory Bowel Disease Agents
+              Glucocorticoids
+               Hydrocortisone
+                D00088  Hydrocortisone (JP19/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301(D00088)]
+             2  Agents affecting individual organs
+              24  Hormones
+               245  Adrenal hormone preparations
+                2452  Cortisones
+                 D00088  Hydrocortisone (JP19/USP/INN)
+            Classification of Japanese OTC drugs [BR:br08313(D00088)]
+             Agents for integumentary system
+              57 Analgesic, antipruritic, astringent, and anti-inflammatory remedies (incl. gel patches)
+               D00088  Hydrocortisone (JP19/USP/INN)
+            Risk category of Japanese OTC drugs [BR:br08312(D00088)]
+             Designated second-class OTC drugs
+              Inorganic and organic chemicals
+               Hydrocortisone
+                D00088  Hydrocortisone (JP19/USP/INN)
+             Second-class OTC drugs
+              Inorganic and organic chemicals
+               Hydrocortisone
+                D00088  Hydrocortisone (JP19/USP/INN)
+            Drug groups [BR:br08330(D00088)]
+             Anti-inflammatory
+              DG01955  Corticosteroid
+               DG02068  Glucocorticoid
+                DG00012  Hydrocortisone
+                 D00088  Hydrocortisone
+             Dermatological agent
+              DG03243  Atopic dermatitis agent
+               D00088  Hydrocortisone
+             Metabolizing enzyme substrate
+              DG01633  CYP3A/CYP3A4 substrate
+               DG00012  Hydrocortisone
+                D00088  Hydrocortisone
+            Target-based classification of drugs [BR:br08310(D00088)]
+             Nuclear receptors
+              Estrogen like receptors
+               3-Ketosteroid receptor
+                NR3C1 (GR)
+                 D00088  Hydrocortisone (JP19/USP/INN) &lt;JP/US&gt;
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00088)]
+             Chemicals
+              D00088  Hydrocortisone
+            New drug approvals in Europe [br08329.html(D00088)]
+             European public assessment reports (EPAR) authorised medicine
+              D00088
+            Drug metabolizing enzymes and transporters [br08309.html(D00088)]
+             Drug metabolizing enzymes
+              D00088
+            Topical steroids potency [br08317.html(D00088)]
+             Classification in the USA
+              D00088
+            Rx-to-OTC switch list in the USA [br08315.html(D00088)]
+             D00088
+DBLINKS     CAS: 50-23-7
+            PubChem: 3998
+            ChEBI: 17650 180955
+            LIPIDMAPS: LMST02030001
+            PDB-CCD: HCY
+            J-GLOBAL: J1.908I
+ATOM        26
+            1   C1y C    25.3915  -16.8055
+            2   C1y C    24.2081  -17.4875
+            3   C1z C    25.3915  -15.4414
+            4   C1x C    27.7583  -16.8055
+            5   C1y C    23.0247  -16.8055
+            6   C1x C    24.1965  -18.8575
+            7   C1z C    26.5809  -14.7535
+            8   C1x C    24.2081  -14.7535
+            9   C1a C    25.3858  -14.0713
+            10  C1x C    27.7583  -15.4414
+            11  C1z C    21.8356  -17.4875
+            12  C1y C    23.0247  -15.4414
+            13  C1x C    23.0247  -19.5395
+            14  C5a C    26.5866  -13.3893
+            15  C2y C    21.8356  -18.8575
+            16  C1x C    20.6579  -16.8055
+            17  C1a C    21.8239  -16.1233
+            18  O1a O    21.8356  -14.7535
+            19  C1b C    27.7643  -12.7072
+            20  O5a O    25.3975  -12.7072
+            21  C2x C    20.6579  -19.5395
+            22  C1x C    19.4687  -17.4875
+            23  O1a O    28.9534  -13.3951
+            24  C5x C    19.4687  -18.8575
+            25  O5x O    18.2853  -19.5395
+            26  O1a O    27.9332  -14.3911
+BOND        29
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    7  14 1 #Up
+            14   11  15 1
+            15   11  16 1
+            16   11  17 1 #Up
+            17   12  18 1 #Up
+            18   14  19 1
+            19   14  20 2
+            20   15  21 2
+            21   16  22 1
+            22   19  23 1
+            23   21  24 1
+            24   24  25 2
+            25    7  10 1
+            26    8  12 1
+            27   13  15 1
+            28   22  24 1
+            29    7  26 1 #Down
+///
+
+ENTRY       C00762                      Compound
+NAME        Cortisone;
+            17alpha,21-Dihydroxy-4-pregnene-3,11,20-trione;
+            Kendall's compound E;
+            Reichstein's substance Fa
+FORMULA     C21H28O5
+EXACT_MASS  360.1937
+MOL_WEIGHT  360.44
+REMARK      Same as: D07749
+REACTION    R02834 R02836 R02892 R02893
+PATHWAY     map00140  Steroid hormone biosynthesis
+            map01100  Metabolic pathways
+            map04960  Aldosterone-regulated sodium reabsorption
+            map05200  Pathways in cancer
+            map05215  Prostate cancer
+            map07225  Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+MODULE      M00109  C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone
+NETWORK     nt06019  Steroid hormone biosynthesis
+            nt06227  Nuclear receptor signaling (cancer)
+            nt06272  Prostate cancer
+            nt06310  CRH-ACTH-cortisol signaling
+ENZYME      1.1.1.146       1.1.1.-         1.3.1.3         1.3.1.22
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              21-Carbon atoms
+               Pregnane derivatives
+                C00762  Cortisone
+             Hormones and transmitters
+              Steroid hormones
+               Glucocorticoids
+                C00762  Cortisone
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0203 C21 steroids (gluco/mineralocorticoids, progestogins) and derivatives
+                C00762  Cortisone
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D07749)]
+             H SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS
+              H02 CORTICOSTEROIDS FOR SYSTEMIC USE
+               H02A CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN
+                H02AB Glucocorticoids
+                 H02AB10 Cortisone
+                  D07749  Cortisone (INN)
+             S SENSORY ORGANS
+              S01 OPHTHALMOLOGICALS
+               S01B ANTIINFLAMMATORY AGENTS
+                S01BA Corticosteroids, plain
+                 S01BA03 Cortisone
+                  D07749  Cortisone (INN)
+            Drug groups [BR:br08330(D07749)]
+             Anti-inflammatory
+              DG01955  Corticosteroid
+               DG02068  Glucocorticoid
+                DG00509  Cortisone
+                 D07749  Cortisone
+            Target-based classification of drugs [BR:br08310(D07749)]
+             Nuclear receptors
+              Estrogen like receptors
+               3-Ketosteroid receptor
+                NR3C1 (GR)
+                 D07749  Cortisone (INN)
+DBLINKS     CAS: 53-06-5
+            PubChem: 4024
+            ChEBI: 16962
+            LIPIDMAPS: LMST02030090
+            PDB-CCD: UQC
+            J-GLOBAL: J4.139D
+ATOM        26
+            1   C1x C     5.6756  -16.9748
+            2   C5x C     5.6756  -18.3385
+            3   C2x C     6.8565  -19.0203
+            4   C2y C     8.0376  -18.3385
+            5   C1z C     8.0376  -16.9748
+            6   C1x C     6.8565  -16.2929
+            7   C1x C     9.2185  -19.0203
+            8   C1x C    10.3994  -18.3385
+            9   C1y C    10.3994  -16.9748
+            10  C1y C     9.2185  -16.2929
+            11  C1y C    11.5805  -16.2929
+            12  C1z C    11.5805  -14.9293
+            13  C1x C    10.3994  -14.2474
+            14  C5x C     9.2185  -14.9293
+            15  C1x C    13.9424  -16.2929
+            16  C1x C    13.9424  -14.9293
+            17  C1z C    12.7614  -14.2474
+            18  C1a C     8.0376  -15.6111
+            19  C1a C    11.5805  -13.5656
+            20  C5a C    12.7614  -12.5429
+            21  O5x O     4.4946  -19.0203
+            22  O5x O     8.0395  -14.2486
+            23  C1b C    13.9464  -11.8588
+            24  O5a O    11.5844  -11.8633
+            25  O1a O    13.9424  -13.5656
+            26  O1a O    15.1128  -12.5323
+BOND        29
+            1     1   2 1
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     4   7 1
+            8     7   8 1
+            9     8   9 1
+            10    9  10 1
+            11    5  10 1
+            12    9  11 1
+            13   11  12 1
+            14   12  13 1
+            15   13  14 1
+            16   10  14 1
+            17   11  15 1
+            18   15  16 1
+            19   16  17 1
+            20   12  17 1
+            21    5  18 1 #Up
+            22   12  19 1 #Up
+            23   17  20 1 #Up
+            24    2  21 2
+            25   14  22 2
+            26   20  23 1
+            27   20  24 2
+            28   17  25 1 #Down
+            29   23  26 1
+///

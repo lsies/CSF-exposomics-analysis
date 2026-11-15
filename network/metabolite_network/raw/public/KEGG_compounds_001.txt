@@ -1,0 +1,804 @@
+ENTRY       C00077                      Compound
+NAME        L-Ornithine;
+            (S)-2,5-Diaminovaleric acid;
+            (S)-2,5-Diaminopentanoic acid;
+            (S)-2,5-Diaminopentanoate
+FORMULA     C5H12N2O2
+EXACT_MASS  132.0899
+MOL_WEIGHT  132.16
+REMARK      Same as: D08302
+REACTION    R00551 R00565 R00664 R00665 R00666 R00667 R00668 R00669 
+            R00670 R00671 R00672 R01343 R01398 R01686 R01989 R02282 
+            R03477 R05547 R10466 R10789 R10790 R10933 R11801 R12506 
+            R13308 R13429 R13430 R13585
+PATHWAY     map00220  Arginine biosynthesis
+            map00330  Arginine and proline metabolism
+            map00470  D-Amino acid metabolism
+            map00480  Glutathione metabolism
+            map00975  Biosynthesis of various siderophores
+            map00997  Biosynthesis of various other secondary metabolites
+            map00998  Biosynthesis of various antibiotics
+            map01060  Biosynthesis of plant secondary metabolites
+            map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map02010  ABC transporters
+            map04148  Efferocytosis
+MODULE      M00028  Ornithine biosynthesis, glutamate => ornithine
+            M00029  Urea cycle
+            M00134  Polyamine biosynthesis, arginine => ornithine => putrescine
+            M00763  Ornithine biosynthesis, mediated by LysW, glutamate => ornithine
+            M00785  Cycloserine biosynthesis, arginine/serine => cycloserine
+            M00844  Arginine biosynthesis, ornithine => arginine
+            M00876  Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A
+            M00972  Proline metabolism
+            M01057  Rhizoferrin biosynthesis, ornithine + citrate => rhizoferrin
+            M01070  Ferricrocin biosynthesis, ornithine => ferricrocin
+            M01071  Fusarinine C biosynthesis, ornithine => fusarinine C
+NETWORK     nt06010  Urea cycle
+            nt06033  Glycine, serine and arginine metabolism
+            nt06535  Efferocytosis
+ENZYME      1.5.1.24        1.14.13.195     1.14.13.196     2.1.3.3         
+            2.1.4.1         2.1.4.2         2.1.4.3         2.1.4.4         
+            2.1.4.5         2.3.1.35        2.3.1.127       2.3.2.30        
+            2.6.1.13        3.5.1.14        3.5.1.16        3.5.1.20        
+            3.5.1.132       3.5.3.1         3.5.3.25        3.5.3.27        
+            4.1.1.17        4.3.1.12        5.1.1.9         5.1.1.10        
+            5.1.1.12        6.3.2.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Other amino acids
+                C00077  L-Ornithine
+DBLINKS     CAS: 70-26-8
+            PubChem: 3377
+            ChEBI: 15729
+            KNApSAcK: C00001384
+            PDB-CCD: ORN
+            J-GLOBAL: J9.177D
+ATOM        9
+            1   C1c C    24.3902  -16.1988
+            2   C6a C    23.1783  -15.5055
+            3   C1b C    25.6019  -15.5055
+            4   N1a N    24.3902  -17.6028
+            5   O6a O    21.9609  -16.1988
+            6   O6a O    23.1783  -14.1015
+            7   C1b C    26.8196  -16.1988
+            8   C1b C    28.0315  -15.5055
+            9   N1a N    29.2491  -16.1988
+BOND        8
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+            7     7   8 1
+            8     8   9 1
+///
+
+ENTRY       C00082                      Compound
+NAME        L-Tyrosine;
+            (S)-3-(p-Hydroxyphenyl)alanine;
+            (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid;
+            Tyrosine
+FORMULA     C9H11NO3
+EXACT_MASS  181.0739
+MOL_WEIGHT  181.19
+REMARK      Same as: D00022
+REACTION    R00031 R00728 R00729 R00730 R00731 R00732 R00733 R00734 
+            R00735 R00736 R00737 R00739 R01795 R01815 R02078 R02918 
+            R03539 R04730 R05671 R06626 R06751 R07211 R07212 R08825 
+            R09254 R09521 R09830 R10059 R10246 R10671 R10964 R10968 
+            R11366 R11917 R12150 R12161 R12235 R12540 R12541 R12611 
+            R12759 R13031 R13677
+PATHWAY     map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            map00261  Monobactam biosynthesis
+            map00350  Tyrosine metabolism
+            map00360  Phenylalanine metabolism
+            map00400  Phenylalanine, tyrosine and tryptophan biosynthesis
+            map00401  Novobiocin biosynthesis
+            map00460  Cyanoamino acid metabolism
+            map00680  Methane metabolism
+            map00730  Thiamine metabolism
+            map00940  Phenylpropanoid biosynthesis
+            map00950  Isoquinoline alkaloid biosynthesis
+            map00965  Betalain biosynthesis
+            map00970  Aminoacyl-tRNA biosynthesis
+            map00996  Biosynthesis of various alkaloids
+            map00997  Biosynthesis of various other secondary metabolites
+            map00998  Biosynthesis of various antibiotics
+            map00999  Biosynthesis of various plant secondary metabolites
+            map01055  Biosynthesis of vancomycin group antibiotics
+            map01059  Biosynthesis of enediyne antibiotics
+            map01060  Biosynthesis of plant secondary metabolites
+            map01063  Biosynthesis of alkaloids derived from shikimate pathway
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01240  Biosynthesis of cofactors
+            map04728  Dopaminergic synapse
+            map04900  Neuroendocrine signaling pathway of hypothalamus-pituitary axis
+            map04916  Melanogenesis
+            map04917  Prolactin signaling pathway
+            map04974  Protein digestion and absorption
+            map05012  Parkinson disease
+            map05030  Cocaine addiction
+            map05031  Amphetamine addiction
+            map05034  Alcoholism
+            map05230  Central carbon metabolism in cancer
+MODULE      M00025  Tyrosine biosynthesis, chorismate => HPP => tyrosine
+            M00039  Monolignol biosynthesis, phenylalanine/tyrosine => monolignol
+            M00040  Tyrosine biosynthesis, chorismate => arogenate => tyrosine
+            M00042  Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline
+            M00043  Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine
+            M00044  Tyrosine degradation, tyrosine => homogentisate
+            M00127  Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP
+            M00369  Cyanogenic glycoside biosynthesis, tyrosine => dhurrin
+            M00827  C-1027 beta-amino acid moiety biosynthesis, tyrosine => 3-chloro-4,5-dihydroxy-beta-phenylalanyl-PCP
+            M00828  Maduropeptin beta-hydroxy acid moiety biosynthesis, tyrosine => 3-(4-hydroxyphenyl)-3-oxopropanoyl-PCP
+            M00889  Puromycin biosynthesis, ATP => puromycin
+            M00935  Methanofuran biosynthesis
+            M00961  Betacyanin biosynthesis, L-tyrosine => amaranthin
+            M01068  Paerucumarin biosynthesis, tyrosine => paerucumarin
+            M01072  Mescaline biosynthesis, tyrosine => mescaline
+NETWORK     nt06016  Phenylalanine and tyrosine metabolism
+            nt06028  Dopamine and serotonin metabolism
+            nt06322  TRH-TSH-TH signaling
+            nt06463  Parkinson disease
+            nt06544  Neuroactive ligand signaling
+            nt06553  Dopamine-PRL signaling
+ENZYME      1.2.1.101       1.3.1.43        1.3.1.78        1.3.1.79        
+            1.4.1.20        1.4.3.2         1.10.3.1        1.11.1.8        
+            1.11.2.6        1.14.14.36      1.14.16.1       1.14.16.2       
+            1.14.18.1       1.14.-.-        1.21.1.1        2.1.1.304       
+            2.3.1.339       2.5.1.122       2.5.1.147       2.6.1.1         
+            2.6.1.5         2.6.1.9         2.6.1.57        2.6.1.58        
+            2.6.1.103       4.1.1.25        4.1.1.28        4.1.1.108       
+            4.1.99.2        4.1.99.19       4.1.99.24       4.3.1.23        
+            4.3.1.25        5.4.3.6         6.1.1.1         6.3.2.24        
+            6.3.2.25
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00082  Tyrosine (Tyr)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00022)]
+             Chemicals
+              D00022  L-Tyrosine
+DBLINKS     CAS: 60-18-4
+            PubChem: 3382
+            ChEBI: 17895
+            KNApSAcK: C00001397
+            PDB-CCD: TYR
+            J-GLOBAL: J9.173A
+ATOM        13
+            1   C8y C    25.0600  -15.8200
+            2   C8x C    25.0600  -17.2200
+            3   C8x C    23.8700  -17.9200
+            4   C8y C    22.6800  -17.2200
+            5   C8x C    22.6800  -15.8200
+            6   C8x C    23.8700  -15.1200
+            7   C1b C    26.3200  -15.1200
+            8   O1a O    21.4200  -17.9900
+            9   C1c C    27.5100  -15.8200
+            10  C6a C    28.7000  -15.1200
+            11  O6a O    29.8900  -15.8200
+            12  O6a O    28.7000  -13.7200
+            13  N1a N    27.5100  -17.2200
+BOND        13
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     5   6 2
+            6     1   6 1
+            7     1   7 1
+            8     4   8 1
+            9     7   9 1
+            10    9  10 1
+            11   10  11 1
+            12   10  12 2
+            13    9  13 1 #Up
+///
+
+ENTRY       C00090                      Compound
+NAME        Catechol;
+            1,2-Benzenediol;
+            o-Benzenediol;
+            1,2-Dihydroxybenzene;
+            Brenzcatechin;
+            Pyrocatechol
+FORMULA     C6H6O2
+EXACT_MASS  110.0368
+MOL_WEIGHT  110.11
+REACTION    R00058 R00080 R00812 R00813 R00814 R00815 R00816 R00817 
+            R00818 R00821 R00822 R00823 R00825 R00827 R00828 R01033 
+            R05361 R07700 R07706 R07803 R08106 R08122 R10043 R11653 
+            R12301 R13719
+PATHWAY     map00361  Chlorocyclohexane and chlorobenzene degradation
+            map00362  Benzoate degradation
+            map00364  Fluorobenzoate degradation
+            map00621  Dioxin degradation
+            map00624  Polycyclic aromatic hydrocarbon degradation
+            map00626  Naphthalene degradation
+            map00627  Aminobenzoate degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+MODULE      M00547  Benzene/toluene degradation, benzene => catechol / toluene => 3-methylcatechol
+            M00548  Benzene degradation, benzene => catechol
+            M00551  Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol
+            M00568  Catechol ortho-cleavage, catechol => 3-oxoadipate
+            M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA
+            M00637  Anthranilate degradation, anthranilate => catechol
+ENZYME      1.1.3.14        1.3.1.19        1.3.1.20        1.3.1.25        
+            1.3.1.-         1.10.3.1        1.13.11.1       1.13.11.2       
+            1.14.12.1       1.14.12.13      1.14.12.23      1.14.13.1       
+            1.14.13.7       1.14.13.31      1.14.13.244     1.14.14.20      
+            1.14.14.-       1.14.18.1       1.14.-.-        2.1.1.6         
+            3.7.1.-         4.1.1.46        4.1.1.63
+DBLINKS     CAS: 120-80-9
+            PubChem: 3390
+            ChEBI: 18135
+            KNApSAcK: C00002644
+            PDB-CCD: CAQ
+            J-GLOBAL: J2.921A
+ATOM        8
+            1   C8y C    26.2540  -15.7809
+            2   C8y C    25.0332  -15.0844
+            3   C8x C    26.2540  -17.1873
+            4   O1a O    27.4557  -15.0779
+            5   C8x C    23.8316  -15.7809
+            6   O1a O    25.0332  -13.6910
+            7   C8x C    25.0332  -17.8966
+            8   C8x C    23.8316  -17.1873
+BOND        8
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     5   8 1
+            8     7   8 2
+///
+
+ENTRY       C00095                      Compound
+NAME        D-Fructose;
+            Levulose;
+            Fruit sugar;
+            D-arabino-Hexulose
+FORMULA     C6H12O6
+EXACT_MASS  180.0634
+MOL_WEIGHT  180.16
+COMMENT     D-Fructose (pyranose) [CPD:C05003]
+            D-Fructose (open-chain) [CPD:C10906]
+            L-Fructose [CPD:C01719]
+REACTION    R00760 R00801 R00803 R00806 R00865 R00866 R00867 R00868 
+            R00870 R00872 R00873 R00874 R00875 R00876 R00877 R00878 
+            R00879 R01140 R01823 R02120 R02410 R03232 R03635 R03921 
+            R06034 R06036 R06052 R06066 R06087 R06100 R06101 R06208 
+            R08406 R08407 R08548 R08651 R08676 R10817 R12349 R12527 
+            R12528 R13126 R13128
+PATHWAY     map00051  Fructose and mannose metabolism
+            map00052  Galactose metabolism
+            map00500  Starch and sucrose metabolism
+            map00520  Amino sugar and nucleotide sugar metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01250  Biosynthesis of nucleotide sugars
+            map02010  ABC transporters
+            map02060  Phosphotransferase system (PTS)
+            map04742  Taste transduction
+            map04931  Insulin resistance
+            map04973  Carbohydrate digestion and absorption
+            map05415  Diabetic cardiomyopathy
+ENZYME      1.1.1.11        1.1.1.14        1.1.1.15        1.1.1.67        
+            1.1.1.124       1.1.1.138       1.1.1.-         1.1.2.2         
+            1.1.5.14        1.1.99.28       2.4.1.4         2.4.1.5         
+            2.4.1.7         2.4.1.13        2.4.1.125       2.4.1.362       
+            2.4.1.372       2.4.1.373       2.7.1.1         2.7.1.3         
+            2.7.1.4         2.7.1.61        2.7.1.202       3.1.3.68        
+            3.1.3.-         3.2.1.10        3.2.1.20        3.2.1.26        
+            3.2.1.48        3.2.1.80        3.2.1.218       3.2.1.219       
+            5.1.3.30        5.1.3.31        5.3.1.5         5.3.1.7
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Monosaccharides
+               Ketoses
+                C00095  D-Fructose; Fruit sugar
+DBLINKS     CAS: 57-48-7
+            PubChem: 3395
+            ChEBI: 15824 37721
+            KNApSAcK: C00033848
+            PDB-CCD: FRU Z9N
+            J-GLOBAL: J4.580B
+ATOM        12
+            1   C1z C    23.3627  -14.9099
+            2   C1y C    22.9367  -16.2051
+            3   O2x O    22.2017  -14.0699
+            4   C1b C    24.3427  -13.9064
+            5   O1a O    24.6461  -15.3767
+            6   C1y C    21.5250  -16.2051
+            7   O1a O    23.7592  -17.3485
+            8   C1y C    21.0699  -14.8808
+            9   O1a O    25.6204  -14.4957
+            10  O1a O    20.7082  -17.3544
+            11  C1b C    19.7338  -14.4607
+            12  O1a O    18.8938  -15.5866
+BOND        12
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Either
+            4     1   5 1
+            5     2   6 1
+            6     2   7 1 #Up
+            7     3   8 1
+            8     4   9 1
+            9     6  10 1 #Down
+            10    8  11 1 #Up
+            11   11  12 1
+            12    6   8 1
+///
+
+ENTRY       C00099                      Compound
+NAME        beta-Alanine;
+            3-Aminopropionic acid;
+            3-Aminopropanoate
+FORMULA     C3H7NO2
+EXACT_MASS  89.0477
+MOL_WEIGHT  89.09
+REMARK      Same as: D07561
+REACTION    R00489 R00904 R00905 R00906 R00907 R00908 R00909 R00910 
+            R00911 R00912 R00913 R00914 R00915 R00916 R00917 R01164 
+            R01166 R02473 R02474 R02741 R03286 R03288 R03935 R09379 
+            R09648 R10821
+PATHWAY     map00240  Pyrimidine metabolism
+            map00410  beta-Alanine metabolism
+            map00640  Propanoate metabolism
+            map00770  Pantothenate and CoA biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01240  Biosynthesis of cofactors
+            map04080  Neuroactive ligand-receptor interaction
+            map04974  Protein digestion and absorption
+MODULE      M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate
+            M00119  Pantothenate biosynthesis, valine/L-aspartate => pantothenate
+            M00913  Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate
+ENZYME      1.2.1.3         1.2.1.5         1.2.1.19        1.5.1.26        
+            2.6.1.18        2.6.1.19        2.6.1.55        2.6.1.120       
+            2.8.3.-         3.4.13.4        3.4.13.5        3.4.13.18       
+            3.4.13.20       3.5.1.6         3.5.1.21        3.5.1.22        
+            3.5.1.100       3.5.3.17        4.1.1.11        4.1.1.15        
+            6.3.2.1         6.3.2.11        6.3.2.23        6.3.2.36        
+            6.3.2.44
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Other amino acids
+                C00099  beta-Alanine
+              Amines
+               Biogenic amines
+                C00099  beta-Alanine
+DBLINKS     CAS: 107-95-9
+            PubChem: 3399
+            ChEBI: 16958
+            KNApSAcK: C00001333
+            PDB-CCD: BAL
+            J-GLOBAL: J4.070C
+ATOM        6
+            1   C1b C    25.6778  -16.8919
+            2   C6a C    24.4732  -16.1936
+            3   C1b C    26.8940  -16.1936
+            4   O6a O    23.2571  -16.8978
+            5   O6a O    24.4732  -14.7912
+            6   N1a N    28.1045  -16.8919
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 2
+            5     3   6 1
+///
+
+ENTRY       C00114                      Compound
+NAME        Choline;
+            Bilineurine
+FORMULA     C5H14NO
+EXACT_MASS  104.1075
+MOL_WEIGHT  104.17
+REMARK      Same as: D07690
+REACTION    R01021 R01022 R01023 R01025 R01026 R01027 R01028 R01029 
+            R01030 R01310 R02381 R02542 R03075 R05739 R05794 R06871 
+            R07377 R07386 R07409 R08212 R08557 R08558 R10285
+PATHWAY     map00260  Glycine, serine and threonine metabolism
+            map00552  Teichoic acid biosynthesis
+            map00564  Glycerophospholipid metabolism
+            map00670  One carbon pool by folate
+            map01100  Metabolic pathways
+            map02010  ABC transporters
+            map04082  Neuroactive ligand signaling
+            map04725  Cholinergic synapse
+            map04976  Bile secretion
+            map04981  Folate transport and metabolism
+            map05231  Choline metabolism in cancer
+MODULE      M00090  Phosphatidylcholine (PC) biosynthesis, choline => PC
+            M00555  Betaine biosynthesis, choline => betaine
+NETWORK     nt06544  Neuroactive ligand signaling
+ENZYME      1.1.1.1         1.1.3.17        1.1.99.1        1.14.15.7       
+            2.3.1.6         2.3.1.91        2.6.-.-         2.7.1.32        
+            2.7.8.24        2.8.2.6         3.1.1.7         3.1.1.8         
+            3.1.1.49        3.1.3.75        3.1.4.2         3.1.4.4         
+            3.1.4.41        3.1.4.46        3.1.6.6         4.3.99.4
+BRITE       Pesticides [BR:br08007]
+             Pesticides
+              Plant growth regulators
+               Others
+                C00114  Choline
+            Risk category of Japanese OTC drugs [BR:br08312]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Choline
+                C00114  Choline
+DBLINKS     CAS: 62-49-7
+            PubChem: 3414
+            ChEBI: 15354
+            KNApSAcK: C00007298
+            PDB-CCD: CHT
+            J-GLOBAL: J4.822D
+ATOM        7
+            1   C1a C     6.1600  -12.6700
+            2   N1d N     7.3724  -11.9700 #+
+            3   C1b C     8.5849  -12.6700
+            4   C1b C     9.7973  -11.9700
+            5   O1a O    11.0097  -12.6700
+            6   C1a C     7.3724  -10.5702
+            7   C1a C     7.3724  -13.3700
+BOND        6
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     2   6 1
+            6     2   7 1
+///
+
+ENTRY       C00123                      Compound
+NAME        L-Leucine;
+            2-Amino-4-methylvaleric acid;
+            (2S)-alpha-2-Amino-4-methylvaleric acid;
+            (2S)-alpha-Leucine
+FORMULA     C6H13NO2
+EXACT_MASS  131.0946
+MOL_WEIGHT  131.17
+REMARK      Same as: D00030
+REACTION    R01088 R01089 R01090 R01091 R02552 R03657 R08411 R08664 
+            R10944
+PATHWAY     map00280  Valine, leucine and isoleucine degradation
+            map00290  Valine, leucine and isoleucine biosynthesis
+            map00970  Aminoacyl-tRNA biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01065  Biosynthesis of alkaloids derived from histidine and purine
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map02010  ABC transporters
+            map04150  mTOR signaling pathway
+            map04974  Protein digestion and absorption
+            map04978  Mineral absorption
+            map05131  Shigellosis
+            map05230  Central carbon metabolism in cancer
+MODULE      M00036  Leucine degradation, leucine => acetoacetate + acetyl-CoA
+NETWORK     nt06024  Valine, leucine and isoleucine degradation
+ENZYME      1.4.1.9         1.14.13.-       2.3.1.66        2.6.1.6         
+            2.6.1.42        2.6.1.67        3.5.1.64        5.4.3.7         
+            6.1.1.4         6.3.2.47
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00123  Leucine (Leu)
+            Risk category of Japanese OTC drugs [BR:br08312(D00030)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Leucine
+                D00030  Leucine (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00030)]
+             Chemicals
+              D00030  L-Leucine
+DBLINKS     CAS: 61-90-5
+            PubChem: 3423
+            ChEBI: 15603
+            KNApSAcK: C00001377
+            PDB-CCD: LEU
+            J-GLOBAL: J1.167C
+ATOM        9
+            1   C1c C    25.0761  -19.4138
+            2   C1b C    26.2633  -18.6769
+            3   C6a C    23.8420  -18.7586
+            4   N1a N    25.1229  -20.8173
+            5   C1c C    27.4974  -19.3377
+            6   O6a O    22.6841  -19.5483
+            7   O6a O    23.8654  -17.3551
+            8   C1a C    28.6846  -18.6007
+            9   C1a C    27.5442  -20.7356
+BOND        8
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     3   6 1
+            6     3   7 2
+            7     5   8 1
+            8     5   9 1
+///
+
+ENTRY       C00135                      Compound
+NAME        L-Histidine;
+            (S)-alpha-Amino-1H-imidazole-4-propionic acid
+FORMULA     C6H9N3O2
+EXACT_MASS  155.0695
+MOL_WEIGHT  155.15
+REMARK      Same as: D00032
+REACTION    R01158 R01159 R01160 R01161 R01163 R01164 R01166 R01167 
+            R01168 R01169 R01991 R01992 R03655 R08412 R08413 R10523 
+            R10686 R11015 R12313 R12436 R13680
+PATHWAY     map00340  Histidine metabolism
+            map00404  Staurosporine biosynthesis
+            map00410  beta-Alanine metabolism
+            map00470  D-Amino acid metabolism
+            map00970  Aminoacyl-tRNA biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01065  Biosynthesis of alkaloids derived from histidine and purine
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01230  Biosynthesis of amino acids
+            map02010  ABC transporters
+            map04382  Cornified envelope formation
+            map04974  Protein digestion and absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00026  Histidine biosynthesis, PRPP => histidine
+            M00045  Histidine degradation, histidine => N-formiminoglutamate => glutamate
+            M00949  Staphylopine biosynthesis, L-histidine => staphylopine
+            M01061  Ergothioneine biosynthesis, fungi, histidine => ergothioneine
+            M01062  Ergothioneine biosynthesis, bacteria, histidine => ergothioneine
+            M01063  Ergothioneine anaerobic biosynthesis, histidine => ergothioneine
+NETWORK     nt06037  Histidine metabolism
+            nt06544  Neuroactive ligand signaling
+            nt06545  Cornified envelope formation
+ENZYME      1.1.1.23        1.14.99.52      2.1.1.44        2.1.1.-         
+            2.3.1.33        2.5.1.162       2.6.1.38        3.4.13.18       
+            3.4.13.20       4.1.1.22        4.3.1.3         5.1.1.24        
+            6.1.1.21        6.3.2.11        6.3.2.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00135  Histidine (His)
+            Risk category of Japanese OTC drugs [BR:br08312(D00032)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Histidine
+                D00032  Histidine (USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00032)]
+             Chemicals
+              D00032  L-Histidine
+              D00032  L-Histidine hydrochloride hydrate
+DBLINKS     CAS: 71-00-1
+            PubChem: 3435
+            ChEBI: 15971
+            KNApSAcK: C00001363
+            PDB-CCD: HIS
+            J-GLOBAL: J4.881J
+ATOM        11
+            1   C8x C    15.2600  -14.7000
+            2   N5x N    15.7500  -16.0300
+            3   C8y C    17.1500  -15.9600
+            4   C8x C    17.5000  -14.6300
+            5   N4x N    16.3800  -13.8600
+            6   C1b C    18.3400  -16.6600
+            7   C1c C    19.5300  -15.9600
+            8   C6a C    20.7200  -16.6600
+            9   O6a O    21.9800  -15.9600
+            10  O6a O    20.7200  -18.0600
+            11  N1a N    19.5300  -14.5600
+BOND        11
+            1     1   2 2
+            2     2   3 1
+            3     3   4 2
+            4     4   5 1
+            5     1   5 1
+            6     3   6 1
+            7     6   7 1
+            8     7   8 1
+            9     8   9 1
+            10    8  10 2
+            11    7  11 1 #Down
+///
+
+ENTRY       C00146                      Compound
+NAME        Phenol;
+            Benzenol;
+            Hydroxybenzene;
+            Phenic acid;
+            Phenylic acid
+FORMULA     C6H6O
+EXACT_MASS  94.0419
+MOL_WEIGHT  94.11
+REMARK      Same as: D00033
+REACTION    R00728 R00815 R01238 R01239 R01241 R05625 R07697 R09539 
+            R10042 R10043 R10608 R11653 R12759
+PATHWAY     map00350  Tyrosine metabolism
+            map00361  Chlorocyclohexane and chlorobenzene degradation
+            map00362  Benzoate degradation
+            map00627  Aminobenzoate degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+            map04974  Protein digestion and absorption
+            map05208  Chemical carcinogenesis - reactive oxygen species
+MODULE      M00548  Benzene degradation, benzene => catechol
+NETWORK     nt06251  CYP-mediated ROS formation (cancer)
+ENZYME      1.14.13.7       1.14.13.244     1.14.14.20      1.14.-.-        
+            2.1.1.25        2.4.2.55        2.7.1.238       3.1.1.2         
+            4.1.1.61        4.1.1.91        4.1.99.2
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00033)]
+             C CARDIOVASCULAR SYSTEM
+              C05 VASOPROTECTIVES
+               C05B ANTIVARICOSE THERAPY
+                C05BB Sclerosing agents for local injection
+                 C05BB05 Phenol
+                  D00033  Phenol (JP19/USP) &lt;JP&gt;
+             D DERMATOLOGICALS
+              D08 ANTISEPTICS AND DISINFECTANTS
+               D08A ANTISEPTICS AND DISINFECTANTS
+                D08AE Phenol and derivatives
+                 D08AE03 Phenol
+                  D00033  Phenol (JP19/USP) &lt;JP&gt;
+             N NERVOUS SYSTEM
+              N01 ANESTHETICS
+               N01B ANESTHETICS, LOCAL
+                N01BX Other local anesthetics
+                 N01BX03 Phenol
+                  D00033  Phenol (JP19/USP) &lt;JP&gt;
+             R RESPIRATORY SYSTEM
+              R02 THROAT PREPARATIONS
+               R02A THROAT PREPARATIONS
+                R02AA Antiseptics
+                 R02AA19 Phenol
+                  D00033  Phenol (JP19/USP) &lt;JP&gt;
+            Therapeutic category of drugs in Japan [BR:br08301(D00033)]
+             2  Agents affecting individual organs
+              25  Urogenital and anal organ agents
+               255  Hemorrhoidal preparations
+                2559  Others
+                 D00033  Phenol (JP19/USP); Liquefied phenol (JP19); Phenol for disinfection (JP19)
+              26  Epidermides
+               261  Antimicrobial agents
+                2619  Others
+                 D00033  Phenol (JP19/USP); Liquefied phenol (JP19); Phenol for disinfection (JP19)
+              27  Dental preparations
+               273  Analgesics and sedatives
+                2730  Analgesics and sedatives
+                 D00033  Phenol (JP19/USP); Liquefied phenol (JP19); Phenol for disinfection (JP19)
+            Classification of Japanese OTC drugs [BR:br08313(D00033)]
+             Agents for otolaryngologic use
+              71 Ear drops
+               D00033  Phenol (JP19/USP)
+             Agents for dental and stomatological use
+              75 Toothache and pyorrhea remedies
+               D00033  Phenol (JP19/USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D00033)]
+             Second-class OTC drugs
+              Inorganic and organic chemicals
+               Phenol
+                D00033  Phenol (JP19/USP)
+            Drug groups [BR:br08330(D00033)]
+             Neuropsychiatric agent
+              DG02030  Anesthetics
+               DG01675  Local anesthetic
+                DG00301  Phenol
+                 D00033  Phenol
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00033)]
+             Chemicals
+              D00033  Phenol
+              D00033  Liquefied phenol
+              D00033  Phenol for disinfection
+DBLINKS     CAS: 108-95-2
+            PubChem: 3446
+            ChEBI: 15882
+            KNApSAcK: C00002664
+            PDB-CCD: IPH
+            J-GLOBAL: J2.873H
+ATOM        7
+            1   C8y C    24.5637  -18.4566
+            2   C8x C    23.3622  -19.1533
+            3   C8x C    25.7843  -19.1533
+            4   O1a O    24.5637  -17.0698
+            5   C8x C    23.3622  -20.5592
+            6   C8x C    25.7843  -20.5592
+            7   C8x C    24.5637  -21.2686
+BOND        7
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     5   7 2
+            7     6   7 1
+///
+
+ENTRY       C00148                      Compound
+NAME        L-Proline;
+            2-Pyrrolidinecarboxylic acid
+FORMULA     C5H9NO2
+EXACT_MASS  115.0633
+MOL_WEIGHT  115.13
+REMARK      Same as: D00035
+REACTION    R00135 R00671 R01246 R01248 R01249 R01251 R01252 R01253 
+            R01255 R03661 R06746 R09572 R09650 R10507 R10661 R11594 
+            R12056
+PATHWAY     map00330  Arginine and proline metabolism
+            map00332  Carbapenem biosynthesis
+            map00333  Prodigiosin biosynthesis
+            map00401  Novobiocin biosynthesis
+            map00404  Staurosporine biosynthesis
+            map00470  D-Amino acid metabolism
+            map00970  Aminoacyl-tRNA biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01230  Biosynthesis of amino acids
+            map02010  ABC transporters
+            map04974  Protein digestion and absorption
+            map04978  Mineral absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00015  Proline biosynthesis, glutamate => proline
+            M00786  Fumitremorgin alkaloid biosynthesis, tryptophan + proline => fumitremorgin C/A
+            M00837  Prodigiosin biosynthesis, L-proline => prodigiosin
+            M00838  Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin
+            M00970  Proline degradation, proline => glutamate
+            M00972  Proline metabolism
+NETWORK     nt06033  Glycine, serine and arginine metabolism
+ENZYME      1.5.1.1         1.5.1.2         1.5.1.21        1.5.1.49        
+            1.5.5.2         1.5.-.-         1.14.11.2       1.14.11.28      
+            1.14.11.56      1.14.11.57      3.4.11.5        3.5.1.101       
+            4.3.1.12        5.1.1.4         6.1.1.15        6.2.1.53
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00148  Proline (Pro)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00035)]
+             Chemicals
+              D00035  L-Proline
+DBLINKS     CAS: 147-85-3
+            PubChem: 3448
+            ChEBI: 17203
+            KNApSAcK: C00001388
+            PDB-CCD: PRO
+            J-GLOBAL: J9.117K
+ATOM        8
+            1   C1x C    10.0100  -19.3900
+            2   C1x C    10.4300  -20.6500
+            3   C1x C    11.8300  -20.6500
+            4   C1y C    12.2500  -19.3200
+            5   N1x N    11.1300  -18.4800
+            6   C6a C    13.4400  -18.6200
+            7   O6a O    14.7000  -19.3200
+            8   O6a O    13.4400  -17.2200
+BOND        8
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     1   5 1
+            6     4   6 1 #Down
+            7     6   7 1
+            8     6   8 2
+///

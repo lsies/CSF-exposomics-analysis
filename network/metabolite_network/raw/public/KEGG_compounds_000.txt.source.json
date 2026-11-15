@@ -1,0 +1,6 @@
+{
+  "url": "https://rest.kegg.jp/get/C00008+C00020+C00025+C00031+C00041+C00047+C00048+C00049+C00054+C00064",
+  "payload": null,
+  "retrieved_utc": "2026-11-13T06:07:26.309240+00:00",
+  "sha256": "edbaa1db0feef51c346f25c8f7e2bb002289f027f37be7f89813a28f0ffc00c0"
+}

@@ -1,0 +1,15 @@
+{
+  "selected_annotations": 427,
+  "selected_physical_features": 254,
+  "selected_mapped_annotations": 54,
+  "selected_mapped_features": 46,
+  "selected_mapped_compounds": 53,
+  "selected_human_reactions": 232,
+  "selected_human_genes": 216,
+  "background_human_genes": 1764,
+  "KP_mapped_genes": [
+    "KYNU"
+  ],
+  "network_nodes": 547,
+  "network_edges": 673
+}

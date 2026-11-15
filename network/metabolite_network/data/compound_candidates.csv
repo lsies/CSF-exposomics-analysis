@@ -1,0 +1,641 @@
+FeaturesPeak,physical_feature,metabolite_name,formula,selected,selected_q05,supplier_KEGG,CompoundID,KEGG,ChEBI,reference_name,reference_formula,identity_source,supplier_id_discordant
+M203T325_2_B_1,NEG_203.0325_325.0,"1,2-Dihydroxy-8-carboxynaphthalene",C11H8O4,True,True,C14093,C14093,C14093,,,,supplier_KEGG,False
+M203T325_2_A_1,NEG_203.0325_325.0,"1,4-Dihydroxy-2-naphthoate",C11H8O4,True,True,C03657,C03657,C03657,,,,supplier_KEGG,False
+M203T325_2_C_1,NEG_203.0325_325.0,"1,4-Dihydroxy-6-naphthoate",C11H8O4,True,True,C17018,C17018,C17018,,,,supplier_KEGG,False
+M179T230_B_1,NEG_179.0574_230.4,"1,7-Dimethylxanthine",C7H8N4O2,True,True,C13747,C13747,C13747,25858,"1,7-dimethylxanthine",C7H8N4O2,HMDB_ChEBI_crossreference,False
+M789T485_1,NEG_788.5446_485.3,1-18:0-2-18:1-phosphatidylserine,C42H80NO10P,True,True,,CHEBI:79096,,79096,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoserine,C42H80NO10P,HMDB_ChEBI_crossreference,False
+M331T421_A_1,NEG_331.1892_420.8,"1-Acetoxy-9,17-octadecadiene-12,14-diyne-11,16-diol",C20H28O4,True,True,,CHEBI:183543,,183543,"(9Z,11S,16S)-1-Acetoxy-9,17-octadecadiene-12,14-diyne-11,16-diol",C20H28O4,HMDB_ChEBI_crossreference,False
+M257T433_B_1,NEG_257.1758_432.6,1-Hydroxypropan-2-yl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,True,True,,CHEBI:172097,,172097,1-Hydroxypropan-2-yl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,HMDB_ChEBI_crossreference,False
+M482T497_B_1,POS_482.3240_496.7,1-Octadecanoyl-sn-glycero-3-phosphoethanolamine,C23H48NO7P,True,True,C21484,CHEBI:83047,,83047,1-stearoyl-sn-glycero-3-phosphoethanolamine,C23H48NO7P,HMDB_ChEBI_crossreference,False
+M409T646_1,NEG_409.2358_645.6,1-Palmitoyllysophosphatidate,C19H39O7P,True,True,C04036,C04036,C04036,,,,supplier_KEGG,False
+M385T454_1,NEG_385.2357_453.5,"12alpha-Hydroxy-3-oxochola-4,6-dienoate",C24H34O4,True,True,C15569,CHEBI:172621,,172621,12a-Hydroxy-3-oxocholadienic acid,C24H34O4,HMDB_ChEBI_crossreference,False
+M269T514_1,NEG_269.2121_514.2,16-Oxopalmitate,C16H30O3,True,True,C19614,C19614,C19614,,,,supplier_KEGG,False
+M347T477_A_1,NEG_347.2587_476.7,17beta-Hydroxy-2alpha-(methoxymethyl)-17-methyl-5alpha-androstan-3-one,C22H36O3,True,True,C14919,C14919,C14919,,,,supplier_KEGG,False
+M347T419_B_1,POS_347.2216_419.2,19-Hydroxydeoxycorticosterone,C21H30O4,True,True,,CHEBI:145762,,145762,19-hydroxydeoxycorticosterone,C21H30O4,HMDB_ChEBI_crossreference,False
+M153T322_A_1,NEG_153.0193_321.7,"2,6-Dihydroxybenzoic acid",C7H6O4,True,True,C21298,CHEBI:68465,,68465,"2,6-dihydroxybenzoic acid",C7H6O4,HMDB_ChEBI_crossreference,False
+M144T75_A_1,NEG_144.0666_75.3,2-Aminoadipate 6-semialdehyde,C6H11NO3,True,True,C04076,C04076,C04076,,,,supplier_KEGG,False
+M86T75_A_1,POS_86.0600_75.3,2-Aminoisobutyric acid,C4H9NO2,True,True,C03665,C03665,C03665,,,,supplier_KEGG,False
+M241T401_1,NEG_241.1444_401.1,2-Carboxy-4-dodecanolide,C13H22O4,True,True,,CHEBI:171710,,171710,2-Carboxy-4-dodecanolide,C13H22O4,HMDB_ChEBI_crossreference,False
+M183T420_B_1,NEG_183.1389_419.6,2-Ethylhexyl acrylate,C11H20O2,True,True,C19420,C19420,C19420,,,,supplier_KEGG,False
+M117T176_1,NEG_117.0557_176.4,2-Hydroxy-2-methylbutyric acid,C5H10O3,True,True,,CHEBI:68454,,68454,2-hydroxy-2-methylbutyric acid,C5H10O3,HMDB_ChEBI_crossreference,False
+M417T319_B_1,NEG_417.1190_319.0,2-Hydroxy-3-methyl-4H-pyran-4-one O-(6E-cinnamoyl-b-glucoside),C21H22O9,True,True,,CHEBI:192037,,192037,2-Hydroxy-3-methyl-4H-pyran-4-one O-(6E-cinnamoyl-b-D-glucoside),C21H22O9,HMDB_ChEBI_crossreference,False
+M257T433_C_1,NEG_257.1758_432.6,2-Hydroxypropyl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,True,True,,CHEBI:172095,,172095,2-Hydroxypropyl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,HMDB_ChEBI_crossreference,False
+M331T410_1,NEG_331.1761_409.6,"2-Hydroxytridecane-1,2,3-tricarboxylate",C16H28O7,True,True,C04655,C04655,C04655,,,,supplier_KEGG,False
+M482T497_C_1,POS_482.3240_496.7,2-acyl-sn-glycero-3-phosphoethanolamine (n-C18:0),C23H48NO7P,True,True,,CHEBI:133145,,133145,2-octadecanoyl-sn-glycero-3-phosphoethanolamine,C23H48NO7P,HMDB_ChEBI_crossreference,False
+M347T419_A_1,POS_347.2216_419.2,"2beta,21-Dihydroxypregn-4-ene-3,20-dione",C21H30O4,True,True,C15015,C15015,C15015,,,,supplier_KEGG,False
+M369T440_D_1,NEG_369.1737_439.8,"3,17beta-Diacetoxyestra-1,3,5(10)-trien-6-one",C22H26O5,True,True,C15313,C15313,C15313,,,,supplier_KEGG,False
+M239T484_1,POS_239.1642_483.6,"3,4-Dimethyl-5-pentyl-2-furanpropanoic acid",C14H22O3,True,True,,CHEBI:168605,,168605,"3,4-Dimethyl-5-pentyl-2-furanpropanoic acid",C14H22O3,HMDB_ChEBI_crossreference,False
+M211T308_1,NEG_211.0975_308.0,"3,4-Methyleneazelaic acid",C11H16O4,True,True,,CHEBI:89902,,89902,"3,4-Methyleneazelaic acid",C11H16O4,HMDB_ChEBI_crossreference,False
+M165T297_B_1,NEG_165.0556_296.8,3-(2-Hydroxyphenyl)propanoic acid,C9H10O3,True,True,C01198,C01198,C01198,,,,supplier_KEGG,False
+M165T297_A_1,NEG_165.0556_296.8,3-(3-Hydroxyphenyl)propanoic acid,C9H10O3,True,True,C11457,C11457,C11457,1427,3-(3-hydroxyphenyl)propanoic acid,C9H10O3,HMDB_ChEBI_crossreference,False
+M239T399_1,NEG_239.0923_399.2,3-Carboxy-4-methyl-5-propyl-2-furanpropionic acid (CMPF),C12H16O5,True,True,,CHEBI:41254,,41254,2-(2-carboxyethyl)-4-methyl-5-propylfuran-3-carboxylic acid,C12H16O5,HMDB_ChEBI_crossreference,False
+M137T255_B_1,NEG_137.0244_255.3,3-Hydroxybenzoic acid,C7H6O3,True,True,C00587,C00587,C00587,30764,3-hydroxybenzoic acid,C7H6O3,HMDB_ChEBI_crossreference,False
+M187T416_1,NEG_187.1339_416.3,3-Hydroxydecanoic acid,C10H20O3,True,True,,CHEBI:132983,,132983,3-hydroxydecanoic acid,C10H20O3,HMDB_ChEBI_crossreference,False
+M194T164_D_1,NEG_194.0458_163.7,3-Hydroxyhippuric acid,C9H9NO4,True,True,,CHEBI:70824,,70824,m-hydroxyhippuric acid,C9H9NO4,HMDB_ChEBI_crossreference,False
+M243T502_1,NEG_243.1964_502.4,3-Hydroxymyristic acid,C14H28O3,True,True,C22001,CHEBI:42539,,42539,(R)-3-hydroxytetradecanoic acid,C14H28O3,HMDB_ChEBI_crossreference,False
+M151T251_C_1,NEG_151.0400_251.1,3-Hydroxyphenylacetic acid,C8H8O3,True,True,C05593,C05593,C05593,17445,3-hydroxyphenylacetic acid,C8H8O3,HMDB_ChEBI_crossreference,False
+M149T356_A_1,NEG_149.0607_356.3,3-Phenylpropanoic acid,C9H10O2,True,True,C05629,C05629,C05629,28631,3-phenylpropionic acid,C9H10O2,HMDB_ChEBI_crossreference,False
+M389T521_B_1,NEG_389.2694_520.7,"3alpha,12alpha-Dihydroxy-5beta-chol-6-enoate",C24H38O4,True,True,C11637,C11637,C11637,,,,supplier_KEGG,False
+M144T75_D_1,NEG_144.0666_75.3,4-Acetamidobutanoate,C6H11NO3,True,True,C02946,C02946,C02946,17645,4-acetamidobutanoic acid,C6H11NO3,HMDB_ChEBI_crossreference,False
+M369T440_A_1,NEG_369.1737_439.8,"4-Androsten-3beta,17beta-diol 3-sulfate",C19H30O5S,True,True,,CHEBI:232564,,232564,"4-Androsten-3beta,17beta-diol 3-sulfate",C19H30O5S,HMDB_ChEBI_crossreference,False
+M194T164_C_1,NEG_194.0458_163.7,4-Carboxyphenylglycine,C9H9NO4,True,True,,CHEBI:178134,,178134,4-Carboxyphenylglycine,C9H9NO4,HMDB_ChEBI_crossreference,False
+M137T255_A_1,NEG_137.0244_255.3,4-Hydroxybenzoic acid,C7H6O3,True,True,C00156,C00156,C00156,30763,4-hydroxybenzoic acid,C7H6O3,HMDB_ChEBI_crossreference,False
+M194T164_E_1,NEG_194.0458_163.7,4-Hydroxyhippuric acid,C9H9NO4,True,True,,CHEBI:71018,,71018,p-hydroxyhippuric acid,C9H9NO4,HMDB_ChEBI_crossreference,False
+M151T251_A_1,NEG_151.0400_251.1,4-Hydroxyphenylacetic acid,C8H8O3,True,True,C00642,C00642,C00642,18101,4-hydroxyphenylacetic acid,C8H8O3,HMDB_ChEBI_crossreference,False
+M130T54_B_1,NEG_130.0509_53.9,4-Hydroxyproline,C5H9NO3,True,True,C01015,C01157,C01157,18095,trans-4-hydroxy-L-proline,C5H9NO3,HMDB_ChEBI_crossreference,True
+M119T371_2_1,NEG_119.0501_371.2,4-Vinylphenol,C8H8O,True,True,C05627,C05627,C05627,1883,4-hydroxystyrene,C8H8O,HMDB_ChEBI_crossreference,False
+M298T247_1,POS_298.0969_247.1,5'-Methylthioadenosine,C11H15N5O3S,True,True,C00170,C00170,C00170,17509,5'-S-methyl-5'-thioadenosine,C11H15N5O3S,HMDB_ChEBI_crossreference,False
+M433T344_C_1,NEG_433.1136_344.3,"5,7,8-Trihydroxyflavanone 7-glucoside",C21H22O10,True,True,,CHEBI:196621,,196621,"5,7,8-Trihydroxyflavanone 7-glucoside",C21H22O10,HMDB_ChEBI_crossreference,False
+M130T54_A_1,NEG_130.0509_53.9,5-Aminolevulinic acid,C5H9NO3,True,True,C00430,C00430,C00430,17549,5-aminolevulinic acid,C5H9NO3,HMDB_ChEBI_crossreference,False
+M255T422_C_1,NEG_255.1601_422.1,5-Nonyltetrahydro-2-oxo-3-furancarboxylic acid,C14H24O4,True,True,,CHEBI:168062,,168062,5-Nonyltetrahydro-2-oxo-3-furancarboxylic acid,C14H24O4,HMDB_ChEBI_crossreference,False
+M369T440_C_1,NEG_369.1737_439.8,5a-Dihydrotestosterone sulfate,C19H30O5S,True,True,,CHEBI:138026,,138026,5alpha-dihydrotestosterone sulfate,C19H30O5S,HMDB_ChEBI_crossreference,False
+M144T75_C_1,NEG_144.0666_75.3,6-Amino-2-oxohexanoate,C6H11NO3,True,True,C03239,C03239,C03239,,,,supplier_KEGG,False
+M183T420_D_1,NEG_183.1389_419.6,6-Hexyltetrahydro-2H-pyran-2-one,C11H20O2,True,True,,CHEBI:171846,,171846,6-Hexyltetrahydro-2H-pyran-2-one,C11H20O2,HMDB_ChEBI_crossreference,False
+M255T422_B_1,NEG_255.1601_422.1,6-Hydroxy-3-oxotetradecenoic acid,C14H24O4,True,True,,CHEBI:169032,,169032,"(6R,8Z)-6-Hydroxy-3-oxotetradecenoic acid",C14H24O4,HMDB_ChEBI_crossreference,False
+M241T485_1,NEG_241.1808_485.2,6-Oxotetradecanoic acid,C14H26O3,True,True,,CHEBI:174253,,174253,6-Ketomyristic acid,C14H26O3,HMDB_ChEBI_crossreference,False
+M347T477_B_1,NEG_347.2587_476.7,6-Pentadecylsalicylic acid,C22H36O3,True,True,C10759,C10759,C10759,2696,anacardic acid,C22H36O3,HMDB_ChEBI_crossreference,False
+M389T521_E_1,NEG_389.2694_520.7,7alpha-hydroxy-3-oxo-5beta-cholanate,C24H38O4,True,True,,CHEBI:145760,,145760,7beta-hydroxy-3-oxo-5alpha-cholan-24-oic acid,C24H38O4,HMDB_ChEBI_crossreference,False
+M396T438_1,POS_396.3110_438.1,"9,12-Hexadecadienoylcarnitine [M]",C23H41NO4,True,True,,CHEBI:89745,,89745,"9,12-Hexadecadienoylcarnitine",C23H41NO4,HMDB_ChEBI_crossreference,False
+M370T430_1,POS_370.2952_429.7,Acylcarnitine C14:1,C21H39NO4,True,True,,CHEBI:89716,,89716,trans-2-Tetradecenoylcarnitine,C21H39NO4,HMDB_ChEBI_crossreference,False
+M88T54_C_1,NEG_88.0404_53.9,Alanine,C3H7NO2,True,True,C00041,C00041,C00041,16977,L-alanine,C3H7NO2,HMDB_ChEBI_crossreference,False
+M407T434_C_1,NEG_407.2799_433.6,Allocholic acid,C24H40O5,True,True,C00695,C04661,C04661,36240,"3alpha,7alpha,12beta-trihydroxy-5beta-cholanic acid",C24H40O5,HMDB_ChEBI_crossreference,True
+M194T164_A_1,NEG_194.0458_163.7,Alpha-Hydroxyhippuric acid,C9H9NO4,True,True,,CHEBI:68451,,68451,alpha-hydroxyhippuric acid,C9H9NO4,HMDB_ChEBI_crossreference,False
+M287T453_1,NEG_287.1263_453.0,Angeloylsenkyunolide F,C17H20O4,True,True,,CHEBI:174752,,174752,Angeloylsenkyunolide F,C17H20O4,HMDB_ChEBI_crossreference,False
+M309T469_A_1,NEG_309.2070_468.8,Auxin b,C18H30O4,True,True,,CHEBI:171925,,171925,Auxin b,C18H30O4,HMDB_ChEBI_crossreference,False
+M445T326_A_1,NEG_445.0776_325.6,Baicalin,C21H18O11,True,True,C10025,C10025,C10025,2981,baicalin,C21H18O11,HMDB_ChEBI_crossreference,False
+M121T325_2_B_1,NEG_121.0294_325.0,Benzoic acid,C7H6O2,True,True,C00180,C00180,C00180,30746,benzoic acid,C7H6O2,HMDB_ChEBI_crossreference,False
+M121T325_2_B_1,NEG_121.0294_325.0,Benzoic acid,C7H6O2,True,True,C00180,C00539,C00539,30746,benzoic acid,C7H6O2,HMDB_ChEBI_crossreference,True
+M545T360_B_1,NEG_545.1303_360.4,Biochanin A 7-(6-methylmalonylglucoside),C26H26O13,True,True,,CHEBI:192152,,192152,Biochanin A 7-(6-methylmalonylglucoside),C26H26O13,HMDB_ChEBI_crossreference,False
+M385T409_2_1,NEG_385.2381_409.0,Bufalin (Drug),C24H34O4,True,True,C16922,C16922,C16922,,,,supplier_KEGG,False
+M195T246_1,POS_195.0876_245.7,Caffeine,C8H10N4O2,True,True,C07481,C07481,C07481,27732,caffeine,C8H10N4O2,HMDB_ChEBI_crossreference,False
+M171T475_2_1,NEG_171.1389_475.4,Capric acid,C10H20O2,True,True,C01571,C01571,C01571,30813,decanoic acid,C10H20O2,HMDB_ChEBI_crossreference,False
+M143T421_3_B_1,NEG_143.1077_421.5,Caprylic acid,C8H16O2,True,True,C06423,C06423,C06423,28837,octanoic acid,C8H16O2,HMDB_ChEBI_crossreference,False
+M391T469_2_A_1,NEG_391.2850_468.8,Chenodeoxycholic acid,C24H40O4,True,True,C02528,C17660,C17660,88102,"3beta,7alpha-dihydroxy-5beta-cholan-24-oic acid",C24H40O4,HMDB_ChEBI_crossreference,True
+M407T434_B_1,NEG_407.2799_433.6,Cholic acid,C24H40O5,True,True,C00695,C04661,C04661,36240,"3alpha,7alpha,12beta-trihydroxy-5beta-cholanic acid",C24H40O5,HMDB_ChEBI_crossreference,True
+M583T422_1,NEG_583.3137_422.1,Cholic acid 3-glucuronide,C30H48O11,True,True,,CHEBI:137056,,137056,cholic acid glucuronide,C30H48O11,HMDB_ChEBI_crossreference,False
+M183T420_C_1,NEG_183.1389_419.6,Citronellyl formate,C11H20O2,True,True,C12295,C12295,C12295,31406,Citronellyl formate,C11H20O2,HMDB_ChEBI_crossreference,False
+M541T336_1,NEG_541.2655_336.1,Cortolone-3-glucuronide,C27H42O11,True,True,,CHEBI:88773,,88773,Cortolone-3-glucuronide,C27H42O11,HMDB_ChEBI_crossreference,False
+M178T266_1,NEG_178.0543_266.1,Cyclamic acid,C6H13NO3S,True,True,C02824,C02824,C02824,15964,cyclohexylsulfamic acid,C6H13NO3S,HMDB_ChEBI_crossreference,False
+M389T521_A_1,NEG_389.2694_520.7,D8'-Merulinic acid A,C24H38O4,True,True,,CHEBI:175125,,175125,D8'-Merulinic acid A,C24H38O4,HMDB_ChEBI_crossreference,False
+M316T375_1,POS_316.2483_374.5,Decanoyllevocarnitine (C10:0),C17H33NO4,True,True,C03299,CHEBI:68830,,68830,O-decanoylcarnitine,C17H33NO4,HMDB_ChEBI_crossreference,False
+M367T464_5_B_1,NEG_367.1579_464.3,Dehydroepiandrosterone sulfate,C19H28O5S,True,True,C04555,C04555,C04555,16814,dehydroepiandrosterone sulfate,C19H28O5S,HMDB_ChEBI_crossreference,False
+M391T469_2_B_1,NEG_391.2850_468.8,Deoxycholic acid,C24H40O4,True,True,C04483,CHEBI:172628,,172628,"3b,12a-Dihydroxy-5a-cholanoic acid",C24H40O4,HMDB_ChEBI_crossreference,False
+M305T502_B_1,NEG_305.1733_502.4,Di-n-pentyl phthalate,C18H26O4,True,True,C14300,C14300,C14300,,,,supplier_KEGG,False
+M257T433_A_1,NEG_257.1758_432.6,Dibutyl adipate,C14H26O4,True,True,C14253,C14253,C14253,,,,supplier_KEGG,False
+M277T475_B_1,NEG_277.1429_474.6,Dibutyl phthalate,C16H22O4,True,True,C14214,C14214,C14214,34687,dibutyl phthalate,C16H22O4,HMDB_ChEBI_crossreference,False
+M309T469_C_1,NEG_309.2070_468.8,"Dihydroxyoctadeca-9,12,15-trienoic acid",C18H30O4,True,True,C07357,C07357,C07357,,,,supplier_KEGG,False
+M241T407_E_1,NEG_241.0868_407.0,Equol,C15H14O3,True,True,C14131,C14131,C14131,34741,equol,C15H14O3,HMDB_ChEBI_crossreference,False
+M417T319_E_1,NEG_417.1190_319.0,Equol 7-O-glucuronide,C21H22O9,True,True,,CHEBI:188397,,188397,Equol 7-O-glucuronide,C21H22O9,HMDB_ChEBI_crossreference,False
+M385T382_2_A_1,NEG_385.1690_382.5,Eudesmin,C22H26O6,True,True,C10561,C10561,C10561,,,,supplier_KEGG,False
+M387T402_A_1,NEG_387.1844_402.4,Fragransin D1,C22H28O6,True,True,,CHEBI:175946,,175946,Fragransin D1,C22H28O6,HMDB_ChEBI_crossreference,False
+M387T402_B_1,NEG_387.1844_402.4,Fragransin D3,C22H28O6,True,True,,CHEBI:175947,,175947,Fragransin D3,C22H28O6,HMDB_ChEBI_crossreference,False
+M301T408_2_1,NEG_301.1292_408.3,Garcinia lactone dibutyl ester,C14H22O7,True,True,,CHEBI:167937,,167937,Garcinia lactone dibutyl ester,C14H22O7,HMDB_ChEBI_crossreference,False
+M621T239_1,NEG_621.1098_238.9,"Genistein 4',7-O-diglucuronide",C27H26O17,True,True,,CHEBI:192068,,192068,"Genistein 4',7-O-diglucuronide",C27H26O17,HMDB_ChEBI_crossreference,False
+M445T346_C_1,NEG_445.0798_345.8,Genistein 4'-O-glucuronide,C21H18O11,True,True,,CHEBI:167838,,167838,Genistein 4'-O-glucuronide,C21H18O11,HMDB_ChEBI_crossreference,False
+M445T346_A_1,NEG_445.0798_345.8,Genistein 5-O-glucuronide,C21H18O11,True,True,,CHEBI:176130,,176130,Genistein 5-O-glucuronide,C21H18O11,HMDB_ChEBI_crossreference,False
+M445T346_B_1,NEG_445.0798_345.8,Genistein 7-O-glucuronide,C21H18O11,True,True,,CHEBI:176131,,176131,Genistein 7-O-glucuronide,C21H18O11,HMDB_ChEBI_crossreference,False
+M448T412_B_1,NEG_448.3067_411.6,Glycoursodeoxycholic acid,C26H43NO5,True,True,C05466,C05466,C05466,,,,supplier_KEGG,False
+M241T407_C_1,NEG_241.0868_407.0,Guaicyl phenylacetate,C15H14O3,True,True,,CHEBI:173746,,173746,Guaicyl phenylacetate,C15H14O3,HMDB_ChEBI_crossreference,False
+M260T259_1,POS_260.1857_258.9,Hexanoylcarnitine (C6:0),C13H25NO4,True,True,,CHEBI:84834,,84834,O-hexanoyl-L-carnitine,C13H25NO4,HMDB_ChEBI_crossreference,False
+M178T245_2_1,NEG_178.0509_244.8,Hippuric acid,C9H9NO3,True,True,C01586,C01586,C01586,18089,N-benzoylglycine,C9H9NO3,HMDB_ChEBI_crossreference,False
+M195T284_B_1,NEG_195.0662_284.2,Homoveratric acid,C10H12O4,True,True,,CHEBI:86655,,86655,homoveratric acid,C10H12O4,HMDB_ChEBI_crossreference,False
+M407T434_A_1,NEG_407.2799_433.6,Hyocholic acid,C24H40O5,True,True,C17647,C17647,C17647,,,,supplier_KEGG,False
+M391T444_A_1,NEG_391.2851_443.7,Hyodeoxycholic acid,C24H40O4,True,True,C15515,CHEBI:166735,,166735,Isohyodeoxycholic acid,C24H40O4,HMDB_ChEBI_crossreference,False
+M116T349_1,NEG_116.0505_348.6,Indole,C8H7N,True,True,C00463,CHEBI:35581,,35581,indole,C8H7N,HMDB_ChEBI_crossreference,False
+M188T349_B_1,NEG_188.0716_348.6,Indole-3-methyl acetate,C11H11NO2,True,True,C20635,CHEBI:72782,,72782,methyl (indol-3-yl)acetate,C11H11NO2,HMDB_ChEBI_crossreference,False
+M188T349_A_1,NEG_188.0716_348.6,Indole-3-propionic acid,C11H11NO2,True,True,C22236,CHEBI:43580,,43580,3-(1H-indol-3-yl)propanoic acid,C11H11NO2,HMDB_ChEBI_crossreference,False
+M212T291_3_1,NEG_212.0022_290.7,Indoxyl sulfate,C8H7NO4S,True,True,,CHEBI:43355,,43355,indoxyl sulfate,C8H7NO4S,HMDB_ChEBI_crossreference,False
+M171T374_1,NEG_171.1390_374.2,Isoamyl isovalerate,C10H20O2,True,True,C12289,C12289,C12289,31727,Isoamyl isovalerate,C10H20O2,HMDB_ChEBI_crossreference,False
+M391T469_2_D_1,NEG_391.2850_468.8,Isodeoxycholic acid,C24H40O4,True,True,C17661,CHEBI:175151,,175151,"7b,12a-Dihydroxycholanoic acid",C24H40O4,HMDB_ChEBI_crossreference,False
+M243T284_B_1,NEG_243.1349_284.3,Isoleucylhydroxyproline,C11H20N2O4,True,True,,CHEBI:183608,,183608,Isoleucyl-Hydroxyproline,C11H20N2O4,HMDB_ChEBI_crossreference,False
+M417T319_C_1,NEG_417.1190_319.0,Isoliquiritin,C21H22O9,True,True,C16978,C16978,C16978,80839,isoliquiritin,C21H22O9,HMDB_ChEBI_crossreference,False
+M73T356_1,NEG_73.0295_355.9,Lactaldehyde,C3H6O2,True,True,C00424,C00424,C00424,,,,supplier_KEGG,False
+M471T251_1,NEG_471.2448_250.5,Laninamivir octanoate,C21H36N4O8,True,True,C21598,C21598,C21598,,,,supplier_KEGG,False
+M344T413_1,POS_344.2796_413.3,Lauroylcarnitine (C12:0),C19H37NO4,True,True,,CHEBI:77086,,77086,O-lauroyl-L-carnitine,C19H37NO4,HMDB_ChEBI_crossreference,False
+M493T475_1,NEG_493.2443_475.5,Leukotriene D5,C25H38N2O6S,True,True,,CHEBI:175815,,175815,Leukotriene D5,C25H38N2O6S,HMDB_ChEBI_crossreference,False
+M235T226_2_1,POS_235.1805_226.3,Lidocaine (Drug),C14H22N2O,True,True,C07073,C07073,C07073,6456,lidocaine,C14H22N2O,HMDB_ChEBI_crossreference,False
+M447T300_A_1,NEG_447.0933_299.9,Luteolin 7-O-beta-glucoside,C21H20O11,True,True,C03951,C03951,C03951,27994,luteolin 7-O-beta-D-glucoside,C21H20O11,HMDB_ChEBI_crossreference,False
+M365T45_C_1,POS_365.1055_44.9,Maltose,C12H22O11,True,True,C00185,C00185,C00185,,,,supplier_KEGG,False
+M151T251_B_1,NEG_151.0400_251.1,Mandelic acid,C8H8O3,True,True,C01983,CHEBI:35825,,35825,mandelic acid,C8H8O3,HMDB_ChEBI_crossreference,False
+M387T409_1,POS_387.2531_409.3,Medroxyprogesterone acetate,C24H34O4,True,True,C08150,C08150,C08150,,,,supplier_KEGG,False
+M365T45_B_1,POS_365.1055_44.9,Melibiose,C12H22O11,True,True,C00252,C05402,C05402,28053,melibiose,C12H22O11,HMDB_ChEBI_crossreference,True
+M129T99_1,NEG_129.0193_98.5,Mesaconic acid,C5H6O4,True,True,C01732,C02226,C02226,17626,citraconic acid,C5H6O4,HMDB_ChEBI_crossreference,True
+M397T329_1,NEG_397.1502_329.0,"Methyl 3,4-dihydroxy-5-prenylbenzoate 3-glucoside",C19H26O9,True,True,,CHEBI:172635,,172635,"Methyl 3,4-dihydroxy-5-prenylbenzoate 3-glucoside",C19H26O9,HMDB_ChEBI_crossreference,False
+M183T420_A_1,NEG_183.1389_419.6,Methyl citronellate,C11H20O2,True,True,,CHEBI:172062,,172062,Methyl citronellate,C11H20O2,HMDB_ChEBI_crossreference,False
+M277T475_A_1,NEG_277.1429_474.6,Mono(2-ethylhexyl) phthalate,C16H22O4,True,True,C03343,C03343,C03343,,,,supplier_KEGG,False
+M255T422_A_1,NEG_255.1601_422.1,Monomenthyl succinate,C14H24O4,True,True,,CHEBI:169181,,169181,Monomenthyl succinate,C14H24O4,HMDB_ChEBI_crossreference,False
+M236T297_1,NEG_236.0927_296.8,N-Lactoylphenylalanine,C12H15NO4,True,True,,CHEBI:174217,,174217,N-[(S)-lactoyl]-L-phenylalanine,C12H15NO4,HMDB_ChEBI_crossreference,False
+M144T75_B_1,NEG_144.0666_75.3,N-Propionylalanine,C6H11NO3,True,True,,CHEBI:192720,,192720,N-Propionylalanine,C6H11NO3,HMDB_ChEBI_crossreference,False
+M199T341_B_1,NEG_199.0975_340.8,Nepetalinic acid,C10H16O4,True,True,,CHEBI:172073,,172073,"(1R,2R,3S,1'R)-Nepetalinic acid",C10H16O4,HMDB_ChEBI_crossreference,False
+M288T328_1,POS_288.2170_328.0,Octanoylcarnitine (C8:0),C15H29NO4,True,True,C02838,C02838,C02838,18102,O-octanoyl-L-carnitine,C15H29NO4,HMDB_ChEBI_crossreference,False
+M281T465_1,NEG_281.1393_464.9,Octyl gallate,C15H22O5,True,True,,CHEBI:83631,,83631,octyl gallate,C15H22O5,HMDB_ChEBI_crossreference,False
+M747T635_1,NEG_746.5124_634.6,"PE(P-16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",C43H74NO7P,True,True,,CHEBI:90479,,90479,"1-(1Z-hexadecenyl)-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine",C43H74NO7P,HMDB_ChEBI_crossreference,False
+M241T407_B_1,NEG_241.0868_407.0,Phenethyl salicylate,C15H14O3,True,True,,CHEBI:173744,,173744,Phenethyl salicylate,C15H14O3,HMDB_ChEBI_crossreference,False
+M93T306_1,NEG_93.0345_306.1,Phenol,C6H6O,True,True,C00146,C00146,C00146,15882,phenol,C6H6O,HMDB_ChEBI_crossreference,False
+M93T306_1,NEG_93.0345_306.1,Phenol,C6H6O,True,True,C00146,C15584,C15584,15882,phenol,C6H6O,HMDB_ChEBI_crossreference,True
+M313T267_1,POS_313.1548_267.4,Phenylalanylphenylalanine,C18H20N2O3,True,True,,CHEBI:72723,,72723,Phe-Phe,C18H20N2O3,HMDB_ChEBI_crossreference,False
+M173T268_2_1,NEG_172.9913_267.8,Phenylsulfate,C6H6O4S,True,True,C00850,C02180,C02180,27905,phenyl hydrogen sulfate,C6H6O4S,HMDB_ChEBI_crossreference,True
+M153T322_B_1,NEG_153.0193_321.7,Phloroglucinaldehyde,C7H6O4,True,True,,CHEBI:189728,,189728,"2,4,6-trihydroxybenzaldehyde",C7H6O4,HMDB_ChEBI_crossreference,False
+M447T300_B_1,NEG_447.0933_299.9,Plantaginin,C21H20O11,True,True,C17056,C17056,C17056,,,,supplier_KEGG,False
+M495T452_1,NEG_495.2964_452.4,Pregnanediol 3-O-glucuronide,C27H44O8,True,True,,CHEBI:88765,,88765,Pregnanediol-3-glucuronide,C27H44O8,HMDB_ChEBI_crossreference,False
+M218T67_2_1,POS_218.1387_67.3,Propionylcarnitine (C3:0),C10H19NO4,True,True,C03017,C03017,C03017,28867,O-propanoylcarnitine,C10H19NO4,HMDB_ChEBI_crossreference,False
+M218T67_2_1,POS_218.1387_67.3,Propionylcarnitine (C3:0),C10H19NO4,True,True,C03017,CHEBI:53210,,53210,O-propanoyl-L-carnitine,C10H19NO4,HMDB_ChEBI_crossreference,False
+M353T402_2_1,NEG_353.1602_401.7,Propofol glucuronide,C18H26O7,True,True,,CHEBI:168560,,168560,Propofol glucuronide,C18H26O7,HMDB_ChEBI_crossreference,False
+M137T306_2_1,NEG_137.0244_305.9,Salicylic acid,C7H6O3,True,True,C00805,C00805,C00805,16914,salicylic acid,C7H6O3,HMDB_ChEBI_crossreference,False
+M194T282_1,NEG_194.0458_282.3,Salicyluric acid,C9H9NO4,True,True,C07588,C07588,C07588,9008,salicyluric acid,C9H9NO4,HMDB_ChEBI_crossreference,False
+M88T54_B_1,NEG_88.0404_53.9,Sarcosine,C3H7NO2,True,True,C00213,C00213,C00213,15611,sarcosine,C3H7NO2,HMDB_ChEBI_crossreference,False
+M144T46_1,POS_144.1019_45.6,Stachydrine,C7H13NO2,True,True,C10172,C10172,C10172,35280,L-proline betaine,C7H13NO2,HMDB_ChEBI_crossreference,False
+M498T464_B_1,NEG_498.2894_464.2,Taurodeoxycholic acid,C26H45NO6S,True,True,C05463,C05463,C05463,9410,taurodeoxycholic acid,C26H45NO6S,HMDB_ChEBI_crossreference,False
+M498T464_A_1,NEG_498.2894_464.2,Tauroursodeoxycholic acid,C26H45NO6S,True,True,C05465,C16868,C16868,80774,tauroursodeoxycholic acid,C26H45NO6S,HMDB_ChEBI_crossreference,True
+M239T463_1,NEG_239.1651_462.6,Tetradecanedioic acid,C14H26O4,True,True,,CHEBI:76308,,76308,tetradecanedioic acid,C14H26O4,HMDB_ChEBI_crossreference,False
+M425T367_1,NEG_425.2543_367.3,Tetrahydrocortisol,C21H34O5,True,True,C05472,CHEBI:166779,,166779,3beta-Allotetrahydrocortisol,C21H34O5,HMDB_ChEBI_crossreference,False
+M179T230_A_1,NEG_179.0574_230.4,Theobromine,C7H8N4O2,True,True,C07480,C07480,C07480,28946,theobromine,C7H8N4O2,HMDB_ChEBI_crossreference,False
+M365T45_A_1,POS_365.1055_44.9,Trehalose,C12H22O11,True,True,C01083,C01083,C01083,16551,"alpha,alpha-trehalose",C12H22O11,HMDB_ChEBI_crossreference,False
+M407T383_A_1,NEG_407.2801_383.4,Ursocholic acid,C24H40O5,True,True,C00695,C04661,C04661,36240,"3alpha,7alpha,12beta-trihydroxy-5beta-cholanic acid",C24H40O5,HMDB_ChEBI_crossreference,True
+M391T444_B_1,NEG_391.2851_443.7,Ursodeoxycholic acid,C24H40O4,True,True,C02528,C17660,C17660,88102,"3beta,7alpha-dihydroxy-5beta-cholan-24-oic acid",C24H40O4,HMDB_ChEBI_crossreference,True
+M143T421_3_A_1,NEG_143.1077_421.5,Valproic acid,C8H16O2,True,True,C07185,C07185,C07185,39867,valproic acid,C8H16O2,HMDB_ChEBI_crossreference,False
+M153T87_A_1,POS_153.0407_87.0,Xanthine,C5H4N4O2,True,True,C00385,C00385,C00385,17712,9H-xanthine,C5H4N4O2,HMDB_ChEBI_crossreference,False
+M153T87_A_1,POS_153.0407_87.0,Xanthine,C5H4N4O2,True,True,C00385,C00385,C00385,48517,7H-xanthine,C5H4N4O2,HMDB_ChEBI_crossreference,False
+M349T454_B_1,NEG_349.2357_454.2,[10]-Gingerol,C21H34O4,True,True,C17496,CHEBI:175490,,175490,(S)-[10]-Gingerol,C21H34O4,HMDB_ChEBI_crossreference,False
+M545T360_A_1,NEG_545.1303_360.4,afrormosin-7-O-glucoside-6''-O-malonate,C26H26O13,True,True,,CHEBI:191448,,191448,6''-O-Malonylwistin,C26H26O13,HMDB_ChEBI_crossreference,False
+M199T341_A_1,NEG_199.0975_340.8,alpha-Carboxy-delta-nonalactone,C10H16O4,True,True,,CHEBI:172085,,172085,alpha-Carboxy-delta-nonalactone,C10H16O4,HMDB_ChEBI_crossreference,False
+M407T383_C_1,NEG_407.2801_383.4,alpha-Muricholic acid,C24H40O5,True,True,C17647,C17647,C17647,,,,supplier_KEGG,False
+M88T54_A_1,NEG_88.0404_53.9,beta-Alanine,C3H7NO2,True,True,C00099,C00099,C00099,16958,beta-alanine,C3H7NO2,HMDB_ChEBI_crossreference,False
+M407T434_D_1,NEG_407.2799_433.6,beta-Muricholic acid,C24H40O5,True,True,C17647,C17647,C17647,,,,supplier_KEGG,False
+M199T341_C_1,NEG_199.0975_340.8,cis-4-Decenedioic acid,C10H16O4,True,True,,CHEBI:137808,,137808,2E-decenedioic acid,C10H16O4,HMDB_ChEBI_crossreference,False
+M199T341_C_1,NEG_199.0975_340.8,cis-4-Decenedioic acid,C10H16O4,True,True,,CHEBI:89730,,89730,cis-4-Decenedioic acid,C10H16O4,HMDB_ChEBI_crossreference,False
+M347T477_C_1,NEG_347.2587_476.7,"ent-16b,19-Kauranediol 19-acetate",C22H36O3,True,True,,CHEBI:171876,,171876,"ent-16b,19-Kauranediol 19-acetate",C22H36O3,HMDB_ChEBI_crossreference,False
+M183T420_E_1,NEG_183.1389_419.6,gamma-Undecalactone,C11H20O2,True,True,C08571,CHEBI:89362,,89362,xi-gamma-Undecalactone,C11H20O2,HMDB_ChEBI_crossreference,False
+M407T383_B_1,NEG_407.2801_383.4,omega-Muricholic acid,C24H40O5,True,True,C17647,C17647,C17647,,,,supplier_KEGG,False
+M367T464_5_A_1,NEG_367.1579_464.3,testosterone sulfate,C19H28O5S,True,True,,CHEBI:84094,,84094,testosterone sulfate,C19H28O5S,HMDB_ChEBI_crossreference,False
+M197T376_1,NEG_197.1546_376.2,xi-Dihydro-5-octyl-2furanone,C12H22O2,True,True,,CHEBI:143727,,143727,gamma-dodecalactone,C12H22O2,HMDB_ChEBI_crossreference,False
+M275T519_B_1,NEG_275.2014_518.8,"(E,E)-11,13-Octadecadien-9-ynoic acid",C18H28O2,False,False,,CHEBI:171733,,171733,"(E,E)-11,13-Octadecadien-9-ynoic acid",C18H28O2,HMDB_ChEBI_crossreference,False
+M581T372_A_1,NEG_581.2408_371.6,"(Z,Z)-biliverdin-IX alpha",C33H34N4O6,False,False,,C00500,C00500,17033,biliverdin,C33H34N4O6,HMDB_ChEBI_crossreference,False
+M351T421_1,NEG_351.2173_421.5,"(ent-6alpha,7alpha,16alphaH)-6,7,17-Trihydroxy-19-kauranoic acid",C20H32O5,False,False,,CHEBI:175527,,175527,"(ent-6alpha,7alpha,16alphaH)-6,7,17-Trihydroxy-19-kauranoic acid",C20H32O5,HMDB_ChEBI_crossreference,False
+M167T429_E_1,NEG_167.1077_428.8,(xi)-5-(3-Hexenyl)dihydro-2furanone,C10H16O2,False,False,,CHEBI:195787,,195787,(xi)-(Z)-5-(3-Hexenyl)dihydro-2(3H)-furanone,C10H16O2,HMDB_ChEBI_crossreference,False
+M165T406_1,NEG_165.0920_406.4,"1,1-Dimethoxy-2-phenylethane",C10H14O2,False,False,,CHEBI:195781,,195781,"1,1-Dimethoxy-2-phenylethane",C10H14O2,HMDB_ChEBI_crossreference,False
+M275T444_1,NEG_275.1264_443.8,"1-(3,4-Dihydroxyphenyl)-1-decene-3,5-dione",C16H20O4,False,False,C17745,C17745,C17745,,,,supplier_KEGG,False
+M476T500_2_A_1,NEG_476.2780_499.7,1-(linoleoyl)-sn-glycero-3-phosphoethanolamine,C23H44NO7P,False,False,,CHEBI:83058,,83058,1-linoleoyl-sn-glycero-3-phosphoethanolamine,C23H44NO7P,HMDB_ChEBI_crossreference,False
+M478T523_B_1,NEG_478.2938_522.7,1-(oleoyl)-sn-glycero-3-phosphoethanolamine,C23H46NO7P,False,False,,CHEBI:75168,,75168,1-oleoyl-sn-glycero-3-phosphoethanolamine,C23H46NO7P,HMDB_ChEBI_crossreference,False
+M325T502_1,NEG_325.2383_502.4,1-Acetoxy-2-hydroxy-16-heptadecen-4-one,C19H34O4,True,True,,CHEBI:169753,,169753,1-Acetoxy-2-hydroxy-16-heptadecen-4-one,C19H34O4,HMDB_ChEBI_crossreference,False
+M323T491_A_1,NEG_323.2226_491.0,1-Acetoxy-2-hydroxy-16-heptadecyn-4-one,C19H32O4,False,False,,CHEBI:171783,,171783,1-Acetoxy-2-hydroxy-16-heptadecyn-4-one,C19H32O4,HMDB_ChEBI_crossreference,False
+M377T529_A_1,NEG_377.2694_528.6,"1-Acetoxy-2-hydroxy-5,12,15-heneicosatrien-4-one",C23H38O4,False,False,,CHEBI:175869,,175869,"1-Acetoxy-2-hydroxy-5,12,15-heneicosatrien-4-one",C23H38O4,HMDB_ChEBI_crossreference,False
+M377T529_C_1,NEG_377.2694_528.6,1-Arachidonoylglycerol,C23H38O4,False,False,C13857,C13857,C13857,,,,supplier_KEGG,False
+M143T328_A_1,NEG_143.1077_327.6,1-Hydroxy-3-octanone,C8H16O2,True,True,,CHEBI:179949,,179949,1-Hydroxy-3-octanone,C8H16O2,HMDB_ChEBI_crossreference,False
+M520T495_6_A_1,POS_520.3392_494.7,1-Linoleoylglycerophosphocholine [M],C26H50NO7P,False,False,C04100,C04100,C04100,28733,1-linoleoyl-sn-glycero-3-phosphocholine,C26H50NO7P,HMDB_ChEBI_crossreference,False
+M86T68_1,POS_86.0964_68.4,1-Methylpyrrolidine,C5H11N,False,False,,CHEBI:234043,,234043,1-methylpyrrolidine,C5H11N,HMDB_ChEBI_crossreference,False
+M522T518_6_A_1,POS_522.3549_517.8,1-Oleoylglycerophosphocholine [M],C26H52NO7P,False,False,C03916,C03916,C03916,28610,1-O-oleoyl-sn-glycero-3-phosphocholine,C26H52NO7P,HMDB_ChEBI_crossreference,False
+M662T518_1,NEG_662.3649_518.2,1-Palmitoyl-2-(5-keto-6-octenedioyl)-sn-glycero-3-phosphocholine,C32H58NO11P,False,False,C13900,C13900,C13900,,,,supplier_KEGG,False
+M496T513_7_A_1,POS_496.3392_512.5,1-Palmitoylglycerophosphocholine [M],C24H50NO7P,False,False,C04102,CHEBI:72998,,72998,1-hexadecanoyl-sn-glycero-3-phosphocholine,C24H50NO7P,HMDB_ChEBI_crossreference,False
+M341T548_1,POS_341.3051_548.3,1-Stearoyl-sn-glycerol,C21H42O4,False,False,,CHEBI:75557,,75557,rac-1-monostearoylglycerol,C21H42O4,HMDB_ChEBI_crossreference,False
+M524T645_1,NEG_524.2997_645.2,1-Stearoylglycerophosphoserine,C24H48NO9P,False,False,,CHEBI:180193,,180193,1-Stearoylglycerophosphoserine,C24H48NO9P,HMDB_ChEBI_crossreference,False
+M524T645_1,NEG_524.2997_645.2,1-Stearoylglycerophosphoserine,C24H48NO9P,False,False,,CHEBI:85403,,85403,1-stearoyl-sn-glycero-3-phosphoserine,C24H48NO9P,HMDB_ChEBI_crossreference,False
+M511T459_B_1,NEG_511.3027_458.9,1-acyl-sn-glycero-3-phosphoglycerol (n-C18:0),C24H49O9P,True,True,,CHEBI:169258,,169258,1-Stearoylglycerophosphoglycerol,C24H49O9P,HMDB_ChEBI_crossreference,False
+M510T528_B_1,POS_510.3553_528.3,1-heptadecanoyl-sn-glycero-3-phosphocholine,C25H52NO7P,False,False,,CHEBI:74340,,74340,1-heptadecanoyl-sn-glycero-3-phosphocholine,C25H52NO7P,HMDB_ChEBI_crossreference,False
+M468T479_3_1,POS_468.3083_478.9,1-myristoyl-sn-glycero-3-phosphocholine,C22H46NO7P,False,False,,CHEBI:64489,,64489,1-myristoyl-sn-glycero-3-phosphocholine,C22H46NO7P,HMDB_ChEBI_crossreference,False
+M494T486_2_B_1,POS_494.3239_486.3,1-palmitoleoyl-sn-glycero-3-phosphocholine,C24H48NO7P,False,False,,CHEBI:73851,,73851,1-[(9Z)-hexadecenoyl]-sn-glycero-3-phosphocholine,C24H48NO7P,HMDB_ChEBI_crossreference,False
+M452T518_3_A_1,NEG_452.2779_517.5,1-palmitoyl-sn-glycero-3-phosphoethanolamine,C21H44NO7P,False,False,,CHEBI:73134,,73134,1-hexadecanoyl-sn-glycero-3-phosphoethanolamine,C21H44NO7P,HMDB_ChEBI_crossreference,False
+M524T543_6_A_1,POS_524.3706_543.4,1-stearoyl-sn-glycero-3-phosphocholine,C26H54NO7P,False,False,,CHEBI:73858,,73858,1-stearoyl-sn-glycero-3-phosphocholine,C26H54NO7P,HMDB_ChEBI_crossreference,False
+M185T409_A_1,NEG_185.1182_409.0,10-Oxodecanoate,C10H18O3,False,False,C02217,C02217,C02217,,,,supplier_KEGG,False
+M183T472_2_1,NEG_183.1389_472.1,10-Undecenoic acid,C11H20O2,True,True,C13910,C13910,C13910,35045,10-undecenoic acid,C11H20O2,HMDB_ChEBI_crossreference,False
+M311T448_1,NEG_311.2227_447.6,"11-Hydroperoxyoctadeca-9,12-dienoic acid",C18H32O4,False,False,C07338,C07338,C07338,,,,supplier_KEGG,False
+M227T435_1,NEG_227.1652_435.2,11-Hydroxy-9-tridecenoic acid,C13H24O3,False,False,,CHEBI:165449,,165449,11-Hydroxy-9-tridecenoic acid,C13H24O3,HMDB_ChEBI_crossreference,False
+M479T355_1,NEG_479.2288_355.4,11-Oxo-androsterone glucuronide,C25H36O9,True,True,,CHEBI:88771,,88771,11-Oxo-androsterone glucuronide,C25H36O9,HMDB_ChEBI_crossreference,False
+M481T359_2_1,NEG_481.2445_359.2,11-beta-Hydroxyandrosterone-3-glucuronide,C25H38O9,True,True,,CHEBI:88733,,88733,11-beta-Hydroxyandrosterone-3-glucuronide,C25H38O9,HMDB_ChEBI_crossreference,False
+M303T365_1,POS_303.1956_364.7,"11beta-hydroxyandrost-4-ene-3,17-dione",C19H26O3,True,True,C05284,C05284,C05284,,,,supplier_KEGG,False
+M313T453_1,NEG_313.2384_452.9,"12,13-DiHOME",C18H34O4,False,False,C14829,C14829,C14829,72665,"12,13-DiHOME",C18H34O4,HMDB_ChEBI_crossreference,False
+M309T454_E_1,NEG_309.2071_454.4,"12,13-Epoxy-11-hydroxy-9,15-octadecadienoic acid",C18H30O4,False,False,,CHEBI:138784,,138784,(9E)-11-hydroxy-11-{3-[(2Z)-2-penten-1-yl]-2-oxiranyl}-9-undecenoic acid,C18H30O4,HMDB_ChEBI_crossreference,False
+M347T511_B_1,NEG_347.2586_510.6,"12,15-Epoxy-13,14-dimethyleicosa-10,12,14-trienoic acid",C22H36O3,False,False,,CHEBI:184131,,184131,"12,15-Epoxy-13,14-dimethyleicosa-10,12,14-trienoic acid",C22H36O3,HMDB_ChEBI_crossreference,False
+M347T511_A_1,NEG_347.2586_510.6,"12,15-Epoxy-13,14-dimethyleicosa-12,14,16-trienoic acid",C22H36O3,False,False,,CHEBI:187579,,187579,"11(E)-(3,4-dimethyl-5-(pent-1-en-1-yl)furan-2-yl)-undecanoic acid",C22H36O3,HMDB_ChEBI_crossreference,False
+M281T513_B_1,NEG_281.1733_512.8,12-trans-Hydroxy juvenile hormone III,C16H26O4,False,False,C16508,C16508,C16508,,,,supplier_KEGG,False
+M295T484_4_1,NEG_295.2276_484.1,13(S)-HODE,C18H32O3,False,False,C14762,C14762,C14762,,,,supplier_KEGG,False
+M291T485_1,NEG_291.1965_484.6,13(S)-HpOTrE,C18H30O4,False,False,C04785,C04785,C04785,,,,supplier_KEGG,False
+M311T485_1,NEG_311.2226_485.3,"13-Hydroperoxyoctadeca-9,11-dienoic acid",C18H32O4,False,False,C04717,C04717,C04717,15655,13(S)-HPODE,C18H32O4,HMDB_ChEBI_crossreference,False
+M223T444_2_B_1,NEG_223.1339_443.8,"13-Oxo-9,11-tridecadienoic acid",C13H20O3,True,True,,CHEBI:169546,,169546,"13-Oxo-9,11-tridecadienoic acid",C13H20O3,HMDB_ChEBI_crossreference,False
+M293T466_B_1,NEG_293.2121_465.8,"15,16-epoxyoctadeca-9,12-dienoate",C18H30O3,False,False,,CHEBI:88460,,88460,15(16)-EpODE,C18H30O3,HMDB_ChEBI_crossreference,False
+M317T435_1,POS_317.2111_434.9,15-Deoxy-PGJ2,C20H28O3,False,False,C14717,C14717,C14717,34159,"15-deoxy-Delta(12,14)-prostaglandin J2",C20H28O3,HMDB_ChEBI_crossreference,False
+M319T493_1,NEG_319.2277_492.6,15-HETE,C20H32O3,False,False,C04742,C04742,C04742,15558,15(S)-HETE,C20H32O3,HMDB_ChEBI_crossreference,False
+M597T408_B_1,NEG_597.2356_407.7,15-Oxo-beta-bilirubin,C33H34N4O7,False,False,C20667,C20667,C20667,,,,supplier_KEGG,False
+M447T472_1,NEG_447.2752_471.9,16-Feruloyloxypalmitate,C26H40O6,False,False,C18217,C18217,C18217,,,,supplier_KEGG,False
+M271T480_A_1,NEG_271.2277_480.1,16-Hydroxypalmitic acid,C16H32O3,False,False,C18218,C18218,C18218,55328,16-hydroxyhexadecanoic acid,C16H32O3,HMDB_ChEBI_crossreference,False
+M361T482_1,NEG_361.2744_482.0,17-(4-Hydroxyphenyl)heptadecanoate,C23H38O3,True,True,C21446,C21446,C21446,,,,supplier_KEGG,False
+M690T479_1,NEG_690.3212_478.8,17-(4-Hydroxyphenyl)heptadecanoyl adenylate,C33H50N5O9P,False,False,C21445,C21445,C21445,,,,supplier_KEGG,False
+M397T454_1,NEG_397.2357_453.7,"17-Propylestra-1,3,5(10)-triene-3,17beta-diol diacetate",C25H34O4,True,True,C14947,C14947,C14947,,,,supplier_KEGG,False
+M411T465_1,NEG_411.1843_464.9,17-alpha-hydroxypregnenolone sulfate,C21H32O6S,True,True,,CHEBI:89454,,89454,17alpha-hydroxypregnenolone 3-sulfate,C21H32O6S,HMDB_ChEBI_crossreference,False
+M343T487_B_1,NEG_343.2274_486.6,17HDoHE,C22H32O3,True,True,,CHEBI:72637,,72637,"(4Z,7Z,10Z,13Z,15E,19Z)-17-hydroxydocosahexaenoic acid",C22H32O3,HMDB_ChEBI_crossreference,False
+M303T485_B_1,POS_303.2319_484.9,17abeta-Hydroxy-homoandrost-4-en-3-one,C20H30O2,False,False,C15318,C15318,C15318,,,,supplier_KEGG,False
+M303T492_C_1,POS_303.2318_492.2,"17beta-Hydroxy-2alpha,17-dimethylestr-4-en-3-one",C20H30O2,False,False,C15259,C15259,C15259,,,,supplier_KEGG,False
+M426T57_B_1,NEG_426.0219_56.9,2'-Deoxyguanosine 5'-diphosphate (dGDP),C10H15N5O10P2,False,False,C00361,C00361,C00361,28862,dGDP,C10H15N5O10P2,HMDB_ChEBI_crossreference,False
+M135T362_B_1,NEG_135.0451_361.8,2'-Hydroxyacetophenone,C8H8O2,False,False,,CHEBI:145716,,145716,2-acetylphenol,C8H8O2,HMDB_ChEBI_crossreference,False
+M132T66_B_1,NEG_132.0302_66.3,"2,2'-Iminodiacetic acid",C4H7NO4,False,False,C19911,CHEBI:24786,,24786,iminodiacetic acid,C4H7NO4,HMDB_ChEBI_crossreference,False
+M327T474_1,NEG_327.2176_474.1,"2,3-Dinor-8-iso prostaglandin F1alpha",C18H32O5,True,True,C14795,C14795,C14795,,,,supplier_KEGG,False
+M205T497_2_1,NEG_205.1596_496.5,"2,4-Di-tert-butylphenol",C14H22O,False,False,,CHEBI:89188,,89188,"2,4-di-tert-butylphenol",C14H22O,HMDB_ChEBI_crossreference,False
+M101T68_1,NEG_101.0244_68.1,"2,4-Dihydroxybutanoic acid",C4H8O4,False,False,,CHEBI:86348,,86348,"2,4-dihydroxybutanoic acid",C4H8O4,HMDB_ChEBI_crossreference,False
+M181T222_B_1,NEG_181.0506_221.9,"2,6-Dimethoxybenzoic acid",C9H10O4,False,False,,CHEBI:89493,,89493,"2,6-Dimethoxybenzoic acid",C9H10O4,HMDB_ChEBI_crossreference,False
+M375T541_A_1,POS_375.2895_540.7,2-(10-Heptadecenyl)-6-hydroxybenzoic acid,C24H38O3,False,False,,CHEBI:228873,,228873,Ginkgolic Acid C17-1,C24H38O3,HMDB_ChEBI_crossreference,False
+M102T43_C_1,NEG_102.0560_43.3,2-Aminobutyric acid,C4H9NO2,False,False,C02261,C02356,C02356,35619,L-alpha-aminobutyric acid,C4H9NO2,HMDB_ChEBI_crossreference,True
+M102T43_C_1,NEG_102.0560_43.3,2-Aminobutyric acid,C4H9NO2,False,False,C02261,C02356,C02356,74359,L-alpha-aminobutyrate zwitterion,C4H9NO2,HMDB_ChEBI_crossreference,True
+M158T259_1,NEG_158.1186_258.6,2-Aminooctanoic acid,C8H17NO2,False,False,,CHEBI:75145,,75145,2-aminooctanoic acid,C8H17NO2,HMDB_ChEBI_crossreference,False
+M377T529_B_1,NEG_377.2694_528.6,2-Arachidonoylglycerol,C23H38O4,False,False,C13856,C13856,C13856,52392,2-arachidonoylglycerol,C23H38O4,HMDB_ChEBI_crossreference,False
+M209T499_1,POS_209.1899_499.3,2-Decylfuran,C14H24O,False,False,,CHEBI:168892,,168892,2-decylfuran,C14H24O,HMDB_ChEBI_crossreference,False
+M131T253_A_1,NEG_131.0713_253.4,2-Ethyl-2-hydroxybutyric acid,C6H12O3,False,False,,CHEBI:165404,,165404,2-Ethyl-2-hydroxy-butyric acid,C6H12O3,HMDB_ChEBI_crossreference,False
+M131T272_A_1,NEG_131.0713_272.4,2-Hydroxy-3-methylpentanoic acid,C6H12O3,False,False,,CHEBI:89228,,89228,"(2R,3R)-2-hydroxy-3-methylpentanoic acid",C6H12O3,HMDB_ChEBI_crossreference,False
+M346T93_C_1,NEG_346.0554_92.5,2-Hydroxy-dAMP,C10H14N5O7P,False,False,C19970,C19970,C19970,,,,supplier_KEGG,False
+M131T272_C_1,NEG_131.0713_272.4,2-Hydroxyhexanoic acid,C6H12O3,False,False,,CHEBI:86542,,86542,2-hydroxyhexanoic acid,C6H12O3,HMDB_ChEBI_crossreference,False
+M103T93_1,NEG_103.0400_93.5,2-Hydroxyisobutyric acid,C4H8O3,False,False,C21297,CHEBI:50129,,50129,2-hydroxyisobutyric acid,C4H8O3,HMDB_ChEBI_crossreference,False
+M271T480_B_1,NEG_271.2277_480.1,2-Hydroxypalmitic acid,C16H32O3,False,False,,CHEBI:75972,,75972,(R)-2-hydroxyhexadecanoic acid,C16H32O3,HMDB_ChEBI_crossreference,False
+M299T512_1,NEG_299.2590_512.2,2-Hydroxystearic acid,C18H36O3,False,False,C03042,C03042,C03042,,,,supplier_KEGG,False
+M107T334_2_B_1,NEG_107.0501_334.1,2-Methylphenol,C7H8O,False,False,C01542,C01542,C01542,28054,o-cresol,C7H8O,HMDB_ChEBI_crossreference,False
+M177T430_D_1,NEG_177.0920_430.3,2-Methylpropyl benzoate,C11H14O2,False,False,,CHEBI:87500,,87500,isobutyl benzoate,C11H14O2,HMDB_ChEBI_crossreference,False
+M118T43_B_1,NEG_118.0509_43.2,2-Methylserine,C4H9NO3,False,False,C02115,C02115,C02115,,,,supplier_KEGG,False
+M171T266_1,NEG_171.0662_266.5,2-Octenedioic acid,C8H12O4,False,False,,CHEBI:89192,,89192,2-Octenedioic acid,C8H12O4,HMDB_ChEBI_crossreference,False
+M185T409_B_1,NEG_185.1182_409.0,2-Oxodecanoic acid,C10H18O3,False,False,C13945,C13945,C13945,,,,supplier_KEGG,False
+M297T516_1,NEG_297.2433_516.1,2-Oxooctadecanoic acid,C18H34O3,False,False,C00869,C00869,C00869,,,,supplier_KEGG,False
+M247T497_C_1,NEG_247.1702_497.1,2-Phenylethyl octanoate,C16H24O2,False,False,,CHEBI:171699,,171699,2-Phenylethyl octanoate,C16H24O2,HMDB_ChEBI_crossreference,False
+M453T489_1,NEG_453.3220_489.3,27-Norcholestanehexol,C26H46O6,False,False,,CHEBI:172134,,172134,27-Norcholestanehexol,C26H46O6,HMDB_ChEBI_crossreference,False
+M295T482_1,POS_295.2267_482.4,2HOT,C18H30O3,False,False,C16342,CHEBI:189773,,189773,2-Hydroxylinolenic acid,C18H30O3,HMDB_ChEBI_crossreference,False
+M327T540_5_E_1,NEG_327.2327_539.8,"2alpha-Methylpregn-4-ene-3,20-dione",C22H32O2,False,False,C15116,C15116,C15116,,,,supplier_KEGG,False
+M346T93_B_1,NEG_346.0554_92.5,3'-AMP,C10H14N5O7P,False,False,C01367,C01367,C01367,,,,supplier_KEGG,False
+M368T426_A_1,POS_368.2796_425.8,"3, 5-Tetradecadiencarnitine",C21H37NO4,False,False,,CHEBI:89746,,89746,"3, 5-Tetradecadiencarnitine",C21H37NO4,HMDB_ChEBI_crossreference,False
+M345T467_B_1,NEG_345.2432_467.4,"3,4-Dihydro-8-hydroxy-3-tridecyl-1H-2-benzopyran-1-one",C22H34O3,True,True,,CHEBI:231220,,231220,"(R)-3,4-Dihydro-8-hydroxy-3-tridecyl-1H-2-benzopyran-1-one",C22H34O3,HMDB_ChEBI_crossreference,False
+M295T451_B_1,POS_295.2267_450.7,"3,4-Dimethyl-5-pentyl-2-furanheptanoic acid",C18H30O3,False,False,,CHEBI:165397,,165397,"3,4-Dimethyl-5-pentyl-2-furanheptanoic acid",C18H30O3,HMDB_ChEBI_crossreference,False
+M225T368_1,NEG_225.1132_368.0,"3,4-Methylenesebacic acid",C12H18O4,False,False,,CHEBI:89935,,89935,"3,4-Methylenesebacic acid",C12H18O4,HMDB_ChEBI_crossreference,False
+M167T429_A_1,NEG_167.1077_428.8,"3,5-Hexadienyl butyrate",C10H16O2,False,False,C08489,C08489,C08489,,,,supplier_KEGG,False
+M181T222_E_1,NEG_181.0506_221.9,"3-(2,4-Dihydroxyphenyl)propanoic acid",C9H10O4,False,False,,CHEBI:232440,,232440,"3-(2,4-dihydroxyphenyl)propanoic acid",C9H10O4,HMDB_ChEBI_crossreference,False
+M181T209_A_1,NEG_181.0506_208.7,3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,False,False,,CHEBI:86369,,86369,3-(3-hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,HMDB_ChEBI_crossreference,False
+M181T209_C_1,NEG_181.0506_208.7,3-(4-Hydroxyphenyl)lactate,C9H10O4,False,False,C03672,C03672,C03672,17385,3-(4-hydroxyphenyl)lactic acid,C9H10O4,HMDB_ChEBI_crossreference,False
+M182T72_2_A_1,POS_182.0811_72.2,3-Amino-3-(4-hydroxyphenyl)propanoic acid,C9H11NO3,False,False,C04368,C04368,C04368,16939,3-amino-3-(4-hydroxyphenyl)propanoic acid,C9H11NO3,HMDB_ChEBI_crossreference,False
+M130T69_F_1,NEG_130.0873_69.1,3-Amino-4-methylpentanoic acid,C6H13NO2,False,False,C02486,CHEBI:86261,,86261,(3S)-beta-leucine,C6H13NO2,HMDB_ChEBI_crossreference,False
+M128T66_1,NEG_128.0353_66.3,3-Aminopentanedioic acid,C5H9NO4,False,False,C05574,C05574,C05574,,,,supplier_KEGG,False
+M107T334_2_A_1,NEG_107.0501_334.1,3-Cresol,C7H8O,False,False,C01467,C01467,C01467,17231,m-cresol,C7H8O,HMDB_ChEBI_crossreference,False
+M169T454_2_1,NEG_169.1233_453.8,3-Decenoic acid,C10H18O2,False,False,,CHEBI:180206,,180206,3Z-decenoic acid,C10H18O2,HMDB_ChEBI_crossreference,False
+M445T559_E_1,NEG_445.3322_558.8,3-Dehydroteasterone,C28H46O4,False,False,C15792,C15792,C15792,,,,supplier_KEGG,False
+M442T472_1,POS_442.3528_471.9,3-Hydroxy-11Z-octadecenoylcarnitine,C25H47NO5,False,False,,CHEBI:234320,,234320,(3R)-hydroxy-11Z-octadecenoyl-L-carnitine,C25H47NO5,HMDB_ChEBI_crossreference,False
+M143T328_B_1,NEG_143.1077_327.6,3-Hydroxy-2-octanone,C8H16O2,True,True,,CHEBI:179942,,179942,3-Hydroxyoctan-2-one,C8H16O2,HMDB_ChEBI_crossreference,False
+M414T441_A_1,POS_414.3215_441.5,3-Hydroxy-9-hexadecenoylcarnitine,C23H43NO5,False,False,,CHEBI:85105,,85105,3-hydroxy-(9Z)-hexadecenoyl-L-carnitine,C23H43NO5,HMDB_ChEBI_crossreference,False
+M412T420_A_1,POS_412.3058_419.9,3-Hydroxyhexadecadienoylcarnitine,C23H41NO5,False,False,,CHEBI:171691,,171691,3-Hydroxyhexadecadienoylcarnitine,C23H41NO5,HMDB_ChEBI_crossreference,False
+M131T253_C_1,NEG_131.0713_253.4,3-Hydroxyhexanoic acid,C6H12O3,False,False,,CHEBI:173535,,173535,(R)-3-Hydroxyhexanoic acid,C6H12O3,HMDB_ChEBI_crossreference,False
+M159T355_A_1,NEG_159.1026_355.0,3-Hydroxyoctanoic acid,C8H16O3,False,False,C20793,C20793,C20793,,,,supplier_KEGG,False
+M298T492_A_1,POS_298.2740_492.2,3-Ketosphingosine,C18H35NO2,False,False,C06121,C06121,C06121,,,,supplier_KEGG,False
+M181T209_B_1,NEG_181.0506_208.7,3-Methoxy-4-hydroxyphenylglycolaldehyde,C9H10O4,False,False,C05583,C05583,C05583,27932,3-methoxy-4-hydroxyphenylglycolaldehyde,C9H10O4,HMDB_ChEBI_crossreference,False
+M159T257_A_1,NEG_159.0663_256.9,3-Methyladipic acid,C7H12O4,True,True,,CHEBI:68503,,68503,3-methyladipic acid,C7H12O4,HMDB_ChEBI_crossreference,False
+M199T393_A_1,NEG_199.1339_393.3,3-Nonanon-1-yl acetate,C11H20O3,False,False,,CHEBI:174008,,174008,3-Nonanon-1-yl acetate,C11H20O3,HMDB_ChEBI_crossreference,False
+M415T450_1,POS_415.3206_449.8,3-Oxocholest-4-en-26-oate,C27H42O3,False,False,C20839,C20839,C20839,,,,supplier_KEGG,False
+M185T409_C_1,NEG_185.1182_409.0,3-Oxodecanoate,C10H18O3,False,False,C20714,C20714,C20714,,,,supplier_KEGG,False
+M213T453_1,NEG_213.1495_453.1,3-Oxododecanoic acid,C12H22O3,False,False,C02367,C02367,C02367,,,,supplier_KEGG,False
+M157T402_2_C_1,NEG_157.0869_402.5,3-Oxovalproic acid,C8H14O3,True,True,C16652,C16652,C16652,80638,3-Oxovalproic acid,C8H14O3,HMDB_ChEBI_crossreference,False
+M405T502_B_1,NEG_405.2643_502.3,3-dehydrocholate,C24H38O5,False,False,,CHEBI:88108,,88108,"7alpha,12alpha-dihydroxy-3-oxo-5beta-cholan-24-oic acid",C24H38O5,HMDB_ChEBI_crossreference,False
+M121T301_A_1,NEG_121.0295_301.0,3-hydroxybenzaldehyde,C7H6O2,False,False,C03067,C03067,C03067,,,,supplier_KEGG,False
+M217T227_1,NEG_216.9815_226.5,3-hydroxybenzoic acid-3-O-sulphate,C7H6O6S,True,True,,CHEBI:88717,,88717,3-hydroxybenzoic acid-3-O-sulphate,C7H6O6S,HMDB_ChEBI_crossreference,False
+M407T491_B_1,NEG_407.2799_490.5,"3a,4b,12a-Trihydroxy-5b-cholanoic acid",C24H40O5,False,False,,CHEBI:175276,,175276,"3a,4b,12a-Trihydroxy-5b-cholanoic acid",C24H40O5,HMDB_ChEBI_crossreference,False
+M433T554_B_1,NEG_433.3320_553.6,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al",C27H46O4,False,False,C01301,C01301,C01301,,,,supplier_KEGG,False
+M405T502_C_1,NEG_405.2643_502.3,"3alpha,7alpha-Dihydroxy-12-oxo-5beta-cholanate",C24H38O5,False,False,C01292,C01292,C01292,,,,supplier_KEGG,False
+M433T554_A_1,NEG_433.3320_553.6,"3alpha,7alpha-Dihydroxy-5beta-cholestanate",C27H46O4,False,False,C04554,C04554,C04554,,,,supplier_KEGG,False
+M333T468_A_1,NEG_333.2071_467.5,"3beta,13-Dihydroxy-16-(hydroxymethylene)-13,17-seco-5alpha-androstan-17-oic acid, delta-lactone",C20H30O4,False,False,C15159,C15159,C15159,,,,supplier_KEGG,False
+M431T450_A_1,NEG_431.3165_449.6,"3beta,7alpha-Dihydroxy-5-cholestenoate",C27H44O4,False,False,C17335,C17335,C17335,81015,"3beta,7alpha-Dihydroxy-5-cholestenoate",C27H44O4,HMDB_ChEBI_crossreference,False
+M319T502_E_1,NEG_319.2277_501.7,3beta-Hydroxy-16beta-(hydroxymethyl)-5alpha-androstan-17-one,C20H32O3,False,False,C14961,C14961,C14961,,,,supplier_KEGG,False
+M417T485_A_1,POS_417.3361_485.5,3beta-Hydroxy-5-cholestenoate,C27H44O3,True,True,C17333,C17333,C17333,81014,3beta-hydroxycholest-5-en-26-oic acid,C27H44O3,HMDB_ChEBI_crossreference,False
+M116T47_A_1,NEG_116.0717_46.8,4-(Methylamino)butanoic acid,C5H11NO2,False,False,C15987,C15987,C15987,,,,supplier_KEGG,False
+M102T43_A_1,NEG_102.0560_43.3,4-Aminobutyric acid (GABA),C4H9NO2,False,False,C00334,C00334,C00334,16865,gamma-aminobutyric acid,C4H9NO2,HMDB_ChEBI_crossreference,False
+M187T334_4_1,NEG_187.0068_334.1,4-Cresol sulfate,C7H8O4S,False,False,,CHEBI:82914,,82914,p-cresol sulfate,C7H8O4S,HMDB_ChEBI_crossreference,False
+M165T236_C_1,NEG_165.0193_235.7,4-Formylsalicylic acid,C8H6O4,False,False,C14100,C14100,C14100,,,,supplier_KEGG,False
+M207T424_1,NEG_207.1389_424.1,4-Heptyloxyphenol,C13H20O2,False,False,C14236,C14236,C14236,,,,supplier_KEGG,False
+M177T345_D_1,NEG_177.1284_345.3,4-Hexylphenol,C12H18O,True,True,C14465,C14465,C14465,,,,supplier_KEGG,False
+M145T206_B_1,NEG_145.0506_206.2,4-Hydroxy-2-oxohexanoic acid,C6H10O4,True,True,C06762,C06762,C06762,,,,supplier_KEGG,False
+M121T279_A_1,NEG_121.0295_278.8,4-Hydroxybenzaldehyde,C7H6O2,False,False,C00633,C00633,C00633,17597,4-hydroxybenzaldehyde,C7H6O2,HMDB_ChEBI_crossreference,False
+M103T73_3_1,NEG_103.0400_72.9,4-Hydroxybutanoic acid,C4H8O3,False,False,C00989,C00989,C00989,,,,supplier_KEGG,False
+M165T236_A_1,NEG_165.0193_235.7,4-Hydroxyphenylglyoxylate,C8H6O4,False,False,C03590,C03590,C03590,,,,supplier_KEGG,False
+M163T385_1,NEG_163.0764_384.7,4-Phenylbutanoic acid,C10H12O2,False,False,C21793,CHEBI:41500,,41500,4-phenylbutyric acid,C10H12O2,HMDB_ChEBI_crossreference,False
+M417T485_E_1,POS_417.3361_485.5,"5,6-24(S),25-Diepoxycholesterol",C27H44O3,True,True,C15633,C15633,C15633,,,,supplier_KEGG,False
+M337T501_1,NEG_337.2383_501.1,"5,6-DHET",C20H34O4,False,False,C14772,C14772,C14772,63974,"5,6-DHET",C20H34O4,HMDB_ChEBI_crossreference,False
+M167T429_D_1,NEG_167.1077_428.8,"5,6-Dihydro-6-pentyl-2H-pyran-2-one",C10H16O2,False,False,,CHEBI:195785,,195785,"5,6-Dihydro-6-pentyl-2H-pyran-2-one",C10H16O2,HMDB_ChEBI_crossreference,False
+M116T47_B_1,NEG_116.0717_46.8,5-Aminopentanoic acid,C5H11NO2,False,False,C00431,C00431,C00431,15887,5-aminopentanoic acid,C5H11NO2,HMDB_ChEBI_crossreference,False
+M213T358_A_1,NEG_213.1132_358.2,5-Hexyltetrahydro-2-oxo-3-furancarboxylic acid,C11H18O4,True,True,,CHEBI:166552,,166552,5-Hexyltetrahydro-2-oxo-3-furancarboxylic acid,C11H18O4,HMDB_ChEBI_crossreference,False
+M117T134_2_A_1,NEG_117.0557_133.7,5-Hydroxypentanoate,C5H10O3,False,False,C02804,C02804,C02804,,,,supplier_KEGG,False
+M159T302_B_1,NEG_159.1026_301.7,5-Hydroxyvalproic acid,C8H16O3,False,False,C16650,C16650,C16650,80636,5-Hydroxyvalproic acid,C8H16O3,HMDB_ChEBI_crossreference,False
+M597T408_A_1,NEG_597.2356_407.7,5-Oxo-delta-bilirubin,C33H34N4O7,False,False,C20666,C20666,C20666,,,,supplier_KEGG,False
+M319T523_B_1,NEG_319.2641_523.3,5-Pentadecylresorcinol,C21H36O2,False,False,C10809,C10809,C10809,,,,supplier_KEGG,False
+M217T280_1,NEG_216.9814_280.3,5-Sulfosalicylate,C7H6O6S,True,True,C16199,C16199,C16199,68555,5-sulfosalicylic acid,C7H6O6S,HMDB_ChEBI_crossreference,False
+M293T466_E_1,NEG_293.2121_465.8,5-pentyl-2-furannonanoic acid,C18H30O3,False,False,,CHEBI:230348,,230348,5-pentyl-2-furannonanoic acid,C18H30O3,HMDB_ChEBI_crossreference,False
+M177T430_B_1,NEG_177.0920_430.3,5-phenylpentanoate,C11H14O2,False,False,,CHEBI:40131,,40131,5-phenylpentanoic acid,C11H14O2,HMDB_ChEBI_crossreference,False
+M319T502_B_1,NEG_319.2277_501.7,5HETE,C20H32O3,False,False,C04805,C04805,C04805,28209,5(S)-HETE,C20H32O3,HMDB_ChEBI_crossreference,False
+M361T345_3_B_1,NEG_361.2018_344.6,5beta-Dihydrocortisone,C21H30O5,False,False,C03588,C03588,C03588,,,,supplier_KEGG,False
+M157T402_2_D_1,NEG_157.0869_402.5,"6-Butyl-1,4-dioxan-2-one",C8H14O3,True,True,,CHEBI:173255,,173255,"6-Butyl-1,4-dioxan-2-one",C8H14O3,HMDB_ChEBI_crossreference,False
+M169T440_B_1,NEG_169.1233_439.9,6-Decanolide,C10H18O2,False,False,,CHEBI:180234,,180234,6-Decanolide,C10H18O2,HMDB_ChEBI_crossreference,False
+M195T471_D_1,NEG_195.1389_471.1,"6-Heptyl-5,6-dihydro-2H-pyran-2-one",C12H20O2,False,False,,CHEBI:172051,,172051,"6-Heptyl-5,6-dihydro-2H-pyran-2-one",C12H20O2,HMDB_ChEBI_crossreference,False
+M185T409_D_1,NEG_185.1182_409.0,"6-Hexyl-1,4-dioxan-2-one",C10H18O3,False,False,,CHEBI:171979,,171979,"6-Hexyl-1,4-dioxan-2-one",C10H18O3,HMDB_ChEBI_crossreference,False
+M369T383_1,NEG_369.2280_382.9,6-Keto-prostaglandin F1alpha,C20H34O6,False,False,C05961,C05961,C05961,,,,supplier_KEGG,False
+M309T544_1,NEG_309.2046_544.4,6-Methylgingediol,C18H30O4,False,False,,CHEBI:229033,,229033,6-Methylgingediol,C18H30O4,HMDB_ChEBI_crossreference,False
+M277T458_B_1,NEG_277.1808_457.6,6-Paradol,C17H26O3,False,False,C10482,C10482,C10482,10137,[6]-Paradol,C17H26O3,HMDB_ChEBI_crossreference,False
+M327T540_5_D_1,NEG_327.2327_539.8,6alpha-Methylprogesterone,C22H32O2,False,False,C14586,C14586,C14586,,,,supplier_KEGG,False
+M349T463_A_1,POS_349.2372_463.2,7'-Carboxy-alpha-chromanol,C21H32O4,False,False,,CHEBI:175455,,175455,7'-Carboxy-alpha-chromanol,C21H32O4,HMDB_ChEBI_crossreference,False
+M429T479_1,NEG_429.3008_478.7,7-Hydroxy-3-oxo-cholest-4-en-26-oic acid,C27H42O4,True,True,C17337,CHEBI:83036,,83036,7alpha-hydroxy-3-oxo-4-cholestenoic acid,C27H42O4,HMDB_ChEBI_crossreference,False
+M389T422_1,NEG_389.2695_422.1,7-Ketolithocholic acid,C24H38O4,False,False,,CHEBI:82679,,82679,7-oxolithocholic acid,C24H38O4,HMDB_ChEBI_crossreference,False
+M463T518_A_1,NEG_463.3429_517.6,7-Oxateasterone,C28H48O5,False,False,C17733,C17735,C17735,185407,7-oxatyphasterol,C28H48O5,HMDB_ChEBI_crossreference,True
+M143T216_B_1,NEG_143.0714_216.0,7-Oxoheptanoic acid,C7H12O3,False,False,C16590,C16590,C16590,,,,supplier_KEGG,False
+M431T450_B_1,NEG_431.3165_449.6,"7alpha,12alpha,26-trihydroxycholest-4-en-3-one",C27H44O4,False,False,,CHEBI:48833,,48833,"7alpha,12alpha,26-trihydroxycholest-4-en-3-one",C27H44O4,HMDB_ChEBI_crossreference,False
+M417T485_D_1,POS_417.3361_485.5,"7alpha,26-Dihydroxy-4-cholesten-3-one",C27H44O3,True,True,C17336,C17336,C17336,190406,"7 alpha,26-Dihydroxy-4-cholesten-3-one",C27H44O3,HMDB_ChEBI_crossreference,False
+M417T485_D_1,POS_417.3361_485.5,"7alpha,26-Dihydroxy-4-cholesten-3-one",C27H44O3,True,True,C17336,C17336,C17336,48825,"7alpha,26-dihydroxycholest-4-en-3-one",C27H44O3,HMDB_ChEBI_crossreference,False
+M431T479_A_1,POS_431.3156_478.9,7alpha-Hydroxy-3-oxo-4-cholestenoate,C27H42O4,True,True,C17337,CHEBI:83036,,83036,7alpha-hydroxy-3-oxo-4-cholestenoic acid,C27H42O4,HMDB_ChEBI_crossreference,False
+M350T472_1,POS_350.3054_472.1,"8,11,14-Eicosatrienoylethanolamide",C22H39NO2,False,False,C13828,C13828,C13828,,,,supplier_KEGG,False
+M293T466_A_1,NEG_293.2121_465.8,8-(5-Hexyl-furan-2-yl)-octanoic acid,C18H30O3,False,False,C13798,C13798,C13798,,,,supplier_KEGG,False
+M155T359_1,NEG_155.0713_359.2,"8-Hydroxy-5,6-octadienoic acid",C8H12O3,True,True,,CHEBI:169068,,169068,"8-Hydroxy-5,6-octadienoic acid",C8H12O3,HMDB_ChEBI_crossreference,False
+M169T440_A_1,NEG_169.1233_439.9,8-Methyl-6-nonenoic acid,C10H18O2,False,False,C18202,C18202,C18202,81581,8-Methyl-6-nonenoic acid,C10H18O2,HMDB_ChEBI_crossreference,False
+M329T431_3_1,NEG_329.2333_430.7,"9,12,13-TriHOME",C18H34O5,False,False,C14833,C14833,C14833,34506,pinellic acid,C18H34O5,HMDB_ChEBI_crossreference,False
+M309T454_C_1,NEG_309.2071_454.4,"9-Hydroxy-12-oxo-10(E),15octadecadienoic acid",C18H30O4,False,False,C21923,C21923,C21923,,,,supplier_KEGG,False
+M293T483_1,NEG_293.2121_482.7,"9-Oxo-10(E),12(E)-octadecadienoic acid",C18H30O3,False,False,C14766,C14766,C14766,72842,9-oxo-ODE,C18H30O3,HMDB_ChEBI_crossreference,False
+M297T493_1,NEG_297.2433_493.2,9-Oxooctadecanoic acid,C18H34O3,False,False,,CHEBI:172114,,172114,9-Oxooctadecanoic acid,C18H34O3,HMDB_ChEBI_crossreference,False
+M239T537_A_1,NEG_239.2015_536.6,9-Pentadecenoic acid,C15H28O2,False,False,,CHEBI:229717,,229717,(9E)-pentadecenoic acid,C15H28O2,HMDB_ChEBI_crossreference,False
+M346T93_D_1,NEG_346.0554_92.5,AMP,C10H14N5O7P,False,False,C00020,C00020,C00020,16027,adenosine 5'-monophosphate,C10H14N5O7P,HMDB_ChEBI_crossreference,False
+M87T141_1,NEG_87.0451_140.6,Acetoin,C4H8O2,False,False,C00466,C00466,C00466,,,,supplier_KEGG,False
+M204T46_3_1,POS_204.1229_46.2,Acetylcarnitine (C2:0),C9H17NO4,False,False,C02571,C02571,C02571,57589,O-acetyl-L-carnitine,C9H17NO4,HMDB_ChEBI_crossreference,False
+M330T384_1,POS_330.2640_384.4,Acylcarnitine C11:0,C18H35NO4,True,True,,CHEBI:172322,,172322,Undecanoylcarnitine,C18H35NO4,HMDB_ChEBI_crossreference,False
+M286T297_1,POS_286.2013_296.5,Acylcarnitine C8:1,C15H27NO4,False,False,,CHEBI:176711,,176711,(4S)-4-[(2E)-2-Octenoyloxy]-4-(trimethylammonio)butanoate,C15H27NO4,HMDB_ChEBI_crossreference,False
+M286T297_1,POS_286.2013_296.5,Acylcarnitine C8:1,C15H27NO4,False,False,,CHEBI:71012,,71012,2-octenoyl-L-carnitine,C15H27NO4,HMDB_ChEBI_crossreference,False
+M302T341_1,POS_302.2327_341.0,Acylcarnitine C9:0,C16H31NO4,True,True,,CHEBI:70997,,70997,O-nonanoylcarnitine,C16H31NO4,HMDB_ChEBI_crossreference,False
+M346T93_E_1,NEG_346.0554_92.5,Adenosine 2'-phosphate,C10H14N5O7P,False,False,C00946,C00946,C00946,,,,supplier_KEGG,False
+M426T57_C_1,NEG_426.0219_56.9,"Adenosine 3',5'-diphosphate (PAP)",C10H15N5O10P2,False,False,C00054,C00054,C00054,,,,supplier_KEGG,False
+M426T57_A_1,NEG_426.0219_56.9,Adenosine 5'-diphosphate (ADP),C10H15N5O10P2,False,False,C00008,C00008,C00008,,,,supplier_KEGG,False
+M145T206_A_1,NEG_145.0506_206.2,Adipate,C6H10O4,True,True,C06104,C06104,C06104,30832,adipic acid,C6H10O4,HMDB_ChEBI_crossreference,False
+M145T43_B_1,NEG_145.0618_42.9,Ala-Gly,C5H10N2O3,False,False,,CHEBI:73757,,73757,Ala-Gly,C5H10N2O3,HMDB_ChEBI_crossreference,False
+M203T58_C_1,POS_203.0526_58.1,Allose,C6H12O6,False,False,C01582,C01582,C01582,,,,supplier_KEGG,False
+M405T502_A_1,NEG_405.2643_502.3,Annocherin A,C24H38O5,False,False,,CHEBI:171902,,171902,Annocherin A,C24H38O5,HMDB_ChEBI_crossreference,False
+M456T548_1,POS_456.4046_548.0,Arachidyl carnitine,C27H53NO4,False,False,,CHEBI:73100,,73100,O-icosanoylcarnitine,C27H53NO4,HMDB_ChEBI_crossreference,False
+M456T548_1,POS_456.4046_548.0,Arachidyl carnitine,C27H53NO4,False,False,,CHEBI:84645,,84645,(R)-icosanoylcarnitine,C27H53NO4,HMDB_ChEBI_crossreference,False
+M295T225_1,POS_295.1289_225.1,Aspartame,C14H18N2O5,False,False,C11045,C11045,C11045,2877,aspartame,C14H18N2O5,HMDB_ChEBI_crossreference,False
+M132T66_A_1,NEG_132.0302_66.3,Aspartate,C4H7NO4,False,False,C00049,C00049,C00049,17053,L-aspartic acid,C4H7NO4,HMDB_ChEBI_crossreference,False
+M233T67_B_1,NEG_233.0778_66.8,Aspartyl-Threonine,C8H14N2O6,False,False,,CHEBI:141427,,141427,Asp-Thr,C8H14N2O6,HMDB_ChEBI_crossreference,False
+M233T67_B_1,NEG_233.0778_66.8,Aspartyl-Threonine,C8H14N2O6,False,False,,CHEBI:174200,,174200,Aspartyl-Threonine,C8H14N2O6,HMDB_ChEBI_crossreference,False
+M102T50_1,POS_102.0549_50.3,Azetidine 2-carboxylic acid,C4H7NO2,False,False,C08267,CHEBI:38108,,38108,azetidine-2-carboxylic acid,C4H7NO2,HMDB_ChEBI_crossreference,False
+M118T46_2_A_1,POS_118.0862_46.4,Betaine,C5H11NO2,False,False,C00719,C00719,C00719,17750,glycine betaine,C5H11NO2,HMDB_ChEBI_crossreference,False
+M583T372_D_1,NEG_583.2565_371.6,Bilirubin,C33H36N4O6,False,False,C00486,C00486,C00486,16990,bilirubin IXalpha,C33H36N4O6,HMDB_ChEBI_crossreference,False
+M581T429_1,NEG_581.2407_429.3,Biliverdin,C33H34N4O6,False,False,C00500,C00500,C00500,,,,supplier_KEGG,False
+M581T372_E_1,NEG_581.2408_371.6,Biliverdin-IX-beta,C33H34N4O6,False,False,C21724,C21724,C21724,,,,supplier_KEGG,False
+M581T372_C_1,NEG_581.2408_371.6,Biliverdin-IX-delta,C33H34N4O6,False,False,C21723,C21723,C21723,,,,supplier_KEGG,False
+M445T358_C_1,NEG_445.1139_357.6,Biochanin A-beta-glucoside,C22H22O10,False,False,C05376,C05376,C05376,28751,biochanin A 7-O-beta-D-glucoside,C22H22O10,HMDB_ChEBI_crossreference,False
+M407T491_A_1,NEG_407.2799_490.5,Bitocholate,C24H40O5,False,False,C17657,C17657,C17657,,,,supplier_KEGG,False
+M225T429_2_A_1,NEG_225.1107_429.3,Butopyronoxyl,C12H18O4,False,False,C19142,C19142,C19142,,,,supplier_KEGG,False
+M157T402_2_E_1,NEG_157.0869_402.5,Butyl acetoacetate,C8H14O3,True,True,,CHEBI:173676,,173676,Butyl acetoacetate,C8H14O3,HMDB_ChEBI_crossreference,False
+M171T314_A_1,NEG_171.1026_314.5,Butyl levulinate,C9H16O3,False,False,,CHEBI:171935,,171935,Butyl levulinate,C9H16O3,HMDB_ChEBI_crossreference,False
+M233T67_A_1,NEG_233.0778_66.8,C20913,C8H14N2O6,False,False,C20913,C20913,C20913,,,,supplier_KEGG,False
+M130T69_B_1,NEG_130.0873_69.1,Caplamin,C6H13NO2,False,False,C02378,C02378,C02378,16586,6-aminohexanoic acid,C6H13NO2,HMDB_ChEBI_crossreference,False
+M115T367_B_1,NEG_115.0764_367.0,Caproic acid,C6H12O2,False,False,C01585,C01585,C01585,30776,hexanoic acid,C6H12O2,HMDB_ChEBI_crossreference,False
+M305T436_A_1,NEG_305.1757_436.0,Capsiate,C18H26O4,False,False,C20203,C20203,C20203,134190,capsiate,C18H26O4,HMDB_ChEBI_crossreference,False
+M162T44_2_1,POS_162.1125_44.1,Carnitine,C7H15NO3,False,False,C00318,C00318,C00318,16347,(R)-carnitine,C7H15NO3,HMDB_ChEBI_crossreference,False
+M329T340_2_B_1,NEG_329.1758_340.0,Carnosol,C20H26O4,False,False,C09069,C09069,C09069,3429,Carnosol,C20H26O4,HMDB_ChEBI_crossreference,False
+M463T518_C_1,NEG_463.3429_517.6,Castasterone,C28H48O5,False,False,C15794,C15794,C15794,,,,supplier_KEGG,False
+M445T439_D_1,NEG_445.2959_439.2,Cepagenin,C27H42O5,True,True,,CHEBI:172067,,172067,Cepagenin,C27H42O5,HMDB_ChEBI_crossreference,False
+M472T461_1,POS_472.3409_461.2,Cervonyl carnitine,C29H45NO4,False,False,,CHEBI:171116,,171116,Cervonyl carnitine,C29H45NO4,HMDB_ChEBI_crossreference,False
+M567T433_1,NEG_567.3175_432.6,Chenodeoxycholic acid 3-glucuronide,C30H48O10,True,True,,CHEBI:186636,,186636,"(3a,5b,7a)-23-Carboxy-7-hydroxy-24-norcholan-3-yl-b-D-Glucopyranosiduronic acid",C30H48O10,HMDB_ChEBI_crossreference,False
+M471T479_2_B_1,NEG_471.2422_478.6,Chenodeoxycholic acid 3-sulfate,C24H40O7S,True,True,,CHEBI:89060,,89060,Chenodeoxycholic acid 3-sulfate,C24H40O7S,HMDB_ChEBI_crossreference,False
+M104T42_1,POS_104.1069_42.4,Choline,C5H14NO,False,False,C00114,C00114,C00114,15354,choline,C5H14NO,HMDB_ChEBI_crossreference,False
+M191T101_A_1,NEG_191.0196_100.7,Citric acid,C6H8O7,False,False,C00158,C00158,C00158,30769,citric acid,C6H8O7,HMDB_ChEBI_crossreference,False
+M307T454_A_1,NEG_307.1914_454.4,Corchorifatty acid A,C18H28O4,False,False,,CHEBI:138783,,138783,"(10E,12E,14E)-9-hydroxy-16-oxo-10,12,14-octadecatrienoic acid",C18H28O4,HMDB_ChEBI_crossreference,False
+M307T454_B_1,NEG_307.1914_454.4,Corchorifatty acid D,C18H28O4,False,False,,CHEBI:168782,,168782,Corchorifatty acid D,C18H28O4,HMDB_ChEBI_crossreference,False
+M347T349_B_1,POS_347.2216_348.9,Cortexolone,C21H30O4,False,False,C05488,C05488,C05488,181455,"(8R,10R,13S,17R)-17-Hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",C21H30O4,HMDB_ChEBI_crossreference,False
+M347T349_B_1,POS_347.2216_348.9,Cortexolone,C21H30O4,False,False,C05488,C05488,C05488,28324,11-deoxycortisol,C21H30O4,HMDB_ChEBI_crossreference,False
+M347T349_A_1,POS_347.2216_348.9,Corticosterone,C21H30O4,False,False,C02140,C02140,C02140,16827,corticosterone,C21H30O4,HMDB_ChEBI_crossreference,False
+M361T345_3_A_1,NEG_361.2018_344.6,Cortisol,C21H30O5,False,False,C00735,C00735,C00735,180955,"(8S,9S,10R,11S,13S,14S,17S)-11,17-Dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one",C21H30O5,HMDB_ChEBI_crossreference,False
+M361T340_1,POS_361.2011_340.3,Cortisone,C21H28O5,False,False,C00762,C00762,C00762,16962,cortisone,C21H28O5,HMDB_ChEBI_crossreference,False
+M132T45_A_1,POS_132.0767_44.9,Creatine,C4H9N3O2,False,False,C00300,C00300,C00300,16919,creatine,C4H9N3O2,HMDB_ChEBI_crossreference,False
+M112T43_1,NEG_112.0516_43.4,Creatinine,C4H7N3O,True,True,C00791,C00791,C00791,16737,creatinine,C4H7N3O,HMDB_ChEBI_crossreference,False
+M319T502_A_1,NEG_319.2277_501.7,Crispane,C20H32O3,False,False,,CHEBI:175103,,175103,Crispane,C20H32O3,HMDB_ChEBI_crossreference,False
+M333T468_C_1,NEG_333.2071_467.5,Crispanone,C20H30O4,False,False,,CHEBI:191614,,191614,Crispanone,C20H30O4,HMDB_ChEBI_crossreference,False
+M431T479_D_1,POS_431.3156_478.9,Cryptogenin,C27H42O4,True,True,C17891,C17891,C17891,,,,supplier_KEGG,False
+M130T47_B_1,POS_130.0862_46.8,Cycloleucine,C6H11NO2,False,False,C03969,C03969,C03969,,,,supplier_KEGG,False
+M567T481_1,NEG_567.3177_480.6,Deoxycholic acid 3-glucuronide,C30H48O10,True,True,,CHEBI:145757,,145757,deoxycholic acid 3-glucuronide,C30H48O10,HMDB_ChEBI_crossreference,False
+M165T287_2_A_1,NEG_165.0556_286.9,Desaminotyrosine,C9H10O3,False,False,C01744,C01744,C01744,32980,phloretic acid,C9H10O3,HMDB_ChEBI_crossreference,False
+M447T538_D_1,POS_447.3473_537.8,Di-n-decyl phthalate,C28H46O4,False,False,C14505,C14505,C14505,,,,supplier_KEGG,False
+M335T421_1,POS_335.2215_421.1,Di-n-hexyl phthalate,C20H30O4,False,False,C14504,C14504,C14504,,,,supplier_KEGG,False
+M251T444_B_1,POS_251.1269_444.2,Di-n-propylphthalate,C14H18O4,False,False,C14469,C14469,C14469,,,,supplier_KEGG,False
+M192T382_1,POS_192.1383_381.8,Diethyltoluamide,C12H17NO,False,False,C10935,C10935,C10935,,,,supplier_KEGG,False
+M305T559_2_1,NEG_305.2484_559.5,Dihomo-gamma-linolenate,C20H34O2,False,False,C03242,C03242,C03242,53486,"all-cis-icosa-8,11,14-trienoic acid",C20H34O2,HMDB_ChEBI_crossreference,False
+M195T471_B_1,NEG_195.1389_471.1,Dihydro-5-(2-octenyl)-2furanone,C12H20O2,False,False,,CHEBI:172045,,172045,Dihydro-5-(2-octenyl)-2(3H)-furanone,C12H20O2,HMDB_ChEBI_crossreference,False
+M323T491_B_1,NEG_323.2226_491.0,Dihydromonacolin L acid,C19H32O4,False,False,C20851,C20851,C20851,,,,supplier_KEGG,False
+M89T66_A_1,NEG_89.0244_65.6,Dihydroxyacetone,C3H6O3,False,False,C00184,C00184,C00184,16016,dihydroxyacetone,C3H6O3,HMDB_ChEBI_crossreference,False
+M313T542_1,NEG_313.2383_542.4,Dihydroxyoctadecenoic acid,C18H34O4,True,True,C07355,C07355,C07355,,,,supplier_KEGG,False
+M279T474_2_E_1,POS_279.1590_474.4,Diisobutyl phthalate,C16H22O4,False,False,C15205,C15205,C15205,79053,diisobutyl phthalate,C16H22O4,HMDB_ChEBI_crossreference,False
+M447T538_B_1,POS_447.3473_537.8,Diisodecyl phthalate,C28H46O4,False,False,C14578,C14578,C14578,,,,supplier_KEGG,False
+M251T444_A_1,POS_251.1269_444.2,Diisopropyl phthalate,C14H18O4,False,False,C14468,C14468,C14468,,,,supplier_KEGG,False
+M247T497_D_1,NEG_247.1702_497.1,Dimethylbenzyl carbinyl hexanoate,C16H24O2,False,False,,CHEBI:138770,,138770,2-methyl-1-phenyl-2-propanyl hexanoate,C16H24O2,HMDB_ChEBI_crossreference,False
+M102T43_B_1,NEG_102.0560_43.3,Dimethylglycine,C4H9NO2,False,False,C01026,C01026,C01026,17724,"N,N-dimethylglycine",C4H9NO2,HMDB_ChEBI_crossreference,False
+M131T97_1,NEG_131.0350_96.5,Dimethylmalonic acid,C5H8O4,False,False,,CHEBI:111517,,111517,dimethylmalonic acid,C5H8O4,HMDB_ChEBI_crossreference,False
+M327T540_5_A_1,NEG_327.2327_539.8,Docosahexaenoic acid,C22H32O2,False,False,C06429,C06429,C06429,28125,"all-cis-docosa-4,7,10,13,16,19-hexaenoic acid",C22H32O2,HMDB_ChEBI_crossreference,False
+M329T550_A_1,NEG_329.2484_549.6,Docosapentaenoic acid,C22H34O2,False,False,C16513,C16513,C16513,53488,"(7Z,10Z,13Z,16Z,19Z)-docosapentaenoic acid",C22H34O2,HMDB_ChEBI_crossreference,False
+M229T399_1,NEG_229.1444_399.2,Dodecanedioic acid,C12H22O4,False,False,C02678,C02678,C02678,4676,dodecanedioic acid,C12H22O4,HMDB_ChEBI_crossreference,False
+M199T513_3_1,NEG_199.1702_512.8,Dodecanoic acid,C12H24O2,False,False,C02679,C02679,C02679,30805,dodecanoic acid,C12H24O2,HMDB_ChEBI_crossreference,False
+M291T98_1,NEG_291.0833_98.5,EDTA,C10H16N2O8,False,False,C00284,C00284,C00284,4735,ethylenediaminetetraacetic acid,C10H16N2O8,HMDB_ChEBI_crossreference,False
+M413T438_1,NEG_413.2000_438.3,"Estra-1,3,5(10)-triene-3,6alpha,17beta-triol triacetate",C24H30O6,True,True,C15382,C15382,C15382,,,,supplier_KEGG,False
+M195T471_A_1,NEG_195.1389_471.1,"Ethyl (E,Z)-decadienoate",C12H20O2,False,False,C08486,C08486,C08486,,,,supplier_KEGG,False
+M143T216_A_1,NEG_143.0714_216.0,Ethyl levulinate,C7H12O3,False,False,,CHEBI:169371,,169371,Ethyl levulinate,C7H12O3,HMDB_ChEBI_crossreference,False
+M233T67_D_1,NEG_233.0778_66.8,Ethylenediaminetriacetic acid,C8H14N2O6,False,False,C21396,C21396,C21396,,,,supplier_KEGG,False
+M203T58_B_1,POS_203.0526_58.1,Fructose,C6H12O6,False,False,C00095,C00095,C00095,15824,D-fructose,C6H12O6,HMDB_ChEBI_crossreference,False
+M223T444_2_A_1,NEG_223.1339_443.8,Furfuryl octanoate,C13H20O3,True,True,,CHEBI:174158,,174158,Furfuryl octanoate,C13H20O3,HMDB_ChEBI_crossreference,False
+M181T52_B_1,NEG_181.0700_51.8,Galactitol,C6H14O6,False,False,C00392,C01697,C01697,16813,galactitol,C6H14O6,HMDB_ChEBI_crossreference,True
+M203T58_D_1,POS_203.0526_58.1,Galactose,C6H12O6,False,False,C00031,C00031,C00031,4167,D-glucopyranose,C6H12O6,HMDB_ChEBI_crossreference,False
+M422T461_1,POS_422.3265_461.2,Gamma-linolenyl carnitine,C25H43NO4,False,False,,CHEBI:165634,,165634,gamma-Linolenyl carnitine,C25H43NO4,HMDB_ChEBI_crossreference,False
+M167T429_B_1,NEG_167.1077_428.8,Geranic acid,C10H16O2,False,False,C16461,C16461,C16461,67264,geranic acid,C10H16O2,HMDB_ChEBI_crossreference,False
+M345T467_C_1,NEG_345.2432_467.4,Ginkgoic acid,C22H34O3,True,True,C10794,C10794,C10794,,,,supplier_KEGG,False
+M431T450_D_1,NEG_431.3165_449.6,Gitogenin,C27H44O4,False,False,C08899,C08899,C08899,,,,supplier_KEGG,False
+M173T67_1,NEG_173.0090_66.6,"Glucaro-1,4-lactone",C6H8O7,False,False,C20896,CHEBI:85805,,85805,"D-glucaro-1,4-lactone",C6H8O7,HMDB_ChEBI_crossreference,False
+M181T52_C_1,NEG_181.0700_51.8,Glucitol,C6H14O6,False,False,C00392,C01697,C01697,16813,galactitol,C6H14O6,HMDB_ChEBI_crossreference,True
+M179T55_C_1,NEG_179.0560_55.0,Glucose,C6H12O6,False,False,C00031,C00031,C00031,4167,D-glucopyranose,C6H12O6,HMDB_ChEBI_crossreference,False
+M146T61_1,NEG_146.0458_61.1,Glutamate(M146T61_1),C5H9NO4,False,False,C00025,C00025,C00025,16015,L-glutamic acid,C5H9NO4,HMDB_ChEBI_crossreference,False
+M148T61_1,POS_148.0604_61.1,Glutamate(M148T61_1),C5H9NO4,False,False,C00025,C00025,C00025,16015,L-glutamic acid,C5H9NO4,HMDB_ChEBI_crossreference,False
+M145T43_A_1,NEG_145.0618_42.9,Glutamine,C5H10N2O3,False,False,C00064,C00064,C00064,18050,L-glutamine,C5H10N2O3,HMDB_ChEBI_crossreference,False
+M259T211_2_E_1,NEG_259.1298_211.2,Glutamylisoleucine,C11H20N2O5,False,False,,CHEBI:141436,,141436,Glu-Ile,C11H20N2O5,HMDB_ChEBI_crossreference,False
+M259T211_2_C_1,NEG_259.1298_211.2,Glutamylleucine,C11H20N2O5,False,False,,CHEBI:73506,,73506,Glu-Leu,C11H20N2O5,HMDB_ChEBI_crossreference,False
+M89T66_B_1,NEG_89.0244_65.6,Glyceraldehyde,C3H6O3,False,False,C00577,C02154,C02154,5445,glyceraldehyde,C3H6O3,HMDB_ChEBI_crossreference,True
+M459T378_D_1,NEG_459.0934_378.2,Glycitein 4'-O-glucuronide,C22H20O11,False,False,,CHEBI:133667,,133667,glycitein 4'-O-glucuronide,C22H20O11,HMDB_ChEBI_crossreference,False
+M459T378_B_1,NEG_459.0934_378.2,Glycitein 7-O-glucuronide,C22H20O11,False,False,,CHEBI:168844,,168844,Glycitein 7-O-glucuronide,C22H20O11,HMDB_ChEBI_crossreference,False
+M528T438_B_1,NEG_528.2640_438.3,Glycochenodeoxycholate 7-sulfate,C26H43NO8S,True,True,C15559,C15559,C15559,,,,supplier_KEGG,False
+M450T459_B_1,POS_450.3215_459.0,Glycochenodeoxycholic acid,C26H43NO5,True,True,C05466,C05466,C05466,,,,supplier_KEGG,False
+M464T424_1,NEG_464.3017_423.5,Glycocholate,C26H43NO6,True,True,C01921,C01921,C01921,17687,glycocholic acid,C26H43NO6,HMDB_ChEBI_crossreference,False
+M466T424_1,POS_466.3164_423.8,Glycocholic acid,C26H43NO6,True,True,C01921,C01921,C01921,17687,glycocholic acid,C26H43NO6,HMDB_ChEBI_crossreference,False
+M450T459_A_1,POS_450.3215_459.0,Glycodeoxycholic acid,C26H43NO5,True,True,C05464,C05464,C05464,27471,glycodeoxycholic acid,C26H43NO5,HMDB_ChEBI_crossreference,False
+M73T63_1,NEG_72.9931_63.3,Glyoxylic acid,C2H2O3,False,False,C00048,C00048,C00048,16891,glyoxylic acid,C2H2O3,HMDB_ChEBI_crossreference,False
+M176T54_1,POS_176.0658_54.2,Guanidinosuccinic acid,C5H9N3O4,False,False,C03139,C03139,C03139,,,,supplier_KEGG,False
+M407T491_E_1,NEG_407.2799_490.5,Haemulcholate,C24H40O5,False,False,C17668,C17668,C17668,,,,supplier_KEGG,False
+M385T432_B_1,POS_385.3102_432.3,Hexacosahexaenoic acid,C26H40O2,False,False,C21952,C21952,C21952,,,,supplier_KEGG,False
+M285T473_1,NEG_285.2070_472.8,Hexadecanedioic acid,C16H30O4,False,False,C19615,C19615,C19615,73722,hexadecanedioic acid,C16H30O4,HMDB_ChEBI_crossreference,False
+M274T369_2_1,POS_274.2742_369.3,Hexadecasphinganine,C16H35NO2,True,True,C13915,C13915,C13915,,,,supplier_KEGG,False
+M193T444_1,NEG_193.1233_443.8,Hexylresorcinol,C12H18O2,False,False,,CHEBI:93749,,93749,"4-hexylbenzene-1,3-diol",C12H18O2,HMDB_ChEBI_crossreference,False
+M156T44_1,POS_156.0768_44.3,Histidine,C6H9N3O2,False,False,C00135,C00135,C00135,15971,L-histidine,C6H9N3O2,HMDB_ChEBI_crossreference,False
+M118T43_A_1,NEG_118.0509_43.2,Homoserine,C4H9NO3,False,False,C00263,C00263,C00263,15699,L-homoserine,C4H9NO3,HMDB_ChEBI_crossreference,False
+M251T538_1,NEG_251.2015_538.5,Hydnocarpic acid,C16H28O2,False,False,C16795,C16795,C16795,,,,supplier_KEGG,False
+M109T246_B_1,NEG_109.0294_246.3,Hydroquinone,C6H6O2,False,False,C00530,C00530,C00530,17594,hydroquinone,C6H6O2,HMDB_ChEBI_crossreference,False
+M109T246_B_1,NEG_109.0294_246.3,Hydroquinone,C6H6O2,False,False,C00530,C15603,C15603,17594,hydroquinone,C6H6O2,HMDB_ChEBI_crossreference,True
+M73T72_1,NEG_73.0295_71.7,Hydroxyacetone,C3H6O2,False,False,C05235,C05235,C05235,27957,hydroxyacetone,C3H6O2,HMDB_ChEBI_crossreference,False
+M131T272_B_1,NEG_131.0713_272.4,Hydroxyisocaproic acid,C6H12O3,False,False,C03264,C03264,C03264,,,,supplier_KEGG,False
+M295T519_1,NEG_295.2277_519.4,"Hydroxyoctadeca-9,12-dienoic acid",C18H32O3,False,False,C08318,C08318,C08318,,,,supplier_KEGG,False
+M293T226_B_1,NEG_293.1143_226.0,Hydroxyprolyl-Tyrosine,C14H18N2O5,False,False,,CHEBI:168770,,168770,Hydroxyprolyl-Tyrosine,C14H18N2O5,HMDB_ChEBI_crossreference,False
+M135T78_1,NEG_135.0312_77.6,Hypoxanthine,C5H4N4O,False,False,C00262,C00262,C00262,17368,hypoxanthine,C5H4N4O,HMDB_ChEBI_crossreference,False
+M303T492_B_1,POS_303.2318_492.2,Icosapentaenoate,C20H30O2,False,False,C12083,C12083,C12083,,,,supplier_KEGG,False
+M303T485_A_1,POS_303.2319_484.9,Icosapentaenoic acid,C20H30O2,False,False,C06428,C06428,C06428,28364,"all-cis-5,8,11,14,17-icosapentaenoic acid",C20H30O2,HMDB_ChEBI_crossreference,False
+M245T235_2_B_1,POS_245.1860_234.6,Ile-Leu,C12H24N2O3,False,False,,CHEBI:74072,,74072,Ile-Leu,C12H24N2O3,HMDB_ChEBI_crossreference,False
+M144T316_1,NEG_144.0455_315.6,Indole-3-carboxaldehyde,C9H7NO,False,False,C08493,C08493,C08493,28238,indole-3-carbaldehyde,C9H7NO,HMDB_ChEBI_crossreference,False
+M174T322_1,NEG_174.0560_322.3,Indoleacetic acid,C10H9NO2,False,False,C00954,C00954,C00954,16411,indole-3-acetic acid,C10H9NO2,HMDB_ChEBI_crossreference,False
+M204T302_1,NEG_204.0665_302.0,Indolelactic acid,C11H11NO3,True,True,C02043,C02043,C02043,24813,3-(indol-3-yl)lactic acid,C11H11NO3,HMDB_ChEBI_crossreference,False
+M459T378_C_1,NEG_459.0934_378.2,Irilone 4'-glucoside,C22H20O11,False,False,,CHEBI:191601,,191601,Irilone 4'-glucoside,C22H20O11,HMDB_ChEBI_crossreference,False
+M146T264_1,NEG_146.0247_264.5,Isatin,C8H5NO2,True,True,C11129,C11129,C11129,,,,supplier_KEGG,False
+M115T367_C_1,NEG_115.0764_367.0,Isocaproic acid,C6H12O2,False,False,C21399,CHEBI:74903,,74903,isocaproic acid,C6H12O2,HMDB_ChEBI_crossreference,False
+M191T101_B_1,NEG_191.0196_100.7,Isocitric acid,C6H8O7,False,False,C00311,C00311,C00311,30887,isocitric acid,C6H8O7,HMDB_ChEBI_crossreference,False
+M130T69_D_1,NEG_130.0873_69.1,Isoleucine,C6H13NO2,False,False,C00407,C00407,C00407,17191,L-isoleucine,C6H13NO2,HMDB_ChEBI_crossreference,False
+M165T236_E_1,NEG_165.0193_235.7,Isophthalate,C8H6O4,False,False,C22203,C22203,C22203,,,,supplier_KEGG,False
+M101T308_A_1,NEG_101.0608_308.3,Isovaleric acid,C5H10O2,False,False,C08262,C08262,C08262,,,,supplier_KEGG,False
+M246T215_1,POS_246.1700_214.8,Isovalerylcarnitine,C12H23NO4,True,True,C20826,CHEBI:70819,,70819,isovaleryl-L-carnitine,C12H23NO4,HMDB_ChEBI_crossreference,False
+M246T215_1,POS_246.1700_214.8,Isovalerylcarnitine,C12H23NO4,True,True,C20826,CHEBI:73025,,73025,O-isovalerylcarnitine,C12H23NO4,HMDB_ChEBI_crossreference,False
+M89T66_C_1,NEG_89.0244_65.6,Lactate,C3H6O3,False,False,C00186,C00186,C00186,422,(S)-lactic acid,C3H6O3,HMDB_ChEBI_crossreference,False
+M445T439_E_1,NEG_445.2959_439.2,Leontogenin,C27H42O5,True,True,,CHEBI:173204,,173204,Leontogenin,C27H42O5,HMDB_ChEBI_crossreference,False
+M245T235_2_A_1,POS_245.1860_234.6,Leu-Ile,C12H24N2O3,False,False,,CHEBI:74540,,74540,Leu-Ile,C12H24N2O3,HMDB_ChEBI_crossreference,False
+M130T69_E_1,NEG_130.0873_69.1,Leucine,C6H13NO2,False,False,C00123,C00123,C00123,15603,L-leucine,C6H13NO2,HMDB_ChEBI_crossreference,False
+M115T115_1,NEG_115.0400_114.9,Levulinic acid,C5H8O3,False,False,,CHEBI:45630,,45630,4-oxopentanoic acid,C5H8O3,HMDB_ChEBI_crossreference,False
+M424T468_2_1,POS_424.3421_467.8,Linoleylcarnitine (C18:2),C25H45NO4,False,False,,CHEBI:72715,,72715,O-linoelaidylcarnitine,C25H45NO4,HMDB_ChEBI_crossreference,False
+M375T229_B_1,NEG_375.1270_229.2,Loganate,C16H24O10,True,True,C01512,C01512,C01512,,,,supplier_KEGG,False
+M145T39_2_1,NEG_145.0981_38.9,Lysine,C6H14N2O2,False,False,C00047,C00047,C00047,18019,L-lysine,C6H14N2O2,HMDB_ChEBI_crossreference,False
+M524T543_6_B_1,POS_524.3706_543.4,LysoPC(0:0/18:0),C26H54NO7P,False,False,,CHEBI:76076,,76076,2-stearoyl-sn-glycero-3-phosphocholine,C26H54NO7P,HMDB_ChEBI_crossreference,False
+M522T518_6_B_1,POS_522.3549_517.8,LysoPC(0:0/18:1(9Z)),C26H52NO7P,False,False,,CHEBI:76071,,76071,2-oleoyl-sn-glycero-3-phosphocholine,C26H52NO7P,HMDB_ChEBI_crossreference,False
+M520T495_6_B_1,POS_520.3392_494.7,"LysoPC(0:0/18:2(9Z,12Z))",C26H50NO7P,False,False,,CHEBI:76084,,76084,2-linoleoyl-sn-glycero-3-phosphocholine,C26H50NO7P,HMDB_ChEBI_crossreference,False
+M568T504_1,POS_568.3369_503.9,"LysoPC(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",C30H50NO7P,False,False,,CHEBI:73873,,73873,"1-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine",C30H50NO7P,HMDB_ChEBI_crossreference,False
+M510T528_A_1,POS_510.3553_528.3,LysoPE(20:0/0:0),C25H52NO7P,False,False,,CHEBI:131690,,131690,1-icosanoyl-sn-glycero-3-phosphoethanolamine,C25H52NO7P,HMDB_ChEBI_crossreference,False
+M500T496_3_A_1,NEG_500.2780_495.8,"LysoPE(20:4(5Z,8Z,11Z,14Z)/0:0)",C25H44NO7P,False,False,,CHEBI:64395,,64395,1-arachidonoyl-sn-glycero-3-phosphoethanolamine,C25H44NO7P,HMDB_ChEBI_crossreference,False
+M436T532_1,NEG_436.2831_531.8,LysoPE(P-16:0/0:0),C21H44NO6P,False,False,,CHEBI:138421,,138421,1-(1Z-hexadecenyl)-sn-glycero-3-phosphoethanolamine,C21H44NO6P,HMDB_ChEBI_crossreference,False
+M181T52_A_1,NEG_181.0700_51.8,Mannitol,C6H14O6,False,False,C00392,C01697,C01697,16813,galactitol,C6H14O6,HMDB_ChEBI_crossreference,True
+M179T55_A_1,NEG_179.0560_55.0,Mannose,C6H12O6,False,False,C00031,C00031,C00031,4167,D-glucopyranose,C6H12O6,HMDB_ChEBI_crossreference,False
+M177T430_E_1,NEG_177.0920_430.3,Methyl 4-phenylbutanoate,C11H14O2,False,False,,CHEBI:173827,,173827,Methyl 4-phenylbutanoate,C11H14O2,HMDB_ChEBI_crossreference,False
+M135T362_A_1,NEG_135.0451_361.8,Methyl benzoate,C8H8O2,False,False,C20645,CHEBI:72775,,72775,methyl benzoate,C8H8O2,HMDB_ChEBI_crossreference,False
+M211T398_1,POS_211.1693_397.5,Methyl dodecadienoate,C13H22O2,False,False,,CHEBI:174064,,174064,"Methyl (2E,6Z)-dodecadienoate",C13H22O2,HMDB_ChEBI_crossreference,False
+M249T516_A_1,NEG_249.1858_516.2,Methyl farnesoate,C16H26O2,False,False,C16503,C16503,C16503,,,,supplier_KEGG,False
+M345T467_A_1,NEG_345.2432_467.4,Methyl-[10]-shogaol,C22H34O3,True,True,,CHEBI:172570,,172570,Methyl-[10]-shogaol,C22H34O3,HMDB_ChEBI_crossreference,False
+M307T454_E_1,NEG_307.1914_454.4,Methylgingerol,C18H28O4,False,False,,CHEBI:172536,,172536,Methylgingerol,C18H28O4,HMDB_ChEBI_crossreference,False
+M279T474_2_B_1,POS_279.1590_474.4,Mono-(2-ethylhexyl)phthalate,C16H22O4,False,False,C03343,C03343,C03343,,,,supplier_KEGG,False
+M221T389_1,NEG_221.0818_388.7,Monobutyl phthalate,C12H14O4,False,False,,CHEBI:88522,,88522,Monobutylphthalate,C12H14O4,HMDB_ChEBI_crossreference,False
+M372T450_1,POS_372.3109_450.0,Myristoylcarnitine (C14:0),C21H41NO4,False,False,,CHEBI:84634,,84634,O-tetradecanoyl-L-carnitine,C21H41NO4,HMDB_ChEBI_crossreference,False
+M130T69_A_1,NEG_130.0873_69.1,"N,N-Diethylglycine",C6H13NO2,False,False,C16647,C16647,C16647,,,,supplier_KEGG,False
+M344T80_1,POS_344.1341_80.1,N-(1-Deoxy-1-fructosyl)tyrosine,C15H21NO8,False,False,,CHEBI:189947,,189947,N-(1-Deoxy-1-fructosyl)tyrosine,C15H21NO8,HMDB_ChEBI_crossreference,False
+M200T370_1,NEG_200.1292_369.7,N-Acetylaminooctanoic acid,C10H19NO3,True,True,,CHEBI:89901,,89901,N-Acetylaminooctanoic acid,C10H19NO3,HMDB_ChEBI_crossreference,False
+M228T363_1,NEG_228.1604_363.1,N-Decanoylglycine,C12H23NO3,False,False,,CHEBI:74430,,74430,N-decanoylglycine,C12H23NO3,HMDB_ChEBI_crossreference,False
+M219T212_1,NEG_219.0774_211.5,N-Hydroxy-tryptophan,C11H12N2O3,False,False,C19716,C19716,C19716,,,,supplier_KEGG,False
+M346T384_1,NEG_346.1609_384.0,N-Methyl-cyclo(Trp-Phe),C21H21N3O2,False,False,C22143,C22143,C22143,,,,supplier_KEGG,False
+M214T340_1,NEG_214.1448_339.9,N-Nonanoylglycine,C11H21NO3,False,False,,CHEBI:74439,,74439,N-nonanoylglycine,C11H21NO3,HMDB_ChEBI_crossreference,False
+M242T384_3_1,NEG_242.1760_384.0,N-Undecanoylglycine,C13H25NO3,False,False,,CHEBI:74438,,74438,N-undecanoylglycine,C13H25NO3,HMDB_ChEBI_crossreference,False
+M528T438_A_1,NEG_528.2640_438.3,"N-[(3a,5b,7b)-7-hydroxy-24-oxo-3-(sulfooxy)cholan-24-yl]-Glycine",C26H43NO8S,True,True,,CHEBI:89129,,89129,"N-[(3a,5b,7b)-7-hydroxy-24-oxo-3-(sulfooxy)cholan-24-yl]-Glycine",C26H43NO8S,HMDB_ChEBI_crossreference,False
+M340T369_1,POS_340.2824_368.7,N-oleoylglycine,C20H37NO3,False,False,,CHEBI:73723,,73723,N-oleoylglycine,C20H37NO3,HMDB_ChEBI_crossreference,False
+M153T96_1,POS_153.0659_96.2,N1-Methyl-4-pyridone-3-carboxamide,C7H8N2O2,True,True,C05843,C05843,C05843,27838,N-methyl-4-pyridone-3-carboxamide,C7H8N2O2,HMDB_ChEBI_crossreference,False
+M293T446_1,NEG_293.1757_445.9,Nordihydrocapsiate,C17H26O4,False,False,,CHEBI:174795,,174795,Nordihydrocapsiate,C17H26O4,HMDB_ChEBI_crossreference,False
+M142T50_1,POS_142.0247_49.6,O-Phosphoethanolamine,C2H8NO4P,False,False,C00346,C00346,C00346,,,,supplier_KEGG,False
+M203T273_C_1,NEG_203.0019_273.1,O-methoxycatechol-O-sulphate,C7H8O5S,True,True,,CHEBI:133460,,133460,guaiacol sulfate,C7H8O5S,HMDB_ChEBI_crossreference,False
+M203T273_C_1,NEG_203.0019_273.1,O-methoxycatechol-O-sulphate,C7H8O5S,True,True,,CHEBI:89609,,89609,O-methoxycatechol-O-sulphate,C7H8O5S,HMDB_ChEBI_crossreference,False
+M428T517_1,POS_428.3732_517.1,O-stearoyl-carnitine,C25H49NO4,False,False,,CHEBI:73074,,73074,O-stearoylcarnitine,C25H49NO4,HMDB_ChEBI_crossreference,False
+M428T517_1,POS_428.3732_517.1,O-stearoyl-carnitine,C25H49NO4,False,False,,CHEBI:84644,,84644,O-octadecanoyl-L-carnitine,C25H49NO4,HMDB_ChEBI_crossreference,False
+M313T503_1,NEG_313.2383_503.3,Octadecanedioic acid,C18H34O4,False,False,,CHEBI:133086,,133086,octadecanedioic acid,C18H34O4,HMDB_ChEBI_crossreference,False
+M225T401_A_1,POS_225.1486_401.5,Octyl 2-furoate,C13H20O3,False,False,,CHEBI:174156,,174156,Octyl 2-furoate,C13H20O3,HMDB_ChEBI_crossreference,False
+M247T497_B_1,NEG_247.1702_497.1,Octyl phenylacetate,C16H24O2,False,False,,CHEBI:171692,,171692,Octyl phenylacetate,C16H24O2,HMDB_ChEBI_crossreference,False
+M282T550_5_1,POS_282.2791_549.9,Oleamide,C18H35NO,False,False,C19670,CHEBI:116314,,116314,oleamide,C18H35NO,HMDB_ChEBI_crossreference,False
+M426T490_1,POS_426.3577_490.1,Oleoylcarnitine (C18:1),C25H47NO4,False,False,,CHEBI:72689,,72689,O-oleoylcarnitine,C25H47NO4,HMDB_ChEBI_crossreference,False
+M426T490_1,POS_426.3577_490.1,Oleoylcarnitine (C18:1),C25H47NO4,False,False,,CHEBI:84651,,84651,(R)-oleoylcarnitine,C25H47NO4,HMDB_ChEBI_crossreference,False
+M326T509_A_1,POS_326.3052_509.2,Oleoylethanolamide,C20H39NO2,False,False,C20792,CHEBI:71466,,71466,oleoyl ethanolamide,C20H39NO2,HMDB_ChEBI_crossreference,False
+M131T43_2_1,NEG_131.0825_43.5,Ornithine,C5H12N2O2,False,False,C00077,C00077,C00077,15729,L-ornithine,C5H12N2O2,HMDB_ChEBI_crossreference,False
+M89T58_1,NEG_88.9880_58.4,Oxalic acid,C2H2O4,False,False,C00209,C00209,C00209,16995,oxalic acid,C2H2O4,HMDB_ChEBI_crossreference,False
+M731T634_1,POS_730.5383_634.4,"PC(14:0/18:2(9Z,12Z))",C40H76NO8P,False,False,,CHEBI:86094,,86094,"1-tetradecanoyl-2-[(9Z,12Z)-octadecadienoyl]-sn-glycero-3-phosphocholine",C40H76NO8P,HMDB_ChEBI_crossreference,False
+M783T636_1,POS_782.5692_635.7,PC(16:0/20:4),C44H80NO8P,False,False,,CHEBI:73003,,73003,1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,C44H80NO8P,HMDB_ChEBI_crossreference,False
+M298T492_B_1,POS_298.2740_492.2,Palmitoleoylethanolamde,C18H35NO2,False,False,,CHEBI:71465,,71465,palmitoleoyl ethanolamide,C18H35NO2,HMDB_ChEBI_crossreference,False
+M400T485_1,POS_400.3421_484.8,Palmitoylcarnitine,C23H45NO4,False,False,C02990,C02990,C02990,17490,O-palmitoyl-L-carnitine,C23H45NO4,HMDB_ChEBI_crossreference,False
+M157T454_2_1,NEG_157.1233_453.7,Pelargonic acid,C9H18O2,False,False,C01601,C01601,C01601,,,,supplier_KEGG,False
+M352T271_1,POS_352.1657_271.0,Phe-Trp,C20H21N3O3,False,False,,CHEBI:74751,,74751,Phe-Trp,C20H21N3O3,HMDB_ChEBI_crossreference,False
+M275T519_E_1,NEG_275.2014_518.8,Phenethyl decanoate,C18H28O2,False,False,,CHEBI:171731,,171731,Phenethyl decanoate,C18H28O2,HMDB_ChEBI_crossreference,False
+M135T362_E_1,NEG_135.0451_361.8,Phenylacetic acid,C8H8O2,False,False,C07086,C07086,C07086,30745,phenylacetic acid,C8H8O2,HMDB_ChEBI_crossreference,False
+M263T253_4_1,NEG_263.1036_252.7,Phenylacetylglutamine,C13H16N2O4,True,True,C04148,C04148,C04148,17884,N(2)-phenylacetyl-L-glutamine,C13H16N2O4,HMDB_ChEBI_crossreference,False
+M165T236_B_1,NEG_165.0193_235.7,Phthalate,C8H6O4,False,False,C01606,C01606,C01606,,,,supplier_KEGG,False
+M318T434_1,POS_318.3002_434.3,Phytosphingosine,C18H39NO3,False,False,C12144,C12144,C12144,,,,supplier_KEGG,False
+M159T257_B_1,NEG_159.0663_256.9,Pimelic acid,C7H12O4,True,True,C02656,C02656,C02656,30531,pimelic acid,C7H12O4,HMDB_ChEBI_crossreference,False
+M130T47_A_1,POS_130.0862_46.8,Pipecolic acid,C6H11NO2,False,False,C00408,CHEBI:17964,,17964,pipecolic acid,C6H11NO2,HMDB_ChEBI_crossreference,False
+M247T416_1,NEG_247.0951_416.2,Prenyl caffeate,C14H16O4,False,False,C10487,C10487,C10487,8393,Prenyl caffeate,C14H16O4,HMDB_ChEBI_crossreference,False
+M114T66_1,NEG_114.0560_65.7,Proline,C5H9NO2,False,False,C00148,C00148,C00148,17203,L-proline,C5H9NO2,HMDB_ChEBI_crossreference,False
+M177T345_C_1,NEG_177.1284_345.3,Propofol,C12H18O,True,True,C07523,C07523,C07523,,,,supplier_KEGG,False
+M333T435_B_1,NEG_333.2071_434.6,Prostaglandin A2,C20H30O4,False,False,C05953,C05953,C05953,,,,supplier_KEGG,False
+M333T420_A_1,NEG_333.2069_419.5,Prostaglandin B2 (PGB2),C20H30O4,False,False,C05954,C05954,C05954,,,,supplier_KEGG,False
+M351T440_B_1,NEG_351.2173_439.9,Prostaglandin D2,C20H32O5,False,False,C00696,C00696,C00696,15555,prostaglandin D2,C20H32O5,HMDB_ChEBI_crossreference,False
+M351T396_B_1,NEG_351.2174_395.5,Prostaglandin E2 (PGE2),C20H32O5,False,False,C00584,C00584,C00584,15551,prostaglandin E2,C20H32O5,HMDB_ChEBI_crossreference,False
+M353T435_1,NEG_353.2330_434.8,Prostaglandin F2alpha,C20H34O5,False,False,C00639,C00639,C00639,15553,prostaglandin F2alpha,C20H34O5,HMDB_ChEBI_crossreference,False
+M353T435_1,NEG_353.2330_434.8,Prostaglandin F2alpha,C20H34O5,False,False,C00639,C00639,C00639,187232,5-trans-PGF2alpha,C20H34O5,HMDB_ChEBI_crossreference,False
+M351T396_A_1,NEG_351.2174_395.5,Prostaglandin H2 (PGH2),C20H32O5,False,False,C00427,C00427,C00427,,,,supplier_KEGG,False
+M233T218_A_1,NEG_232.9753_217.7,Protocatechuic acid 3-O-sulfate,C7H6O7S,False,False,,CHEBI:169607,,169607,4-hydroxy-3-(sulfooxy)benzoic acid,C7H6O7S,HMDB_ChEBI_crossreference,False
+M109T246_A_1,NEG_109.0294_246.3,Pyrocatechol,C6H6O2,False,False,C00090,C00090,C00090,18135,catechol,C6H6O2,HMDB_ChEBI_crossreference,False
+M109T246_A_1,NEG_109.0294_246.3,Pyrocatechol,C6H6O2,False,False,C00090,C01785,C01785,18135,catechol,C6H6O2,HMDB_ChEBI_crossreference,True
+M109T246_A_1,NEG_109.0294_246.3,Pyrocatechol,C6H6O2,False,False,C00090,C15571,C15571,18135,catechol,C6H6O2,HMDB_ChEBI_crossreference,True
+M480T380_1,NEG_480.1607_380.1,Rosuvastatin (Drug),C22H28FN3O6S,True,True,,CHEBI:38545,,38545,rosuvastatin,C22H28FN3O6S,HMDB_ChEBI_crossreference,False
+M378T497_1,NEG_378.2411_496.5,S1P(d18:1),C18H38NO5P,False,False,C06124,C06124,C06124,37550,sphingosine 1-phosphate,C18H38NO5P,HMDB_ChEBI_crossreference,False
+M676T643_A_1,POS_675.5435_642.9,SM(d18:1/14:0),C37H75N2O6P,False,False,,CHEBI:64486,,64486,N-myristoylsphingosine-1-phosphocholine,C37H75N2O6P,HMDB_ChEBI_crossreference,False
+M732T501_1,POS_731.6058_500.7,SM(d18:1/18:0),C41H83N2O6P,False,False,,CHEBI:83358,,83358,N-stearoylsphingosine-1-phosphocholine,C41H83N2O6P,HMDB_ChEBI_crossreference,False
+M760T631_A_1,POS_759.6376_631.0,SM(d18:1/20:0),C43H87N2O6P,False,False,,CHEBI:83359,,83359,N-icosanoylsphingosine-1-phosphocholine,C43H87N2O6P,HMDB_ChEBI_crossreference,False
+M371T456_1,NEG_371.1894_455.6,Saucernetin,C22H28O5,True,True,C10879,C10879,C10879,,,,supplier_KEGG,False
+M201T356_1,NEG_201.1132_355.9,Sebacic acid,C10H18O4,False,False,C08277,C08277,C08277,41865,sebacic acid,C10H18O4,HMDB_ChEBI_crossreference,False
+M203T58_E_1,POS_203.0526_58.1,Sorbose,C6H12O6,False,False,C01452,C01452,C01452,,,,supplier_KEGG,False
+M302T430_1,POS_302.3054_429.7,Sphinganine,C18H39NO2,False,False,C00836,C00836,C00836,16566,sphinganine,C18H39NO2,HMDB_ChEBI_crossreference,False
+M300T422_1,POS_300.2897_422.5,Sphingosine,C18H37NO2,False,False,C00319,C00319,C00319,16393,sphingosine,C18H37NO2,HMDB_ChEBI_crossreference,False
+M300T422_1,POS_300.2897_422.5,Sphingosine,C18H37NO2,False,False,C00319,C00319,C00319,194383,C18_Sphingosine*,C18H37NO2,HMDB_ChEBI_crossreference,False
+M445T439_A_1,NEG_445.2959_439.2,Spirotaccagenin,C27H42O5,True,True,,CHEBI:173156,,173156,Spirotaccagenin,C27H42O5,HMDB_ChEBI_crossreference,False
+M155T307_1,NEG_155.0713_306.6,Suberic acid,C8H14O4,False,False,C08278,C08278,C08278,9300,suberic acid,C8H14O4,HMDB_ChEBI_crossreference,False
+M445T439_C_1,NEG_445.2959_439.2,Taccagenin,C27H42O5,True,True,,CHEBI:175577,,175577,Taccagenin,C27H42O5,HMDB_ChEBI_crossreference,False
+M203T58_A_1,POS_203.0526_58.1,Tagatose,C6H12O6,False,False,C01452,C01452,C01452,,,,supplier_KEGG,False
+M514T483_1,NEG_514.2843_483.4,Taurocholic acid,C26H45NO7S,False,False,C05122,C05122,C05122,28865,taurocholic acid,C26H45NO7S,HMDB_ChEBI_crossreference,False
+M165T267_1,NEG_165.0193_266.6,Terephthalic acid,C8H6O4,False,False,C06337,C06337,C06337,15702,terephthalic acid,C8H6O4,HMDB_ChEBI_crossreference,False
+M365T645_A_1,NEG_365.3421_644.5,Tetracosenoic acid,C24H46O2,False,False,C08323,C08323,C08323,,,,supplier_KEGG,False
+M167T429_C_1,NEG_167.1077_428.8,Tetrahydro-6-(2-pentenyl)-2H-pyran-2-one,C10H16O2,False,False,,CHEBI:195792,,195792,(-)-(Z)-Tetrahydro-6-(2-pentenyl)-2H-pyran-2-one,C10H16O2,HMDB_ChEBI_crossreference,False
+M539T335_1,NEG_539.2499_334.8,Tetrahydroaldosterone-3-glucuronide,C27H40O11,False,False,,CHEBI:88728,,88728,Tetrahydroaldosterone-3-glucuronide,C27H40O11,HMDB_ChEBI_crossreference,False
+M233T67_C_1,NEG_233.0778_66.8,Threonylaspartic acid,C8H14N2O6,False,False,,CHEBI:74854,,74854,Thr-Asp,C8H14N2O6,HMDB_ChEBI_crossreference,False
+M175T67_B_1,NEG_175.0723_66.9,Threonylglycine,C6H12N2O4,False,False,,CHEBI:74859,,74859,Thr-Gly,C6H12N2O4,HMDB_ChEBI_crossreference,False
+M776T382_1,NEG_775.6796_382.2,Thyroxine,C15H11I4NO4,False,False,C01829,C01829,C01829,,,,supplier_KEGG,False
+M135T362_C_1,NEG_135.0451_361.8,Toluate,C8H8O2,False,False,C01454,C01454,C01454,36635,p-toluic acid,C8H8O2,HMDB_ChEBI_crossreference,False
+M243T420_1,NEG_243.1601_420.1,Tridecanedioic acid,C13H24O4,False,False,,CHEBI:73718,,73718,tridecanedioic acid,C13H24O4,HMDB_ChEBI_crossreference,False
+M347T511_D_1,NEG_347.2586_510.6,Tridecyl phloretate,C22H36O3,False,False,,CHEBI:171878,,171878,Tridecyl phloretate,C22H36O3,HMDB_ChEBI_crossreference,False
+M182T72_2_B_1,POS_182.0811_72.2,Tyrosine,C9H11NO3,False,False,C00082,C00082,C00082,17895,L-tyrosine,C9H11NO3,HMDB_ChEBI_crossreference,False
+M311T107_1,POS_311.1239_107.4,Tyrosylglutamic acid,C14H18N2O6,False,False,,CHEBI:74883,,74883,Tyr-Glu,C14H18N2O6,HMDB_ChEBI_crossreference,False
+M293T226_D_1,NEG_293.1143_226.0,Tyrosylhydroxyproline,C14H18N2O5,False,False,,CHEBI:174788,,174788,Tyrosyl-Hydroxyproline,C14H18N2O5,HMDB_ChEBI_crossreference,False
+M185T495_1,NEG_185.1546_494.6,Undecanoic acid,C11H22O2,False,False,C17715,C17715,C17715,32368,undecanoic acid,C11H22O2,HMDB_ChEBI_crossreference,False
+M169T72_1,POS_169.0356_71.8,Uric acid,C5H4N4O3,False,False,C00366,C00366,C00366,17775,"7,9-dihydro-1H-purine-2,6,8(3H)-trione",C5H4N4O3,HMDB_ChEBI_crossreference,False
+M169T72_1,POS_169.0356_71.8,Uric acid,C5H4N4O3,False,False,C00366,CHEBI:27226,,27226,uric acid,C5H4N4O3,HMDB_ChEBI_crossreference,False
+M243T86_1,NEG_243.0621_86.0,Uridine,C9H12N2O6,False,False,C00299,C00299,C00299,16704,uridine,C9H12N2O6,HMDB_ChEBI_crossreference,False
+M309T434_1,NEG_309.1706_433.9,Valdiate,C17H26O5,False,False,,CHEBI:174969,,174969,Valdiate,C17H26O5,HMDB_ChEBI_crossreference,False
+M101T308_B_1,NEG_101.0608_308.3,Valeric acid(M101T308_B_1),C5H10O2,False,False,C00803,C00803,C00803,17418,valeric acid,C5H10O2,HMDB_ChEBI_crossreference,False
+M101T324_A_1,NEG_101.0608_323.6,Valeric acid(M101T324_A_1),C5H10O2,False,False,C00803,C00803,C00803,17418,valeric acid,C5H10O2,HMDB_ChEBI_crossreference,False
+M116T47_C_1,NEG_116.0717_46.8,Valine,C5H11NO2,False,False,C00183,C00183,C00183,16414,L-valine,C5H11NO2,HMDB_ChEBI_crossreference,False
+M434T432_1,NEG_434.2195_431.6,Valsartan (Drug),C24H29N5O3,True,True,,CHEBI:9927,,9927,valsartan,C24H29N5O3,HMDB_ChEBI_crossreference,False
+M407T491_D_1,NEG_407.2799_490.5,Vulpecholate,C24H40O5,False,False,C17650,CHEBI:173133,,173133,"1beta,3alpha,7alpha-Trihydroxy-5beta-cholan-24-oic Acid",C24H40O5,HMDB_ChEBI_crossreference,False
+M195T471_C_1,NEG_195.1389_471.1,Yuzu lactone,C12H20O2,False,False,,CHEBI:172057,,172057,Yuzu lactone,C12H20O2,HMDB_ChEBI_crossreference,False
+M295T449_1,NEG_295.1913_448.7,[6]-Gingerdiol,C17H28O4,False,False,,CHEBI:229029,,229029,6-Gingediol,C17H28O4,HMDB_ChEBI_crossreference,False
+M317T466_1,POS_317.2091_466.5,"all-trans-5,6-Epoxyretinoic acid",C20H28O3,False,False,C16680,C16680,C16680,80658,"5,6-epoxyretinoic acid",C20H28O3,HMDB_ChEBI_crossreference,False
+M213T358_B_1,NEG_213.1132_358.2,alpha-Carboxy-delta-decalactone,C11H18O4,True,True,,CHEBI:167948,,167948,alpha-Carboxy-delta-decalactone,C11H18O4,HMDB_ChEBI_crossreference,False
+M429T646_1,NEG_429.3736_645.9,alpha-Tocopherol (Vitamin E),C29H50O2,False,False,C02477,C02477,C02477,18145,"(R,R,R)-alpha-tocopherol",C29H50O2,HMDB_ChEBI_crossreference,False
+M369T479_A_1,NEG_369.1736_479.2,androsterone sulfate,C19H30O5S,True,True,,CHEBI:83037,,83037,androsterone sulfate,C19H30O5S,HMDB_ChEBI_crossreference,False
+M132T45_B_1,POS_132.0767_44.9,beta-Guanidinopropionic acid,C4H9N3O2,False,False,C03065,C03065,C03065,15968,3-guanidinopropanoic acid,C4H9N3O2,HMDB_ChEBI_crossreference,False
+M166T103_1,POS_166.0862_102.7,beta-Phenylalanine,C9H11NO2,False,False,C20487,C20487,C20487,,,,supplier_KEGG,False
+M407T491_C_1,NEG_407.2799_490.5,beta-Phocaecholate,C24H40O5,False,False,C17654,C17654,C17654,,,,supplier_KEGG,False
+M233T67_E_1,NEG_233.0778_66.8,beta-aspartyl-threonine,C8H14N2O6,False,False,,CHEBI:174199,,174199,L-beta-aspartyl-L-threonine,C8H14N2O6,HMDB_ChEBI_crossreference,False
+M333T468_E_1,NEG_333.2071_467.5,bicyclo prostaglandin E2,C20H30O4,False,False,,CHEBI:89568,,89568,bicyclo-PGE2,C20H30O4,HMDB_ChEBI_crossreference,False
+M171T287_1,NEG_171.0662_286.9,cis-4-Octenedioic acid,C8H12O4,False,False,,CHEBI:89625,,89625,cis-4-Octenedioic acid,C8H12O4,HMDB_ChEBI_crossreference,False
+M370T442_A_1,POS_370.2953_441.5,cis-5-Tetradecenoylcarnitine,C21H39NO4,False,False,,CHEBI:73060,,73060,(5Z)-tetradecenoylcarnitine,C21H39NO4,HMDB_ChEBI_crossreference,False
+M370T442_A_1,POS_370.2953_441.5,cis-5-Tetradecenoylcarnitine,C21H39NO4,False,False,,CHEBI:84649,,84649,O-[(5Z)-tetradecenoyl]-L-carnitine,C21H39NO4,HMDB_ChEBI_crossreference,False
+M173T51_B_1,NEG_173.0091_50.6,cis-Aconitic acid,C6H6O6,False,False,C00417,C00417,C00417,32805,cis-aconitic acid,C6H6O6,HMDB_ChEBI_crossreference,False
+M346T93_A_1,NEG_346.0554_92.5,dGMP,C10H14N5O7P,False,False,C00362,C00362,C00362,16192,2'-deoxyguanosine 5'-monophosphate,C10H14N5O7P,HMDB_ChEBI_crossreference,False
+M329T550_B_1,NEG_329.2484_549.6,"docosa-4,7,10,13,16-pentaenoate",C22H34O2,False,False,,CHEBI:65136,,65136,"(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid",C22H34O2,HMDB_ChEBI_crossreference,False
+M345T467_D_1,NEG_345.2432_467.4,ent-17-Acetoxy-16b-kauran-19-al,C22H34O3,True,True,,CHEBI:230002,,230002,ent-17-Acetoxy-16b-kauran-19-al,C22H34O3,HMDB_ChEBI_crossreference,False
+M143T328_C_1,NEG_143.1077_327.6,ethyl caproate,C8H16O2,True,True,,CHEBI:86055,,86055,ethyl hexanoate,C8H16O2,HMDB_ChEBI_crossreference,False
+M263T374_1,NEG_263.1288_374.3,gamma-CEHC (gamma-Carboxyethyl hydrochroman),C15H20O4,False,False,,CHEBI:89379,,89379,gamma-CEHC,C15H20O4,HMDB_ChEBI_crossreference,False
+M309T107_1,NEG_309.1093_107.2,gamma-Glutamyltyrosine,C14H18N2O6,False,False,,CHEBI:82969,,82969,gamma-Glu-Tyr,C14H18N2O6,HMDB_ChEBI_crossreference,False
+M259T211_2_A_1,NEG_259.1298_211.2,gamma-glutamyl-isoleucine,C11H20N2O5,False,False,,CHEBI:68434,,68434,gamma-Glu-Ile,C11H20N2O5,HMDB_ChEBI_crossreference,False
+M249T516_B_1,NEG_249.1858_516.2,"hexadeca-7,10,13-trienoate",C16H26O2,False,False,,CHEBI:230214,,230214,"Hexadeca-7,10,13-trienoic acid",C16H26O2,HMDB_ChEBI_crossreference,False
+M259T211_2_D_1,NEG_259.1298_211.2,isoleucyl-glutamate,C11H20N2O5,False,False,,CHEBI:177254,,177254,Isoleucyl-Glutamate,C11H20N2O5,HMDB_ChEBI_crossreference,False
+M259T211_2_B_1,NEG_259.1298_211.2,leucyl-glutamate,C11H20N2O5,False,False,,CHEBI:74531,,74531,Leu-Glu,C11H20N2O5,HMDB_ChEBI_crossreference,False
+M135T362_D_1,NEG_135.0451_361.8,m-Methylbenzoate,C8H8O2,False,False,C07211,C07211,C07211,,,,supplier_KEGG,False
+M283T276_1,NEG_283.0822_276.4,p-Cresol glucuronide,C13H16O7,True,True,,CHEBI:87986,,87986,p-tolyl beta-D-glucuronide,C13H16O7,HMDB_ChEBI_crossreference,False
+M259T473_1,POS_259.1904_473.0,tetradecanedioate,C14H26O4,False,False,,CHEBI:76308,,76308,tetradecanedioic acid,C14H26O4,HMDB_ChEBI_crossreference,False
+M342T404_1,POS_342.2640_404.1,trans-2-Dodecenoylcarnitine,C19H35NO4,False,False,,CHEBI:89717,,89717,trans-2-Dodecenoylcarnitine,C19H35NO4,HMDB_ChEBI_crossreference,False
+M141T400_1,NEG_141.0920_399.8,trans-2-Octenoic acid,C8H14O2,False,False,,CHEBI:180285,,180285,cis-alpha-octenoic acid,C8H14O2,HMDB_ChEBI_crossreference,False
+M173T51_A_1,NEG_173.0091_50.6,trans-Aconitic acid,C6H6O6,False,False,C00417,C00417,C00417,32805,cis-aconitic acid,C6H6O6,HMDB_ChEBI_crossreference,False
+M147T102_1,NEG_147.0451_102.4,trans-Cinnamic acid,C9H8O2,False,False,C00423,C10438,C10438,27386,cinnamic acid,C9H8O2,HMDB_ChEBI_crossreference,True
+M309T454_B_1,NEG_309.2071_454.4,trans-EKODE-Ib,C18H30O4,False,False,,CHEBI:89606,,89606,12(13)Ep-9-KODE,C18H30O4,HMDB_ChEBI_crossreference,False
+M398T460_1,POS_398.3266_459.6,trans-Hexadec-2-enoyl carnitine,C23H43NO4,False,False,,CHEBI:86031,,86031,(2E)-hexadecenoylcarnitine,C23H43NO4,HMDB_ChEBI_crossreference,False
+M169T440_D_1,NEG_169.1233_439.9,xi-5-Hexyldihydro-2furanone,C10H18O2,False,False,,CHEBI:145740,,145740,gamma-decalactone,C10H18O2,HMDB_ChEBI_crossreference,False
+M303T405_1,POS_303.2184_405.4,xi-7-Hydroxyhexadecanedioic acid,C16H30O5,False,False,,CHEBI:169754,,169754,xi-7-Hydroxyhexadecanedioic acid,C16H30O5,HMDB_ChEBI_crossreference,False

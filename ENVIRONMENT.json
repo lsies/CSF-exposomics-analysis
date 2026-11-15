@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "operating_system": "Windows",
+  "release": "11",
+  "version": "10.0.26200",
+  "architecture": "AMD64",
+  "R_for_archived_expression_models": "4.4.2",
+  "DESeq2_for_archived_expression_models": "1.46.0"
+}

@@ -1,0 +1,836 @@
+ENTRY       C04742                      Compound
+NAME        (15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate;
+            (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate;
+            (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid;
+            15(S)-HETE
+FORMULA     C20H32O3
+EXACT_MASS  320.2351
+MOL_WEIGHT  320.47
+REMARK      Same as: D08931
+REACTION    R04517 R04518 R07035
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04750  Inflammatory mediator regulation of TRP channels
+ENZYME      1.1.1.232       1.11.1.12
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0306 Hydroxy/hydroperoxyeicosatetraenoic acids
+                C04742  15(S)-HETE
+DBLINKS     CAS: 54845-95-3
+            PubChem: 7313
+            ChEBI: 15558
+            LIPIDMAPS: LMFA03060001
+            J-GLOBAL: J303.917J
+ATOM        23
+            1   C2b C    27.7678  -20.8457
+            2   C2b C    26.4866  -20.8514
+            3   C1b C    28.8660  -21.4892
+            4   C1b C    25.3766  -21.5071
+            5   C1b C    29.9703  -20.8457
+            6   C2b C    24.2606  -20.8634
+            7   C1b C    31.0744  -21.4892
+            8   C2b C    22.9911  -20.8694
+            9   C6a C    32.1787  -20.8457
+            10  C1b C    21.8928  -23.0245
+            11  O6a O    33.2886  -21.4834
+            12  O6a O    32.1787  -19.5703
+            13  C2b C    22.9084  -25.2210
+            14  C2b C    24.1898  -25.2150
+            15  C2b C    25.2880  -24.5655
+            16  C2b C    26.3979  -25.1974
+            17  C1c C    27.6617  -25.1914
+            18  C1b C    28.7540  -24.5479
+            19  C1b C    29.8462  -25.1796
+            20  C1b C    30.9387  -24.5418
+            21  C1b C    32.0368  -25.1737
+            22  C1a C    33.1292  -24.5301
+            23  O1a O    28.3070  -26.8103
+BOND        22
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11    9  12 2
+            12   10  13 1
+            13   13  14 2
+            14   14  15 1
+            15   15  16 2
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   17  23 1 #Down
+///
+
+ENTRY       C04785                      Compound
+NAME        13(S)-HPOT;
+            (9Z,11E,15Z)-(13S)-Hydroperoxyoctadeca-9,11,15-trienoate;
+            (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid;
+            13(S)-HpOTrE;
+            13-HPOT
+FORMULA     C18H30O4
+EXACT_MASS  310.2144
+MOL_WEIGHT  310.43
+REACTION    R07863 R07869 R07870 R07871
+PATHWAY     map00592  alpha-Linolenic acid metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+MODULE      M00113  Jasmonic acid biosynthesis
+ENZYME      1.13.11.12      4.2.1.92
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0104 Hydroperoxy fatty acids
+                C04785  (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid
+              FA02 Octadecanoids
+               FA0200 Other Octadecanoids
+                C04785  (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid
+DBLINKS     PubChem: 7348
+            ChEBI: 48905
+            LIPIDMAPS: LMFA02000052
+            KNApSAcK: C00000364
+            J-GLOBAL: J2.753.619K
+ATOM        22
+            1   C1c C    41.6510  -21.3885
+            2   C2b C    41.6510  -22.7857
+            3   C1b C    42.8617  -20.6867
+            4   O2a O    40.4341  -20.6867
+            5   C2b C    40.4341  -23.4877
+            6   C2b C    42.8617  -19.2827
+            7   C2b C    40.4341  -24.8851
+            8   C2b C    39.2235  -25.5869
+            9   C1b C    38.0129  -24.8851
+            10  C1b C    36.7958  -25.5869
+            11  C1b C    35.5853  -24.8851
+            12  C1b C    34.3746  -25.5869
+            13  C1b C    33.1576  -24.8851
+            14  C1b C    31.9470  -25.5869
+            15  C1b C    30.7364  -24.8851
+            16  C6a C    29.5193  -25.5869
+            17  O6a O    28.3088  -24.8851
+            18  O6a O    29.5193  -26.9909
+            19  C2b C    44.0956  -18.5686
+            20  C1b C    45.2929  -19.2583
+            21  C1a C    46.4796  -18.5715
+            22  O1a O    40.4341  -19.2867
+BOND        21
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 2
+            5     3   6 1
+            6     5   7 1
+            7     7   8 2
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   16  18 2
+            18    6  19 2
+            19   19  20 1
+            20   20  21 1
+            21    4  22 1
+///
+
+ENTRY       C04805                      Compound
+NAME        5(S)-HETE;
+            5-Hydroxyeicosatetraenoate;
+            5-HETE;
+            (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid
+FORMULA     C20H32O3
+EXACT_MASS  320.2351
+MOL_WEIGHT  320.47
+REACTION    R07034 R13040
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04750  Inflammatory mediator regulation of TRP channels
+ENZYME      1.1.1.-         1.11.1.12
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0306 Hydroxy/hydroperoxyeicosatetraenoic acids
+                C04805  5(S)-HETE
+DBLINKS     CAS: 70608-72-9
+            PubChem: 7367
+            ChEBI: 28209
+            LIPIDMAPS: LMFA03060002
+            J-GLOBAL: J390.336B
+ATOM        23
+            1   C1c C    23.9932  -15.4772
+            2   C2b C    22.7237  -15.4829
+            3   C1b C    25.0815  -16.1148
+            4   O1a O    24.0340  -13.7503
+            5   C2b C    21.6237  -16.1325
+            6   C1b C    26.1757  -15.4772
+            7   C2b C    20.5179  -15.4947
+            8   C1b C    27.2698  -16.1148
+            9   C2b C    19.2599  -15.5006
+            10  C6a C    28.3639  -15.4772
+            11  C1b C    18.1716  -17.6361
+            12  O6a O    29.4639  -16.1091
+            13  O6a O    28.3639  -14.2134
+            14  C2b C    19.1780  -19.8127
+            15  C2b C    20.4477  -19.8068
+            16  C1b C    21.5360  -19.1632
+            17  C2b C    22.6358  -19.7893
+            18  C2b C    23.8880  -19.7834
+            19  C1b C    24.9704  -19.1457
+            20  C1b C    26.0527  -19.7717
+            21  C1b C    27.1353  -19.1398
+            22  C1b C    28.2234  -19.7659
+            23  C1a C    29.3059  -19.1281
+BOND        22
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 2
+            5     3   6 1
+            6     5   7 1
+            7     6   8 1
+            8     7   9 2
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   10  13 2
+            13   11  14 1
+            14   14  15 2
+            15   15  16 1
+            16   16  17 1
+            17   17  18 2
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+            21   21  22 1
+            22   22  23 1
+///
+
+ENTRY       C05122                      Compound
+NAME        Taurocholate;
+            Taurocholic acid;
+            Cholyltaurine
+FORMULA     C26H45NO7S
+EXACT_MASS  515.2917
+MOL_WEIGHT  515.70
+REACTION    R02797 R03720 R13689
+PATHWAY     map00120  Primary bile acid biosynthesis
+            map00121  Secondary bile acid biosynthesis
+            map00430  Taurine and hypotaurine metabolism
+            map01100  Metabolic pathways
+            map04976  Bile secretion
+            map04979  Cholesterol metabolism
+MODULE      M00106  Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate
+ENZYME      2.3.1.65        2.3.1.337       3.5.1.24
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              24-Carbon atoms
+               Cholane derivatives
+                C05122  Taurocholate
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0402 C26 bile acids, alcohols, and derivatives
+                C05122  Taurocholic acid
+              ST05 Steroid conjugates
+               ST0504 Taurine conjugates
+                C05122  Taurocholate
+DBLINKS     CAS: 81-24-3
+            PubChem: 7544
+            ChEBI: 181348 28865
+            LIPIDMAPS: LMST05040001
+            PDB-CCD: TCH
+            J-GLOBAL: J8.603G
+ATOM        35
+            1   C1y C    14.9886  -18.2170
+            2   C1y C    16.0967  -17.5276
+            3   C1y C    13.7484  -17.5398
+            4   C1y C    14.9257  -19.5710
+            5   C1z C    16.1028  -16.1674
+            6   C1x C    18.4512  -17.5404
+            7   C1z C    12.5834  -18.2229
+            8   C1x C    13.8049  -16.1857
+            9   C1x C    13.7545  -20.2357
+            10  O1a O    16.0784  -20.2357
+            11  C1y C    17.2800  -15.4904
+            12  C1y C    14.9135  -15.4963
+            13  C1a C    16.1286  -14.7519
+            14  C1x C    18.4512  -16.1796
+            15  C1y C    12.5834  -19.5648
+            16  C1x C    11.4183  -17.5580
+            17  C1a C    12.5773  -16.8993
+            18  C1c C    17.2863  -13.6137
+            19  O1a O    14.7932  -14.2052
+            20  C1x C    11.4183  -20.2419
+            21  C1x C    10.2716  -18.2229
+            22  C1b C    18.4329  -12.9487
+            23  C1a C    16.0709  -12.6685
+            24  C1y C    10.2716  -19.5648
+            25  C1b C    19.5796  -13.6197
+            26  O1a O     9.1189  -20.2236
+            27  C5a C    20.7324  -12.9610
+            28  N1b N    21.8791  -13.6258
+            29  O5a O    20.7391  -11.6312
+            30  C1b C    23.0651  -12.9500
+            31  C1b C    24.2626  -13.6413
+            32  S4a S    25.6626  -13.6413
+            33  O1d O    25.6626  -15.0413
+            34  O1d O    25.6626  -12.2413
+            35  O1d O    27.0626  -13.6413
+BOND        38
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 1
+            9     4  10 1 #Down
+            10    5  11 1
+            11    5  12 1
+            12    5  13 1 #Up
+            13    6  14 1
+            14    7  15 1
+            15    7  16 1
+            16    7  17 1 #Up
+            17   11  18 1
+            18   12  19 1 #Down
+            19   15  20 1
+            20   16  21 1
+            21   18  22 1
+            22   18  23 1 #Down
+            23   20  24 1
+            24   22  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   27  28 1
+            28   27  29 2
+            29    8  12 1
+            30    9  15 1
+            31   11  14 1
+            32   21  24 1
+            33   28  30 1
+            34   30  31 1
+            35   31  32 1
+            36   32  33 2
+            37   32  34 2
+            38   32  35 1
+///
+
+ENTRY       C05235                      Compound
+NAME        Hydroxyacetone;
+            Acetol;
+            1-Hydroxy-2-propanone;
+            2-Ketopropyl alcohol;
+            Acetone alcohol;
+            Pyruvinalcohol;
+            Pyruvic alcohol;
+            Methylketol
+FORMULA     C3H6O2
+EXACT_MASS  74.0368
+MOL_WEIGHT  74.08
+REACTION    R02528 R10717 R10718 R12150 R12151 R12764
+PATHWAY     map00566  Sulfoquinovose metabolism
+            map00640  Propanoate metabolism
+            map01100  Metabolic pathways
+ENZYME      1.1.1.6         1.1.1.-         4.1.99.24       4.1.99.25       
+            4.4.1.41
+DBLINKS     CAS: 116-09-6
+            PubChem: 7630
+            ChEBI: 27957
+            KNApSAcK: C00019558
+            PDB-CCD: 4Y8
+            J-GLOBAL: J2.470H
+ATOM        5
+            1   C5a C    25.8402  -20.2300
+            2   C1b C    27.0398  -19.5324
+            3   O5a O    25.8402  -21.6207
+            4   C1a C    24.6139  -19.5324
+            5   O1a O    28.2660  -20.2300
+BOND        4
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+///
+
+ENTRY       C05284                      Compound
+NAME        11beta-Hydroxyandrost-4-ene-3,17-dione;
+            Androst-4-ene-3,17-dione-11beta-ol;
+            4-Androsten-11beta-ol-3,17-dione;
+            11beta-Hydroxyandrostenedione
+FORMULA     C19H26O3
+EXACT_MASS  302.1882
+MOL_WEIGHT  302.41
+REACTION    R02725 R04758 R08945 R08980 R13460 R13669
+PATHWAY     map00140  Steroid hormone biosynthesis
+            map01100  Metabolic pathways
+ENZYME      1.1.1.62        1.1.1.146       1.14.14.32      1.14.15.4       
+            4.1.2.68
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST02 Steroids
+               ST0202 C19 steroids (androgens) and derivatives
+                C05284  11beta-Hydroxyandrost-4-ene-3,17-dione
+DBLINKS     CAS: 382-44-5
+            PubChem: 7671
+            ChEBI: 190716 27967
+            LIPIDMAPS: LMST02020066
+            J-GLOBAL: J104.102I
+ATOM        22
+            1   C1y C    26.6523  -20.7543
+            2   C1z C    25.4336  -21.4507
+            3   C1y C    27.8577  -21.4552
+            4   C1y C    26.6568  -19.3569
+            5   C2y C    25.4291  -22.8525
+            6   C1x C    24.2192  -20.7499
+            7   C1a C    25.4247  -20.0444
+            8   C1y C    29.0676  -20.7677
+            9   C1x C    27.8577  -22.8615
+            10  C1x C    27.8711  -18.6649
+            11  O1a O    25.6657  -18.3703
+            12  C1x C    26.6389  -23.5579
+            13  C2x C    24.2192  -23.5535
+            14  C1x C    23.0093  -21.4507
+            15  C1z C    29.0764  -19.3703
+            16  C5x C    23.0093  -22.8525
+            17  C1a C    29.0676  -17.9640
+            18  O5x O    21.7861  -23.5489
+            19  C1x C    31.4924  -20.7830
+            20  C1x C    31.5012  -19.3855
+            21  C5x C    30.2932  -18.6779
+            22  O5x O    30.3021  -17.2900
+BOND        25
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     2   7 1 #Up
+            7     3   8 1
+            8     3   9 1
+            9     4  10 1
+            10    4  11 1 #Up
+            11    5  12 1
+            12    5  13 2
+            13    6  14 1
+            14    8  15 1
+            15   13  16 1
+            16   15  17 1 #Up
+            17   16  18 2
+            18    9  12 1
+            19   10  15 1
+            20   14  16 1
+            21    8  19 1
+            22   19  20 1
+            23   20  21 1
+            24   15  21 1
+            25   21  22 2
+///
+
+ENTRY       C05376                      Compound
+NAME        Biochanin A-beta-D-glucoside;
+            Biochanin A 7-O-beta-D-glucoside;
+            Sissotrin
+FORMULA     C22H22O10
+EXACT_MASS  446.1213
+MOL_WEIGHT  446.40
+REACTION    R06795 R06796
+PATHWAY     map00943  Isoflavonoid biosynthesis
+ENZYME      2.3.1.115       2.4.1.170
+BRITE       Lipids [BR:br08002]
+             PK  Polyketides
+              PK12 Flavonoids
+               PK1205 Isoflavonoids
+                C05376  Biochanin A-beta-D-glucoside
+            Phytochemical compounds [BR:br08003]
+             Flavonoids
+              Isoflavonoids
+               Isoflavones
+                C05376  Biochanin A-beta-D-glucoside
+            Glycosides [BR:br08021]
+             O-glycosides
+              Flavonoid glycosides
+               Isoflavones
+                C05376  Biochanin A-beta-D-glucoside
+            Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C05376
+DBLINKS     CAS: 5928-26-7
+            PubChem: 7750
+            ChEBI: 28751
+            LIPIDMAPS: LMPK12050219
+            KNApSAcK: C00010112
+            J-GLOBAL: J14.104F
+ATOM        32
+            1   C8y C    27.0191  -15.1980
+            2   C8x C    27.0191  -16.5985
+            3   C8y C    28.2350  -17.2988
+            4   C8x C    28.2350  -14.4977
+            5   C8y C    29.4436  -15.1980
+            6   C8y C    29.4375  -16.5985
+            7   C8y C    30.6474  -17.3040
+            8   C8y C    31.8634  -16.6089
+            9   C8x C    31.8693  -15.2084
+            10  O2x O    30.6595  -14.5030
+            11  C8y C    33.0733  -17.3144
+            12  C8x C    33.0602  -18.7134
+            13  C8x C    34.2701  -19.4187
+            14  C8y C    35.4859  -18.7237
+            15  C8x C    35.4918  -17.3232
+            16  C8x C    34.2820  -16.6177
+            17  O5x O    30.6415  -18.7046
+            18  O2a O    36.6958  -19.4291
+            19  C1a C    37.9116  -18.7341
+            20  O1a O    28.2382  -18.6993
+            21  O2a O    25.8066  -14.4972
+            22  C1y C    24.5933  -15.1968
+            23  O2x O    23.3866  -14.4988
+            24  C1y C    22.1734  -15.1983
+            25  C1y C    22.1725  -16.5989
+            26  C1y C    23.3851  -17.2998
+            27  C1y C    24.5984  -16.6002
+            28  C1b C    20.9608  -14.4976
+            29  O1a O    20.9594  -17.2986
+            30  O1a O    23.3844  -18.7003
+            31  O1a O    25.8123  -17.2986
+            32  O1a O    19.7475  -15.1972
+BOND        35
+            1    14  15 1
+            2    15  16 2
+            3    16  11 1
+            4     5   6 1
+            5     7  17 2
+            6     6   7 1
+            7    14  18 1
+            8     7   8 1
+            9    18  19 1
+            10    8   9 2
+            11    3  20 1
+            12    9  10 1
+            13    1  21 1
+            14   10   5 1
+            15   22  21 1 #Up
+            16    8  11 1
+            17    1   2 2
+            18    2   3 1
+            19    3   6 2
+            20   22  23 1
+            21   23  24 1
+            22   24  25 1
+            23   25  26 1
+            24   26  27 1
+            25   27  22 1
+            26    5   4 2
+            27   24  28 1 #Up
+            28    4   1 1
+            29   25  29 1 #Down
+            30   11  12 2
+            31   26  30 1 #Up
+            32   12  13 1
+            33   27  31 1 #Down
+            34   13  14 2
+            35   28  32 1
+///
+
+ENTRY       C05463                      Compound
+NAME        Taurodeoxycholate;
+            Taurodeoxycholic acid
+FORMULA     C26H45NO6S
+EXACT_MASS  499.2968
+MOL_WEIGHT  499.71
+REACTION    R04487
+ENZYME      3.5.1.24
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST05 Steroid conjugates
+               ST0504 Taurine conjugates
+                C05463  Taurodeoxycholate
+DBLINKS     PubChem: 7823
+            ChEBI: 181392 36261 9410
+            LIPIDMAPS: LMST05040013
+            PDB-CCD: 6SB
+            J-GLOBAL: J339.140J
+ATOM        34
+            1   C1y C    15.5266  -18.1203
+            2   C1y C    16.6331  -17.4319
+            3   C1y C    14.2882  -17.4441
+            4   C1x C    15.5338  -19.4723
+            5   C1z C    16.6392  -16.0737
+            6   C1x C    18.9841  -17.4447
+            7   C1z C    13.1250  -18.1262
+            8   C1x C    14.2747  -16.0920
+            9   C1x C    14.2943  -20.1360
+            10  C1y C    17.8146  -15.3977
+            11  C1y C    15.4516  -15.4036
+            12  C1a C    16.6649  -14.6603
+            13  C1x C    18.9841  -16.0859
+            14  C1y C    13.1250  -19.4661
+            15  C1x C    11.9616  -17.4622
+            16  C1a C    13.1189  -16.8045
+            17  C1c C    17.7509  -13.5237
+            18  O1a O    15.3315  -14.1144
+            19  C1x C    11.9616  -20.1422
+            20  C1x C    10.8166  -18.1262
+            21  C1b C    18.9658  -12.8597
+            22  C1a C    16.6073  -12.5799
+            23  C1y C    10.8166  -19.4661
+            24  C1b C    20.1109  -13.5297
+            25  O1a O     9.6655  -20.1239
+            26  C5a C    21.2620  -12.8720
+            27  N1b N    22.4070  -13.5358
+            28  O5a O    21.2686  -11.5442
+            29  C1b C    23.5912  -12.8610
+            30  C1b C    24.7870  -13.5513
+            31  S4a S    26.1849  -13.5513
+            32  O1d O    26.1849  -14.9492
+            33  O1d O    26.1849  -12.1534
+            34  O1d O    27.5828  -13.5513
+BOND        37
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 1
+            9     5  10 1
+            10    5  11 1
+            11    5  12 1 #Up
+            12    6  13 1
+            13    7  14 1
+            14    7  15 1
+            15    7  16 1 #Up
+            16   10  17 1
+            17   11  18 1 #Down
+            18   14  19 1
+            19   15  20 1
+            20   17  21 1
+            21   17  22 1 #Down
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1 #Down
+            25   24  26 1
+            26   26  27 1
+            27   26  28 2
+            28    8  11 1
+            29    9  14 1
+            30   10  13 1
+            31   20  23 1
+            32   27  29 1
+            33   29  30 1
+            34   30  31 1
+            35   31  32 2
+            36   31  33 2
+            37   31  34 1
+///
+
+ENTRY       C05464                      Compound
+NAME        Glycodeoxycholate;
+            Glycodeoxycholic acid;
+            3alpha,12alpha-Dihydroxy-5beta-cholan-24-oylglycine
+FORMULA     C26H43NO5
+EXACT_MASS  449.3141
+MOL_WEIGHT  449.62
+REACTION    R04486
+ENZYME      3.5.1.24
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0402 C26 bile acids, alcohols, and derivatives
+                C05464  Glycodeoxycholic acid
+              ST05 Steroid conjugates
+               ST0503 Glycine conjugates
+                C05464  Glycodeoxycholate
+DBLINKS     CAS: 360-65-6
+            PubChem: 7824
+            ChEBI: 27471
+            LIPIDMAPS: LMST05030006
+            KNApSAcK: C00030411
+            J-GLOBAL: J14.409F
+ATOM        32
+            1   C1y C    27.2042  -19.6165
+            2   C1y C    26.0230  -20.2938
+            3   C1z C    27.2215  -18.2557
+            4   C1x C    29.5492  -19.5753
+            5   C1y C    24.8534  -19.5990
+            6   C1x C    26.0230  -21.6546
+            7   C1y C    28.4027  -17.5956
+            8   C1y C    26.0461  -17.5725
+            9   C1a C    27.2098  -17.0342
+            10  C1x C    29.5665  -18.2848
+            11  C1z C    23.6665  -20.2822
+            12  C1x C    24.8654  -18.2384
+            13  C1x C    24.8418  -22.3261
+            14  C1c C    28.3968  -16.2292
+            15  O1a O    26.0345  -16.2003
+            16  C1y C    23.6607  -21.6429
+            17  C1x C    22.4910  -19.5932
+            18  C1a C    23.6491  -18.9157
+            19  C1b C    29.5722  -15.5344
+            20  C1a C    27.2098  -14.9201
+            21  C1x C    22.4910  -22.3203
+            22  C1x C    21.2984  -20.2822
+            23  C1b C    30.7534  -16.2234
+            24  C1y C    21.2984  -21.6429
+            25  C5a C    31.9288  -15.5344
+            26  O1a O    20.1172  -22.3146
+            27  N1b N    33.1099  -16.2234
+            28  O5a O    31.9288  -14.1737
+            29  C1b C    34.2852  -15.5344
+            30  C6a C    35.4665  -16.2234
+            31  O6a O    36.6419  -15.5344
+            32  O6a O    35.4665  -17.5841
+BOND        35
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    7  14 1
+            14    8  15 1 #Down
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   14  19 1
+            19   14  20 1 #Down
+            20   16  21 1
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   25  28 2
+            28   27  29 1
+            29   29  30 1
+            30   30  31 1
+            31   30  32 2
+            32    7  10 1
+            33    8  12 1
+            34   13  16 1
+            35   22  24 1
+///
+
+ENTRY       C05465                      Compound
+NAME        Taurochenodeoxycholate;
+            Taurochenodeoxycholic acid;
+            Chenodeoxycholoyltaurine
+FORMULA     C26H45NO6S
+EXACT_MASS  499.2968
+MOL_WEIGHT  499.71
+REACTION    R03977 R07205 R08745
+PATHWAY     map00120  Primary bile acid biosynthesis
+            map00121  Secondary bile acid biosynthesis
+            map04976  Bile secretion
+            map04979  Cholesterol metabolism
+ENZYME      1.14.14.57      2.3.1.65        3.5.1.24        3.5.1.74
+BRITE       Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0402 C26 bile acids, alcohols, and derivatives
+                C05465  Taurochenodeoxycholic acid
+              ST05 Steroid conjugates
+               ST0504 Taurine conjugates
+                C05465  Taurochenodeoxycholate
+DBLINKS     CAS: 516-35-8
+            PubChem: 7825
+            ChEBI: 16525 9407
+            LIPIDMAPS: LMST05040005
+            PDB-CCD: TUD
+            J-GLOBAL: J13.987D
+ATOM        34
+            1   C1y C    22.0424  -20.8441
+            2   C1y C    20.8523  -21.5266
+            3   C1z C    22.0541  -19.4787
+            4   C1x C    24.4057  -20.8732
+            5   C1y C    19.6735  -20.8324
+            6   C1y C    20.8523  -22.8981
+            7   C1y C    23.2503  -18.8077
+            8   C1x C    20.8754  -18.7845
+            9   C1a C    22.0424  -18.1017
+            10  C1x C    24.4230  -19.5078
+            11  C1z C    18.4715  -21.5152
+            12  C1x C    19.6852  -19.4614
+            13  C1x C    19.6618  -23.5807
+            14  O1a O    22.0367  -23.5866
+            15  C1c C    23.2677  -17.4308
+            16  C1y C    18.4655  -22.8921
+            17  C1x C    17.2928  -20.8266
+            18  C1a C    18.4599  -20.1382
+            19  C1b C    24.4638  -16.7597
+            20  C1a C    22.0775  -16.7306
+            21  C1x C    17.2928  -23.5750
+            22  C1x C    16.0909  -21.5152
+            23  C1b C    25.6483  -17.4540
+            24  C1y C    16.0909  -22.8921
+            25  C5a C    26.8388  -16.7888
+            26  O1a O    15.1106  -23.8609
+            27  N1b N    28.0233  -17.4890
+            28  O5a O    26.7862  -15.4177
+            29  C1b C    29.2135  -16.8297
+            30  C1b C    30.3980  -17.5240
+            31  S4a S    31.7751  -17.5240
+            32  O1d O    33.1463  -17.5240
+            33  O1d O    31.7633  -16.1528
+            34  O1d O    31.7633  -18.9011
+BOND        37
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    6  14 1 #Down
+            14    7  15 1
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   15  19 1
+            19   15  20 1 #Down
+            20   16  21 1
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   25  28 2
+            28   27  29 1
+            29   29  30 1
+            30   30  31 1
+            31   31  32 1
+            32   31  33 2
+            33   31  34 2
+            34    7  10 1
+            35    8  12 1
+            36   13  16 1
+            37   22  24 1
+///

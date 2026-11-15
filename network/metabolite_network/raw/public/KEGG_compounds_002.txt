@@ -1,0 +1,668 @@
+ENTRY       C00156                      Compound
+NAME        4-Hydroxybenzoate;
+            Hydroxybenzoic acid;
+            4-Hydroxybenzoic acid;
+            Hydroxybenzenecarboxylic acid
+FORMULA     C7H6O3
+EXACT_MASS  138.0317
+MOL_WEIGHT  138.12
+REACTION    R01238 R01293 R01294 R01295 R01296 R01297 R01298 R01299 
+            R01300 R01301 R01302 R01303 R01304 R01305 R01306 R01308 
+            R05000 R05603 R05615 R05616 R06889 R07273 R09039 R09040 
+            R09105 R11102 R11608 R11872 R12013 R12015 R13326
+PATHWAY     map00130  Ubiquinone and other terpenoid-quinone biosynthesis
+            map00362  Benzoate degradation
+            map00363  Bisphenol degradation
+            map00623  Toluene degradation
+            map00627  Aminobenzoate degradation
+            map00790  Folate biosynthesis
+            map01061  Biosynthesis of phenylpropanoids
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+            map01240  Biosynthesis of cofactors
+            map07110  Benzoic acid family
+MODULE      M00117  Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol
+            M00128  Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinone
+            M00989  Ubiquinone biosynthesis, O2-independent, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol
+ENZYME      1.2.1.7         1.2.1.28        1.2.1.64        1.2.1.96        
+            1.13.11.41      1.13.-.-        1.14.13.2       1.14.13.33      
+            1.14.13.64      1.14.14.92      1.14.19.55      1.14.99.15      
+            1.14.99.-       2.4.1.194       2.4.2.54        2.5.1.39        
+            2.5.1.93        3.1.1.-         3.1.2.23        3.2.1.-         
+            4.1.1.61        4.1.1.123       4.1.3.40        6.2.1.27        
+            6.2.1.50
+BRITE       Dietary phytochemicals [br08012.html]
+             Flavonoids
+              C00156
+DBLINKS     CAS: 99-96-7
+            PubChem: 3456
+            ChEBI: 17879 30763
+            KNApSAcK: C00000856
+            PDB-CCD: PHB
+            J-GLOBAL: J43.201F
+ATOM        10
+            1   C8y C    25.6200  -14.7656
+            2   C6a C    25.6137  -13.3697
+            3   C8x C    24.4098  -15.4637
+            4   C8x C    26.8430  -15.4637
+            5   O6a O    24.4098  -12.6779
+            6   O6a O    26.8174  -12.6716
+            7   C8x C    24.4098  -16.8659
+            8   C8x C    26.8430  -16.8659
+            9   C8y C    25.6200  -17.5831
+            10  O1a O    25.6137  -18.9727
+BOND        10
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     2   6 2
+            6     3   7 2
+            7     4   8 1
+            8     7   9 1
+            9     9  10 1
+            10    8   9 2
+///
+
+ENTRY       C00158                      Compound
+NAME        Citrate;
+            Citric acid;
+            2-Hydroxy-1,2,3-propanetricarboxylic acid;
+            2-Hydroxytricarballylic acid
+FORMULA     C6H8O7
+EXACT_MASS  192.0270
+MOL_WEIGHT  192.12
+REMARK      Same as: D00037
+REACTION    R00351 R00352 R00362 R01322 R01323 R01324 R01325 R10090 
+            R10677 R12308 R12353 R12354 R12596 R13576 R13585 R13587 
+            R13595
+PATHWAY     map00020  Citrate cycle (TCA cycle)
+            map00250  Alanine, aspartate and glutamate metabolism
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map00720  Other carbon fixation pathways
+            map00975  Biosynthesis of various siderophores
+            map01060  Biosynthesis of plant secondary metabolites
+            map01061  Biosynthesis of phenylpropanoids
+            map01062  Biosynthesis of terpenoids and steroids
+            map01063  Biosynthesis of alkaloids derived from shikimate pathway
+            map01064  Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+            map01065  Biosynthesis of alkaloids derived from histidine and purine
+            map01066  Biosynthesis of alkaloids derived from terpenoid and polyketide
+            map01070  Biosynthesis of plant hormones
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01240  Biosynthesis of cofactors
+            map02020  Two-component system
+            map04742  Taste transduction
+            map04922  Glucagon signaling pathway
+            map05230  Central carbon metabolism in cancer
+MODULE      M00009  Citrate cycle (TCA cycle, Krebs cycle)
+            M00010  Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate
+            M00012  Glyoxylate cycle
+            M00173  Reductive citrate cycle (Arnon-Buchanan cycle)
+            M00740  Methylaspartate cycle
+            M00875  Staphyloferrin B biosynthesis, L-serine => staphyloferrin B
+            M00876  Staphyloferrin A biosynthesis, L-ornithine => staphyloferrin A
+            M00918  Aerobactin biosynthesis, lysine => aerobactin
+            M01054  Schizokinen biosynthesis, glutamate => schizokinen
+            M01057  Rhizoferrin biosynthesis, ornithine + citrate => rhizoferrin
+            M01058  Achromobactin biosynthesis, serine + citrate => achromobactin
+            M01059  Vibrioferrin biosynthesis, serine + citrate => vibrioferrin
+            M01060  Petrobactin biosynthesis, spermidine => petrobactin
+ENZYME      2.3.3.1         2.3.3.3         2.3.3.5         2.3.3.8         
+            2.3.3.16        2.8.3.10        4.1.3.6         4.2.1.3         
+            6.2.1.18        6.3.1.17        6.3.2.38        6.3.2.54        
+            6.3.2.57        6.3.2.58        6.3.2.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Tricarboxylic acids
+                C00158  Citrate
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00037)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A09 DIGESTIVES, INCL. ENZYMES
+               A09A DIGESTIVES, INCL. ENZYMES
+                A09AB Acid preparations
+                 A09AB04 Citric acid
+                  D00037  Citric acid, anhydrous (USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D00037)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Anhydrous citric acid
+                D00037  Citric acid, anhydrous (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00037)]
+             Chemicals
+              D00037  Anhydrous citric acid
+DBLINKS     CAS: 77-92-9
+            PubChem: 3458
+            ChEBI: 16947 30769
+            KNApSAcK: C00007619
+            PDB-CCD: CIT FLC
+            J-GLOBAL: J2.824J
+ATOM        13
+            1   O6a O    14.3500  -22.6800
+            2   C6a C    15.5624  -21.9800
+            3   C1b C    16.7749  -22.6800
+            4   C1d C    17.9873  -21.9800
+            5   C1b C    19.1997  -22.6800
+            6   C6a C    20.4122  -21.9800
+            7   O6a O    21.6246  -22.6800
+            8   O6a O    15.5624  -20.5802
+            9   O6a O    20.4122  -20.7203
+            10  C6a C    17.9873  -20.5800
+            11  O6a O    19.2018  -19.7388
+            12  O6a O    16.7769  -19.7412
+            13  O1a O    18.3497  -23.6123
+BOND        12
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     2   8 2
+            8     6   9 2
+            9     4  10 1
+            10   10  11 1
+            11   10  12 2
+            12    4  13 1
+///
+
+ENTRY       C00170                      Compound
+NAME        5'-Methylthioadenosine;
+            Methylthioadenosine;
+            S-Methyl-5'-thioadenosine;
+            5-Methylthioadenosine;
+            5'-Deoxy-5'-(methylthio)adenosine;
+            Thiomethyladenosine;
+            MTA;
+            5'-Deoxy-5'-(methylsulfanyl)adenosine
+FORMULA     C11H15N5O3S
+EXACT_MASS  297.0896
+MOL_WEIGHT  297.34
+REACTION    R00075 R00179 R01401 R01402 R01920 R02869 R03019 R03072 
+            R03271 R03726 R08359 R08939 R08940 R09072 R09531 R09660 
+            R10338 R10455 R10526 R10529 R10611 R10881 R11088 R11089 
+            R11154 R11159 R11160 R12341 R13107 R13435 R13680
+PATHWAY     map00270  Cysteine and methionine metabolism
+            map00908  Zeatin biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01100  Metabolic pathways
+MODULE      M00034  Methionine salvage pathway
+ENZYME      2.3.1.184       2.3.1.228       2.3.1.229       2.4.2.28        
+            2.5.1.16        2.5.1.22        2.5.1.23        2.5.1.24        
+            2.5.1.25        2.5.1.38        2.5.1.43        2.5.1.79        
+            2.5.1.104       2.5.1.108       2.5.1.114       2.5.1.126       
+            2.5.1.127       2.5.1.128       2.5.1.152       2.5.1.161       
+            2.5.1.162       3.2.2.9         3.2.2.16        3.5.4.31        
+            4.4.1.14        4.4.1.42
+DBLINKS     CAS: 2457-80-9
+            PubChem: 3470
+            ChEBI: 17509 180963
+            PDB-CCD: MTA
+            J-GLOBAL: J22.737D
+ATOM        20
+            1   C1y C    28.8283  -22.2075
+            2   O2x O    27.7492  -21.4316
+            3   C1y C    28.4375  -23.4265
+            4   C1y C    26.6935  -22.1783
+            5   C1y C    27.1193  -23.4265
+            6   O1a O    29.2016  -24.4881
+            7   O1a O    26.3726  -24.4881
+            8   N4y N    30.1736  -21.7640
+            9   C8y C    31.3102  -22.5823
+            10  C8y C    32.4398  -21.7542
+            11  N5x N    32.0012  -20.4240
+            12  C8x C    30.6007  -20.4301
+            13  N5x N    31.4626  -23.9740
+            14  C8x C    32.7440  -24.5379
+            15  N5x N    33.8735  -23.7097
+            16  C8y C    33.7212  -22.3181
+            17  N1a N    34.8566  -21.4855
+            18  C1b C    25.3440  -21.7410
+            19  S2a S    24.1276  -22.4700
+            20  C1a C    22.9151  -21.7700
+BOND        22
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 1 #Down
+            6     5   7 1 #Down
+            7     4   5 1
+            8     1   8 1 #Up
+            9     8   9 1
+            10    9  10 2
+            11   10  11 1
+            12   11  12 2
+            13    8  12 1
+            14    9  13 1
+            15   13  14 2
+            16   14  15 1
+            17   15  16 2
+            18   10  16 1
+            19   16  17 1
+            20    4  18 1 #Up
+            21   18  19 1
+            22   19  20 1
+///
+
+ENTRY       C00180                      Compound
+NAME        Benzoate;
+            Benzoic acid;
+            Benzenecarboxylic acid;
+            Phenylformic acid;
+            Dracylic acid
+FORMULA     C7H6O2
+EXACT_MASS  122.0368
+MOL_WEIGHT  122.12
+REMARK      Same as: D00038
+REACTION    R01295 R01419 R01420 R01421 R01422 R01423 R01424 R01425 
+            R01426 R01427 R02606 R05590 R05591 R05621 R05622 R06727 
+            R06728 R07188 R07835 R08838 R09088 R10447
+PATHWAY     map00362  Benzoate degradation
+            map00621  Dioxin degradation
+            map00623  Toluene degradation
+            map00627  Aminobenzoate degradation
+            map00996  Biosynthesis of various alkaloids
+            map01063  Biosynthesis of alkaloids derived from shikimate pathway
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+MODULE      M00538  Toluene degradation, toluene => benzoate
+            M00543  Biphenyl degradation, biphenyl => 2-oxopent-4-enoate + benzoate
+            M00551  Benzoate degradation, benzoate => catechol / methylbenzoate => methylcatechol
+ENZYME      1.2.1.7         1.2.1.28        1.14.12.10      1.14.13.-       
+            1.14.14.92      2.1.1.273       3.1.1.1         3.1.1.84        
+            3.5.1.4         3.5.1.32        3.5.1.40        3.5.5.1         
+            3.6.1.7         3.6.1.20        3.7.1.8         6.2.1.25
+BRITE       Therapeutic category of drugs in Japan [BR:br08301(D00038)]
+             7  Agents not mainly for therapeutic purpose
+              71  Dispensing medicines
+               719  Miscellaneous
+                7190  Miscellaneous
+                 D00038  Benzoic acid (JP19/USP)
+            Risk category of Japanese OTC drugs [BR:br08312(D00038)]
+             Designated second-class OTC drugs
+              Inorganic and organic chemicals
+               Benzoic acid
+                D00038  Benzoic acid (JP19/USP)
+             Second-class OTC drugs
+              Inorganic and organic chemicals
+               Benzoic acid
+                D00038  Benzoic acid (JP19/USP)
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               Benzoic acid
+                D00038  Benzoic acid (JP19/USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00038)]
+             Chemicals
+              D00038  Benzoic acid
+DBLINKS     CAS: 65-85-0
+            PubChem: 3480
+            ChEBI: 16150 30746
+            KNApSAcK: C00000207
+            PDB-CCD: BEZ
+            J-GLOBAL: J2.358B
+ATOM        9
+            1   C8y C    21.2100  -16.9763
+            2   C8x C    20.0003  -17.6676
+            3   C8x C    22.4262  -17.6676
+            4   C6a C    21.2037  -15.5809
+            5   C8x C    20.0003  -19.0759
+            6   C8x C    22.4262  -19.0759
+            7   O6a O    22.4069  -14.8832
+            8   O6a O    19.9938  -14.8897
+            9   C8x C    21.2100  -19.7863
+BOND        9
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     4   8 2
+            8     5   9 2
+            9     6   9 1
+///
+
+ENTRY       C00183                      Compound
+NAME        L-Valine;
+            2-Amino-3-methylbutyric acid
+FORMULA     C5H11NO2
+EXACT_MASS  117.0790
+MOL_WEIGHT  117.15
+REMARK      Same as: D00039
+REACTION    R01212 R01214 R01215 R01434 R01437 R02200 R03665 R04870 
+            R08663 R10031 R10941 R10942 R13429
+PATHWAY     map00280  Valine, leucine and isoleucine degradation
+            map00290  Valine, leucine and isoleucine biosynthesis
+            map00311  Penicillin and cephalosporin biosynthesis
+            map00460  Cyanoamino acid metabolism
+            map00770  Pantothenate and CoA biosynthesis
+            map00970  Aminoacyl-tRNA biosynthesis
+            map01060  Biosynthesis of plant secondary metabolites
+            map01063  Biosynthesis of alkaloids derived from shikimate pathway
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01210  2-Oxocarboxylic acid metabolism
+            map01230  Biosynthesis of amino acids
+            map01240  Biosynthesis of cofactors
+            map02010  ABC transporters
+            map04974  Protein digestion and absorption
+            map04978  Mineral absorption
+            map05230  Central carbon metabolism in cancer
+MODULE      M00019  Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine
+            M00119  Pantothenate biosynthesis, valine/L-aspartate => pantothenate
+            M00672  Penicillin biosynthesis, aminoadipate + cycteine + valine => penicillin
+            M00673  Cephamycin C biosynthesis, aminoadipate + cycteine + valine => cephamycin C
+NETWORK     nt06024  Valine, leucine and isoleucine degradation
+ENZYME      1.4.1.8         1.4.1.9         1.4.1.23        1.14.14.38      
+            1.14.14.39      2.1.4.4         2.6.1.6         2.6.1.32        
+            2.6.1.42        2.6.1.66        4.1.1.14        6.1.1.9         
+            6.3.2.26        6.3.2.47
+BRITE       Compounds with biological roles [BR:br08001]
+             Peptides
+              Amino acids
+               Common amino acids
+                C00183  Valine (Val)
+            Risk category of Japanese OTC drugs [BR:br08312(D00039)]
+             Third-class OTC drugs
+              Inorganic and organic chemicals
+               L-Valine
+                D00039  Valine (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00039)]
+             Chemicals
+              D00039  L-Valine
+DBLINKS     CAS: 72-18-4
+            PubChem: 3483
+            ChEBI: 16414
+            KNApSAcK: C00001398
+            PDB-CCD: VAL
+            J-GLOBAL: J9.179K
+ATOM        8
+            1   C1c C    24.8500  -19.0764
+            2   C1c C    26.0666  -18.3804
+            3   C6a C    23.6334  -18.3629
+            4   N1a N    24.8442  -20.4802
+            5   C1a C    27.2716  -19.0881
+            6   C1a C    26.0725  -16.9825
+            7   O6a O    22.4226  -19.0589
+            8   O6a O    23.6392  -16.9707
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 2
+///
+
+ENTRY       C00184                      Compound
+NAME        Glycerone;
+            Dihydroxyacetone;
+            1,3-Dihydroxyacetone;
+            1,3-Dihydroxy-2-propanone;
+            1,3-Dihydroxypropan-2-one
+FORMULA     C3H6O3
+EXACT_MASS  90.0317
+MOL_WEIGHT  90.08
+REMARK      Same as: D07841
+REACTION    R01010 R01011 R01012 R01034 R01039 R01045 R01440 R06862 
+            R08589
+PATHWAY     map00561  Glycerolipid metabolism
+            map00680  Methane metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map01200  Carbon metabolism
+MODULE      M00344  Formaldehyde assimilation, xylulose monophosphate pathway
+ENZYME      1.1.1.6         1.1.1.156       1.1.99.22       2.2.1.3         
+            2.7.1.29        2.7.1.121       3.1.3.1         3.1.3.2         
+            4.1.99.29
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Monosaccharides
+               Ketoses
+                C00184  Dihydroxyacetone
+DBLINKS     CAS: 96-26-4
+            PubChem: 3484
+            ChEBI: 16016
+            PDB-CCD: 2HA
+            J-GLOBAL: J4.719H
+ATOM        6
+            1   C5a C    26.6646  -20.0202
+            2   C1b C    27.8732  -19.3111
+            3   C1b C    25.4487  -19.3281
+            4   O5a O    26.6721  -21.4214
+            5   O1a O    29.0834  -20.0090
+            6   O1a O    24.2400  -20.0373
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     3   6 1
+///
+
+ENTRY       C00185                      Compound
+NAME        Cellobiose;
+            1-beta-D-Glucopyranosyl-4-D-glucopyranose
+FORMULA     C12H22O11
+EXACT_MASS  342.1162
+MOL_WEIGHT  342.30
+REMARK      Same as: G00289
+REACTION    R00026 R00306 R00952 R01441 R01442 R01443 R01444 R01445 
+            R02365 R02886 R02887 R11172 R11308
+PATHWAY     map00500  Starch and sucrose metabolism
+            map01100  Metabolic pathways
+            map02010  ABC transporters
+            map02060  Phosphotransferase system (PTS)
+ENZYME      1.1.99.18       2.4.1.20        2.7.1.85        2.7.1.205       
+            3.2.1.4         3.2.1.21        3.2.1.74        3.2.1.91        
+            5.1.3.11
+BRITE       Compounds with biological roles [BR:br08001]
+             Carbohydrates
+              Oligosaccharides
+               Disaccharides
+                C00185  Cellobiose
+DBLINKS     CAS: 16462-44-5
+            PubChem: 3485
+            ChEBI: 17057
+            PDB-CCD: CBI CBK
+            J-GLOBAL: J6.676A
+ATOM        23
+            1   C1y C    27.3529  -14.4315
+            2   C1y C    27.3529  -13.0311
+            3   O2a O    26.1393  -15.1258
+            4   C1y C    28.5548  -15.1258
+            5   O2x O    28.5548  -12.3250
+            6   C1b C    26.1393  -12.3250
+            7   C1y C    24.9198  -15.8319
+            8   C1y C    29.7742  -14.4315
+            9   O1a O    28.5548  -16.5261
+            10  C1y C    29.7742  -13.0311
+            11  O1a O    25.0714  -13.2354
+            12  O2x O    23.7003  -15.1317
+            13  C1y C    24.9198  -17.2321
+            14  O1a O    30.9821  -15.1258
+            15  O1a O    30.9821  -12.3250
+            16  C1y C    22.4925  -15.8376
+            17  C1y C    23.7003  -17.9323
+            18  O1a O    26.1334  -17.9323
+            19  C1y C    22.4925  -17.2321
+            20  C1b C    21.2847  -15.1317
+            21  O1a O    23.7061  -19.3326
+            22  O1a O    21.2847  -17.9323
+            23  O1a O    20.2170  -16.0359
+BOND        24
+            1     1   2 1
+            2     1   3 1 #Down
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1 #Up
+            6     7   3 1 #Up
+            7     4   8 1
+            8     4   9 1 #Up
+            9     5  10 1
+            10    6  11 1
+            11    7  12 1
+            12    7  13 1
+            13    8  14 1 #Down
+            14   10  15 1 #Either
+            15   12  16 1
+            16   13  17 1
+            17   13  18 1 #Down
+            18   16  19 1
+            19   16  20 1 #Up
+            20   17  21 1 #Up
+            21   19  22 1 #Down
+            22   20  23 1
+            23    8  10 1
+            24   17  19 1
+///
+
+ENTRY       C00186                      Compound
+NAME        (S)-Lactate;
+            L-Lactate;
+            L-Lactic acid
+FORMULA     C3H6O3
+EXACT_MASS  90.0317
+MOL_WEIGHT  90.08
+REACTION    R00196 R00319 R00703 R00753 R01446 R01447 R01449 R01450 
+            R05508 R10691 R11074 R11996 R13050 R13684
+PATHWAY     map00010  Glycolysis / Gluconeogenesis
+            map00051  Fructose and mannose metabolism
+            map00620  Pyruvate metabolism
+            map00640  Propanoate metabolism
+            map00643  Styrene degradation
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+            map01120  Microbial metabolism in diverse environments
+            map04024  cAMP signaling pathway
+            map04066  HIF-1 signaling pathway
+            map04148  Efferocytosis
+            map04922  Glucagon signaling pathway
+            map05230  Central carbon metabolism in cancer
+NETWORK     nt06017  Glycogen metabolism
+            nt06535  Efferocytosis
+ENZYME      1.1.1.27        1.1.1.436       1.1.2.3         1.1.3.2         
+            1.1.5.15        1.1.99.7        1.2.1.22        1.13.12.4       
+            2.8.3.1         3.7.1.26        4.1.1.101       4.1.2.36        
+            5.1.2.1
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Hydroxycarboxylic acids
+                C00186  L-Lactate; (S)-2-Hydroxypropanoate
+DBLINKS     CAS: 79-33-4
+            PubChem: 3486
+            ChEBI: 16651 422
+            KNApSAcK: C00001191
+            PDB-CCD: 2OP
+            J-GLOBAL: J9.134K
+ATOM        6
+            1   C1c C    25.6822  -15.7891
+            2   C6a C    24.4836  -15.0565
+            3   C1a C    25.7133  -17.1915
+            4   O1a O    26.9098  -15.1244
+            5   O6a O    23.2271  -15.6641
+            6   O6a O    24.5306  -13.6567
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     2   6 2
+///
+
+ENTRY       C00209                      Compound
+NAME        Oxalate;
+            Oxalic acid;
+            Ethanedioic acid
+FORMULA     C2H2O4
+EXACT_MASS  89.9953
+MOL_WEIGHT  90.03
+REACTION    R00273 R00338 R00466 R00522 R00646 R01558 R01559 R07290 
+            R09157 R09486 R10614 R11617
+PATHWAY     map00230  Purine metabolism
+            map00625  Chloroalkane and chloroalkene degradation
+            map00630  Glyoxylate and dicarboxylate metabolism
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.2.3.4         1.2.3.5         1.2.7.10        2.8.3.2         
+            2.8.3.16        2.8.3.19        3.5.1.126       3.7.1.1         
+            3.8.1.-         4.1.1.2         6.2.1.8
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Dicarboxylic acids
+                C00209  Oxalate
+DBLINKS     CAS: 144-62-7
+            PubChem: 3509
+            ChEBI: 16995 30623
+            KNApSAcK: C00001198
+            PDB-CCD: OXD OXL
+            J-GLOBAL: J2.954H
+ATOM        6
+            1   C6a C    21.5154  -16.5174
+            2   C6a C    22.7246  -15.8226
+            3   O6a O    20.2994  -15.8226
+            4   O6a O    21.5154  -17.9897
+            5   O6a O    23.9406  -16.5174
+            6   O6a O    22.7246  -14.5603
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     2   6 2
+///
+
+ENTRY       C00213                      Compound
+NAME        Sarcosine;
+            N-Methylglycine
+FORMULA     C3H7NO2
+EXACT_MASS  89.0477
+MOL_WEIGHT  89.09
+REACTION    R00367 R00610 R00611 R01563 R01564 R01565 R01566 R05862 
+            R07227 R07243 R10061 R12967 R13028 R13029
+PATHWAY     map00260  Glycine, serine and threonine metabolism
+            map00330  Arginine and proline metabolism
+            map00670  One carbon pool by folate
+            map01100  Metabolic pathways
+MODULE      M00974  Betaine metabolism, animals, betaine => glycine
+            M00975  Betaine degradation, bacteria, betaine => pyruvate
+NETWORK     nt06033  Glycine, serine and arginine metabolism
+            nt06038  Folate metabolism
+ENZYME      1.4.3.19        1.5.3.1         1.5.3.10        1.5.3.24        
+            1.5.7.3         1.5.8.3         1.5.8.4         1.21.4.3        
+            2.1.1.20        2.1.1.156       2.1.1.157       2.1.1.162       
+            3.5.1.59        3.5.3.3
+DBLINKS     CAS: 107-97-1
+            PubChem: 3513
+            ChEBI: 15611
+            PDB-CCD: SAR
+            J-GLOBAL: J5.067I
+ATOM        6
+            1   C1b C    27.6500  -17.5000
+            2   C6a C    28.7700  -16.8000
+            3   N1b N    26.2500  -16.8000
+            4   O6a O    28.7700  -15.4000
+            5   O6a O    29.8900  -17.5000
+            6   C1a C    24.9900  -17.5000
+BOND        5
+            1     1   2 1
+            2     1   3 1
+            3     2   4 2
+            4     2   5 1
+            5     3   6 1
+///

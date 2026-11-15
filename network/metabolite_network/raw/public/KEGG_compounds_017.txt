@@ -1,0 +1,683 @@
+ENTRY       C05954                      Compound
+NAME        Prostaglandin B2;
+            PGB2
+FORMULA     C20H30O4
+EXACT_MASS  334.2144
+MOL_WEIGHT  334.45
+REACTION    R05057
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+            map04726  Serotonergic synapse
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Eicosanoids
+               Prostaglandins
+                C05954  Prostaglandin B2
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C05954  Prostaglandin B2
+DBLINKS     CAS: 13367-85-6
+            PubChem: 8238
+            ChEBI: 28099
+            LIPIDMAPS: LMFA03010018
+            J-GLOBAL: J16.062H
+ATOM        24
+            1   C2y C    21.8555  -15.0031
+            2   C2y C    21.8728  -16.4037
+            3   C5x C    20.5481  -14.5187
+            4   C1b C    22.9528  -13.8591
+            5   C1x C    20.4488  -16.7656
+            6   C2b C    23.0052  -17.0808
+            7   C1x C    19.6842  -15.6041
+            8   O5x O    20.1803  -13.1587
+            9   C2b C    24.1609  -14.5361
+            10  C2b C    24.2835  -16.3572
+            11  C2b C    25.5441  -14.5361
+            12  C1c C    25.4099  -17.0691
+            13  C1b C    26.7463  -13.8300
+            14  C1b C    26.6180  -16.3746
+            15  O1a O    25.4040  -18.4699
+            16  C1b C    27.9545  -14.5187
+            17  C1b C    27.8262  -17.0576
+            18  C1b C    29.1569  -13.8183
+            19  C1b C    29.0284  -16.3689
+            20  C6a C    30.3591  -14.5070
+            21  C1b C    30.2308  -17.0516
+            22  O6a O    31.5616  -13.8007
+            23  O6a O    30.3708  -15.8959
+            24  C1a C    31.4331  -16.3629
+BOND        24
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 2
+            8     4   9 1
+            9     6  10 2
+            10    9  11 2
+            11   10  12 1
+            12   11  13 1
+            13   12  14 1
+            14   12  15 1 #Down
+            15   13  16 1
+            16   14  17 1
+            17   16  18 1
+            18   17  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   20  23 2
+            23   21  24 1
+            24    5   7 1
+///
+
+ENTRY       C05961                      Compound
+NAME        6-Keto-prostaglandin F1alpha;
+            6-Keto-prostaglandin F1a;
+            6-Keto-PGF1alpha;
+            6-Keto-PGF1a
+FORMULA     C20H34O6
+EXACT_MASS  370.2355
+MOL_WEIGHT  370.48
+REACTION    R03521 R05059
+PATHWAY     map00590  Arachidonic acid metabolism
+            map01100  Metabolic pathways
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA03 Eicosanoids
+               FA0301 Prostaglandins
+                C05961  6-Keto-prostaglandin F1alpha
+DBLINKS     CAS: 58962-34-8
+            PubChem: 8245
+            ChEBI: 28158
+            LIPIDMAPS: LMFA03010001
+            J-GLOBAL: J240.195I
+ATOM        26
+            1   C1y C    20.7330  -23.5720
+            2   C1y C    20.7461  -24.9632
+            3   C1y C    19.5014  -23.0921
+            4   C1b C    22.0069  -22.8562
+            5   C1y C    19.4037  -25.3294
+            6   C2b C    21.9583  -25.6547
+            7   C1x C    18.6391  -24.1741
+            8   O1a O    18.7773  -21.8554
+            9   C5a C    21.9989  -21.4406
+            10  O1a O    18.6797  -26.5413
+            11  C2b C    23.1542  -24.9550
+            12  C1b C    23.2111  -20.7246
+            13  O5a O    20.7704  -20.7329
+            14  C1c C    24.3661  -25.6384
+            15  C1b C    24.4313  -21.4324
+            16  C1b C    25.5540  -24.9469
+            17  O1a O    24.3581  -27.0377
+            18  C1b C    25.6517  -20.7246
+            19  C1b C    26.7662  -25.6302
+            20  C1b C    26.8719  -21.4324
+            21  C1b C    27.9621  -24.9307
+            22  C6a C    28.0923  -20.7246
+            23  C1b C    29.1580  -25.6222
+            24  O6a O    29.3125  -21.4324
+            25  O6a O    28.0841  -19.3091
+            26  C1a C    30.3702  -24.9224
+BOND        26
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Down
+            4     2   5 1
+            5     2   6 1 #Up
+            6     3   7 1
+            7     3   8 1 #Down
+            8     4   9 1
+            9     5  10 1 #Down
+            10    6  11 2
+            11    9  12 1
+            12    9  13 2
+            13   11  14 1
+            14   12  15 1
+            15   14  16 1
+            16   14  17 1 #Down
+            17   15  18 1
+            18   16  19 1
+            19   18  20 1
+            20   19  21 1
+            21   20  22 1
+            22   21  23 1
+            23   22  24 1
+            24   22  25 2
+            25   23  26 1
+            26    5   7 1
+///
+
+ENTRY       C06104                      Compound
+NAME        Adipate;
+            Adipic acid;
+            Hexanedioate;
+            Hexan-1,6-dicarboxylate;
+            Hexanedioic acid
+FORMULA     C6H10O4
+EXACT_MASS  146.0579
+MOL_WEIGHT  146.14
+REMARK      Same as: D08839
+REACTION    R05099 R06944
+PATHWAY     map00930  Caprolactam degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+ENZYME      1.2.1.4         1.2.1.63        6.2.1.-
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Dicarboxylic acids
+                C06104  Adipate
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C06104  Hexanedioic acid
+DBLINKS     CAS: 124-04-9
+            PubChem: 8368
+            ChEBI: 30832
+            LIPIDMAPS: LMFA01170048
+            KNApSAcK: C00001178
+            PDB-CCD: 0L1
+            J-GLOBAL: J10.057I
+ATOM        10
+            1   C6a C    25.8062  -17.2979
+            2   C1b C    27.0209  -16.5939
+            3   O6a O    24.5975  -16.6054
+            4   O6a O    25.8122  -18.7004
+            5   C1b C    28.2356  -17.2921
+            6   C1b C    29.4444  -16.5879
+            7   C1b C    30.6591  -17.2861
+            8   C6a C    31.8738  -16.5821
+            9   O6a O    33.0825  -17.2746
+            10  O6a O    31.8678  -15.1796
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     8  10 2
+///
+
+ENTRY       C06121                      Compound
+NAME        3-Ketosphingosine
+FORMULA     C18H35NO2
+EXACT_MASS  297.2668
+MOL_WEIGHT  297.48
+REACTION    R04092
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP01 Sphingoid bases
+               SP0101 Sphing-4-enines (Sphingosines)
+                C06121  3-Ketosphingosine
+DBLINKS     PubChem: 8379
+            ChEBI: 20096
+            LIPIDMAPS: LMSP01010002
+            J-GLOBAL: J2.761.157E
+ATOM        21
+            1   C2b C    16.0989  -15.8382
+            2   C2b C    17.3093  -16.5324
+            3   C5a C    14.8822  -16.5324
+            4   C1b C    18.5321  -15.8382
+            5   C1c C    13.6657  -15.8382
+            6   O5a O    14.8822  -17.9396
+            7   C1b C    19.7425  -16.5324
+            8   C1b C    12.4491  -16.5324
+            9   N1a N    13.6657  -14.4373
+            10  C1b C    20.9592  -15.8382
+            11  O1a O    11.2326  -15.8382
+            12  C1b C    22.1696  -16.5324
+            13  C1b C    23.3863  -15.8382
+            14  C1b C    24.6028  -16.5324
+            15  C1b C    25.8195  -15.8382
+            16  C1b C    27.0299  -16.5324
+            17  C1b C    28.2464  -15.8382
+            18  C1b C    29.4692  -16.5324
+            19  C1b C    30.6798  -15.8382
+            20  C1b C    31.8963  -16.5324
+            21  C1a C    33.1067  -15.8382
+BOND        20
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 2
+            6     4   7 1
+            7     5   8 1
+            8     5   9 1 #Down
+            9     7  10 1
+            10    8  11 1
+            11   10  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+///
+
+ENTRY       C06124                      Compound
+NAME        Sphingosine 1-phosphate;
+            Sphing-4-enine 1-phosphate;
+            S1P
+FORMULA     C18H38NO5P
+EXACT_MASS  379.2488
+MOL_WEIGHT  379.47
+REACTION    R01926 R06516 R06521
+PATHWAY     map00600  Sphingolipid metabolism
+            map01100  Metabolic pathways
+            map04020  Calcium signaling pathway
+            map04071  Sphingolipid signaling pathway
+            map04072  Phospholipase D signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+            map04148  Efferocytosis
+            map04371  Apelin signaling pathway
+            map04666  Fc gamma R-mediated phagosome formation
+            map05152  Tuberculosis
+MODULE      M00100  Sphingosine degradation
+NETWORK     nt06535  Efferocytosis
+ENZYME      2.7.1.91        3.1.3.114       4.1.2.27        4.1.2.-
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP01 Sphingoid bases
+               SP0105 Sphingoid base 1-phosphates
+                C06124  Sphingosine 1-phosphate
+DBLINKS     CAS: 26993-30-6
+            PubChem: 8381
+            ChEBI: 37550
+            LIPIDMAPS: LMSP01050001
+            PDB-CCD: S1P
+            J-GLOBAL: J627.163D
+ATOM        25
+            1   C2b C    16.0989  -15.8382
+            2   C2b C    17.3093  -16.5324
+            3   C1c C    14.8822  -16.5324
+            4   C1b C    18.5321  -15.8382
+            5   C1c C    13.6657  -15.8382
+            6   O1a O    14.8822  -17.9396
+            7   C1b C    19.7425  -16.5324
+            8   C1b C    12.4491  -16.5324
+            9   N1a N    13.6657  -14.4373
+            10  C1b C    20.9592  -15.8382
+            11  O2b O    11.2326  -15.8382
+            12  C1b C    22.1696  -16.5324
+            13  C1b C    23.3863  -15.8382
+            14  C1b C    24.6028  -16.5324
+            15  C1b C    25.8195  -15.8382
+            16  C1b C    27.0299  -16.5324
+            17  C1b C    28.2464  -15.8382
+            18  C1b C    29.4692  -16.5324
+            19  C1b C    30.6798  -15.8382
+            20  C1b C    31.8963  -16.5324
+            21  C1a C    33.1067  -15.8382
+            22  P1b P     9.8326  -15.8382
+            23  O1c O     9.8326  -14.4382
+            24  O1c O     8.4326  -15.8382
+            25  O1c O     9.8326  -17.2382
+BOND        24
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 1 #Up
+            6     4   7 1
+            7     5   8 1
+            8     5   9 1 #Down
+            9     7  10 1
+            10    8  11 1
+            11   10  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+            20   20  21 1
+            21   11  22 1
+            22   22  23 1
+            23   22  24 1
+            24   22  25 2
+///
+
+ENTRY       C06337                      Compound
+NAME        Terephthalate;
+            Terephthalic acid;
+            1,4-Benzenedicarboxylic acid
+FORMULA     C8H6O4
+EXACT_MASS  166.0266
+MOL_WEIGHT  166.13
+REACTION    R05148 R07835 R11541
+PATHWAY     map00624  Polycyclic aromatic hydrocarbon degradation
+            map00627  Aminobenzoate degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+MODULE      M00624  Terephthalate degradation, terephthalate => 3,4-dihydroxybenzoate
+ENZYME      1.14.12.15      3.1.1.102
+DBLINKS     CAS: 100-21-0
+            PubChem: 8573
+            ChEBI: 15702 30043
+            PDB-CCD: UB7
+            J-GLOBAL: J3.588B
+ATOM        12
+            1   C8y C    28.8400  -18.3208
+            2   C6a C    28.8457  -19.7368
+            3   C8x C    27.6282  -17.6275
+            4   C8x C    30.0344  -17.6275
+            5   O6a O    30.0752  -20.4360
+            6   O6a O    27.6165  -20.4417
+            7   C8x C    27.6282  -16.2408
+            8   C8x C    30.0344  -16.2408
+            9   C8y C    28.8400  -15.5475
+            10  C6a C    28.8400  -14.1608
+            11  O6a O    30.0694  -13.4500
+            12  O6a O    27.6165  -13.4440
+BOND        12
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     2   6 2
+            6     3   7 2
+            7     4   8 1
+            8     7   9 1
+            9     9  10 1
+            10   10  11 1
+            11   10  12 2
+            12    8   9 2
+///
+
+ENTRY       C06423                      Compound
+NAME        Octanoic acid;
+            Caprylic acid;
+            Octylic acid;
+            Octanoate
+FORMULA     C8H16O2
+EXACT_MASS  144.1150
+MOL_WEIGHT  144.21
+REMARK      Same as: D05220
+REACTION    R08157 R08509 R12429 R13728
+PATHWAY     map00061  Fatty acid biosynthesis
+            map00785  Lipoic acid metabolism
+            map01060  Biosynthesis of plant secondary metabolites
+            map01066  Biosynthesis of alkaloids derived from terpenoid and polyketide
+            map01100  Metabolic pathways
+            map01240  Biosynthesis of cofactors
+ENZYME      3.1.2.21        3.5.1.-         6.3.1.20
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Monocarboxylic acids
+                C06423  Caprylate; Octanoate
+             Lipids
+              Fatty acids
+               Saturated fatty acids
+                C06423  Caprylic acid (8:0)
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0101 Straight chain fatty acids
+                C06423  Octanoic acid
+            Phytochemical compounds [BR:br08003]
+             Fatty acids related compounds
+              Fatty acids
+               Saturated fatty acids
+                C06423  Octanoic acid
+DBLINKS     CAS: 124-07-2 74-81-7
+            PubChem: 8658
+            ChEBI: 28837
+            LIPIDMAPS: LMFA01010008
+            KNApSAcK: C00001231
+            PDB-CCD: OCA
+            J-GLOBAL: J2.013C
+ATOM        10
+            1   C1b C    23.8599  -17.3604
+            2   C1b C    25.0768  -18.0592
+            3   C1b C    22.6486  -18.0592
+            4   C1b C    26.2881  -17.3604
+            5   C6a C    21.4316  -17.3604
+            6   C1b C    27.4992  -18.0592
+            7   O6a O    20.2205  -18.0592
+            8   O6a O    21.4316  -15.9570
+            9   C1b C    28.7162  -17.3604
+            10  C1a C    29.9216  -18.0592
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     5   8 2
+            8     6   9 1
+            9     9  10 1
+///
+
+ENTRY       C06428                      Compound
+NAME        (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid;
+            (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid;
+            Eicosapentaenoic acid;
+            5,8,11,14,17-Icosapentaenoic acid;
+            (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate;
+            (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoate;
+            5Z,8Z,11Z,14Z,17Z-Eicosapentaenoic acid;
+            (5Z,8Z,11Z,14Z,17Z)-Icosa-5,8,11,14,17-pentaenoic acid
+FORMULA     C20H30O2
+EXACT_MASS  302.2246
+MOL_WEIGHT  302.45
+REMARK      Same as: D08061
+REACTION    R06502 R08179
+PATHWAY     map01040  Biosynthesis of unsaturated fatty acids
+ENZYME      3.1.2.2         5.3.3.13
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Fatty acids
+               Unsaturated fatty acids
+                C06428  Eicosapentaenoic acid (20:5;5,8,11,14.17)
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0103 Unsaturated fatty acids
+                Polyunsaturated fatty acids
+                 C06428  (5Z,8Z,11Z,14Z,17Z)-Icosa-5,8,11,14,17-pentaenoic acid
+            Phytochemical compounds [BR:br08003]
+             Terpenoids
+              Triterpenoids (C30)
+               Liner triterpenes
+                C06428  (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid
+DBLINKS     CAS: 10417-94-4
+            PubChem: 8663
+            ChEBI: 28364
+            LIPIDMAPS: LMFA01030759
+            KNApSAcK: C00000408 C00001215
+            PDB-CCD: EPA
+            J-GLOBAL: J343.473G
+ATOM        22
+            1   C2b C    22.9309  -16.1890
+            2   C2b C    24.3314  -16.1890
+            3   C1b C    21.7212  -16.8894
+            4   C1b C    25.5410  -16.8894
+            5   C2b C    20.5187  -16.1890
+            6   C2b C    26.7505  -16.1890
+            7   C2b C    19.1180  -16.1890
+            8   C2b C    28.1512  -16.1890
+            9   C1b C    17.9155  -16.8894
+            10  C1b C    29.3679  -16.8894
+            11  C1b C    16.6847  -16.1890
+            12  C2b C    30.5775  -16.1890
+            13  C1b C    15.4752  -16.8894
+            14  C2b C    31.9780  -16.1890
+            15  C6a C    14.2655  -16.1890
+            16  C1b C    33.2019  -16.8894
+            17  O6a O    13.0489  -16.8894
+            18  O6a O    14.2655  -14.7883
+            19  C2b C    34.4113  -16.1890
+            20  C2b C    35.8120  -16.1890
+            21  C1b C    37.0287  -16.8894
+            22  C1a C    38.2312  -16.1890
+BOND        21
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 2
+            7     6   8 2
+            8     7   9 1
+            9     8  10 1
+            10    9  11 1
+            11   10  12 1
+            12   11  13 1
+            13   12  14 2
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 1
+            19   19  20 2
+            20   20  21 1
+            21   21  22 1
+///
+
+ENTRY       C06429                      Compound
+NAME        (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid;
+            4,7,10,13,16,19-Docosahexaenoic acid;
+            Docosahexaenoic acid;
+            Docosahexaenoate;
+            4Z,7Z,10Z,13Z,16Z,19Z-Docosahexaenoic acid;
+            (4Z,7Z,10Z,13Z,16Z,19Z)-Docosa-4,7,10,13,16,19-hexaenoic acid
+FORMULA     C22H32O2
+EXACT_MASS  328.2402
+MOL_WEIGHT  328.49
+REACTION    R08180 R10795
+PATHWAY     map01040  Biosynthesis of unsaturated fatty acids
+ENZYME      1.14.14.79      3.1.2.2
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Fatty acids
+               Unsaturated fatty acids
+                C06429  Docosahexaenoic acid (22:6;4,7,10,13,16,19)
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0103 Unsaturated fatty acids
+                Polyunsaturated fatty acids
+                 C06429  (4Z,7Z,10Z,13Z,16Z,19Z)-Docosa-4,7,10,13,16,19-hexaenoic acid
+              FA04 Docosanoids
+               FA0400 Other Docosanoids
+                C06429  (4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid
+DBLINKS     PubChem: 8664
+            ChEBI: 28125
+            LIPIDMAPS: LMFA01030185
+            PDB-CCD: HXA
+            J-GLOBAL: J381.483A
+ATOM        24
+            1   C2b C    21.8059  -16.8400
+            2   C1b C    23.0232  -16.1375
+            3   C2b C    20.4089  -16.8400
+            4   C2b C    24.2328  -16.8400
+            5   C1b C    19.1993  -16.1375
+            6   C2b C    25.6296  -16.8400
+            7   C2b C    17.9976  -16.8400
+            8   C1b C    26.8392  -16.1375
+            9   C2b C    16.5929  -16.8400
+            10  C2b C    28.0489  -16.8400
+            11  C1b C    15.3912  -16.1375
+            12  C2b C    29.4456  -16.8400
+            13  C1b C    14.1659  -16.8400
+            14  C1b C    30.6709  -16.1375
+            15  C6a C    12.9563  -16.1375
+            16  C2b C    31.8882  -16.8400
+            17  O6a O    11.7467  -16.8400
+            18  O6a O    12.9563  -14.7408
+            19  C2b C    33.2852  -16.8400
+            20  C1b C    34.5025  -16.1375
+            21  C2b C    35.7042  -16.8400
+            22  C2b C    37.1012  -16.8400
+            23  C1b C    38.3185  -16.1375
+            24  C1a C    39.5282  -16.8400
+BOND        23
+            1     1   2 1
+            2     1   3 2
+            3     2   4 1
+            4     3   5 1
+            5     4   6 2
+            6     5   7 1
+            7     6   8 1
+            8     7   9 2
+            9     8  10 1
+            10    9  11 1
+            11   10  12 2
+            12   11  13 1
+            13   12  14 1
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17   15  18 2
+            18   16  19 2
+            19   19  20 1
+            20   20  21 1
+            21   21  22 2
+            22   22  23 1
+            23   23  24 1
+///
+
+ENTRY       C06762                      Compound
+NAME        4-Hydroxy-2-oxohexanoic acid;
+            4-Hydroxy-2-oxohexanoate
+FORMULA     C6H10O4
+EXACT_MASS  146.0579
+MOL_WEIGHT  146.14
+REACTION    R05297 R05298 R05864 R09960
+PATHWAY     map00622  Xylene degradation
+            map00984  Steroid degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+            map01220  Degradation of aromatic compounds
+MODULE      M00569  Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA
+ENZYME      4.1.3.43        4.2.1.80        4.2.1.132
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C06762  4-Hydroxy-2-oxohexanoic acid
+DBLINKS     PubChem: 8982
+            ChEBI: 27530 53800
+            LIPIDMAPS: LMFA01050343
+            J-GLOBAL: J1.592.318K
+ATOM        10
+            1   C1b C    26.4899  -20.2284
+            2   C5a C    25.2788  -20.9305
+            3   C1c C    27.7069  -20.9305
+            4   C6a C    24.0676  -20.2284
+            5   O5a O    25.2788  -22.3288
+            6   C1b C    28.9180  -20.2284
+            7   O1a O    27.7069  -22.3288
+            8   O6a O    22.8564  -20.9305
+            9   O6a O    24.0676  -18.8299
+            10  C1a C    30.1292  -20.9305
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 2
+            5     3   6 1
+            6     3   7 1
+            7     4   8 1
+            8     4   9 2
+            9     6  10 1
+///

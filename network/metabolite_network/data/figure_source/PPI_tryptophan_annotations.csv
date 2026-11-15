@@ -1,0 +1,10 @@
+gene_symbol,term_id,description,category,term_q_value
+SLC7A5,GO:0015827,tryptophan transport,GO Biological Processes,0.3235936569296282
+SLC7A8,GO:0015827,tryptophan transport,GO Biological Processes,0.3235936569296282
+SLCO3A1,GO:0015827,tryptophan transport,GO Biological Processes,0.3235936569296282
+SLC36A4,GO:0015827,tryptophan transport,GO Biological Processes,0.3235936569296282
+ALDH1B1,hsa00380,Tryptophan metabolism,KEGG Pathway,0.3470120533264835
+ALDH3A2,hsa00380,Tryptophan metabolism,KEGG Pathway,0.3470120533264835
+AOX1,hsa00380,Tryptophan metabolism,KEGG Pathway,0.3470120533264835
+ALDH7A1,hsa00380,Tryptophan metabolism,KEGG Pathway,0.3470120533264835
+KYNU,hsa00380,Tryptophan metabolism,KEGG Pathway,0.3470120533264835

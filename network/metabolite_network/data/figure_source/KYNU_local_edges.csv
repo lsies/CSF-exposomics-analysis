@@ -1,0 +1,6 @@
+source,target,edge_type,source_database
+Alanine,RHEA:16813,reaction_participant,Rhea
+Alanine,RHEA:25143,reaction_participant,Rhea
+KYNU,RHEA:16813,catalysis_annotation,Rhea/UniProt
+KYNU,RHEA:25143,catalysis_annotation,Rhea/UniProt
+KYNU,hsa00380,KEGG_annotation,KEGG

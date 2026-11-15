@@ -1,0 +1,578 @@
+ENTRY       C02486                      Compound
+NAME        (3R)-beta-Leucine;
+            (3R)-3-Amino-4-methylpentanoic acid;
+            (3R)-3-Amino-4-methylvaleric acid
+FORMULA     C6H13NO2
+EXACT_MASS  131.0946
+MOL_WEIGHT  131.17
+REACTION    R01091
+ENZYME      5.4.3.7
+DBLINKS     PubChem: 5499
+            ChEBI: 15604
+            PDB-CCD: 1VR
+            J-GLOBAL: J353.113I
+ATOM        9
+            1   C1c C    27.5100  -20.0900
+            2   C1b C    26.3200  -20.7900
+            3   C1c C    28.6300  -20.7900
+            4   N1a N    27.5100  -18.7600
+            5   C6a C    25.0600  -20.0900
+            6   C1a C    29.8900  -20.2300
+            7   C1a C    28.6300  -22.4000
+            8   O6a O    23.8700  -20.7900
+            9   O6a O    25.0600  -18.7600
+BOND        8
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1 #Up
+            4     2   5 1
+            5     3   6 1
+            6     3   7 1
+            7     5   8 1
+            8     5   9 2
+///
+
+ENTRY       C02528                      Compound
+NAME        Chenodeoxycholate;
+            Chenodeoxycholic acid;
+            3alpha,7alpha-Dihydroxy-5beta-cholanic acid;
+            Chenodiol
+FORMULA     C24H40O4
+EXACT_MASS  392.2927
+MOL_WEIGHT  392.57
+REMARK      Same as: D00163
+REACTION    R03974 R03975 R03977 R03978 R08743 R12550
+PATHWAY     map00120  Primary bile acid biosynthesis
+            map00121  Secondary bile acid biosynthesis
+            map01100  Metabolic pathways
+            map04976  Bile secretion
+MODULE      M00104  Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate
+ENZYME      1.14.14.139     3.1.2.27        3.5.1.24        3.5.1.74        
+            6.2.1.7
+BRITE       Compounds with biological roles [BR:br08001]
+             Steroids
+              24-Carbon atoms
+               Cholane derivatives
+                C02528  Chenodeoxycholate
+            Lipids [BR:br08002]
+             ST  Sterol lipids
+              ST04 Bile acids and derivatives
+               ST0401 C24 bile acids, alcohols, and derivatives
+                C02528  3alpha,7alpha-Dihydroxy-5beta-cholanic acid
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303(D00163)]
+             A ALIMENTARY TRACT AND METABOLISM
+              A05 BILE AND LIVER THERAPY
+               A05A BILE THERAPY
+                A05AA Bile acids and derivatives
+                 A05AA01 Chenodeoxycholic acid
+                  D00163  Chenodiol (USAN) &lt;JP/US&gt;
+            USP drug classification [BR:br08302(D00163)]
+             Gastrointestinal Agents
+              Gastrointestinal Agents, Other
+               Chenodiol
+                D00163  Chenodiol (USAN)
+            Therapeutic category of drugs in Japan [BR:br08301(D00163)]
+             2  Agents affecting individual organs
+              23  Digestive organ agents
+               236  Cholagogues
+                2362  Bile acids
+                 D00163  Chenodiol (USAN); Chenodeoxycholic acid (JP19/INN)
+             3  Agents affecting metabolism
+              39  Other agents affecting metabolism
+               399  Miscellaneous
+                3999  Others
+                 D00163  Chenodiol (USAN); Chenodeoxycholic acid (JP19/INN)
+            Drug groups [BR:br08330(D00163)]
+             Gastrointestinal agent
+              DG01956  Bile acid preparation
+               D00163  Chenodiol
+            Target-based classification of drugs [BR:br08310(D00163)]
+             Nuclear receptors
+              Thyroid hormone like receptors
+               Liver X receptor like receptor
+                NR1H4 (FXR)
+                 D00163  Chenodiol (USAN) &lt;JP/US&gt;
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311(D00163)]
+             Chemicals
+              D00163  Chenodeoxycholic acid
+            New drug approvals in Europe [br08329.html(D00163)]
+             European public assessment reports (EPAR) authorised medicine
+              D00163
+DBLINKS     CAS: 474-25-9
+            PubChem: 5536
+            ChEBI: 16755
+            LIPIDMAPS: LMST04010032
+            PDB-CCD: JN3
+            J-GLOBAL: J2.053B
+ATOM        28
+            1   C1y C    21.6230  -16.1922
+            2   C1y C    20.4289  -16.8853
+            3   C1z C    21.6289  -14.8060
+            4   C1x C    24.0169  -16.1980
+            5   C1y C    19.2409  -16.2039
+            6   C1y C    20.4406  -18.2658
+            7   C1y C    22.8286  -14.1187
+            8   C1x C    20.4232  -14.1245
+            9   C1a C    21.6230  -13.4548
+            10  C1x C    24.0285  -14.8118
+            11  C1z C    18.0759  -16.9145
+            12  C1x C    19.2292  -14.8234
+            13  C1x C    19.2466  -18.9414
+            14  O1a O    21.6346  -18.9588
+            15  C1c C    22.8345  -12.7675
+            16  C1y C    18.0526  -18.2598
+            17  C1x C    16.8702  -16.2213
+            18  C1a C    18.0468  -15.5457
+            19  C1b C    24.0052  -12.0918
+            20  C1a C    21.6696  -12.0859
+            21  C1x C    16.8702  -18.9471
+            22  C1x C    15.7054  -16.8969
+            23  C1b C    25.1700  -12.7732
+            24  C1y C    15.7054  -18.2598
+            25  C6a C    26.3407  -12.1092
+            26  O1a O    14.4939  -18.9530
+            27  O6a O    27.5057  -12.7849
+            28  O6a O    26.3407  -10.7580
+BOND        31
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     2   6 1
+            6     3   7 1
+            7     3   8 1
+            8     3   9 1 #Up
+            9     4  10 1
+            10    5  11 1
+            11    5  12 1
+            12    6  13 1
+            13    6  14 1 #Down
+            14    7  15 1
+            15   11  16 1
+            16   11  17 1
+            17   11  18 1 #Up
+            18   15  19 1
+            19   15  20 1 #Down
+            20   16  21 1
+            21   17  22 1
+            22   19  23 1
+            23   21  24 1
+            24   23  25 1
+            25   24  26 1 #Down
+            26   25  27 1
+            27   25  28 2
+            28    7  10 1
+            29    8  12 1
+            30   13  16 1
+            31   22  24 1
+///
+
+ENTRY       C02571                      Compound
+NAME        O-Acetylcarnitine;
+            O-Acetyl-L-carnitine
+FORMULA     C9H18NO4
+EXACT_MASS  204.1236
+MOL_WEIGHT  204.24
+REMARK      ATC code: N06BX12
+REACTION    R02396
+PATHWAY     map04931  Insulin resistance
+ENZYME      2.3.1.7
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0707 Fatty acyl carnitines
+                C02571  O-Acetylcarnitine
+            Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N06 PSYCHOANALEPTICS
+               N06B PSYCHOSTIMULANTS, AGENTS USED FOR ADHD AND NOOTROPICS
+                N06BX Other psychostimulants and nootropics
+                 N06BX12 Acetylcarnitine
+                  C02571  O-Acetylcarnitine
+DBLINKS     PubChem: 5567
+            ChEBI: 15960 57589
+            LIPIDMAPS: LMFA07070050 LMFA07070060
+            J-GLOBAL: J370.408D
+ATOM        14
+            1   C1b C    19.5379  -16.5764
+            2   C1c C    18.3261  -15.8739
+            3   N1d N    20.7497  -15.8739 #+
+            4   C1b C    17.1142  -16.5764
+            5   O7a O    18.3261  -14.4748
+            6   C1a C    22.0315  -16.9964
+            7   C1a C    22.4988  -15.8681
+            8   C1a C    20.6867  -17.8503
+            9   C6a C    15.8967  -15.8739
+            10  C7a C    19.5379  -13.7723
+            11  O6a O    14.6848  -16.5764
+            12  O6a O    15.8967  -14.4748
+            13  C1a C    20.7497  -14.4748
+            14  O6a O    19.5379  -12.3732
+BOND        13
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     2   5 1 #Up
+            5     3   6 1
+            6     3   7 1
+            7     3   8 1
+            8     4   9 1
+            9     5  10 1
+            10    9  11 1
+            11    9  12 2
+            12   10  13 1
+            13   10  14 2
+///
+
+ENTRY       C02656                      Compound
+NAME        Pimelate;
+            Pimelic acid;
+            Heptanedioic acid;
+            6-Carboxyhexanoate
+FORMULA     C7H12O4
+EXACT_MASS  160.0736
+MOL_WEIGHT  160.17
+REACTION    R03209
+PATHWAY     map00780  Biotin metabolism
+            map01100  Metabolic pathways
+            map01240  Biosynthesis of cofactors
+MODULE      M00577  Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin
+ENZYME      6.2.1.14
+BRITE       Compounds with biological roles [BR:br08001]
+             Organic acids
+              Carboxylic acids
+               Dicarboxylic acids
+                C02656  Pimelate
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C02656  Heptanedioic acid
+DBLINKS     CAS: 111-16-0
+            PubChem: 5629
+            ChEBI: 30531
+            LIPIDMAPS: LMFA01170051
+            KNApSAcK: C00001199
+            PDB-CCD: PML
+            J-GLOBAL: J5.105E
+ATOM        11
+            1   C6a C    22.0480  -15.1256
+            2   C1b C    20.8374  -15.8275
+            3   O6a O    22.0414  -13.7283
+            4   O6a O    23.2585  -15.8275
+            5   C1b C    19.6205  -15.1256
+            6   C1b C    18.4100  -15.8275
+            7   C1b C    17.1995  -15.1256
+            8   C1b C    15.9826  -15.8275
+            9   C6a C    14.7720  -15.1256
+            10  O6a O    13.5615  -15.8275
+            11  O6a O    14.7720  -13.7283
+BOND        10
+            1     1   2 1
+            2     1   3 1
+            3     1   4 2
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10    9  11 2
+///
+
+ENTRY       C02678                      Compound
+NAME        Dodecanedioic acid
+FORMULA     C12H22O4
+EXACT_MASS  230.1518
+MOL_WEIGHT  230.30
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0117 Dicarboxylic acids
+                C02678  Dodecanedioic acid
+DBLINKS     CAS: 693-23-2
+            PubChem: 5648
+            ChEBI: 4676
+            LIPIDMAPS: LMFA01170009
+            J-GLOBAL: J43.533C
+ATOM        16
+            1   C6a C    30.4756  -16.9379
+            2   C1b C    29.2641  -16.2421
+            3   O6a O    30.4692  -18.3426
+            4   O6a O    31.6870  -16.2355
+            5   C1b C    28.0463  -16.9379
+            6   C1b C    26.8349  -16.2421
+            7   C1b C    25.6236  -16.9379
+            8   C1b C    24.4056  -16.2421
+            9   C1b C    23.1944  -16.9379
+            10  C1b C    21.9764  -16.2421
+            11  C1b C    20.7651  -16.9379
+            12  C1b C    19.5537  -16.2421
+            13  C1b C    18.3359  -16.9379
+            14  C6a C    17.1244  -16.2421
+            15  O6a O    17.1308  -14.8374
+            16  O6a O    15.9130  -16.9445
+BOND        15
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+            14   14  15 2
+            15   14  16 1
+///
+
+ENTRY       C02679                      Compound
+NAME        Dodecanoic acid;
+            Dodecanoate;
+            Dodecylcarboxylate;
+            Lauric acid
+FORMULA     C12H24O2
+EXACT_MASS  200.1776
+MOL_WEIGHT  200.32
+REMARK      Same as: D10714
+REACTION    R04014 R11054 R11664
+PATHWAY     map00061  Fatty acid biosynthesis
+            map00333  Prodigiosin biosynthesis
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+MODULE      M00838  Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin
+ENZYME      1.14.14.130     3.1.2.14        3.1.2.21
+BRITE       Compounds with biological roles [BR:br08001]
+             Lipids
+              Fatty acids
+               Saturated fatty acids
+                C02679  Lauric acid (12:0)
+            Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0101 Straight chain fatty acids
+                C02679  Dodecanoic acid
+            Phytochemical compounds [BR:br08003]
+             Fatty acids related compounds
+              Fatty acids
+               Saturated fatty acids
+                C02679  Lauric acid
+DBLINKS     CAS: 143-07-7
+            PubChem: 5649
+            ChEBI: 18262 30805
+            LIPIDMAPS: LMFA01010012
+            KNApSAcK: C00001221
+            PDB-CCD: DAO
+            J-GLOBAL: J2.548H
+ATOM        14
+            1   C1b C    16.2400  -17.2200
+            2   C1b C    17.4300  -16.5200
+            3   C1b C    14.9800  -16.5200
+            4   C1b C    18.6200  -17.2200
+            5   C1b C    13.7900  -17.2200
+            6   C1b C    19.8100  -16.5200
+            7   C6a C    12.5300  -16.5200
+            8   C1b C    21.0700  -17.2200
+            9   O6a O    11.3400  -17.2200
+            10  O6a O    12.5300  -15.1200
+            11  C1b C    22.2600  -16.5200
+            12  C1b C    23.5200  -17.2200
+            13  C1b C    24.7100  -16.5200
+            14  C1a C    25.9000  -17.2200
+BOND        13
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     6   8 1
+            8     7   9 1
+            9     7  10 2
+            10    8  11 1
+            11   11  12 1
+            12   12  13 1
+            13   13  14 1
+///
+
+ENTRY       C02804                      Compound
+NAME        5-Hydroxypentanoate;
+            5-Hydroxypentanoic acid
+FORMULA     C5H10O3
+EXACT_MASS  118.0630
+MOL_WEIGHT  118.13
+REACTION    R04057 R10980 R10981
+ENZYME      1.1.1.-         2.8.3.14        3.1.1.-
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA01 Fatty Acids and Conjugates
+               FA0105 Hydroxy fatty acids
+                C02804  5-Hydroxypentanoic acid
+DBLINKS     CAS: 13392-69-3
+            PubChem: 5754
+            ChEBI: 16230 45564
+            LIPIDMAPS: LMFA01050010
+            PDB-CCD: SHO
+            J-GLOBAL: J140.264A
+ATOM        8
+            1   C1b C    26.2500  -19.6700
+            2   C1b C    25.0600  -19.0400
+            3   C6a C    27.4400  -19.0400
+            4   C1b C    23.8000  -19.6700
+            5   O6a O    27.4400  -17.5700
+            6   O6a O    28.7000  -19.7400
+            7   C1b C    22.6100  -19.0400
+            8   O1a O    21.4200  -19.6700
+BOND        7
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 2
+            5     3   6 1
+            6     4   7 1
+            7     7   8 1
+///
+
+ENTRY       C02824                      Compound
+NAME        Cyclohexylsulfamate;
+            Cyclohexylsulfamic acid;
+            Cylamic acid;
+            Cyclohexylamide sulfate
+FORMULA     C6H13NO3S
+EXACT_MASS  179.0616
+MOL_WEIGHT  179.24
+REMARK      Same as: D02442
+REACTION    R02564
+PATHWAY     map00930  Caprolactam degradation
+            map01120  Microbial metabolism in diverse environments
+ENZYME      3.10.1.2
+DBLINKS     CAS: 100-88-9
+            PubChem: 5772
+            ChEBI: 15964
+            J-GLOBAL: J4.986G
+ATOM        11
+            1   C1y C    17.5881  -15.2851
+            2   N1b N    17.5881  -13.9810
+            3   C1x C    16.4635  -15.9311
+            4   C1x C    18.7306  -15.9311
+            5   S4a S    19.1672  -13.0181
+            6   C1x C    16.4635  -17.2471
+            7   C1x C    18.7306  -17.2471
+            8   O1d O    19.7576  -14.2683
+            9   O1d O    20.4713  -12.3481
+            10  O1d O    18.4972  -11.6823
+            11  C1x C    17.5881  -17.9111
+BOND        11
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     5  10 2
+            10    6  11 1
+            11    7  11 1
+///
+
+ENTRY       C02838                      Compound
+NAME        L-Octanoylcarnitine
+FORMULA     C15H29NO4
+EXACT_MASS  287.2097
+MOL_WEIGHT  287.39
+REACTION    R03779
+ENZYME      2.3.1.137
+BRITE       Lipids [BR:br08002]
+             FA  Fatty acyls
+              FA07 Fatty esters
+               FA0707 Fatty acyl carnitines
+                C02838  L-Octanoylcarnitine
+DBLINKS     PubChem: 5780
+            ChEBI: 18102
+            LIPIDMAPS: LMFA07070002
+            PDB-CCD: OCB
+            J-GLOBAL: J513.375K
+ATOM        20
+            1   C1c C    26.3651  -16.2402
+            2   O7a O    25.1467  -16.9398
+            3   C1b C    27.5778  -16.9339
+            4   C1b C    26.3594  -14.8352
+            5   C7a C    23.9343  -16.2402
+            6   N1d N    27.5835  -18.3389 #+
+            7   C6a C    27.5778  -14.1299
+            8   C1b C    22.7218  -16.9398
+            9   O6a O    23.9343  -14.8411
+            10  C1a C    28.8662  -18.9684
+            11  C1a C    26.3651  -19.0442
+            12  C1a C    27.9450  -19.8313
+            13  O6a O    27.5719  -12.7308
+            14  O6a O    28.7903  -14.8352 #-
+            15  C1b C    21.5151  -16.2460
+            16  C1b C    20.3083  -16.9455
+            17  C1b C    19.0957  -16.2576
+            18  C1b C    17.8832  -16.9514
+            19  C1b C    16.6706  -16.2635
+            20  C1a C    15.4581  -16.9631
+BOND        19
+            1     1   2 1 #Down
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     5   8 1
+            8     5   9 2
+            9     6  10 1
+            10    6  11 1
+            11    6  12 1
+            12    7  13 2
+            13    7  14 1
+            14    8  15 1
+            15   15  16 1
+            16   16  17 1
+            17   17  18 1
+            18   18  19 1
+            19   19  20 1
+///
+
+ENTRY       C02946                      Compound
+NAME        4-Acetamidobutanoate;
+            N4-Acetylaminobutanoate
+FORMULA     C6H11NO3
+EXACT_MASS  145.0739
+MOL_WEIGHT  145.16
+REACTION    R01987 R05050
+PATHWAY     map00330  Arginine and proline metabolism
+            map01100  Metabolic pathways
+MODULE      M00135  GABA biosynthesis, eukaryotes, putrescine => GABA
+ENZYME      1.2.1.3         3.5.1.63
+DBLINKS     PubChem: 5865
+            ChEBI: 11951 17645
+            J-GLOBAL: J35.110E
+ATOM        10
+            1   O6a O    24.5000  -24.6400
+            2   C6a C    25.6900  -25.3400
+            3   C1b C    26.9500  -24.6400
+            4   C1b C    28.1400  -25.3400
+            5   C1b C    29.3300  -24.6400
+            6   N1b N    30.5900  -25.3400
+            7   C5a C    31.7800  -24.6400
+            8   C1a C    32.9700  -25.3400
+            9   O6a O    25.6900  -26.7400
+            10  O5a O    31.7800  -23.2400
+BOND        9
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     2   9 2
+            9     7  10 2
+///

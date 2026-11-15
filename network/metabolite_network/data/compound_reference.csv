@@ -1,0 +1,615 @@
+CompoundID,database_name,database_formula,mapped_ChEBI,human_reactions
+C00008,ADP; Adenosine 5'-diphosphate,C10H15N5O10P2,16761,380
+C00020,AMP; Adenosine 5'-monophosphate; Adenylic acid; Adenylate; 5'-AMP; 5'-Adenylic acid; 5'-Adenosine monophosphate; Adenosine 5'-phosphate,C10H14N5O7P,16027,158
+C00025,L-Glutamate; L-Glutamic acid; L-Glutaminic acid; Glutamate,C5H9NO4,16015,72
+C00031,D-Glucose; Grape sugar; Dextrose; Glucose; D-Glucopyranose,C6H12O6,4167,29
+C00041,L-Alanine; L-2-Aminopropionic acid; L-alpha-Alanine,C3H7NO2,16977,52
+C00047,"L-Lysine; Lysine acid; 2,6-Diaminohexanoic acid",C6H14N2O2,18019,16
+C00048,Glyoxylate; Glyoxalate; Glyoxylic acid,C2H2O3,16891,29
+C00049,L-Aspartate; L-Aspartic acid; 2-Aminosuccinic acid; L-Asp,C4H7NO4,17053,31
+C00054,"Adenosine 3',5'-bisphosphate; PAP; 3'-Phosphoadenylate; Phosphoadenosine phosphate",C10H15N5O10P2,17985,103
+C00064,L-Glutamine; L-2-Aminoglutaramic acid,C5H10N2O3,18050,36
+C00077,"L-Ornithine; (S)-2,5-Diaminovaleric acid; (S)-2,5-Diaminopentanoic acid; (S)-2,5-Diaminopentanoate",C5H12N2O2,15729,26
+C00082,L-Tyrosine; (S)-3-(p-Hydroxyphenyl)alanine; (S)-2-Amino-3-(p-hydroxyphenyl)propionic acid; Tyrosine,C9H11NO3,17895,20
+C00090,"Catechol; 1,2-Benzenediol; o-Benzenediol; 1,2-Dihydroxybenzene; Brenzcatechin; Pyrocatechol",C6H6O2,18135,1
+C00095,D-Fructose; Levulose; Fruit sugar; D-arabino-Hexulose,C6H12O6,15824;37721,6
+C00099,beta-Alanine; 3-Aminopropionic acid; 3-Aminopropanoate,C3H7NO2,16958,14
+C00114,Choline; Bilineurine,C5H14NO,15354,33
+C00123,L-Leucine; 2-Amino-4-methylvaleric acid; (2S)-alpha-2-Amino-4-methylvaleric acid; (2S)-alpha-Leucine,C6H13NO2,15603,27
+C00135,L-Histidine; (S)-alpha-Amino-1H-imidazole-4-propionic acid,C6H9N3O2,15971,21
+C00146,Phenol; Benzenol; Hydroxybenzene; Phenic acid; Phenylic acid,C6H6O,15882,0
+C00148,L-Proline; 2-Pyrrolidinecarboxylic acid,C5H9NO2,17203,13
+C00156,4-Hydroxybenzoate; Hydroxybenzoic acid; 4-Hydroxybenzoic acid; Hydroxybenzenecarboxylic acid,C7H6O3,17879;30763,3
+C00158,"Citrate; Citric acid; 2-Hydroxy-1,2,3-propanetricarboxylic acid; 2-Hydroxytricarballylic acid",C6H8O7,16947;30769,16
+C00170,5'-Methylthioadenosine; Methylthioadenosine; S-Methyl-5'-thioadenosine; 5-Methylthioadenosine; 5'-Deoxy-5'-(methylthio)adenosine; Thiomethyladenosine; MTA; 5'-Deoxy-5'-(methylsulfanyl)adenosine,C11H15N5O3S,17509;180963,8
+C00180,Benzoate; Benzoic acid; Benzenecarboxylic acid; Phenylformic acid; Dracylic acid,C7H6O2,16150;30746,5
+C00183,L-Valine; 2-Amino-3-methylbutyric acid,C5H11NO2,16414,11
+C00184,"Glycerone; Dihydroxyacetone; 1,3-Dihydroxyacetone; 1,3-Dihydroxy-2-propanone; 1,3-Dihydroxypropan-2-one",C3H6O3,16016,2
+C00185,Cellobiose; 1-beta-D-Glucopyranosyl-4-D-glucopyranose,C12H22O11,17057,1
+C00186,(S)-Lactate; L-Lactate; L-Lactic acid,C3H6O3,16651;422,19
+C00209,Oxalate; Oxalic acid; Ethanedioic acid,C2H2O4,16995;30623,7
+C00213,Sarcosine; N-Methylglycine,C3H7NO2,15611,6
+C00262,Hypoxanthine; Purine-6-ol,C5H4N4O,17368,6
+C00263,L-Homoserine; 2-Amino-4-hydroxybutyric acid,C4H9NO3,15699,1
+C00284,EDTA; Ethylenediaminetetraacetic acid; Edetic acid; Ethylenediaminetetraacetate,C10H16N2O8,4735,0
+C00299,Uridine,C9H12N2O6,16704,11
+C00300,Creatine; alpha-Methylguanidino acetic acid; Methylglycocyamine,C4H9N3O2,16919,5
+C00311,"Isocitrate; Isocitric acid; 1-Hydroxytricarballylic acid; 1-Hydroxypropane-1,2,3-tricarboxylic acid",C6H8O7,16087;30887,4
+C00318,"L-Carnitine; L-gamma-Trimethyl-beta-hydroxybutyrobetaine; Vitamin BT; 3-Carboxy-2-hydroxy-N,N,N-trimethyl-1-propanaminium hydroxide, inner salt; Levocarnitine; (R)-Carnitine",C7H15NO3,16347,32
+C00319,Sphingosine; Sphingenine; Sphingoid; Sphing-4-enine,C18H37NO2,16393;194383,27
+C00334,4-Aminobutanoate; 4-Aminobutanoic acid; 4-Aminobutyrate; 4-Aminobutyric acid; gamma-Aminobutyric acid; GABA,C4H9NO2,16865;30566,15
+C00346,Ethanolamine phosphate; O-Phosphorylethanolamine; Phosphoethanolamine; O-Phosphoethanolamine,C2H8NO4P,17553,11
+C00361,dGDP; 2'-Deoxyguanosine 5'-diphosphate,C10H15N5O10P2,28862,4
+C00362,dGMP; 2'-Deoxyguanosine 5'-monophosphate; 2'-Deoxyguanosine 5'-phosphate; Deoxyguanylic acid; Deoxyguanosine monophosphate,C10H14N5O7P,16192,7
+C00366,Urate; Uric acid,C5H4N4O3,17775,14
+C00385,Xanthine,C5H4N4O2,17712;48517,4
+C00407,L-Isoleucine; 2-Amino-3-methylvaleric acid,C6H13NO2,17191,9
+C00417,cis-Aconitate; cis-Aconitic acid,C6H6O6,16383;32805,4
+C00424,(S)-Lactaldehyde; L-Lactaldehyde; L-2-Hydroxypropionaldehyde,C3H6O2,18041,0
+C00427,"Prostaglandin H2; (5Z,13E)-(15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,11alpha-Epidioxy-15-hydroxyprosta-5,13-dienoate; PGH2; (5Z,9alpha,11alpha,13E,15S)-9,11-Epidioxy-15-hydroxy-prosta-5,13-dienoate",C20H32O5,15554,11
+C00430,5-Aminolevulinate; 5-Amino-4-oxopentanoate; 5-Amino-4-oxovaleric acid; 5-Amino-4-oxopentanoic acid,C5H9NO3,17549,2
+C00431,5-Aminopentanoate; 5-Aminopentanoic acid; 5-Aminovaleric acid,C5H11NO2,15887,0
+C00466,Acetoin; 2-Acetoin; 3-Hydroxybutan-2-one; 3-Hydroxy-2-butanone; Dimethylketol,C4H8O2,15688,1
+C00486,Bilirubin,C33H36N4O6,16990,4
+C00500,Biliverdin; Biliverdin IX alpha,C33H34N4O6,17033;188102,4
+C00530,"Hydroquinone; p-Benzenediol; 1,4-Benzenediol; 1,4-Dihydroxybenzene; Benzene-1,4-diol; Quinol; 4-Hydroxyphenol",C6H6O2,17594,1
+C00539,Aromatic acid; Aromatic carboxylic acid,C7H6O2,30746,6
+C00584,"Prostaglandin E2; (5Z,13E)-(15S)-11alpha,15-Dihydroxy-9-oxoprosta-5,13-dienoate; Dinoprostone; PGE2",C20H32O5,15551;174980;174982;174983;174985,13
+C00587,3-Hydroxybenzoate; 3-Hydroxybenzoic acid; m-Hydroxybenzoic acid,C7H6O3,16193;30764,0
+C00633,4-Hydroxybenzaldehyde; p-Hydroxybenzaldehyde,C7H6O2,17597,0
+C00639,"Prostaglandin F2alpha; (5Z,13E)-(15S)-9alpha,11alpha,15-Trihydroxyprosta-5,13-dienoate; (+)-Prostaglandin F2a; 7-[3,5-Dihydroxy-2-(3-hydroxy-1-octenyl)cyclopentyl]-5-heptenoic acid; 9a,11a-PGF2; Amoglandin; Cyclosin; Dinoprost; Enzaprost; Enzaprost F; Panacelan; PGF2a; 9,11,15-Trihydroxy-(5Z,9a,11a,13E,15S)-prosta-5,13-dien-1-oic acid; Prostaglandin F2a; Prostin F 2 alpha; Protamodin; U 14583; (5Z,9alpha,11alpha,13E,15S)-9,11,15-Trihydroxyprosta-5,13-dienoate",C20H34O5,15553;187232,12
+C00642,4-Hydroxyphenylacetate; 4-Hydroxyphenylacetic acid,C8H8O3,18101,0
+C00696,"Prostaglandin D2; (5Z,13E)-(15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; (5Z,13E,15S)-9alpha,15-Dihydroxy-11-oxoprosta-5,13-dienoate; PGD2",C20H32O5,15555,7
+C00719,"Betaine; Trimethylaminoacetate; Glycine betaine; N,N,N-Trimethylglycine; Trimethylammonioacetate",C5H11NO2,17750,7
+C00735,"Cortisol; Hydrocortisone; 11beta,17alpha,21-Trihydroxy-4-pregnene-3,20-dione; Kendall's compound F; Reichstein's substance M",C21H30O5,17650;180955,8
+C00762,"Cortisone; 17alpha,21-Dihydroxy-4-pregnene-3,11,20-trione; Kendall's compound E; Reichstein's substance Fa",C21H28O5,16962,5
+C00791,Creatinine; 1-Methylglycocyamidine,C4H7N3O,16737,2
+C00803,Pentanoate; Valerate; Pentanoic acid; Valeric acid; Valerianic acid; n-Pentanoate; n-Valeric acid,C5H10O2,17418,5
+C00805,Salicylate; o-Hydroxybenzoic acid; Salicylic acid,C7H6O3,16914;30762,0
+C00836,"Sphinganine; Dihydrosphingosine; 2-Amino-1,3-dihydroxyoctadecane",C18H39NO2,16566,28
+C00869,2-Oxooctadecanoic acid; 2-Oxostearate,C18H34O3,17162;30820,0
+C00946,Adenosine 2'-phosphate; 2'-Adenylic acid; Adenosine-2'-monophosphate; AMP 2'-phosphate,C10H14N5O7P,28223,2
+C00954,Indole-3-acetate; Indole-3-acetic acid; (Indol-3-yl)acetate; Indoleacetate; Indoleacetic acid; (1H-indol-3-yl)acetate; IAA,C10H9NO2,16411,1
+C00989,4-Hydroxybutanoic acid; 4-Hydroxybutanoate; 4-Hydroxybutyric acid,C4H8O3,16724;30830,2
+C01026,"N,N-Dimethylglycine; Dimethylglycine",C4H9NO2,17724,5
+C01083,"alpha,alpha-Trehalose; alpha,alpha'-Trehalose; Trehalose",C12H22O11,16551,2
+C01157,Hydroxyproline; L-Hydroxyproline; trans-4-Hydroxy-L-proline,C5H9NO3,18095,5
+C01198,3-(2-Hydroxyphenyl)propanoate; 2-Hydroxyphenylpropanoate; 3-(2-Hydroxyphenyl)propionic acid; Melilotate; 3-(2-Hydroxyphenyl)propionate,C9H10O3,16104;46957,0
+C01292,"3alpha,7alpha-Dihydroxy-12-oxo-5beta-cholanate",C24H38O5,16312;181916,0
+C01301,"3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al",C27H46O4,16466,2
+C01367,3'-AMP; 3'-Adenylic acid; 3'-Adenosine monophosphate; Adenosine-3'-monophosphate; Adenosine 3'-phosphate; AMP 3'-phosphate,C10H14N5O7P,28931,2
+C01452,Sorbose; xylo-Hexulose,C6H12O6,27922,0
+C01454,Toluate; p-Toluate; p-Toluic acid; 4-Methylbenzoic acid; Toluenecarboxylic acid; Crithminic acid,C8H8O2,28856;36635,0
+C01467,3-Cresol; m-Cresol; 3-Hydroxytoluene; 3-Methylphenol,C7H8O,17231,0
+C01512,Loganate; Loganic acid,C16H24O10,18052;30632,0
+C01542,o-Cresol; 2-Hydroxytoluene; o-Methylphenol,C7H8O,28054,0
+C01571,Decanoic acid; Decanoate; Decylic acid; n-Capric acid,C10H20O2,27689;30813,7
+C01582,Galactose,C6H12O6,28061;28260,2
+C01585,Hexanoic acid; Hexanoate; Hexylic acid; n-Caproic acid,C6H12O2,17120;30776,7
+C01586,Hippurate; Hippuric acid; N-Benzoylglycine; Benzoylaminoacetic acid,C9H9NO3,18089,2
+C01601,Nonanoic acid; Nonanoate; Pelargonic acid,C9H18O2,29019,3
+C01606,"Phthalate; o-Phthalic acid; 1,2-Benzenedicarboxylic acid",C8H6O4,17563;29069,0
+C01697,Galactitol; Dulcitol; Dulcose,C6H14O6,16813,1
+C01744,Phloretate; Phloretic acid; 3-(4-Hydroxyphenyl)propanoate; 3-(4-Hydroxyphenyl)propionic acid,C9H10O3,16331;32980,0
+C01785,Benzenediol,C6H6O2,17701;18135,1
+C01829,"Thyroxine; Levothyroxin; L-Thyroxine; O-(4-Hydroxy-3,5-diidophenyl)-3,5-diiodo-L-tyrosine; 3,5,3'5'-Tetraiodo-L-thyronine; T4",C15H11I4NO4,18332,7
+C01921,"Glycocholate; Glycocholic acid; 3alpha,7alpha,12alpha-Trihydroxy-5beta-cholan-24-oylglycine",C26H43NO6,17687;29746,7
+C02043,Indolelactate,C11H11NO3,17282;24813,0
+C02115,2-Methylserine,C4H9NO3,17799;74819,0
+C02140,"Corticosterone; 11beta,21-Dihydroxy-4-pregnene-3,20-dione; Kendall's compound B; Reichstein's substance H",C21H30O4,16827,6
+C02154,"Glyceraldehyde; 2,3-Dihydroxypropionaldehyde; 2,3-Dihydroxypropanal; Glycerose; Aldotriose",C3H6O3,5445,0
+C02180,Phenylsulfate; Phenol sulfate,C6H6O4S,27905,0
+C02217,10-Oxodecanoate; 10-Oxodecanoic acid,C10H18O3,17130;58022,1
+C02226,2-Methylmaleate; Citraconate; Citraconic acid; Methylmaleic acid,C5H6O4,17626;30719,0
+C02356,(S)-2-Aminobutanoate; (S)-2-Aminobutanoic acid; (S)-2-Aminobutyric acid,C4H9NO2,28340;35619;74359,6
+C02367,3-Oxododecanoic acid; 3-Oxododecanoate,C12H22O3,18037;29743,0
+C02378,6-Aminohexanoate; 6-Aminohexanoic acid; Epsilcapramine; 6-Aminocaproic acid,C6H13NO2,16586;32396,0
+C02477,alpha-Tocopherol; Vitamin E,C29H50O2,18145,1
+C02571,O-Acetylcarnitine; O-Acetyl-L-carnitine,C9H18NO4,15960;57589,4
+C02656,Pimelate; Pimelic acid; Heptanedioic acid; 6-Carboxyhexanoate,C7H12O4,30531,1
+C02678,Dodecanedioic acid,C12H22O4,4676,1
+C02679,Dodecanoic acid; Dodecanoate; Dodecylcarboxylate; Lauric acid,C12H24O2,18262;30805,18
+C02804,5-Hydroxypentanoate; 5-Hydroxypentanoic acid,C5H10O3,16230;45564,0
+C02824,Cyclohexylsulfamate; Cyclohexylsulfamic acid; Cylamic acid; Cyclohexylamide sulfate,C6H13NO3S,15964,0
+C02838,L-Octanoylcarnitine,C15H29NO4,18102,2
+C02946,4-Acetamidobutanoate; N4-Acetylaminobutanoate,C6H11NO3,11951;17645,0
+C02990,L-Palmitoylcarnitine,C23H45NO4,17490,2
+C03017,O-Propanoylcarnitine; O-Propionylcarnitine,C10H19NO4,28867,0
+C03042,(R)-2-Hydroxystearate; (R)-2-Hydroxystearic acid; (R)-2-Hydroxyoctadecanoate; (R)-2-Hydroxyoctadecanoic acid,C18H36O3,15913,1
+C03065,3-Guanidinopropanoate; Guanidinopropionic acid,C4H9N3O2,15968,2
+C03067,3-Hydroxybenzaldehyde,C7H6O2,16207,0
+C03139,N-Amidino-L-aspartate; N-Amidino-L-aspartic acid; Guanidinosuccinic acid,C5H9N3O4,17072,0
+C03239,6-Amino-2-oxohexanoate; 2-Oxo-6-aminocaproate,C6H11NO3,17534,1
+C03242,"Dihomo-gamma-linolenate; Dihomo-gamma-linolenic acid; (8Z,11Z,14Z)-Icosatrienoic acid; (Z,Z,Z)-8,11,14-Eicosatrienoic acid; (Z,Z,Z)-8,11,14-Icosatrienoic acid; (Z,Z,Z)-8,11,14-Eicosatrienoate; (Z,Z,Z)-8,11,14-Icosatrienoate; 8,11,14-Eicosatrienoate; 8,11,14-Icosatrienoate; 8Z,11Z,14Z-Eicosatrienoic acid; (8Z,11Z,14Z)-Icosa-8,11,14-trienoic acid",C20H34O2,53486,6
+C03264,(R)-2-Hydroxyisocaproate; D-2-Hydroxyisocaproate; (R)-2-Hydroxy-4-methylpentanoate; (2R)-2-Hydroxy-4-methylpentanoic acid; D-Leucate,C6H12O3,55534,1
+C03343,Mono-(2-ethylhexyl)phthalate; 2-Ethylhexyl phthalate,C16H22O4,17243,0
+C03588,"4,5alpha-Dihydrocortisone",C21H30O5,16372,0
+C03590,4-Hydroxyphenylglyoxylate; 4-Hydroxybenzoylformate; 4-Hydroxyphenylglyoxylic acid; 2-(4-Hydroxyphenyl)-2-oxoacetate,C8H6O4,28719,0
+C03657,"1,4-Dihydroxy-2-naphthoate; 1,4-Dihydroxy-2-naphthoic acid",C11H8O4,18094,0
+C03665,2-Amino-2-methylpropanoate; 2-Aminoisobutyric acid,C4H9NO2,27971,1
+C03672,3-(4-Hydroxyphenyl)lactate; 4-Hydroxyphenyllactate; p-Hydroxyphenyllactate; 2-Hydroxy-3-(4-hydroxyphenyl)propanoate,C9H10O4,17385;36659,0
+C03916,1-Oleoylglycerophosphocholine; 1-Oleoyl-sn-glycero-3-phosphocholine,C26H53NO7P,182947;28610,19
+C03951,"Luteolin 7-O-beta-D-glucoside; Luteolin 7-O-glucoside; 7-O-beta-D-Glucosyl-5,7,3',4'-tetrahydroxyflavone; Cynaroside; Luteoloside",C21H20O11,27994,1
+C03969,1-Aminocyclopentanecarboxylate; 1-Aminocyclopentanecarboxylic acid; Cycloleucine,C6H11NO2,40547,0
+C04036,1-Palmitoylglycerol 3-phosphate; 1-Hexadecanoyl-sn-glycero-3-phosphate,C19H39O7P,15799;176398;64023,17
+C04076,L-2-Aminoadipate 6-semialdehyde; 2-Aminoadipate 6-semialdehyde; L-Allysine; Allysine; (S)-2-Amino-6-oxohexanoate,C6H11NO3,17917,3
+C04100,1-Linoleoylglycerophosphocholine; 1-Linoleoyl-sn-glycero-3-phosphocholine,C26H51NO7P,28733,3
+C04148,Phenylacetylglutamine; alpha-N-Phenylacetyl-L-glutamine; N2-(2-Phenylacetyl)-L-glutamine,C13H16N2O4,17884;8087,0
+C04368,3-Amino-3-(4-hydroxyphenyl)propanoate; beta-Tyrosine,C9H11NO3,16939,0
+C04554,"3alpha,7alpha-Dihydroxy-5beta-cholestanate; 3alpha,7alpha-Dihydroxy-5beta-cholestanoate",C27H46O4,16577;182016,0
+C04555,Dehydroepiandrosterone sulfate; 3beta-Hydroxyandrost-5-en-17-one 3-sulfate; DHEA sulfate,C19H28O5S,16814,12
+C04655,"(2S,3S)-2-Hydroxytridecane-1,2,3-tricarboxylate; (2S,3S)-2-Hydroxytridecane-1,2,3-tricarboxylic acid",C16H28O7,15608,0
+C04661,"3alpha,7alpha,12beta-Trihydroxy-5beta-cholanate; 3alpha,7alpha,12beta-Trihydroxy-5beta-cholanic acid",C24H40O5,36240,0
+C04717,"(9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoic acid; (9Z,11E)-(13S)-13-Hydroperoxyoctadeca-9,11-dienoate; 13(S)-HPODE; 13S-Hydroperoxy-9Z,11E-octadecadienoic acid; (9Z,11E,13S)-13-Hydroperoxy-9,11-octadecadienoic acid",C18H32O4,15655,4
+C04742,"(15S)-15-Hydroxy-5,8,11-cis-13-trans-eicosatetraenoate; (15S)-15-Hydroxy-5,8,11-cis-13-trans-icosatetraenoate; (5Z,8Z,11Z,13E)-(15S)-15-Hydroxyicosa-5,8,11,13-tetraenoic acid; 15(S)-HETE",C20H32O3,15558,5
+C04785,"13(S)-HPOT; (9Z,11E,15Z)-(13S)-Hydroperoxyoctadeca-9,11,15-trienoate; (9Z,11E,15Z)-(13S)-13-Hydroperoxyoctadeca-9,11,15-trienoic acid; 13(S)-HpOTrE; 13-HPOT",C18H30O4,48905,0
+C04805,"5(S)-HETE; 5-Hydroxyeicosatetraenoate; 5-HETE; (6E,8Z,11Z,14Z)-(5S)-5-Hydroxyicosa-6,8,11,14-tetraenoic acid",C20H32O3,28209,5
+C05122,Taurocholate; Taurocholic acid; Cholyltaurine,C26H45NO7S,181348;28865,10
+C05235,Hydroxyacetone; Acetol; 1-Hydroxy-2-propanone; 2-Ketopropyl alcohol; Acetone alcohol; Pyruvinalcohol; Pyruvic alcohol; Methylketol,C3H6O2,27957,1
+C05284,"11beta-Hydroxyandrost-4-ene-3,17-dione; Androst-4-ene-3,17-dione-11beta-ol; 4-Androsten-11beta-ol-3,17-dione; 11beta-Hydroxyandrostenedione",C19H26O3,190716;27967,4
+C05376,Biochanin A-beta-D-glucoside; Biochanin A 7-O-beta-D-glucoside; Sissotrin,C22H22O10,28751,1
+C05402,Melibiose; 6-O-(alpha-D-Galactopyranosyl)-D-glucopyranose; D-Gal-alpha1->6D-Glucose,C12H22O11,28053,0
+C05463,Taurodeoxycholate; Taurodeoxycholic acid,C26H45NO6S,181392;36261;9410,4
+C05464,"Glycodeoxycholate; Glycodeoxycholic acid; 3alpha,12alpha-Dihydroxy-5beta-cholan-24-oylglycine",C26H43NO5,27471,3
+C05466,Glycochenodeoxycholate; Glycochenodeoxycholic acid; Chenodeoxyglycocholate,C26H43NO5,36274,6
+C05488,11-Deoxycortisol; Cortodoxone,C21H30O4,181455;28324,2
+C05574,3-Aminopentanedioate; Isoglutamate; Isoglutamic acid; 3-Aminopentanedioic acid,C5H9NO4,28791,0
+C05583,3-Methoxy-4-hydroxyphenylglycolaldehyde,C9H10O4,27932,0
+C05593,3-Hydroxyphenylacetate; 3-Hydroxyphenylacetic acid,C8H8O3,17445,0
+C05627,4-Hydroxystyrene; 4-Vinylphenol,C8H8O,1883,0
+C05629,Phenylpropanoate; 3-Phenylpropanoate; 3-Phenyl-propionic acid; 3-Phenylpropanoic acid; 3-Phenylpropionic acid,C9H10O2,28631,1
+C05843,N1-Methyl-4-pyridone-5-carboxamide; N'-Methyl-4-pyridone-5-carboxamide; 1-Methyl-4-pyridone-3-carboximide,C7H8N2O2,27838,0
+C05953,Prostaglandin A2; PGA2; Medullin,C20H30O4,27820,2
+C05954,Prostaglandin B2; PGB2,C20H30O4,28099,0
+C05961,6-Keto-prostaglandin F1alpha; 6-Keto-prostaglandin F1a; 6-Keto-PGF1alpha; 6-Keto-PGF1a,C20H34O6,28158,0
+C06104,"Adipate; Adipic acid; Hexanedioate; Hexan-1,6-dicarboxylate; Hexanedioic acid",C6H10O4,30832,3
+C06121,3-Ketosphingosine,C18H35NO2,20096,0
+C06124,Sphingosine 1-phosphate; Sphing-4-enine 1-phosphate; S1P,C18H38NO5P,37550,6
+C06337,"Terephthalate; Terephthalic acid; 1,4-Benzenedicarboxylic acid",C8H6O4,15702;30043,0
+C06423,Octanoic acid; Caprylic acid; Octylic acid; Octanoate,C8H16O2,28837,11
+C06428,"(5Z,8Z,11Z,14Z,17Z)-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid; Eicosapentaenoic acid; 5,8,11,14,17-Icosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoate; (5Z,8Z,11Z,14Z,17Z)-Icosapentaenoate; 5Z,8Z,11Z,14Z,17Z-Eicosapentaenoic acid; (5Z,8Z,11Z,14Z,17Z)-Icosa-5,8,11,14,17-pentaenoic acid",C20H30O2,28364,19
+C06429,"(4Z,7Z,10Z,13Z,16Z,19Z)-Docosahexaenoic acid; 4,7,10,13,16,19-Docosahexaenoic acid; Docosahexaenoic acid; Docosahexaenoate; 4Z,7Z,10Z,13Z,16Z,19Z-Docosahexaenoic acid; (4Z,7Z,10Z,13Z,16Z,19Z)-Docosa-4,7,10,13,16,19-hexaenoic acid",C22H32O2,28125,21
+C06762,4-Hydroxy-2-oxohexanoic acid; 4-Hydroxy-2-oxohexanoate,C6H10O4,27530;53800,0
+C07073,Lidocaine,C14H22N2O,6456,0
+C07086,Phenylacetic acid; Benzylformic acid; Phenylacetate; Benzeneacetic acid,C8H8O2,30745,0
+C07185,Valproic acid; 2-Propylpentanoic acid,C8H16O2,39867,0
+C07211,m-Methylbenzoate; m-Toluic Acid; beta-Bethylbenzoic acid; m-Toluylic acid,C8H8O2,10589;28795,0
+C07338,"(9Z,12Z)-(11S)-11-Hydroperoxyoctadeca-9,12-dienoic acid; (9Z,12Z)-(11S)-11-Hydroperoxyoctadeca-9,12-dienoate",C18H32O4,15657,0
+C07355,"(9Z)-(7S,8S)-Dihydroxyoctadecenoic acid; (Z)-(7S,8S)-Dihydroxyoctadeca-9-enoic acid; (Z)-(7S,8S)-Dihydroxyoctadeca-9-enoate",C18H34O4,448,0
+C07357,"(9Z,12Z,15Z)-(7S,8S)-Dihydroxyoctadeca-9,12,15-trienoic acid; (9Z,12Z,15Z)-(7S,8S)-Dihydroxyoctadeca-9,12,15-trienoate",C18H30O4,268,0
+C07480,"Theobromine; 3,7-Dimethylxanthine",C7H8N4O2,28946,0
+C07481,"Caffeine; 1,3,7-Trimethylxanthine",C8H10N4O2,27732,0
+C07523,"Propofol; 2,6-Diisopropylphenol",C12H18O,44915,0
+C07588,Salicyluric acid; Salicylurate; N-(2-Hydroxybenzoyl)-glycine,C9H9NO4,9008,0
+C08150,Medroxyprogesterone acetate; 6-alpha-Methyl-17-alpha-acetoxyprogesterone; 6-alpha-Methyl-17-alpha-hydroxyprogesterone acetate,C24H34O4,6716,0
+C08262,3-Methylbutanoic acid; Isovaleric acid; Isovalerate,C5H10O2,28484,1
+C08277,Sebacic acid; Decanedioic acid,C10H18O4,41865,1
+C08278,"Suberic acid; Cork acid; 1,8-Octanedioic acid; Octanedioic acid; 1,6-Hexanedicarboxylic acid",C8H14O4,9300,1
+C08318,"(9Z,12Z)-(8R)-Hydroxyoctadeca-9,12-dienoic acid; Laetisaric acid; 8-Hydroxylinoleic acid",C18H32O3,,0
+C08323,(15Z)-Tetracosenoic acid; Nervonic acid; (Z)-15-Tetracosenoic acid,C24H46O2,44247,5
+C08486,"Ethyl (E,Z)-decadienoate; (2E,4Z)-2,4-Decadienoic acid ethyl ester; Ethyl trans-2,cis-4-decadienoate",C12H20O2,4896,0
+C08489,"(Z)-3,5-Hexadienyl butyrate",C10H16O2,453,0
+C08493,Indole-3-carboxaldehyde; Indole-3-carbaldehyde,C9H7NO,28238,0
+C08899,"Gitogenin; (2alpha,3beta,5alpha,25R)-Spirostan-2,3-diol",C27H44O4,5363,0
+C09069,Carnosol,C20H26O4,3429,0
+C10025,Baicalin; Baicalein 7-O-glucuronide,C21H18O11,2981,0
+C10172,Stachydrine; Proline betaine; L-Proline betaine,C7H13NO2,35280,0
+C10438,Cinnamic acid; Benzeneacrylic acid,C9H8O2,27386;35697,1
+C10482,"6-Paradol; [6]-Paradol; 3-Decanone, 1-(4-hydroxy-3-methoxyphenyl)-",C17H26O3,10137,0
+C10487,Prenyl caffeate,C14H16O4,8393,0
+C10561,(+)-Eudesmin; Pinoresinol dimethyl ether,C22H26O6,23,0
+C10759,6-Pentadecylsalicylic acid; Anacardic acid,C22H36O3,2696,0
+C10794,Ginkgoic acid; Ginkgolic acid,C22H34O3,193466;5354,0
+C10809,5-Pentadecylresorcinol; Cardol,C21H36O2,2120,0
+C10879,Saucernetin,C22H28O5,9041,0
+C10935,"N,N-Diethyl-m-toluamide; Diethyltoluamide; DEET",C12H17NO,7071,0
+C11045,Aspartame,C14H18N2O5,177838;2877,0
+C11129,"Isatin; 1H-Indole-2,3-dione",C8H5NO2,27539,1
+C11457,3-(3-Hydroxyphenyl)propanoic acid; Dihydro-3-coumaric acid; 3-Hydroxyphenylpropanoate; 3-(3-Hydroxyphenyl)propanoate,C9H10O3,1427,0
+C11637,"3alpha,12alpha-Dihydroxy-5beta-chol-6-enoate",C24H38O4,73926,0
+C12083,"(5Z,7E,9E,14Z,17Z)-Icosapentaenoate; (5Z,7E,9E,14Z,17Z)-Eicosapentaenoic acid; (5Z,7E,9E,14Z,17Z)-Eicosapentaenoate; 5Z,7E,9E,14Z,17Z-Eicosapentaenoic acid; (5Z,7E,9E,14Z,17Z)-Icosa-5,7,9,14,17-pentaenoic acid",C20H30O2,,0
+C12144,Phytosphingosine; 4-D-Hydroxysphinganine,C18H39NO3,191244;46961,8
+C12289,Isoamyl isovalerate,C10H20O2,31727,0
+C12295,Citronellyl formate,C11H20O2,172076;179390;31406,0
+C13747,"1,7-Dimethylxanthine; Paraxanthine",C7H8N4O2,25858,0
+C13798,8-(5-Hexyl-furan-2-yl)-octanoic acid; 8-(5-Hexyl-furan-2-yl)-octanoate,C18H30O3,34491,0
+C13828,"8,11,14-Eicosatrienoylethanolamide; N-(8Z,11Z,14Z-Eicosatrienoyl)-ethanolamine",C22H39NO2,34488,0
+C13856,2-Arachidonoylglycerol; 2-Arachidonoyl-sn-glycerol; 2-AG,C23H38O4,52392,8
+C13857,1-Arachidonoylglycerol; 1-Arachidonoyl-sn-glycerol,C23H38O4,34071;75612,7
+C13900,1-Palmitoyl-2-(5-keto-6-octenedioyl)-sn-glycero-3-phosphocholine,C32H58NO11P,34121,0
+C13910,Undecylenic acid; Undecenoic acid; 10-Undecenoic acid; Undec-10-enoic acid,C11H20O2,35045,0
+C13915,Hexadecasphinganine,C16H35NO2,71050,2
+C13945,2-Oxodecanoic acid; 2-Oxodecanoate,C10H18O3,34301,0
+C14093,"1,2-Dihydroxy-8-carboxynaphthalene; 7,8-Dihydroxy-1-naphthalenecarboxylic acid",C11H8O4,18891,0
+C14100,4-Formylsalicylic acid; 4-Formyl-2-hydroxybenzoic acid,C8H6O4,20367,0
+C14131,Equol; (S)-Equol,C15H14O3,34741,0
+C14214,"Dibutyl phthalate; Di-n-butyl phthalate; Dibutyl 1,2-benzenedicarboxylate",C16H22O4,34687,0
+C14236,4-Heptyloxyphenol; p-n-Heptyloxyphenol,C13H20O2,34406,0
+C14253,Dibutyl adipate; Di-n-butyl adipate,C14H26O4,34686,0
+C14300,Di-n-pentyl phthalate; Diamyl phthalate,C18H26O4,34680,0
+C14465,4-Hexylphenol; 4-n-Hexylphenol,C12H18O,34439,0
+C14468,Diisopropyl phthalate,C14H18O4,34712,0
+C14469,Di-n-propylphthalate; Dipropyl phthalate,C14H18O4,60069,0
+C14504,"Di-n-hexyl phthalate; Dihexyl 1,2-benzenedicarboxylate; Dihexyl phthalate",C20H30O4,34678,0
+C14505,"Di-n-decyl phthalate; Didecyl phthalate; Didecyl 1,2-benzenedicarboxylate",C28H46O4,34676,0
+C14578,Diisodecyl phthalate,C28H46O4,34709,0
+C14586,"6alpha-Methylprogesterone; 6alpha-Methylpregn-4-ene-3,20-dione",C22H32O2,34476,0
+C14717,"15-Deoxy-Delta12,14-PGJ2; 15-Deoxy-Delta12,14-prostaglandin J2; 15-Deoxy-PGJ2",C20H28O3,34159,2
+C14762,"13(S)-HODE; (13S)-Hydroxyoctadecadienoic acid; (9Z,11E)-(13S)-13-Hydroxyoctadeca-9,11-dienoic acid",C18H32O3,34154,2
+C14766,"9-OxoODE; 9-KODE; (10E,12Z)-9-Oxooctadeca-10,12-dienoic acid",C18H30O3,72842,0
+C14772,"5,6-DHET; (8Z,11Z,14Z)-5,6-Dihydroxyeicosa-8,11,14-trienoic acid; (8Z,11Z,14Z)-5,6-Dihydroxyicosa-8,11,14-trienoic acid",C20H34O4,63974,0
+C14795,"2,3-Dinor-8-iso prostaglandin F1alpha; 2,3-Dinor-8-iso PGF1alpha",C18H32O5,34229,0
+C14829,"12,13-DHOME; 12,13-DHOA; (9Z)-12,13-Dihydroxyoctadec-9-enoic acid",C18H34O4,72665,0
+C14833,"9,12,13-TriHOME; 9(S),12(S),13(S)-Trihydroxy-10(E)-octadecenoic acid; (10E)-(9S,12S,13S)-9,12,13-Trihydroxyoctadec-10-enoic acid",C18H34O5,34506,0
+C14919,17beta-Hydroxy-2alpha-(methoxymethyl)-17-methyl-5alpha-androstan-3-one,C22H36O3,79444,0
+C14947,"17-Propylestra-1,3,5(10)-triene-3,17beta-diol diacetate",C25H34O4,79471,0
+C14961,3beta-Hydroxy-16beta-(hydroxymethyl)-5alpha-androstan-17-one,C20H32O3,79485,0
+C15015,"2beta,21-Dihydroxypregn-4-ene-3,20-dione",C21H30O4,79538,0
+C15116,"2alpha-Methylpregn-4-ene-3,20-dione; 2alpha-Methylprogesterone",C22H32O2,79635,0
+C15159,"3beta,13-Dihydroxy-16-(hydroxymethylene)-13,17-seco-5alpha-androstan-17-oic acid, delta-lactone",C20H30O4,79677,0
+C15205,Diisobutyl phthalate; DIBP,C16H22O4,79053,0
+C15259,"17beta-Hydroxy-2alpha,17-dimethylestr-4-en-3-one; 2alpha,17-Dimethyl-19-nortestosterone",C20H30O2,79761,0
+C15313,"3,17beta-Diacetoxyestra-1,3,5(10)-trien-6-one; 3,17beta-Dihydroxyestra-1,3,5(10)-trien-6-one diacetate; 6-Oxo-17beta-estradiol diacetate",C22H26O5,79815,0
+C15318,17abeta-Hydroxy-D-homoandrost-4-en-3-one; D-Homotestosterone,C20H30O2,79820,0
+C15382,"Estra-1,3,5(10)-triene-3,6alpha,17beta-triol triacetate",C24H30O6,79883,0
+C15559,Glycochenodeoxycholate 7-sulfate,C26H43NO8S,52031,0
+C15571,Catechol,C6H6O2,18135;33566,2
+C15584,Phenol,C6H6O,15882;33853,3
+C15603,Hydroquinone; p-Hydroquinone; Quinol; Reduced quinone,C6H6O2,17594,11
+C15633,"5,6-24(S),25-Diepoxycholesterol; (24S,25)-Epoxycholesterol alpha-epoxide; 5alpha,6alpha-24S,25-Diepoxycholesterol",C27H44O3,79996,0
+C15792,3-Dehydroteasterone,C28H46O4,20000,0
+C15794,"Castasterone; (2alpha,3alpha,5alpha,22R,23R,24S)-2,3,22,23-Tetrahydroxyergostan-6-one",C28H48O5,23051,0
+C15987,4-Methylaminobutyrate; gamma-N-Methylaminobutyrate,C5H11NO2,37755,0
+C16199,5-Sulfosalicylate; Sulfosalicylic acid,C7H6O6S,68555,0
+C16461,"Geranic acid; 3,7-Dimethylocta-2,6-dienoate; Geranate; 3,7-Dimethylocta-2,6-dienoic acid",C10H16O2,67264,0
+C16503,"Methyl farnesoate; Methyl (2E,6E)-farnesoate",C16H26O2,80535,0
+C16508,12-trans-Hydroxy juvenile hormone III,C16H26O4,80540,0
+C16513,"(7Z,10Z,13Z,16Z,19Z)-Docosapentaenoic acid; (7Z,10Z,13Z,16Z,19Z)-Docosa-7,10,13,16,19-pentaenoic acid; Docosapentaenoic acid; 7Z,10Z,13Z,16Z,19Z-Docosapentaenoic acid",C22H34O2,53488,7
+C16590,7-Oxoheptanoic acid; 7-Ketoheptanoic acid,C7H12O3,80588,0
+C16647,"N,N-Diethylglycine",C6H13NO2,80633,0
+C16650,5-Hydroxyvalproic acid; 2-n-Propyl-5-hydroxypentanoic acid; 5-OH-VPA,C8H16O3,80636,0
+C16652,3-Oxovalproic acid; 2-n-Propyl-3-oxopentanoic acid; 3-Keto-VPA,C8H14O3,80638,0
+C16680,"all-trans-5,6-Epoxyretinoic acid; all-trans-5,6-Epoxy-5,6-dihydroretinoic acid",C20H28O3,80658,1
+C16795,Hydnocarpic acid,C16H28O2,61675,0
+C16868,"Tauroursodeoxycholic acid; N-(3alpha,7beta-Dihydroxy-5beta-cholan-24-oyl)-taurine",C26H45NO6S,80774,6
+C16922,"Bufalin; (3beta,5beta)-3,14-Dihydroxybufa-20,22-dienolide",C24H34O4,517248,0
+C16978,Isoliquiritin,C21H22O9,80839,0
+C17018,"1,4-Dihydroxy-6-naphthoate; 5,8-Dihydroxy-2-naphthoate",C11H8O4,64254;64284,0
+C17056,Plantaginin; Scutellarein 7beta-D-glucopyranoside,C21H20O11,80895,0
+C17333,3beta-Hydroxy-5-cholestenoate; 3beta-Hydroxycholest-5-en-27-oic acid,C27H44O3,81014,0
+C17335,"3beta,7alpha-Dihydroxy-5-cholestenoate; 3beta,7alpha-Dihydroxy-5-cholesten-26-oic acid",C27H44O4,81015,0
+C17336,"7alpha,26-Dihydroxy-4-cholesten-3-one",C27H44O3,190406;48825,0
+C17647,"alpha-Muricholate; alpha-Muricholic acid; 5beta-Cholanic acid-3alpha,6beta,7alpha-triol; 3alpha,6beta,7alpha-Trihydroxy-5beta-cholan-24-oic acid",C24H40O5,134116;81243,0
+C17654,"beta-Phocaecholate; beta-Phocaecholic acid; (23R)-Hydroxychenodeoxycholate; (3alpha,5beta,7alpha,23R)-3,7,23-Trihydroxycholan-24-oic acid",C24H40O5,81249,0
+C17657,Bitocholate; Bitocholic acid,C24H40O5,81252,0
+C17660,"Isochenodeoxycholate; Isochenodeoxycholic acid; 3beta,7alpha-Dihydroxy-5beta-cholanic acid",C24H40O4,88102,0
+C17668,"Haemulcholate; Hemulcholic acid; 3alpha,7alpha,22-Trihydroxy-5beta-cholan-24-oic acid",C24H40O5,81262,0
+C17715,Undecanoic acid; Hendecanoic acid,C11H22O2,32368,1
+C17735,"7-Oxatyphasterol; (22R,23R,24S)-3alpha,22,23-Trihydroxy-7-oxa-5alpha-ergostane-6-one",C28H48O5,185407,0
+C17745,"1-(3,4-Dihydroxyphenyl)-1-decene-3,5-dione",C16H20O4,181365;81310,0
+C17891,"Cryptogenin; Kryptogenin; (3beta,25R)-3,26-Dihydroxycholest-5-ene-16,22-dione",C27H42O4,81367,0
+C18202,8-Methyl-6-nonenoic acid,C10H18O2,81581,0
+C18217,16-Feruloyloxypalmitate; 16-Feruloyloxypalmitic acid,C26H40O6,55330,0
+C18218,16-Hydroxypalmitate; 16-Hydroxypalmitic acid; 16-Hydroxyhexadecanoic acid; Juniperic acid,C16H32O3,55328,2
+C19142,Butopyronoxyl,C12H18O4,82262,0
+C19420,2-Ethylhexyl acrylate,C11H20O2,82465,0
+C19614,16-Oxopalmitate,C16H30O3,134195,1
+C19615,Hexadecanedioate; Hexadecanedioic acid,C16H30O4,73722,2
+C19716,N-Hydroxy-L-tryptophan,C11H12N2O3,,0
+C19970,2-Hydroxy-dAMP,C10H14N5O7P,,1
+C20203,Capsiate,C18H26O4,134190,0
+C20487,L-beta-Phenylalanine; (R)-3-Amino-3-phenylpropanoate; (3R)-beta-Phenylalanine; (R)-3-Amino-3-phenylpropanoic acid,C9H11NO2,,0
+C20666,5-Oxo-delta-bilirubin; delta-Staphylobilin,C33H34N4O7,,0
+C20667,15-Oxo-beta-bilirubin; beta-Staphylobilin,C33H34N4O7,,0
+C20714,3-Oxodecanoate,C10H18O3,,0
+C20793,3-Hydroxyoctanoate; 3-Hydroxyoctanoic acid,C8H16O3,,0
+C20839,(25R)-3-Oxocholest-4-en-26-oate; 3-Oxo-4-cholesten-26-oate; 3-Oxo-4-cholesten-26-oic acid,C27H42O3,,0
+C20851,"Dihydromonacolin L acid; (3R,5R)-7-[(1S,2S,4aR,6R,8aS)-2,6-Dimethyl-1,2,4a,5,6,7,8,8a-octahydronaphthalen1yl]-3,5-dihydroxyheptanoate",C19H32O4,,0
+C20913,C20913; Tabtoxin biosynthesis intermediate 3,C8H14N2O6,190244,0
+C21396,Ethylenediaminetriacetic acid; Ethylenediaminetriacetate; ED3A,C8H14N2O6,,0
+C21445,17-(4-Hydroxyphenyl)heptadecanoyl adenylate,C33H50N5O9P,,0
+C21446,17-(4-Hydroxyphenyl)heptadecanoate,C23H38O3,,0
+C21598,Laninamivir octanoate,C21H36N4O8,,0
+C21723,Biliverdin-IX-delta,C33H34N4O6,,0
+C21724,Biliverdin-IX-beta,C33H34N4O6,,0
+C21923,"9-Hydroxy-12-oxo-10(E),15(Z)-octadecadienoic acid",C18H30O4,182960,0
+C21952,"(8Z,11Z,14Z,17Z,20Z,23Z)-Hexacosahexaenoic acid; 8Z,11Z,14Z,17Z,20Z,23Z-Hexacosahexaenoic acid; (8Z,11Z,14Z,17Z,20Z,23Z)-Hexacosa-8,11,14,17,20,23-hexaenoic acid",C26H40O2,,0
+C22143,N-Methyl-cyclo(L-Trp-L-Phe),C21H21N3O2,,0
+C22203,Isophthalate; Isophthalic acid,C8H6O4,,0
+CHEBI:111517,dimethylmalonic acid,C5H8O4,111517,0
+CHEBI:116314,oleamide,C18H35NO,116314,2
+CHEBI:131690,1-icosanoyl-sn-glycero-3-phosphoethanolamine,C25H52NO7P,131690,0
+CHEBI:132983,3-hydroxydecanoic acid,C10H20O3,132983,0
+CHEBI:133086,octadecanedioic acid,C18H34O4,133086,0
+CHEBI:133145,2-octadecanoyl-sn-glycero-3-phosphoethanolamine,C23H48NO7P,133145,0
+CHEBI:133460,guaiacol sulfate,C7H8O5S,133460,0
+CHEBI:133667,glycitein 4'-O-glucuronide,C22H20O11,133667,0
+CHEBI:137056,cholic acid glucuronide,C30H48O11,137056,0
+CHEBI:137808,2E-decenedioic acid,C10H16O4,137808,0
+CHEBI:138026,5alpha-dihydrotestosterone sulfate,C19H30O5S,138026,3
+CHEBI:138421,1-(1Z-hexadecenyl)-sn-glycero-3-phosphoethanolamine,C21H44NO6P,138421,0
+CHEBI:138770,2-methyl-1-phenyl-2-propanyl hexanoate,C16H24O2,138770,0
+CHEBI:138783,"(10E,12E,14E)-9-hydroxy-16-oxo-10,12,14-octadecatrienoic acid",C18H28O4,138783,0
+CHEBI:138784,(9E)-11-hydroxy-11-{3-[(2Z)-2-penten-1-yl]-2-oxiranyl}-9-undecenoic acid,C18H30O4,138784,0
+CHEBI:141427,Asp-Thr,C8H14N2O6,141427,0
+CHEBI:141436,Glu-Ile,C11H20N2O5,141436,0
+CHEBI:143727,gamma-dodecalactone,C12H22O2,143727,0
+CHEBI:145716,2-acetylphenol,C8H8O2,145716,0
+CHEBI:145740,gamma-decalactone,C10H18O2,145740,0
+CHEBI:145757,deoxycholic acid 3-glucuronide,C30H48O10,145757,0
+CHEBI:145760,7beta-hydroxy-3-oxo-5alpha-cholan-24-oic acid,C24H38O4,145760,0
+CHEBI:145762,19-hydroxydeoxycorticosterone,C21H30O4,145762,0
+CHEBI:165397,"3,4-Dimethyl-5-pentyl-2-furanheptanoic acid",C18H30O3,165397,0
+CHEBI:165404,2-Ethyl-2-hydroxy-butyric acid,C6H12O3,165404,0
+CHEBI:165449,11-Hydroxy-9-tridecenoic acid,C13H24O3,165449,0
+CHEBI:165634,gamma-Linolenyl carnitine,C25H43NO4,165634,0
+CHEBI:166552,5-Hexyltetrahydro-2-oxo-3-furancarboxylic acid,C11H18O4,166552,0
+CHEBI:166735,Isohyodeoxycholic acid,C24H40O4,166735,0
+CHEBI:166779,3beta-Allotetrahydrocortisol,C21H34O5,166779,0
+CHEBI:167838,Genistein 4'-O-glucuronide,C21H18O11,167838,0
+CHEBI:167937,Garcinia lactone dibutyl ester,C14H22O7,167937,0
+CHEBI:167948,alpha-Carboxy-delta-decalactone,C11H18O4,167948,0
+CHEBI:168062,5-Nonyltetrahydro-2-oxo-3-furancarboxylic acid,C14H24O4,168062,0
+CHEBI:168560,Propofol glucuronide,C18H26O7,168560,0
+CHEBI:168605,"3,4-Dimethyl-5-pentyl-2-furanpropanoic acid",C14H22O3,168605,0
+CHEBI:168770,Hydroxyprolyl-Tyrosine,C14H18N2O5,168770,0
+CHEBI:168782,Corchorifatty acid D,C18H28O4,168782,0
+CHEBI:168844,Glycitein 7-O-glucuronide,C22H20O11,168844,0
+CHEBI:168892,2-decylfuran,C14H24O,168892,0
+CHEBI:169032,"(6R,8Z)-6-Hydroxy-3-oxotetradecenoic acid",C14H24O4,169032,0
+CHEBI:169068,"8-Hydroxy-5,6-octadienoic acid",C8H12O3,169068,0
+CHEBI:169181,Monomenthyl succinate,C14H24O4,169181,0
+CHEBI:169258,1-Stearoylglycerophosphoglycerol,C24H49O9P,169258,0
+CHEBI:169371,Ethyl levulinate,C7H12O3,169371,0
+CHEBI:169546,"13-Oxo-9,11-tridecadienoic acid",C13H20O3,169546,0
+CHEBI:169607,4-hydroxy-3-(sulfooxy)benzoic acid,C7H6O7S,169607,0
+CHEBI:169753,1-Acetoxy-2-hydroxy-16-heptadecen-4-one,C19H34O4,169753,0
+CHEBI:169754,xi-7-Hydroxyhexadecanedioic acid,C16H30O5,169754,0
+CHEBI:171116,Cervonyl carnitine,C29H45NO4,171116,0
+CHEBI:171691,3-Hydroxyhexadecadienoylcarnitine,C23H41NO5,171691,0
+CHEBI:171692,Octyl phenylacetate,C16H24O2,171692,0
+CHEBI:171699,2-Phenylethyl octanoate,C16H24O2,171699,0
+CHEBI:171710,2-Carboxy-4-dodecanolide,C13H22O4,171710,0
+CHEBI:171731,Phenethyl decanoate,C18H28O2,171731,0
+CHEBI:171733,"(E,E)-11,13-Octadecadien-9-ynoic acid",C18H28O2,171733,0
+CHEBI:171783,1-Acetoxy-2-hydroxy-16-heptadecyn-4-one,C19H32O4,171783,0
+CHEBI:171846,6-Hexyltetrahydro-2H-pyran-2-one,C11H20O2,171846,0
+CHEBI:171876,"ent-16b,19-Kauranediol 19-acetate",C22H36O3,171876,0
+CHEBI:171878,Tridecyl phloretate,C22H36O3,171878,0
+CHEBI:171902,Annocherin A,C24H38O5,171902,0
+CHEBI:171925,Auxin b,C18H30O4,171925,0
+CHEBI:171935,Butyl levulinate,C9H16O3,171935,0
+CHEBI:171979,"6-Hexyl-1,4-dioxan-2-one",C10H18O3,171979,0
+CHEBI:172045,Dihydro-5-(2-octenyl)-2(3H)-furanone,C12H20O2,172045,0
+CHEBI:172051,"6-Heptyl-5,6-dihydro-2H-pyran-2-one",C12H20O2,172051,0
+CHEBI:172057,Yuzu lactone,C12H20O2,172057,0
+CHEBI:172062,Methyl citronellate,C11H20O2,172062,0
+CHEBI:172067,Cepagenin,C27H42O5,172067,0
+CHEBI:172073,"(1R,2R,3S,1'R)-Nepetalinic acid",C10H16O4,172073,0
+CHEBI:172085,alpha-Carboxy-delta-nonalactone,C10H16O4,172085,0
+CHEBI:172095,2-Hydroxypropyl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,172095,0
+CHEBI:172097,1-Hydroxypropan-2-yl 2-isopropyl-5-methylcyclohexyl carbonate,C14H26O4,172097,0
+CHEBI:172114,9-Oxooctadecanoic acid,C18H34O3,172114,0
+CHEBI:172134,27-Norcholestanehexol,C26H46O6,172134,0
+CHEBI:172322,Undecanoylcarnitine,C18H35NO4,172322,0
+CHEBI:172536,Methylgingerol,C18H28O4,172536,0
+CHEBI:172570,Methyl-[10]-shogaol,C22H34O3,172570,0
+CHEBI:172621,12a-Hydroxy-3-oxocholadienic acid,C24H34O4,172621,0
+CHEBI:172628,"3b,12a-Dihydroxy-5a-cholanoic acid",C24H40O4,172628,0
+CHEBI:172635,"Methyl 3,4-dihydroxy-5-prenylbenzoate 3-glucoside",C19H26O9,172635,0
+CHEBI:173133,"1beta,3alpha,7alpha-Trihydroxy-5beta-cholan-24-oic Acid",C24H40O5,173133,0
+CHEBI:173156,Spirotaccagenin,C27H42O5,173156,0
+CHEBI:173204,Leontogenin,C27H42O5,173204,0
+CHEBI:173255,"6-Butyl-1,4-dioxan-2-one",C8H14O3,173255,0
+CHEBI:173535,(R)-3-Hydroxyhexanoic acid,C6H12O3,173535,0
+CHEBI:173676,Butyl acetoacetate,C8H14O3,173676,0
+CHEBI:173744,Phenethyl salicylate,C15H14O3,173744,0
+CHEBI:173746,Guaicyl phenylacetate,C15H14O3,173746,0
+CHEBI:173827,Methyl 4-phenylbutanoate,C11H14O2,173827,0
+CHEBI:174008,3-Nonanon-1-yl acetate,C11H20O3,174008,0
+CHEBI:174064,"Methyl (2E,6Z)-dodecadienoate",C13H22O2,174064,0
+CHEBI:174156,Octyl 2-furoate,C13H20O3,174156,0
+CHEBI:174158,Furfuryl octanoate,C13H20O3,174158,0
+CHEBI:174199,L-beta-aspartyl-L-threonine,C8H14N2O6,174199,0
+CHEBI:174200,Aspartyl-Threonine,C8H14N2O6,174200,0
+CHEBI:174217,N-[(S)-lactoyl]-L-phenylalanine,C12H15NO4,174217,0
+CHEBI:174253,6-Ketomyristic acid,C14H26O3,174253,0
+CHEBI:174752,Angeloylsenkyunolide F,C17H20O4,174752,0
+CHEBI:174788,Tyrosyl-Hydroxyproline,C14H18N2O5,174788,0
+CHEBI:174795,Nordihydrocapsiate,C17H26O4,174795,0
+CHEBI:174969,Valdiate,C17H26O5,174969,0
+CHEBI:175103,Crispane,C20H32O3,175103,0
+CHEBI:175125,D8'-Merulinic acid A,C24H38O4,175125,0
+CHEBI:175151,"7b,12a-Dihydroxycholanoic acid",C24H40O4,175151,0
+CHEBI:175276,"3a,4b,12a-Trihydroxy-5b-cholanoic acid",C24H40O5,175276,0
+CHEBI:175455,7'-Carboxy-alpha-chromanol,C21H32O4,175455,0
+CHEBI:175490,(S)-[10]-Gingerol,C21H34O4,175490,0
+CHEBI:175527,"(ent-6alpha,7alpha,16alphaH)-6,7,17-Trihydroxy-19-kauranoic acid",C20H32O5,175527,0
+CHEBI:175577,Taccagenin,C27H42O5,175577,0
+CHEBI:175815,Leukotriene D5,C25H38N2O6S,175815,0
+CHEBI:175869,"1-Acetoxy-2-hydroxy-5,12,15-heneicosatrien-4-one",C23H38O4,175869,0
+CHEBI:175946,Fragransin D1,C22H28O6,175946,0
+CHEBI:175947,Fragransin D3,C22H28O6,175947,0
+CHEBI:176130,Genistein 5-O-glucuronide,C21H18O11,176130,0
+CHEBI:176131,Genistein 7-O-glucuronide,C21H18O11,176131,0
+CHEBI:176711,(4S)-4-[(2E)-2-Octenoyloxy]-4-(trimethylammonio)butanoate,C15H27NO4,176711,0
+CHEBI:177254,Isoleucyl-Glutamate,C11H20N2O5,177254,0
+CHEBI:178134,4-Carboxyphenylglycine,C9H9NO4,178134,0
+CHEBI:17964,pipecolic acid,C6H11NO2,17964,0
+CHEBI:179942,3-Hydroxyoctan-2-one,C8H16O2,179942,0
+CHEBI:179949,1-Hydroxy-3-octanone,C8H16O2,179949,0
+CHEBI:180193,1-Stearoylglycerophosphoserine,C24H48NO9P,180193,0
+CHEBI:180206,3Z-decenoic acid,C10H18O2,180206,0
+CHEBI:180234,6-Decanolide,C10H18O2,180234,0
+CHEBI:180285,cis-alpha-octenoic acid,C8H14O2,180285,0
+CHEBI:183543,"(9Z,11S,16S)-1-Acetoxy-9,17-octadecadiene-12,14-diyne-11,16-diol",C20H28O4,183543,0
+CHEBI:183608,Isoleucyl-Hydroxyproline,C11H20N2O4,183608,0
+CHEBI:184131,"12,15-Epoxy-13,14-dimethyleicosa-10,12,14-trienoic acid",C22H36O3,184131,0
+CHEBI:186636,"(3a,5b,7a)-23-Carboxy-7-hydroxy-24-norcholan-3-yl-b-D-Glucopyranosiduronic acid",C30H48O10,186636,0
+CHEBI:187579,"11(E)-(3,4-dimethyl-5-(pent-1-en-1-yl)furan-2-yl)-undecanoic acid",C22H36O3,187579,0
+CHEBI:188397,Equol 7-O-glucuronide,C21H22O9,188397,0
+CHEBI:189728,"2,4,6-trihydroxybenzaldehyde",C7H6O4,189728,0
+CHEBI:189773,2-Hydroxylinolenic acid,C18H30O3,189773,0
+CHEBI:189947,N-(1-Deoxy-1-fructosyl)tyrosine,C15H21NO8,189947,0
+CHEBI:191448,6''-O-Malonylwistin,C26H26O13,191448,0
+CHEBI:191601,Irilone 4'-glucoside,C22H20O11,191601,0
+CHEBI:191614,Crispanone,C20H30O4,191614,0
+CHEBI:192037,2-Hydroxy-3-methyl-4H-pyran-4-one O-(6E-cinnamoyl-b-D-glucoside),C21H22O9,192037,0
+CHEBI:192068,"Genistein 4',7-O-diglucuronide",C27H26O17,192068,0
+CHEBI:192152,Biochanin A 7-(6-methylmalonylglucoside),C26H26O13,192152,0
+CHEBI:192720,N-Propionylalanine,C6H11NO3,192720,0
+CHEBI:195781,"1,1-Dimethoxy-2-phenylethane",C10H14O2,195781,0
+CHEBI:195785,"5,6-Dihydro-6-pentyl-2H-pyran-2-one",C10H16O2,195785,0
+CHEBI:195787,(xi)-(Z)-5-(3-Hexenyl)dihydro-2(3H)-furanone,C10H16O2,195787,0
+CHEBI:195792,(-)-(Z)-Tetrahydro-6-(2-pentenyl)-2H-pyran-2-one,C10H16O2,195792,0
+CHEBI:196621,"5,7,8-Trihydroxyflavanone 7-glucoside",C21H22O10,196621,0
+CHEBI:228873,Ginkgolic Acid C17-1,C24H38O3,228873,0
+CHEBI:229029,6-Gingediol,C17H28O4,229029,0
+CHEBI:229033,6-Methylgingediol,C18H30O4,229033,0
+CHEBI:229717,(9E)-pentadecenoic acid,C15H28O2,229717,0
+CHEBI:230002,ent-17-Acetoxy-16b-kauran-19-al,C22H34O3,230002,0
+CHEBI:230214,"Hexadeca-7,10,13-trienoic acid",C16H26O2,230214,0
+CHEBI:230348,5-pentyl-2-furannonanoic acid,C18H30O3,230348,0
+CHEBI:231220,"(R)-3,4-Dihydro-8-hydroxy-3-tridecyl-1H-2-benzopyran-1-one",C22H34O3,231220,0
+CHEBI:232440,"3-(2,4-dihydroxyphenyl)propanoic acid",C9H10O4,232440,0
+CHEBI:232564,"4-Androsten-3beta,17beta-diol 3-sulfate",C19H30O5S,232564,0
+CHEBI:234043,1-methylpyrrolidine,C5H11N,234043,0
+CHEBI:234320,(3R)-hydroxy-11Z-octadecenoyl-L-carnitine,C25H47NO5,234320,0
+CHEBI:24786,iminodiacetic acid,C4H7NO4,24786,0
+CHEBI:27226,uric acid,C5H4N4O3,27226,0
+CHEBI:35581,indole,C8H7N,35581,0
+CHEBI:35825,mandelic acid,C8H8O3,35825,0
+CHEBI:38108,azetidine-2-carboxylic acid,C4H7NO2,38108,0
+CHEBI:38545,rosuvastatin,C22H28FN3O6S,38545,0
+CHEBI:40131,5-phenylpentanoic acid,C11H14O2,40131,0
+CHEBI:41254,2-(2-carboxyethyl)-4-methyl-5-propylfuran-3-carboxylic acid,C12H16O5,41254,1
+CHEBI:41500,4-phenylbutyric acid,C10H12O2,41500,0
+CHEBI:42539,(R)-3-hydroxytetradecanoic acid,C14H28O3,42539,0
+CHEBI:43355,indoxyl sulfate,C8H7NO4S,43355,3
+CHEBI:43580,3-(1H-indol-3-yl)propanoic acid,C11H11NO2,43580,0
+CHEBI:45630,4-oxopentanoic acid,C5H8O3,45630,0
+CHEBI:48833,"7alpha,12alpha,26-trihydroxycholest-4-en-3-one",C27H44O4,48833,0
+CHEBI:50129,2-hydroxyisobutyric acid,C4H8O3,50129,1
+CHEBI:53210,O-propanoyl-L-carnitine,C10H19NO4,53210,4
+CHEBI:64395,1-arachidonoyl-sn-glycero-3-phosphoethanolamine,C25H44NO7P,64395,0
+CHEBI:64486,N-myristoylsphingosine-1-phosphocholine,C37H75N2O6P,64486,0
+CHEBI:64489,1-myristoyl-sn-glycero-3-phosphocholine,C22H46NO7P,64489,5
+CHEBI:65136,"(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoic acid",C22H34O2,65136,3
+CHEBI:68434,gamma-Glu-Ile,C11H20N2O5,68434,0
+CHEBI:68451,alpha-hydroxyhippuric acid,C9H9NO4,68451,0
+CHEBI:68454,2-hydroxy-2-methylbutyric acid,C5H10O3,68454,0
+CHEBI:68465,"2,6-dihydroxybenzoic acid",C7H6O4,68465,0
+CHEBI:68503,3-methyladipic acid,C7H12O4,68503,0
+CHEBI:68830,O-decanoylcarnitine,C17H33NO4,68830,0
+CHEBI:70819,isovaleryl-L-carnitine,C12H23NO4,70819,1
+CHEBI:70824,m-hydroxyhippuric acid,C9H9NO4,70824,0
+CHEBI:70997,O-nonanoylcarnitine,C16H31NO4,70997,0
+CHEBI:71012,2-octenoyl-L-carnitine,C15H27NO4,71012,0
+CHEBI:71018,p-hydroxyhippuric acid,C9H9NO4,71018,0
+CHEBI:71465,palmitoleoyl ethanolamide,C18H35NO2,71465,1
+CHEBI:71466,oleoyl ethanolamide,C20H39NO2,71466,7
+CHEBI:72637,"(4Z,7Z,10Z,13Z,15E,19Z)-17-hydroxydocosahexaenoic acid",C22H32O3,72637,0
+CHEBI:72689,O-oleoylcarnitine,C25H47NO4,72689,0
+CHEBI:72715,O-linoelaidylcarnitine,C25H45NO4,72715,0
+CHEBI:72723,Phe-Phe,C18H20N2O3,72723,1
+CHEBI:72775,methyl benzoate,C8H8O2,72775,0
+CHEBI:72782,methyl (indol-3-yl)acetate,C11H11NO2,72782,0
+CHEBI:72998,1-hexadecanoyl-sn-glycero-3-phosphocholine,C24H50NO7P,72998,65
+CHEBI:73003,1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphocholine,C44H80NO8P,73003,9
+CHEBI:73025,O-isovalerylcarnitine,C12H23NO4,73025,0
+CHEBI:73060,(5Z)-tetradecenoylcarnitine,C21H39NO4,73060,0
+CHEBI:73074,O-stearoylcarnitine,C25H49NO4,73074,0
+CHEBI:73100,O-icosanoylcarnitine,C27H53NO4,73100,0
+CHEBI:73134,1-hexadecanoyl-sn-glycero-3-phosphoethanolamine,C21H44NO7P,73134,15
+CHEBI:73506,Glu-Leu,C11H20N2O5,73506,0
+CHEBI:73718,tridecanedioic acid,C13H24O4,73718,0
+CHEBI:73723,N-oleoylglycine,C20H37NO3,73723,3
+CHEBI:73757,Ala-Gly,C5H10N2O3,73757,0
+CHEBI:73851,1-[(9Z)-hexadecenoyl]-sn-glycero-3-phosphocholine,C24H48NO7P,73851,0
+CHEBI:73858,1-stearoyl-sn-glycero-3-phosphocholine,C26H54NO7P,73858,21
+CHEBI:73873,"1-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphocholine",C30H50NO7P,73873,2
+CHEBI:74072,Ile-Leu,C12H24N2O3,74072,1
+CHEBI:74340,1-heptadecanoyl-sn-glycero-3-phosphocholine,C25H52NO7P,74340,1
+CHEBI:74430,N-decanoylglycine,C12H23NO3,74430,2
+CHEBI:74438,N-undecanoylglycine,C13H25NO3,74438,0
+CHEBI:74439,N-nonanoylglycine,C11H21NO3,74439,0
+CHEBI:74531,Leu-Glu,C11H20N2O5,74531,0
+CHEBI:74540,Leu-Ile,C12H24N2O3,74540,0
+CHEBI:74751,Phe-Trp,C20H21N3O3,74751,0
+CHEBI:74854,Thr-Asp,C8H14N2O6,74854,0
+CHEBI:74859,Thr-Gly,C6H12N2O4,74859,0
+CHEBI:74883,Tyr-Glu,C14H18N2O6,74883,0
+CHEBI:74903,isocaproic acid,C6H12O2,74903,0
+CHEBI:75145,2-aminooctanoic acid,C8H17NO2,75145,0
+CHEBI:75168,1-oleoyl-sn-glycero-3-phosphoethanolamine,C23H46NO7P,75168,6
+CHEBI:75557,rac-1-monostearoylglycerol,C21H42O4,75557,0
+CHEBI:75972,(R)-2-hydroxyhexadecanoic acid,C16H32O3,75972,1
+CHEBI:76071,2-oleoyl-sn-glycero-3-phosphocholine,C26H52NO7P,76071,9
+CHEBI:76076,2-stearoyl-sn-glycero-3-phosphocholine,C26H54NO7P,76076,3
+CHEBI:76084,2-linoleoyl-sn-glycero-3-phosphocholine,C26H50NO7P,76084,5
+CHEBI:76308,tetradecanedioic acid,C14H26O4,76308,0
+CHEBI:77086,O-lauroyl-L-carnitine,C19H37NO4,77086,1
+CHEBI:79096,1-stearoyl-2-oleoyl-sn-glycero-3-phosphoserine,C42H80NO10P,79096,3
+CHEBI:82679,7-oxolithocholic acid,C24H38O4,82679,4
+CHEBI:82914,p-cresol sulfate,C7H8O4S,82914,0
+CHEBI:82969,gamma-Glu-Tyr,C14H18N2O6,82969,0
+CHEBI:83036,7alpha-hydroxy-3-oxo-4-cholestenoic acid,C27H42O4,83036,0
+CHEBI:83037,androsterone sulfate,C19H30O5S,83037,3
+CHEBI:83047,1-stearoyl-sn-glycero-3-phosphoethanolamine,C23H48NO7P,83047,4
+CHEBI:83058,1-linoleoyl-sn-glycero-3-phosphoethanolamine,C23H44NO7P,83058,0
+CHEBI:83358,N-stearoylsphingosine-1-phosphocholine,C41H83N2O6P,83358,1
+CHEBI:83359,N-icosanoylsphingosine-1-phosphocholine,C43H87N2O6P,83359,0
+CHEBI:83631,octyl gallate,C15H22O5,83631,0
+CHEBI:84094,testosterone sulfate,C19H28O5S,84094,2
+CHEBI:84634,O-tetradecanoyl-L-carnitine,C21H41NO4,84634,1
+CHEBI:84644,O-octadecanoyl-L-carnitine,C25H49NO4,84644,1
+CHEBI:84645,(R)-icosanoylcarnitine,C27H53NO4,84645,1
+CHEBI:84649,O-[(5Z)-tetradecenoyl]-L-carnitine,C21H39NO4,84649,1
+CHEBI:84651,(R)-oleoylcarnitine,C25H47NO4,84651,1
+CHEBI:84834,O-hexanoyl-L-carnitine,C13H25NO4,84834,1
+CHEBI:85105,3-hydroxy-(9Z)-hexadecenoyl-L-carnitine,C23H43NO5,85105,0
+CHEBI:85403,1-stearoyl-sn-glycero-3-phosphoserine,C24H48NO9P,85403,5
+CHEBI:85805,"D-glucaro-1,4-lactone",C6H8O7,85805,0
+CHEBI:86031,(2E)-hexadecenoylcarnitine,C23H43NO4,86031,0
+CHEBI:86055,ethyl hexanoate,C8H16O2,86055,1
+CHEBI:86094,"1-tetradecanoyl-2-[(9Z,12Z)-octadecadienoyl]-sn-glycero-3-phosphocholine",C40H76NO8P,86094,2
+CHEBI:86261,(3S)-beta-leucine,C6H13NO2,86261,0
+CHEBI:86348,"2,4-dihydroxybutanoic acid",C4H8O4,86348,0
+CHEBI:86369,3-(3-hydroxyphenyl)-3-hydroxypropanoic acid,C9H10O4,86369,0
+CHEBI:86542,2-hydroxyhexanoic acid,C6H12O3,86542,0
+CHEBI:86655,homoveratric acid,C10H12O4,86655,0
+CHEBI:87500,isobutyl benzoate,C11H14O2,87500,0
+CHEBI:87986,p-tolyl beta-D-glucuronide,C13H16O7,87986,0
+CHEBI:88108,"7alpha,12alpha-dihydroxy-3-oxo-5beta-cholan-24-oic acid",C24H38O5,88108,0
+CHEBI:88460,15(16)-EpODE,C18H30O3,88460,0
+CHEBI:88522,Monobutylphthalate,C12H14O4,88522,0
+CHEBI:88717,3-hydroxybenzoic acid-3-O-sulphate,C7H6O6S,88717,0
+CHEBI:88728,Tetrahydroaldosterone-3-glucuronide,C27H40O11,88728,0
+CHEBI:88733,11-beta-Hydroxyandrosterone-3-glucuronide,C25H38O9,88733,0
+CHEBI:88765,Pregnanediol-3-glucuronide,C27H44O8,88765,1
+CHEBI:88771,11-Oxo-androsterone glucuronide,C25H36O9,88771,0
+CHEBI:88773,Cortolone-3-glucuronide,C27H42O11,88773,0
+CHEBI:89060,Chenodeoxycholic acid 3-sulfate,C24H40O7S,89060,1
+CHEBI:89129,"N-[(3a,5b,7b)-7-hydroxy-24-oxo-3-(sulfooxy)cholan-24-yl]-Glycine",C26H43NO8S,89129,1
+CHEBI:89188,"2,4-di-tert-butylphenol",C14H22O,89188,0
+CHEBI:89192,2-Octenedioic acid,C8H12O4,89192,0
+CHEBI:89228,"(2R,3R)-2-hydroxy-3-methylpentanoic acid",C6H12O3,89228,0
+CHEBI:89362,xi-gamma-Undecalactone,C11H20O2,89362,0
+CHEBI:89379,gamma-CEHC,C15H20O4,89379,0
+CHEBI:89454,17alpha-hydroxypregnenolone 3-sulfate,C21H32O6S,89454,1
+CHEBI:89493,"2,6-Dimethoxybenzoic acid",C9H10O4,89493,0
+CHEBI:89568,bicyclo-PGE2,C20H30O4,89568,0
+CHEBI:89606,12(13)Ep-9-KODE,C18H30O4,89606,0
+CHEBI:89609,O-methoxycatechol-O-sulphate,C7H8O5S,89609,0
+CHEBI:89625,cis-4-Octenedioic acid,C8H12O4,89625,0
+CHEBI:89716,trans-2-Tetradecenoylcarnitine,C21H39NO4,89716,0
+CHEBI:89717,trans-2-Dodecenoylcarnitine,C19H35NO4,89717,0
+CHEBI:89730,cis-4-Decenedioic acid,C10H16O4,89730,0
+CHEBI:89745,"9,12-Hexadecadienoylcarnitine",C23H41NO4,89745,0
+CHEBI:89746,"3, 5-Tetradecadiencarnitine",C21H37NO4,89746,0
+CHEBI:89901,N-Acetylaminooctanoic acid,C10H19NO3,89901,0
+CHEBI:89902,"3,4-Methyleneazelaic acid",C11H16O4,89902,0
+CHEBI:89935,"3,4-Methylenesebacic acid",C12H18O4,89935,0
+CHEBI:90479,"1-(1Z-hexadecenyl)-2-(4Z,7Z,10Z,13Z,16Z,19Z-docosahexaenoyl)-sn-glycero-3-phosphoethanolamine",C43H74NO7P,90479,0
+CHEBI:93749,"4-hexylbenzene-1,3-diol",C12H18O2,93749,0
+CHEBI:9927,valsartan,C24H29N5O3,9927,0

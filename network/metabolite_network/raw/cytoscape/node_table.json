@@ -1,0 +1,3942 @@
+{
+  "SUID": 319,
+  "title": "Step6_STRING_connected_209 default node",
+  "public": true,
+  "mutable": "PERMANENTLY_IMMUTABLE",
+  "primaryKey": "SUID",
+  "rows": [
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AARS1",
+      "MCODE::Clusters (2)": [
+        "Cluster 14"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 14"
+      ],
+      "shared name": "AARS1",
+      "Betweenness": 451.2657638229554,
+      "Closeness": 0.3086053412462908,
+      "MCODE::Score (2)": 1.6666666666666667,
+      "name": "AARS1",
+      "MCODE::Score (1)": 1.6666666666666667,
+      "SUID": 336,
+      "id": "AARS1",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AARS2",
+      "MCODE::Clusters (2)": [
+        "Cluster 14"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 14"
+      ],
+      "shared name": "AARS2",
+      "Betweenness": 37.26576382295534,
+      "Closeness": 0.30814814814814817,
+      "MCODE::Score (2)": 1.6666666666666667,
+      "name": "AARS2",
+      "MCODE::Score (1)": 1.6666666666666667,
+      "SUID": 345,
+      "id": "AARS2",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "AASS",
+      "shared name": "AASS",
+      "Betweenness": 38.05504606575433,
+      "Closeness": 0.3132530120481928,
+      "MCODE::Score (2)": 3.7333333333333334,
+      "name": "AASS",
+      "MCODE::Score (1)": 3.7333333333333334,
+      "SUID": 348,
+      "id": "AASS",
+      "selected": false
+    },
+    {
+      "Degree": 25.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABCB11",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "ABCB11",
+      "Betweenness": 1244.6470669337666,
+      "Closeness": 0.38589981447124305,
+      "MCODE::Score (2)": 11.948529411764705,
+      "name": "ABCB11",
+      "MCODE::Score (1)": 11.948529411764705,
+      "SUID": 351,
+      "id": "ABCB11",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ABCC11",
+      "shared name": "ABCC11",
+      "Betweenness": 0.0,
+      "Closeness": 0.2826086956521739,
+      "MCODE::Score (2)": 2.0,
+      "name": "ABCC11",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 354,
+      "id": "ABCC11",
+      "selected": false
+    },
+    {
+      "Degree": 23.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABCC3",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "ABCC3",
+      "Betweenness": 281.0374214946263,
+      "Closeness": 0.3617391304347826,
+      "MCODE::Score (2)": 10.431372549019608,
+      "name": "ABCC3",
+      "MCODE::Score (1)": 10.431372549019608,
+      "SUID": 357,
+      "id": "ABCC3",
+      "selected": false
+    },
+    {
+      "Degree": 26.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABCC4",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "ABCC4",
+      "Betweenness": 713.9920139818182,
+      "Closeness": 0.3747747747747748,
+      "MCODE::Score (2)": 9.852631578947369,
+      "name": "ABCC4",
+      "MCODE::Score (1)": 9.852631578947369,
+      "SUID": 360,
+      "id": "ABCC4",
+      "selected": false
+    },
+    {
+      "Degree": 27.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABCG2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "ABCG2",
+      "Betweenness": 904.701312167729,
+      "Closeness": 0.37209302325581395,
+      "MCODE::Score (2)": 11.403508771929824,
+      "name": "ABCG2",
+      "MCODE::Score (1)": 11.403508771929824,
+      "SUID": 363,
+      "id": "ABCG2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABHD11",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "ABHD11",
+      "Betweenness": 314.9357979694769,
+      "Closeness": 0.2950354609929078,
+      "MCODE::Score (2)": 4.464285714285714,
+      "name": "ABHD11",
+      "MCODE::Score (1)": 4.464285714285714,
+      "SUID": 366,
+      "id": "ABHD11",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABHD12",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "ABHD12",
+      "Betweenness": 14.594014304570909,
+      "Closeness": 0.28493150684931506,
+      "MCODE::Score (2)": 4.464285714285714,
+      "name": "ABHD12",
+      "MCODE::Score (1)": 4.464285714285714,
+      "SUID": 369,
+      "id": "ABHD12",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABHD3",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "ABHD3",
+      "Betweenness": 2.6039772461127955,
+      "Closeness": 0.2814614343707713,
+      "MCODE::Score (2)": 4.761904761904762,
+      "name": "ABHD3",
+      "MCODE::Score (1)": 4.761904761904762,
+      "SUID": 372,
+      "id": "ABHD3",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ABHD5",
+      "shared name": "ABHD5",
+      "Betweenness": 724.7983031178037,
+      "Closeness": 0.325,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ABHD5",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 375,
+      "id": "ABHD5",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ABHD6",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "ABHD6",
+      "Betweenness": 94.01647758277129,
+      "Closeness": 0.28769017980636236,
+      "MCODE::Score (2)": 4.464285714285714,
+      "name": "ABHD6",
+      "MCODE::Score (1)": 4.464285714285714,
+      "SUID": 378,
+      "id": "ABHD6",
+      "selected": false
+    },
+    {
+      "Degree": 21.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACAA2",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ACAA2",
+      "Betweenness": 2223.2132341352567,
+      "Closeness": 0.37209302325581395,
+      "MCODE::Score (2)": 5.0,
+      "name": "ACAA2",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 381,
+      "id": "ACAA2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT1",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT1",
+      "Betweenness": 54.75577878132053,
+      "Closeness": 0.3027656477438137,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT1",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 384,
+      "id": "ACOT1",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT13",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT13",
+      "Betweenness": 1284.6894199427877,
+      "Closeness": 0.3234836702954899,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT13",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 387,
+      "id": "ACOT13",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT2",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT2",
+      "Betweenness": 54.75577878132053,
+      "Closeness": 0.3027656477438137,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT2",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 390,
+      "id": "ACOT2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT4",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT4",
+      "Betweenness": 382.03559217761,
+      "Closeness": 0.32298136645962733,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT4",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 393,
+      "id": "ACOT4",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT7",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT7",
+      "Betweenness": 4.345361678300162,
+      "Closeness": 0.2769640479360852,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT7",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 396,
+      "id": "ACOT7",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT8",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT8",
+      "Betweenness": 948.4603063723022,
+      "Closeness": 0.34782608695652173,
+      "MCODE::Score (2)": 6.0,
+      "name": "ACOT8",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 399,
+      "id": "ACOT8",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACOT9",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACOT9",
+      "Betweenness": 31.474233175003487,
+      "Closeness": 0.2962962962962963,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "ACOT9",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 402,
+      "id": "ACOT9",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSF2",
+      "shared name": "ACSF2",
+      "Betweenness": 637.6651852316633,
+      "Closeness": 0.32,
+      "MCODE::Score (2)": 3.0,
+      "name": "ACSF2",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 405,
+      "id": "ACSF2",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ACSL6",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "ACSL6",
+      "Betweenness": 1956.2978288803417,
+      "Closeness": 0.36048526863084923,
+      "MCODE::Score (2)": 7.0,
+      "name": "ACSL6",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 408,
+      "id": "ACSL6",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSM1",
+      "shared name": "ACSM1",
+      "Betweenness": 85.45012793570412,
+      "Closeness": 0.30998509687034276,
+      "MCODE::Score (2)": 1.0666666666666667,
+      "name": "ACSM1",
+      "MCODE::Score (1)": 1.0666666666666667,
+      "SUID": 411,
+      "id": "ACSM1",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSM2A",
+      "shared name": "ACSM2A",
+      "Betweenness": 212.34851774368042,
+      "Closeness": 0.3137254901960784,
+      "MCODE::Score (2)": 2.0,
+      "name": "ACSM2A",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 414,
+      "id": "ACSM2A",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSM2B",
+      "shared name": "ACSM2B",
+      "Betweenness": 278.46501589183964,
+      "Closeness": 0.325,
+      "MCODE::Score (2)": 3.0,
+      "name": "ACSM2B",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 417,
+      "id": "ACSM2B",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSM3",
+      "shared name": "ACSM3",
+      "Betweenness": 242.4102822349191,
+      "Closeness": 0.3317384370015949,
+      "MCODE::Score (2)": 4.0,
+      "name": "ACSM3",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 420,
+      "id": "ACSM3",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ACSM4",
+      "shared name": "ACSM4",
+      "Betweenness": 18.998218251199994,
+      "Closeness": 0.28415300546448086,
+      "MCODE::Score (2)": 1.6666666666666667,
+      "name": "ACSM4",
+      "MCODE::Score (1)": 1.6666666666666667,
+      "SUID": 423,
+      "id": "ACSM4",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ADH1B",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ADH1B",
+      "Betweenness": 56.00809494389394,
+      "Closeness": 0.34551495016611294,
+      "MCODE::Score (2)": 4.076923076923077,
+      "name": "ADH1B",
+      "MCODE::Score (1)": 4.076923076923077,
+      "SUID": 426,
+      "id": "ADH1B",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ADH1C",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ADH1C",
+      "Betweenness": 304.7431103619408,
+      "Closeness": 0.32653061224489793,
+      "MCODE::Score (2)": 5.0,
+      "name": "ADH1C",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 429,
+      "id": "ADH1C",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "ADH7",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ADH7",
+      "Betweenness": 64.2665912564924,
+      "Closeness": 0.3204930662557781,
+      "MCODE::Score (2)": 5.0,
+      "name": "ADH7",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 432,
+      "id": "ADH7",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGK",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGK",
+      "Betweenness": 1272.7229519450798,
+      "Closeness": 0.3382113821138211,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGK",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 435,
+      "id": "AGK",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "AGMAT",
+      "shared name": "AGMAT",
+      "Betweenness": 106.74593360272192,
+      "Closeness": 0.31044776119402984,
+      "MCODE::Score (2)": 2.4000000000000004,
+      "name": "AGMAT",
+      "MCODE::Score (1)": 2.4000000000000004,
+      "SUID": 438,
+      "id": "AGMAT",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGPAT1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGPAT1",
+      "Betweenness": 59.47562238088131,
+      "Closeness": 0.32248062015503876,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGPAT1",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 441,
+      "id": "AGPAT1",
+      "selected": false
+    },
+    {
+      "Degree": 16.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGPAT2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGPAT2",
+      "Betweenness": 2309.5156621053657,
+      "Closeness": 0.348993288590604,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGPAT2",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 444,
+      "id": "AGPAT2",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGPAT3",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGPAT3",
+      "Betweenness": 111.58234101846053,
+      "Closeness": 0.3170731707317073,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGPAT3",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 447,
+      "id": "AGPAT3",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGPAT4",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGPAT4",
+      "Betweenness": 9.846436622627902,
+      "Closeness": 0.30409356725146197,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGPAT4",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 450,
+      "id": "AGPAT4",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGPAT5",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "AGPAT5",
+      "Betweenness": 45.02295963116063,
+      "Closeness": 0.3165905631659056,
+      "MCODE::Score (2)": 11.0,
+      "name": "AGPAT5",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 453,
+      "id": "AGPAT5",
+      "selected": false
+    },
+    {
+      "Degree": 35.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGXT",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "AGXT",
+      "Betweenness": 5379.390725402331,
+      "Closeness": 0.4271047227926078,
+      "MCODE::Score (2)": 4.538011695906433,
+      "name": "AGXT",
+      "MCODE::Score (1)": 4.538011695906433,
+      "SUID": 456,
+      "id": "AGXT",
+      "selected": false
+    },
+    {
+      "Degree": 28.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AGXT2",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "AGXT2",
+      "Betweenness": 870.0514354870455,
+      "Closeness": 0.3649122807017544,
+      "MCODE::Score (2)": 8.0,
+      "name": "AGXT2",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 459,
+      "id": "AGXT2",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "AKR1C1",
+      "shared name": "AKR1C1",
+      "Betweenness": 153.95260161575513,
+      "Closeness": 0.30906389301634474,
+      "MCODE::Score (2)": 1.5,
+      "name": "AKR1C1",
+      "MCODE::Score (1)": 1.5,
+      "SUID": 462,
+      "id": "AKR1C1",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AKR1C2",
+      "MCODE::Clusters (2)": [
+        "Cluster 11"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 11"
+      ],
+      "shared name": "AKR1C2",
+      "Betweenness": 69.05031093242077,
+      "Closeness": 0.30409356725146197,
+      "MCODE::Score (2)": 2.4000000000000004,
+      "name": "AKR1C2",
+      "MCODE::Score (1)": 2.4000000000000004,
+      "SUID": 465,
+      "id": "AKR1C2",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AKR1C4",
+      "MCODE::Clusters (2)": [
+        "Cluster 11"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 11"
+      ],
+      "shared name": "AKR1C4",
+      "Betweenness": 60.082884893136274,
+      "Closeness": 0.3027656477438137,
+      "MCODE::Score (2)": 2.7,
+      "name": "AKR1C4",
+      "MCODE::Score (1)": 2.7,
+      "SUID": 468,
+      "id": "AKR1C4",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALAD",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ALAD",
+      "Betweenness": 242.8078263989145,
+      "Closeness": 0.33876221498371334,
+      "MCODE::Score (2)": 4.0,
+      "name": "ALAD",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 471,
+      "id": "ALAD",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALAS1",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "ALAS1",
+      "Betweenness": 432.5612182500908,
+      "Closeness": 0.34608985024958405,
+      "MCODE::Score (2)": 8.0,
+      "name": "ALAS1",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 474,
+      "id": "ALAS1",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALAS2",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "ALAS2",
+      "Betweenness": 482.0556285629121,
+      "Closeness": 0.33548387096774196,
+      "MCODE::Score (2)": 8.0,
+      "name": "ALAS2",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 477,
+      "id": "ALAS2",
+      "selected": false
+    },
+    {
+      "Degree": 16.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ALDH1A1",
+      "shared name": "ALDH1A1",
+      "Betweenness": 1253.8445815500806,
+      "Closeness": 0.3961904761904762,
+      "MCODE::Score (2)": 2.7777777777777777,
+      "name": "ALDH1A1",
+      "MCODE::Score (1)": 2.7777777777777777,
+      "SUID": 480,
+      "id": "ALDH1A1",
+      "selected": false
+    },
+    {
+      "Degree": 21.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH1B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 13"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 13"
+      ],
+      "shared name": "ALDH1B1",
+      "Betweenness": 535.1710259202828,
+      "Closeness": 0.3655536028119508,
+      "MCODE::Score (2)": 5.384615384615385,
+      "name": "ALDH1B1",
+      "MCODE::Score (1)": 5.384615384615385,
+      "SUID": 483,
+      "id": "ALDH1B1",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH3A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "ALDH3A1",
+      "Betweenness": 912.7680786920853,
+      "Closeness": 0.37545126353790614,
+      "MCODE::Score (2)": 7.0,
+      "name": "ALDH3A1",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 486,
+      "id": "ALDH3A1",
+      "selected": false
+    },
+    {
+      "Degree": 20.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH3A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ALDH3A2",
+      "Betweenness": 1315.8129407633623,
+      "Closeness": 0.3701067615658363,
+      "MCODE::Score (2)": 4.454545454545455,
+      "name": "ALDH3A2",
+      "MCODE::Score (1)": 4.454545454545455,
+      "SUID": 489,
+      "id": "ALDH3A2",
+      "selected": false
+    },
+    {
+      "Degree": 17.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH3B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "ALDH3B1",
+      "Betweenness": 255.7551685489112,
+      "Closeness": 0.35555555555555557,
+      "MCODE::Score (2)": 7.0,
+      "name": "ALDH3B1",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 492,
+      "id": "ALDH3B1",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH3B2",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "ALDH3B2",
+      "Betweenness": 177.7732385714144,
+      "Closeness": 0.3501683501683502,
+      "MCODE::Score (2)": 7.0,
+      "name": "ALDH3B2",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 495,
+      "id": "ALDH3B2",
+      "selected": false
+    },
+    {
+      "Degree": 21.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ALDH7A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "ALDH7A1",
+      "Betweenness": 558.4097473952504,
+      "Closeness": 0.36363636363636365,
+      "MCODE::Score (2)": 4.454545454545455,
+      "name": "ALDH7A1",
+      "MCODE::Score (1)": 4.454545454545455,
+      "SUID": 498,
+      "id": "ALDH7A1",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "AOX1",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "AOX1",
+      "Betweenness": 1026.3483143891556,
+      "Closeness": 0.3531409168081494,
+      "MCODE::Score (2)": 4.0,
+      "name": "AOX1",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 501,
+      "id": "AOX1",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "APEH",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "APEH",
+      "Betweenness": 136.929738015069,
+      "Closeness": 0.2736842105263158,
+      "MCODE::Score (2)": 4.0,
+      "name": "APEH",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 504,
+      "id": "APEH",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ARSF",
+      "MCODE::Clusters (2)": [
+        "Cluster 10"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 10"
+      ],
+      "shared name": "ARSF",
+      "Betweenness": 37.972672133880614,
+      "Closeness": 0.26804123711340205,
+      "MCODE::Score (2)": 4.0,
+      "name": "ARSF",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 507,
+      "id": "ARSF",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ARSG",
+      "MCODE::Clusters (2)": [
+        "Cluster 10"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 10"
+      ],
+      "shared name": "ARSG",
+      "Betweenness": 89.54471342416744,
+      "Closeness": 0.26838709677419353,
+      "MCODE::Score (2)": 4.0,
+      "name": "ARSG",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 510,
+      "id": "ARSG",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ARSK",
+      "MCODE::Clusters (2)": [
+        "Cluster 10"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 10"
+      ],
+      "shared name": "ARSK",
+      "Betweenness": 1775.476075057052,
+      "Closeness": 0.2708333333333333,
+      "MCODE::Score (2)": 4.0,
+      "name": "ARSK",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 513,
+      "id": "ARSK",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "ARSL",
+      "MCODE::Clusters (2)": [
+        "Cluster 10"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 10"
+      ],
+      "shared name": "ARSL",
+      "Betweenness": 89.54471342416744,
+      "Closeness": 0.26838709677419353,
+      "MCODE::Score (2)": 4.0,
+      "name": "ARSL",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 516,
+      "id": "ARSL",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ASAH1",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "ASAH1",
+      "Betweenness": 2030.0,
+      "Closeness": 0.272608125819135,
+      "MCODE::Score (2)": 5.0,
+      "name": "ASAH1",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 519,
+      "id": "ASAH1",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "ASAH2",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "ASAH2",
+      "Betweenness": 0.0,
+      "Closeness": 0.2153209109730849,
+      "MCODE::Score (2)": 5.0,
+      "name": "ASAH2",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 522,
+      "id": "ASAH2",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "BAAT",
+      "shared name": "BAAT",
+      "Betweenness": 1056.3818585784413,
+      "Closeness": 0.3701067615658363,
+      "MCODE::Score (2)": 6.611111111111111,
+      "name": "BAAT",
+      "MCODE::Score (1)": 6.611111111111111,
+      "SUID": 525,
+      "id": "BAAT",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CARNS1",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "CARNS1",
+      "Betweenness": 434.5612802820454,
+      "Closeness": 0.34782608695652173,
+      "MCODE::Score (2)": 7.0,
+      "name": "CARNS1",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 528,
+      "id": "CARNS1",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "CARS2",
+      "MCODE::Clusters (2)": [
+        "Cluster 14"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 14"
+      ],
+      "shared name": "CARS2",
+      "Betweenness": 162.32846981876764,
+      "Closeness": 0.2814614343707713,
+      "MCODE::Score (2)": 2.0,
+      "name": "CARS2",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 531,
+      "id": "CARS2",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CEL",
+      "shared name": "CEL",
+      "Betweenness": 1649.8310428223112,
+      "Closeness": 0.33494363929146537,
+      "MCODE::Score (2)": 2.7,
+      "name": "CEL",
+      "MCODE::Score (1)": 2.7,
+      "SUID": 534,
+      "id": "CEL",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CERS1",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "CERS1",
+      "Betweenness": 0.0,
+      "Closeness": 0.2153209109730849,
+      "MCODE::Score (2)": 5.0,
+      "name": "CERS1",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 537,
+      "id": "CERS1",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CERS4",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "CERS4",
+      "Betweenness": 0.0,
+      "Closeness": 0.2153209109730849,
+      "MCODE::Score (2)": 5.0,
+      "name": "CERS4",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 540,
+      "id": "CERS4",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CERS5",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "CERS5",
+      "Betweenness": 0.0,
+      "Closeness": 0.2153209109730849,
+      "MCODE::Score (2)": 5.0,
+      "name": "CERS5",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 543,
+      "id": "CERS5",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "CERS6",
+      "MCODE::Clusters (2)": [
+        "Cluster 5"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 5"
+      ],
+      "shared name": "CERS6",
+      "Betweenness": 0.0,
+      "Closeness": 0.2153209109730849,
+      "MCODE::Score (2)": 5.0,
+      "name": "CERS6",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 546,
+      "id": "CERS6",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CHST10",
+      "shared name": "CHST10",
+      "Betweenness": 163.63069284479536,
+      "Closeness": 0.2656449553001277,
+      "MCODE::Score (2)": 1.2,
+      "name": "CHST10",
+      "MCODE::Score (1)": 1.2,
+      "SUID": 549,
+      "id": "CHST10",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CNDP1",
+      "MCODE::Clusters (2)": [
+        "Cluster 13"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 13"
+      ],
+      "shared name": "CNDP1",
+      "Betweenness": 884.3529028449229,
+      "Closeness": 0.35194585448392557,
+      "MCODE::Score (2)": 5.4743589743589745,
+      "name": "CNDP1",
+      "MCODE::Score (1)": 5.4743589743589745,
+      "SUID": 552,
+      "id": "CNDP1",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CNDP2",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "CNDP2",
+      "Betweenness": 5.460680748726289,
+      "Closeness": 0.3109118086696562,
+      "MCODE::Score (2)": 7.0,
+      "name": "CNDP2",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 555,
+      "id": "CNDP2",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "COQ2",
+      "shared name": "COQ2",
+      "Betweenness": 0.0,
+      "Closeness": 0.1971563981042654,
+      "MCODE::Score (2)": 0.0,
+      "name": "COQ2",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 558,
+      "id": "COQ2",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CPT2",
+      "shared name": "CPT2",
+      "Betweenness": 462.1165130337836,
+      "Closeness": 0.33986928104575165,
+      "MCODE::Score (2)": 3.0,
+      "name": "CPT2",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 561,
+      "id": "CPT2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CRAT",
+      "shared name": "CRAT",
+      "Betweenness": 310.6626865206522,
+      "Closeness": 0.33876221498371334,
+      "MCODE::Score (2)": 3.7333333333333334,
+      "name": "CRAT",
+      "MCODE::Score (1)": 3.7333333333333334,
+      "SUID": 564,
+      "id": "CRAT",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CROT",
+      "shared name": "CROT",
+      "Betweenness": 104.11120101844594,
+      "Closeness": 0.31901840490797545,
+      "MCODE::Score (2)": 2.0,
+      "name": "CROT",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 567,
+      "id": "CROT",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CSAD",
+      "shared name": "CSAD",
+      "Betweenness": 78.90293310838216,
+      "Closeness": 0.31278195488721805,
+      "MCODE::Score (2)": 1.4,
+      "name": "CSAD",
+      "MCODE::Score (1)": 1.4,
+      "SUID": 570,
+      "id": "CSAD",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CYP11B1",
+      "shared name": "CYP11B1",
+      "Betweenness": 18.684057039747024,
+      "Closeness": 0.30633284241531666,
+      "MCODE::Score (2)": 4.0,
+      "name": "CYP11B1",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 573,
+      "id": "CYP11B1",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "CYP3A7",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "CYP3A7",
+      "Betweenness": 722.4313234729872,
+      "Closeness": 0.342668863261944,
+      "MCODE::Score (2)": 5.0,
+      "name": "CYP3A7",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 576,
+      "id": "CYP3A7",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "CYP4B1",
+      "shared name": "CYP4B1",
+      "Betweenness": 0.7833333333333333,
+      "Closeness": 0.25806451612903225,
+      "MCODE::Score (2)": 0.6666666666666666,
+      "name": "CYP4B1",
+      "MCODE::Score (1)": 0.6666666666666666,
+      "SUID": 579,
+      "id": "CYP4B1",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "DAO",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "DAO",
+      "Betweenness": 317.566021763841,
+      "Closeness": 0.33494363929146537,
+      "MCODE::Score (2)": 8.0,
+      "name": "DAO",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 582,
+      "id": "DAO",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "DHRS1",
+      "shared name": "DHRS1",
+      "Betweenness": 11.954329442487337,
+      "Closeness": 0.25090470446320867,
+      "MCODE::Score (2)": 0.6666666666666666,
+      "name": "DHRS1",
+      "MCODE::Score (1)": 0.6666666666666666,
+      "SUID": 585,
+      "id": "DHRS1",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "DHRS4",
+      "shared name": "DHRS4",
+      "Betweenness": 268.7813097894392,
+      "Closeness": 0.32653061224489793,
+      "MCODE::Score (2)": 0.7555555555555555,
+      "name": "DHRS4",
+      "MCODE::Score (1)": 0.7555555555555555,
+      "SUID": 588,
+      "id": "DHRS4",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "DHRS7B",
+      "shared name": "DHRS7B",
+      "Betweenness": 107.15919414855232,
+      "Closeness": 0.27549668874172184,
+      "MCODE::Score (2)": 0.5,
+      "name": "DHRS7B",
+      "MCODE::Score (1)": 0.5,
+      "SUID": 591,
+      "id": "DHRS7B",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "DMGDH",
+      "shared name": "DMGDH",
+      "Betweenness": 33.27492565354162,
+      "Closeness": 0.3161094224924012,
+      "MCODE::Score (2)": 6.0,
+      "name": "DMGDH",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 594,
+      "id": "DMGDH",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "DTD2",
+      "shared name": "DTD2",
+      "Betweenness": 0.0,
+      "Closeness": 0.23609534619750283,
+      "MCODE::Score (2)": 0.0,
+      "name": "DTD2",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 597,
+      "id": "DTD2",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "DTWD1",
+      "MCODE::Clusters (2)": [
+        "Cluster 12"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 12"
+      ],
+      "shared name": "DTWD1",
+      "Betweenness": 205.99999999999997,
+      "Closeness": 0.1773231031543052,
+      "MCODE::Score (2)": 1.6666666666666667,
+      "name": "DTWD1",
+      "MCODE::Score (1)": 1.6666666666666667,
+      "SUID": 600,
+      "id": "DTWD1",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "DTWD2",
+      "MCODE::Clusters (2)": [
+        "Cluster 12"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 12"
+      ],
+      "shared name": "DTWD2",
+      "Betweenness": 1229.9999999999998,
+      "Closeness": 0.21465428276573786,
+      "MCODE::Score (2)": 2.0,
+      "name": "DTWD2",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 603,
+      "id": "DTWD2",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "ENPP2",
+      "shared name": "ENPP2",
+      "Betweenness": 210.86637471557262,
+      "Closeness": 0.3291139240506329,
+      "MCODE::Score (2)": 4.0,
+      "name": "ENPP2",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 606,
+      "id": "ENPP2",
+      "selected": false
+    },
+    {
+      "Degree": 24.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "EPHX2",
+      "shared name": "EPHX2",
+      "Betweenness": 4558.411590155752,
+      "Closeness": 0.3977055449330784,
+      "MCODE::Score (2)": 5.571428571428571,
+      "name": "EPHX2",
+      "MCODE::Score (1)": 5.571428571428571,
+      "SUID": 609,
+      "id": "EPHX2",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "FMO5",
+      "shared name": "FMO5",
+      "Betweenness": 0.0,
+      "Closeness": 0.28493150684931506,
+      "MCODE::Score (2)": 0.0,
+      "name": "FMO5",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 612,
+      "id": "FMO5",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "GADL1",
+      "MCODE::Clusters (2)": [
+        "Cluster 13"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 13"
+      ],
+      "shared name": "GADL1",
+      "Betweenness": 208.9776533675171,
+      "Closeness": 0.325,
+      "MCODE::Score (2)": 6.358974358974359,
+      "name": "GADL1",
+      "MCODE::Score (1)": 6.358974358974359,
+      "SUID": 615,
+      "id": "GADL1",
+      "selected": false
+    },
+    {
+      "Degree": 17.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GATM",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "GATM",
+      "Betweenness": 256.69663339781,
+      "Closeness": 0.35494880546075086,
+      "MCODE::Score (2)": 8.0,
+      "name": "GATM",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 618,
+      "id": "GATM",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "GDA",
+      "shared name": "GDA",
+      "Betweenness": 53.09968819078302,
+      "Closeness": 0.325508607198748,
+      "MCODE::Score (2)": 3.0,
+      "name": "GDA",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 621,
+      "id": "GDA",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "GDPD1",
+      "shared name": "GDPD1",
+      "Betweenness": 157.40601181293619,
+      "Closeness": 0.32,
+      "MCODE::Score (2)": 2.6666666666666665,
+      "name": "GDPD1",
+      "MCODE::Score (1)": 2.6666666666666665,
+      "SUID": 624,
+      "id": "GDPD1",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "GDPD3",
+      "shared name": "GDPD3",
+      "Betweenness": 157.40601181293619,
+      "Closeness": 0.32,
+      "MCODE::Score (2)": 2.6666666666666665,
+      "name": "GDPD3",
+      "MCODE::Score (1)": 2.6666666666666665,
+      "SUID": 627,
+      "id": "GDPD3",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "GLYAT",
+      "shared name": "GLYAT",
+      "Betweenness": 19.386909041645232,
+      "Closeness": 0.2829931972789116,
+      "MCODE::Score (2)": 2.0,
+      "name": "GLYAT",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 630,
+      "id": "GLYAT",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GNMT",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "GNMT",
+      "Betweenness": 5.070364258866446,
+      "Closeness": 0.32248062015503876,
+      "MCODE::Score (2)": 8.0,
+      "name": "GNMT",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 633,
+      "id": "GNMT",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GPAM",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "GPAM",
+      "Betweenness": 276.0514968084505,
+      "Closeness": 0.3170731707317073,
+      "MCODE::Score (2)": 11.0,
+      "name": "GPAM",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 636,
+      "id": "GPAM",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GPAT3",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "GPAT3",
+      "Betweenness": 50.79170069172437,
+      "Closeness": 0.32,
+      "MCODE::Score (2)": 11.0,
+      "name": "GPAT3",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 639,
+      "id": "GPAT3",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GPAT4",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "GPAT4",
+      "Betweenness": 50.79170069172437,
+      "Closeness": 0.32,
+      "MCODE::Score (2)": 11.0,
+      "name": "GPAT4",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 642,
+      "id": "GPAT4",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GPT",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "GPT",
+      "Betweenness": 518.6667418578945,
+      "Closeness": 0.34840871021775544,
+      "MCODE::Score (2)": 4.0,
+      "name": "GPT",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 645,
+      "id": "GPT",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "GPT2",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "GPT2",
+      "Betweenness": 781.944616881115,
+      "Closeness": 0.3525423728813559,
+      "MCODE::Score (2)": 4.0,
+      "name": "GPT2",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 648,
+      "id": "GPT2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "HSD11B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 11"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 11"
+      ],
+      "shared name": "HSD11B1",
+      "Betweenness": 665.9900430826909,
+      "Closeness": 0.30906389301634474,
+      "MCODE::Score (2)": 2.857142857142857,
+      "name": "HSD11B1",
+      "MCODE::Score (1)": 2.857142857142857,
+      "SUID": 651,
+      "id": "HSD11B1",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "HSD11B2",
+      "shared name": "HSD11B2",
+      "Betweenness": 0.0,
+      "Closeness": 0.30101302460202606,
+      "MCODE::Score (2)": 4.0,
+      "name": "HSD11B2",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 654,
+      "id": "HSD11B2",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "HSD17B3",
+      "MCODE::Clusters (2)": [
+        "Cluster 11"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 11"
+      ],
+      "shared name": "HSD17B3",
+      "Betweenness": 1873.9686636140343,
+      "Closeness": 0.35986159169550175,
+      "MCODE::Score (2)": 2.857142857142857,
+      "name": "HSD17B3",
+      "MCODE::Score (1)": 2.857142857142857,
+      "SUID": 657,
+      "id": "HSD17B3",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "KYNU",
+      "shared name": "KYNU",
+      "Betweenness": 42.719919315887154,
+      "Closeness": 0.3328,
+      "MCODE::Score (2)": 3.238095238095238,
+      "name": "KYNU",
+      "MCODE::Score (1)": 3.238095238095238,
+      "SUID": 660,
+      "id": "KYNU",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "LCLAT1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "LCLAT1",
+      "Betweenness": 3.5802968502658907,
+      "Closeness": 0.2967189728958631,
+      "MCODE::Score (2)": 11.0,
+      "name": "LCLAT1",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 663,
+      "id": "LCLAT1",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "LCT",
+      "shared name": "LCT",
+      "Betweenness": 0.0,
+      "Closeness": 0.17362270450751252,
+      "MCODE::Score (2)": 0.0,
+      "name": "LCT",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 666,
+      "id": "LCT",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "LIPF",
+      "shared name": "LIPF",
+      "Betweenness": 6.889860019207845,
+      "Closeness": 0.30498533724340177,
+      "MCODE::Score (2)": 2.7,
+      "name": "LIPF",
+      "MCODE::Score (1)": 2.7,
+      "SUID": 669,
+      "id": "LIPF",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "LPCAT2",
+      "shared name": "LPCAT2",
+      "Betweenness": 392.16782536765044,
+      "Closeness": 0.3123123123123123,
+      "MCODE::Score (2)": 8.0,
+      "name": "LPCAT2",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 672,
+      "id": "LPCAT2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "LYPLA2",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "LYPLA2",
+      "Betweenness": 82.94013115247618,
+      "Closeness": 0.2814614343707713,
+      "MCODE::Score (2)": 5.0,
+      "name": "LYPLA2",
+      "MCODE::Score (1)": 5.0,
+      "SUID": 675,
+      "id": "LYPLA2",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "MBOAT1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "MBOAT1",
+      "Betweenness": 356.33732735319927,
+      "Closeness": 0.31278195488721805,
+      "MCODE::Score (2)": 11.0,
+      "name": "MBOAT1",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 678,
+      "id": "MBOAT1",
+      "selected": false
+    },
+    {
+      "Degree": 19.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "MBOAT2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "MBOAT2",
+      "Betweenness": 789.1335727355217,
+      "Closeness": 0.3466666666666667,
+      "MCODE::Score (2)": 11.0,
+      "name": "MBOAT2",
+      "MCODE::Score (1)": 11.0,
+      "SUID": 681,
+      "id": "MBOAT2",
+      "selected": false
+    },
+    {
+      "Degree": 24.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "MGLL",
+      "shared name": "MGLL",
+      "Betweenness": 4427.113795044321,
+      "Closeness": 0.3674911660777385,
+      "MCODE::Score (2)": 9.0,
+      "name": "MGLL",
+      "MCODE::Score (1)": 9.0,
+      "SUID": 684,
+      "id": "MGLL",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "MOCOS",
+      "shared name": "MOCOS",
+      "Betweenness": 127.24661226016259,
+      "Closeness": 0.3170731707317073,
+      "MCODE::Score (2)": 1.8214285714285712,
+      "name": "MOCOS",
+      "MCODE::Score (1)": 1.8214285714285712,
+      "SUID": 687,
+      "id": "MOCOS",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "MTAP",
+      "shared name": "MTAP",
+      "Betweenness": 1137.7502408122068,
+      "Closeness": 0.3495798319327731,
+      "MCODE::Score (2)": 2.7,
+      "name": "MTAP",
+      "MCODE::Score (1)": 2.7,
+      "SUID": 690,
+      "id": "MTAP",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "NAPEPLD",
+      "MCODE::Clusters (2)": [
+        "Cluster 6"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 6"
+      ],
+      "shared name": "NAPEPLD",
+      "Betweenness": 92.54297352107123,
+      "Closeness": 0.30952380952380953,
+      "MCODE::Score (2)": 4.0,
+      "name": "NAPEPLD",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 693,
+      "id": "NAPEPLD",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "NFS1",
+      "shared name": "NFS1",
+      "Betweenness": 172.84217728926112,
+      "Closeness": 0.3161094224924012,
+      "MCODE::Score (2)": 4.0,
+      "name": "NFS1",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 696,
+      "id": "NFS1",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "OLAH",
+      "shared name": "OLAH",
+      "Betweenness": 41.03273162325181,
+      "Closeness": 0.2718954248366013,
+      "MCODE::Score (2)": 2.0,
+      "name": "OLAH",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 699,
+      "id": "OLAH",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PHYKPL",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "PHYKPL",
+      "Betweenness": 127.58841415710995,
+      "Closeness": 0.33440514469453375,
+      "MCODE::Score (2)": 4.363636363636363,
+      "name": "PHYKPL",
+      "MCODE::Score (1)": 4.363636363636363,
+      "SUID": 702,
+      "id": "PHYKPL",
+      "selected": false
+    },
+    {
+      "Degree": 19.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PIPOX",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "PIPOX",
+      "Betweenness": 516.0959286744989,
+      "Closeness": 0.35194585448392557,
+      "MCODE::Score (2)": 8.0,
+      "name": "PIPOX",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 705,
+      "id": "PIPOX",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PLA2G10",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PLA2G10",
+      "Betweenness": 917.2027599870161,
+      "Closeness": 0.31137724550898205,
+      "MCODE::Score (2)": 6.0,
+      "name": "PLA2G10",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 708,
+      "id": "PLA2G10",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PLA2G15",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PLA2G15",
+      "Betweenness": 35.45847282793036,
+      "Closeness": 0.2708333333333333,
+      "MCODE::Score (2)": 6.0,
+      "name": "PLA2G15",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 711,
+      "id": "PLA2G15",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PLA2G4C",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PLA2G4C",
+      "Betweenness": 15.433870459454441,
+      "Closeness": 0.27622841965471445,
+      "MCODE::Score (2)": 6.0,
+      "name": "PLA2G4C",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 714,
+      "id": "PLA2G4C",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PLA2G6",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PLA2G6",
+      "Betweenness": 469.89863974354904,
+      "Closeness": 0.30814814814814817,
+      "MCODE::Score (2)": 6.0,
+      "name": "PLA2G6",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 717,
+      "id": "PLA2G6",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "PM20D2",
+      "shared name": "PM20D2",
+      "Betweenness": 0.0,
+      "Closeness": 0.2606516290726817,
+      "MCODE::Score (2)": 0.0,
+      "name": "PM20D2",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 720,
+      "id": "PM20D2",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PNPLA6",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PNPLA6",
+      "Betweenness": 281.1080425461038,
+      "Closeness": 0.2900976290097629,
+      "MCODE::Score (2)": 6.0,
+      "name": "PNPLA6",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 723,
+      "id": "PNPLA6",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PNPLA7",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "PNPLA7",
+      "Betweenness": 37.95738253517251,
+      "Closeness": 0.27956989247311825,
+      "MCODE::Score (2)": 6.0,
+      "name": "PNPLA7",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 726,
+      "id": "PNPLA7",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "PON1",
+      "shared name": "PON1",
+      "Betweenness": 695.3554045203481,
+      "Closeness": 0.30498533724340177,
+      "MCODE::Score (2)": 1.0666666666666667,
+      "name": "PON1",
+      "MCODE::Score (1)": 1.0666666666666667,
+      "SUID": 729,
+      "id": "PON1",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "PON2",
+      "shared name": "PON2",
+      "Betweenness": 136.67326967844102,
+      "Closeness": 0.2524271844660194,
+      "MCODE::Score (2)": 1.2,
+      "name": "PON2",
+      "MCODE::Score (1)": 1.2,
+      "SUID": 732,
+      "id": "PON2",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "PON3",
+      "shared name": "PON3",
+      "Betweenness": 0.0,
+      "Closeness": 0.23935558112773303,
+      "MCODE::Score (2)": 2.0,
+      "name": "PON3",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 735,
+      "id": "PON3",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "PRODH2",
+      "MCODE::Clusters (2)": [
+        "Cluster 8"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 8"
+      ],
+      "shared name": "PRODH2",
+      "Betweenness": 284.81369543153096,
+      "Closeness": 0.3466666666666667,
+      "MCODE::Score (2)": 4.0,
+      "name": "PRODH2",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 738,
+      "id": "PRODH2",
+      "selected": false
+    },
+    {
+      "Degree": 6.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "PTDSS2",
+      "shared name": "PTDSS2",
+      "Betweenness": 20.26359533741113,
+      "Closeness": 0.2751322751322751,
+      "MCODE::Score (2)": 1.7142857142857142,
+      "name": "PTDSS2",
+      "MCODE::Score (1)": 1.7142857142857142,
+      "SUID": 741,
+      "id": "PTDSS2",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SARDH",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "SARDH",
+      "Betweenness": 143.90402246015995,
+      "Closeness": 0.3285939968404423,
+      "MCODE::Score (2)": 8.0,
+      "name": "SARDH",
+      "MCODE::Score (1)": 8.0,
+      "SUID": 744,
+      "id": "SARDH",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SCLY",
+      "shared name": "SCLY",
+      "Betweenness": 0.0,
+      "Closeness": 0.2708333333333333,
+      "MCODE::Score (2)": 3.0,
+      "name": "SCLY",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 747,
+      "id": "SCLY",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SFXN1",
+      "shared name": "SFXN1",
+      "Betweenness": 0.0,
+      "Closeness": 0.25304136253041365,
+      "MCODE::Score (2)": 0.0,
+      "name": "SFXN1",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 750,
+      "id": "SFXN1",
+      "selected": false
+    },
+    {
+      "Degree": 26.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC10A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC10A1",
+      "Betweenness": 1213.450096300775,
+      "Closeness": 0.36879432624113473,
+      "MCODE::Score (2)": 10.385964912280702,
+      "name": "SLC10A1",
+      "MCODE::Score (1)": 10.385964912280702,
+      "SUID": 753,
+      "id": "SLC10A1",
+      "selected": false
+    },
+    {
+      "Degree": 19.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC10A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC10A2",
+      "Betweenness": 266.46466975050373,
+      "Closeness": 0.35738831615120276,
+      "MCODE::Score (2)": 9.716666666666667,
+      "name": "SLC10A2",
+      "MCODE::Score (1)": 9.716666666666667,
+      "SUID": 756,
+      "id": "SLC10A2",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC10A6",
+      "shared name": "SLC10A6",
+      "Betweenness": 28.958949289815017,
+      "Closeness": 0.2937853107344633,
+      "MCODE::Score (2)": 1.4,
+      "name": "SLC10A6",
+      "MCODE::Score (1)": 1.4,
+      "SUID": 759,
+      "id": "SLC10A6",
+      "selected": false
+    },
+    {
+      "Degree": 32.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC15A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC15A1",
+      "Betweenness": 3014.7701256478445,
+      "Closeness": 0.37545126353790614,
+      "MCODE::Score (2)": 11.403508771929824,
+      "name": "SLC15A1",
+      "MCODE::Score (1)": 11.403508771929824,
+      "SUID": 762,
+      "id": "SLC15A1",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC17A3",
+      "shared name": "SLC17A3",
+      "Betweenness": 14.935550987368725,
+      "Closeness": 0.31901840490797545,
+      "MCODE::Score (2)": 6.0,
+      "name": "SLC17A3",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 765,
+      "id": "SLC17A3",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC1A4",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC1A4",
+      "Betweenness": 491.6919861879893,
+      "Closeness": 0.3123123123123123,
+      "MCODE::Score (2)": 4.909090909090909,
+      "name": "SLC1A4",
+      "MCODE::Score (1)": 4.909090909090909,
+      "SUID": 768,
+      "id": "SLC1A4",
+      "selected": false
+    },
+    {
+      "Degree": 16.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC1A5",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC1A5",
+      "Betweenness": 1488.7792317604328,
+      "Closeness": 0.3466666666666667,
+      "MCODE::Score (2)": 6.909090909090909,
+      "name": "SLC1A5",
+      "MCODE::Score (1)": 6.909090909090909,
+      "SUID": 771,
+      "id": "SLC1A5",
+      "selected": false
+    },
+    {
+      "Degree": 17.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A11",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLC22A11",
+      "Betweenness": 165.5298614370801,
+      "Closeness": 0.33766233766233766,
+      "MCODE::Score (2)": 8.192307692307692,
+      "name": "SLC22A11",
+      "MCODE::Score (1)": 8.192307692307692,
+      "SUID": 774,
+      "id": "SLC22A11",
+      "selected": false
+    },
+    {
+      "Degree": 20.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC22A2",
+      "Betweenness": 1410.2499460444574,
+      "Closeness": 0.36363636363636365,
+      "MCODE::Score (2)": 10.764705882352942,
+      "name": "SLC22A2",
+      "MCODE::Score (1)": 10.764705882352942,
+      "SUID": 777,
+      "id": "SLC22A2",
+      "selected": false
+    },
+    {
+      "Degree": 20.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A5",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLC22A5",
+      "Betweenness": 1216.599210063349,
+      "Closeness": 0.3525423728813559,
+      "MCODE::Score (2)": 7.912087912087912,
+      "name": "SLC22A5",
+      "MCODE::Score (1)": 7.912087912087912,
+      "SUID": 780,
+      "id": "SLC22A5",
+      "selected": false
+    },
+    {
+      "Degree": 23.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A6",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC22A6",
+      "Betweenness": 1222.0223215414392,
+      "Closeness": 0.3531409168081494,
+      "MCODE::Score (2)": 11.948529411764705,
+      "name": "SLC22A6",
+      "MCODE::Score (1)": 11.948529411764705,
+      "SUID": 783,
+      "id": "SLC22A6",
+      "selected": false
+    },
+    {
+      "Degree": 24.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A7",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC22A7",
+      "Betweenness": 2014.6470156976038,
+      "Closeness": 0.40625,
+      "MCODE::Score (2)": 10.509803921568627,
+      "name": "SLC22A7",
+      "MCODE::Score (1)": 10.509803921568627,
+      "SUID": 786,
+      "id": "SLC22A7",
+      "selected": false
+    },
+    {
+      "Degree": 23.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SLC22A8",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC22A8",
+      "Betweenness": 912.8238369620071,
+      "Closeness": 0.3543441226575809,
+      "MCODE::Score (2)": 11.948529411764705,
+      "name": "SLC22A8",
+      "MCODE::Score (1)": 11.948529411764705,
+      "SUID": 789,
+      "id": "SLC22A8",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC22A9",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLC22A9",
+      "Betweenness": 177.91102803586588,
+      "Closeness": 0.32653061224489793,
+      "MCODE::Score (2)": 9.12087912087912,
+      "name": "SLC22A9",
+      "MCODE::Score (1)": 9.12087912087912,
+      "SUID": 792,
+      "id": "SLC22A9",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC25A20",
+      "shared name": "SLC25A20",
+      "Betweenness": 776.5602407175247,
+      "Closeness": 0.329635499207607,
+      "MCODE::Score (2)": 2.7,
+      "name": "SLC25A20",
+      "MCODE::Score (1)": 2.7,
+      "SUID": 795,
+      "id": "SLC25A20",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC2A8",
+      "shared name": "SLC2A8",
+      "Betweenness": 823.9999999999999,
+      "Closeness": 0.26463104325699743,
+      "MCODE::Score (2)": 2.0,
+      "name": "SLC2A8",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 798,
+      "id": "SLC2A8",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC32A1",
+      "shared name": "SLC32A1",
+      "Betweenness": 35.971746535591166,
+      "Closeness": 0.2290748898678414,
+      "MCODE::Score (2)": 2.0,
+      "name": "SLC32A1",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 801,
+      "id": "SLC32A1",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC36A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC36A1",
+      "Betweenness": 356.0595168000794,
+      "Closeness": 0.3132530120481928,
+      "MCODE::Score (2)": 5.230769230769231,
+      "name": "SLC36A1",
+      "MCODE::Score (1)": 5.230769230769231,
+      "SUID": 804,
+      "id": "SLC36A1",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SLC36A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC36A2",
+      "Betweenness": 690.9015200651793,
+      "Closeness": 0.2967189728958631,
+      "MCODE::Score (2)": 7.0,
+      "name": "SLC36A2",
+      "MCODE::Score (1)": 7.0,
+      "SUID": 807,
+      "id": "SLC36A2",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC36A4",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC36A4",
+      "Betweenness": 2.6638110142030405,
+      "Closeness": 0.27770360480640854,
+      "MCODE::Score (2)": 6.805555555555555,
+      "name": "SLC36A4",
+      "MCODE::Score (1)": 6.805555555555555,
+      "SUID": 810,
+      "id": "SLC36A4",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC38A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC38A1",
+      "Betweenness": 82.43692840088369,
+      "Closeness": 0.29213483146067415,
+      "MCODE::Score (2)": 5.9393939393939394,
+      "name": "SLC38A1",
+      "MCODE::Score (1)": 5.9393939393939394,
+      "SUID": 813,
+      "id": "SLC38A1",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC38A10",
+      "shared name": "SLC38A10",
+      "Betweenness": 0.0,
+      "Closeness": 0.2410196987253766,
+      "MCODE::Score (2)": 0.0,
+      "name": "SLC38A10",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 816,
+      "id": "SLC38A10",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC38A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC38A2",
+      "Betweenness": 185.28759350822884,
+      "Closeness": 0.31137724550898205,
+      "MCODE::Score (2)": 5.653846153846154,
+      "name": "SLC38A2",
+      "MCODE::Score (1)": 5.653846153846154,
+      "SUID": 819,
+      "id": "SLC38A2",
+      "selected": false
+    },
+    {
+      "Degree": 8.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC38A4",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC38A4",
+      "Betweenness": 22.677569240801215,
+      "Closeness": 0.2880886426592798,
+      "MCODE::Score (2)": 4.464285714285714,
+      "name": "SLC38A4",
+      "MCODE::Score (1)": 4.464285714285714,
+      "SUID": 822,
+      "id": "SLC38A4",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SLC38A5",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC38A5",
+      "Betweenness": 432.15030905262284,
+      "Closeness": 0.3032069970845481,
+      "MCODE::Score (2)": 5.333333333333333,
+      "name": "SLC38A5",
+      "MCODE::Score (1)": 5.333333333333333,
+      "SUID": 825,
+      "id": "SLC38A5",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC38A8",
+      "shared name": "SLC38A8",
+      "Betweenness": 0.0,
+      "Closeness": 0.2410196987253766,
+      "MCODE::Score (2)": 0.0,
+      "name": "SLC38A8",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 828,
+      "id": "SLC38A8",
+      "selected": false
+    },
+    {
+      "Degree": 21.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC47A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLC47A1",
+      "Betweenness": 397.1527779916355,
+      "Closeness": 0.348993288590604,
+      "MCODE::Score (2)": 9.134502923976608,
+      "name": "SLC47A1",
+      "MCODE::Score (1)": 9.134502923976608,
+      "SUID": 831,
+      "id": "SLC47A1",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SLC47A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLC47A2",
+      "Betweenness": 25.051570539708255,
+      "Closeness": 0.343801652892562,
+      "MCODE::Score (2)": 9.134502923976608,
+      "name": "SLC47A2",
+      "MCODE::Score (1)": 9.134502923976608,
+      "SUID": 834,
+      "id": "SLC47A2",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC51A",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLC51A",
+      "Betweenness": 40.494909517570434,
+      "Closeness": 0.34608985024958405,
+      "MCODE::Score (2)": 10.153846153846155,
+      "name": "SLC51A",
+      "MCODE::Score (1)": 10.153846153846155,
+      "SUID": 837,
+      "id": "SLC51A",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC51B",
+      "shared name": "SLC51B",
+      "Betweenness": 15.14052157525682,
+      "Closeness": 0.33766233766233766,
+      "MCODE::Score (2)": 9.35897435897436,
+      "name": "SLC51B",
+      "MCODE::Score (1)": 9.35897435897436,
+      "SUID": 840,
+      "id": "SLC51B",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC6A11",
+      "shared name": "SLC6A11",
+      "Betweenness": 0.0,
+      "Closeness": 0.2191780821917808,
+      "MCODE::Score (2)": 2.0,
+      "name": "SLC6A11",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 843,
+      "id": "SLC6A11",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC6A13",
+      "shared name": "SLC6A13",
+      "Betweenness": 615.9797053137163,
+      "Closeness": 0.2765957446808511,
+      "MCODE::Score (2)": 1.2,
+      "name": "SLC6A13",
+      "MCODE::Score (1)": 1.2,
+      "SUID": 846,
+      "id": "SLC6A13",
+      "selected": false
+    },
+    {
+      "Degree": 13.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC6A14",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC6A14",
+      "Betweenness": 404.1867755699011,
+      "Closeness": 0.31419939577039274,
+      "MCODE::Score (2)": 5.833333333333334,
+      "name": "SLC6A14",
+      "MCODE::Score (1)": 5.833333333333334,
+      "SUID": 849,
+      "id": "SLC6A14",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC6A15",
+      "shared name": "SLC6A15",
+      "Betweenness": 2.32186293352144,
+      "Closeness": 0.25181598062953997,
+      "MCODE::Score (2)": 4.0,
+      "name": "SLC6A15",
+      "MCODE::Score (1)": 4.0,
+      "SUID": 852,
+      "id": "SLC6A15",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC6A17",
+      "shared name": "SLC6A17",
+      "Betweenness": 208.40522971431298,
+      "Closeness": 0.2733245729303548,
+      "MCODE::Score (2)": 2.0,
+      "name": "SLC6A17",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 855,
+      "id": "SLC6A17",
+      "selected": false
+    },
+    {
+      "Degree": 15.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC6A19",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC6A19",
+      "Betweenness": 443.0371428284473,
+      "Closeness": 0.3244929797191888,
+      "MCODE::Score (2)": 5.9818181818181815,
+      "name": "SLC6A19",
+      "MCODE::Score (1)": 5.9818181818181815,
+      "SUID": 858,
+      "id": "SLC6A19",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLC6A20",
+      "shared name": "SLC6A20",
+      "Betweenness": 0.0,
+      "Closeness": 0.24703087885985747,
+      "MCODE::Score (2)": 2.0,
+      "name": "SLC6A20",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 861,
+      "id": "SLC6A20",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC6A6",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC6A6",
+      "Betweenness": 568.6963804821081,
+      "Closeness": 0.31137724550898205,
+      "MCODE::Score (2)": 4.761904761904762,
+      "name": "SLC6A6",
+      "MCODE::Score (1)": 4.761904761904762,
+      "SUID": 864,
+      "id": "SLC6A6",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC7A10",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC7A10",
+      "Betweenness": 6.98394325625012,
+      "Closeness": 0.2773333333333333,
+      "MCODE::Score (2)": 6.0,
+      "name": "SLC7A10",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 867,
+      "id": "SLC7A10",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC7A5",
+      "MCODE::Clusters (2)": [
+        "Cluster 9"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 9"
+      ],
+      "shared name": "SLC7A5",
+      "Betweenness": 713.0542048496087,
+      "Closeness": 0.33121019108280253,
+      "MCODE::Score (2)": 5.230769230769231,
+      "name": "SLC7A5",
+      "MCODE::Score (1)": 5.230769230769231,
+      "SUID": 870,
+      "id": "SLC7A5",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLC7A8",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "SLC7A8",
+      "Betweenness": 1045.480214648092,
+      "Closeness": 0.3170731707317073,
+      "MCODE::Score (2)": 6.909090909090909,
+      "name": "SLC7A8",
+      "MCODE::Score (1)": 6.909090909090909,
+      "SUID": 873,
+      "id": "SLC7A8",
+      "selected": false
+    },
+    {
+      "Degree": 21.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLCO1A2",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLCO1A2",
+      "Betweenness": 704.9447072800457,
+      "Closeness": 0.36684303350970016,
+      "MCODE::Score (2)": 10.576923076923077,
+      "name": "SLCO1A2",
+      "MCODE::Score (1)": 10.576923076923077,
+      "SUID": 876,
+      "id": "SLCO1A2",
+      "selected": false
+    },
+    {
+      "Degree": 24.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLCO1B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLCO1B1",
+      "Betweenness": 462.3109293644399,
+      "Closeness": 0.36684303350970016,
+      "MCODE::Score (2)": 11.604395604395604,
+      "name": "SLCO1B1",
+      "MCODE::Score (1)": 11.604395604395604,
+      "SUID": 879,
+      "id": "SLCO1B1",
+      "selected": false
+    },
+    {
+      "Degree": 20.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLCO1B3",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLCO1B3",
+      "Betweenness": 93.2411911884738,
+      "Closeness": 0.3531409168081494,
+      "MCODE::Score (2)": 11.604395604395604,
+      "name": "SLCO1B3",
+      "MCODE::Score (1)": 11.604395604395604,
+      "SUID": 882,
+      "id": "SLCO1B3",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLCO1B3-SLCO1B7",
+      "shared name": "SLCO1B3-SLCO1B7",
+      "Betweenness": 0.0,
+      "Closeness": 0.2697795071335927,
+      "MCODE::Score (2)": 0.0,
+      "name": "SLCO1B3-SLCO1B7",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 885,
+      "id": "SLCO1B3-SLCO1B7",
+      "selected": false
+    },
+    {
+      "Degree": 22.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLCO2B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 1"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 1"
+      ],
+      "shared name": "SLCO2B1",
+      "Betweenness": 791.5484018192973,
+      "Closeness": 0.35986159169550175,
+      "MCODE::Score (2)": 10.576923076923077,
+      "name": "SLCO2B1",
+      "MCODE::Score (1)": 10.576923076923077,
+      "SUID": 888,
+      "id": "SLCO2B1",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SLCO3A1",
+      "shared name": "SLCO3A1",
+      "Betweenness": 18.39636546249448,
+      "Closeness": 0.325,
+      "MCODE::Score (2)": 6.611111111111111,
+      "name": "SLCO3A1",
+      "MCODE::Score (1)": 6.611111111111111,
+      "SUID": 891,
+      "id": "SLCO3A1",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SLCO4C1",
+      "MCODE::Clusters (2)": [
+        "Cluster 7"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 7"
+      ],
+      "shared name": "SLCO4C1",
+      "Betweenness": 18.50352400443563,
+      "Closeness": 0.3280757097791798,
+      "MCODE::Score (2)": 7.644444444444445,
+      "name": "SLCO4C1",
+      "MCODE::Score (1)": 7.644444444444445,
+      "SUID": 894,
+      "id": "SLCO4C1",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SMS",
+      "shared name": "SMS",
+      "Betweenness": 14.047635225684006,
+      "Closeness": 0.28532235939643347,
+      "MCODE::Score (2)": 1.4,
+      "name": "SMS",
+      "MCODE::Score (1)": 1.4,
+      "SUID": 897,
+      "id": "SMS",
+      "selected": false
+    },
+    {
+      "Degree": 5.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SRM",
+      "shared name": "SRM",
+      "Betweenness": 27.112792110652762,
+      "Closeness": 0.2857142857142857,
+      "MCODE::Score (2)": 1.4,
+      "name": "SRM",
+      "MCODE::Score (1)": 1.4,
+      "SUID": 900,
+      "id": "SRM",
+      "selected": false
+    },
+    {
+      "Degree": 20.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "STS",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "STS",
+      "Betweenness": 4324.061540275478,
+      "Closeness": 0.3561643835616438,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "STS",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 903,
+      "id": "STS",
+      "selected": false
+    },
+    {
+      "Degree": 1.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SUGCT",
+      "shared name": "SUGCT",
+      "Betweenness": 0.0,
+      "Closeness": 0.2629582806573957,
+      "MCODE::Score (2)": 0.0,
+      "name": "SUGCT",
+      "MCODE::Score (1)": 0.0,
+      "SUID": 906,
+      "id": "SUGCT",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SULF1",
+      "shared name": "SULF1",
+      "Betweenness": 14.020912420912419,
+      "Closeness": 0.24413145539906103,
+      "MCODE::Score (2)": 2.0,
+      "name": "SULF1",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 909,
+      "id": "SULF1",
+      "selected": false
+    },
+    {
+      "Degree": 4.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SULF2",
+      "shared name": "SULF2",
+      "Betweenness": 23.681085581085583,
+      "Closeness": 0.2444183313748531,
+      "MCODE::Score (2)": 3.0,
+      "name": "SULF2",
+      "MCODE::Score (1)": 3.0,
+      "SUID": 912,
+      "id": "SULF2",
+      "selected": false
+    },
+    {
+      "Degree": 14.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1A1",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1A1",
+      "Betweenness": 169.01293027215934,
+      "Closeness": 0.3195084485407066,
+      "MCODE::Score (2)": 5.7272727272727275,
+      "name": "SULT1A1",
+      "MCODE::Score (1)": 5.7272727272727275,
+      "SUID": 915,
+      "id": "SULT1A1",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SULT1A2",
+      "shared name": "SULT1A2",
+      "Betweenness": 5.194444444444445,
+      "Closeness": 0.2733245729303548,
+      "MCODE::Score (2)": 4.464285714285714,
+      "name": "SULT1A2",
+      "MCODE::Score (1)": 4.464285714285714,
+      "SUID": 918,
+      "id": "SULT1A2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1A3",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1A3",
+      "Betweenness": 13.685172712859247,
+      "Closeness": 0.2950354609929078,
+      "MCODE::Score (2)": 5.2,
+      "name": "SULT1A3",
+      "MCODE::Score (1)": 5.2,
+      "SUID": 921,
+      "id": "SULT1A3",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1A4",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1A4",
+      "Betweenness": 27.243679605510476,
+      "Closeness": 0.3058823529411765,
+      "MCODE::Score (2)": 6.222222222222221,
+      "name": "SULT1A4",
+      "MCODE::Score (1)": 6.222222222222221,
+      "SUID": 924,
+      "id": "SULT1A4",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1B1",
+      "Betweenness": 77.06247519350855,
+      "Closeness": 0.3018867924528302,
+      "MCODE::Score (2)": 5.333333333333333,
+      "name": "SULT1B1",
+      "MCODE::Score (1)": 5.333333333333333,
+      "SUID": 927,
+      "id": "SULT1B1",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1C2",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1C2",
+      "Betweenness": 69.36015927301547,
+      "Closeness": 0.29545454545454547,
+      "MCODE::Score (2)": 5.2,
+      "name": "SULT1C2",
+      "MCODE::Score (1)": 5.2,
+      "SUID": 930,
+      "id": "SULT1C2",
+      "selected": false
+    },
+    {
+      "Degree": 9.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1C3",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1C3",
+      "Betweenness": 599.7109030100759,
+      "Closeness": 0.3234836702954899,
+      "MCODE::Score (2)": 5.785714285714286,
+      "name": "SULT1C3",
+      "MCODE::Score (1)": 5.785714285714286,
+      "SUID": 933,
+      "id": "SULT1C3",
+      "selected": false
+    },
+    {
+      "Degree": 10.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1C4",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1C4",
+      "Betweenness": 479.85702289308483,
+      "Closeness": 0.3156297420333839,
+      "MCODE::Score (2)": 5.333333333333333,
+      "name": "SULT1C4",
+      "MCODE::Score (1)": 5.333333333333333,
+      "SUID": 936,
+      "id": "SULT1C4",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "SULT1E1",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT1E1",
+      "Betweenness": 106.5087806004256,
+      "Closeness": 0.3219814241486068,
+      "MCODE::Score (2)": 5.9818181818181815,
+      "name": "SULT1E1",
+      "MCODE::Score (1)": 5.9818181818181815,
+      "SUID": 939,
+      "id": "SULT1E1",
+      "selected": false
+    },
+    {
+      "Degree": 28.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "SULT2A1",
+      "shared name": "SULT2A1",
+      "Betweenness": 3563.7213643430327,
+      "Closeness": 0.38661710037174724,
+      "MCODE::Score (2)": 8.454545454545455,
+      "name": "SULT2A1",
+      "MCODE::Score (1)": 8.454545454545455,
+      "SUID": 942,
+      "id": "SULT2A1",
+      "selected": false
+    },
+    {
+      "Degree": 12.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "SULT2B1",
+      "MCODE::Clusters (2)": [
+        "Cluster 2"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 2"
+      ],
+      "shared name": "SULT2B1",
+      "Betweenness": 390.24916037684505,
+      "Closeness": 0.3270440251572327,
+      "MCODE::Score (2)": 6.222222222222221,
+      "name": "SULT2B1",
+      "MCODE::Score (1)": 6.222222222222221,
+      "SUID": 945,
+      "id": "SULT2B1",
+      "selected": false
+    },
+    {
+      "Degree": 7.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "THEM4",
+      "MCODE::Clusters (2)": [
+        "Cluster 4"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 4"
+      ],
+      "shared name": "THEM4",
+      "Betweenness": 117.42983452193342,
+      "Closeness": 0.2814614343707713,
+      "MCODE::Score (2)": 6.0,
+      "name": "THEM4",
+      "MCODE::Score (1)": 6.0,
+      "SUID": 948,
+      "id": "THEM4",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "TREH",
+      "shared name": "TREH",
+      "Betweenness": 413.99999999999994,
+      "Closeness": 0.20988900100908173,
+      "MCODE::Score (2)": 0.6666666666666666,
+      "name": "TREH",
+      "MCODE::Score (1)": 0.6666666666666666,
+      "SUID": 951,
+      "id": "TREH",
+      "selected": false
+    },
+    {
+      "Degree": 3.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "TSR3",
+      "MCODE::Clusters (2)": [
+        "Cluster 12"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 12"
+      ],
+      "shared name": "TSR3",
+      "Betweenness": 205.99999999999997,
+      "Closeness": 0.1773231031543052,
+      "MCODE::Score (2)": 1.6666666666666667,
+      "name": "TSR3",
+      "MCODE::Score (1)": 1.6666666666666667,
+      "SUID": 954,
+      "id": "TSR3",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Seed",
+      "MCODE::Node Status (1)": "Seed",
+      "gene_symbol": "TYW2",
+      "MCODE::Clusters (2)": [
+        "Cluster 12"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 12"
+      ],
+      "shared name": "TYW2",
+      "Betweenness": 0.0,
+      "Closeness": 0.15083393763596809,
+      "MCODE::Score (2)": 2.0,
+      "name": "TYW2",
+      "MCODE::Score (1)": 2.0,
+      "SUID": 957,
+      "id": "TYW2",
+      "selected": false
+    },
+    {
+      "Degree": 2.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "UBIAD1",
+      "shared name": "UBIAD1",
+      "Betweenness": 414.0,
+      "Closeness": 0.24528301886792453,
+      "MCODE::Score (2)": 0.6666666666666666,
+      "name": "UBIAD1",
+      "MCODE::Score (1)": 0.6666666666666666,
+      "SUID": 960,
+      "id": "UBIAD1",
+      "selected": false
+    },
+    {
+      "Degree": 18.0,
+      "MCODE::Node Status (2)": "Clustered",
+      "MCODE::Node Status (1)": "Clustered",
+      "gene_symbol": "UPB1",
+      "MCODE::Clusters (2)": [
+        "Cluster 3"
+      ],
+      "MCODE::Clusters (1)": [
+        "Cluster 3"
+      ],
+      "shared name": "UPB1",
+      "Betweenness": 423.0205395152719,
+      "Closeness": 0.3404255319148936,
+      "MCODE::Score (2)": 7.021978021978022,
+      "name": "UPB1",
+      "MCODE::Score (1)": 7.021978021978022,
+      "SUID": 963,
+      "id": "UPB1",
+      "selected": false
+    },
+    {
+      "Degree": 11.0,
+      "MCODE::Node Status (2)": "Unclustered",
+      "MCODE::Node Status (1)": "Unclustered",
+      "gene_symbol": "XDH",
+      "shared name": "XDH",
+      "Betweenness": 1061.4830428734801,
+      "Closeness": 0.34724540901502504,
+      "MCODE::Score (2)": 1.6071428571428572,
+      "name": "XDH",
+      "MCODE::Score (1)": 1.6071428571428572,
+      "SUID": 966,
+      "id": "XDH",
+      "selected": false
+    }
+  ]
+}
