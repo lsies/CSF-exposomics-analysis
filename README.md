@@ -17,6 +17,8 @@ This release does not include a standalone public gene-expression analysis modul
 
 **Partition Model** inputs comprise compound-level molecular descriptors and median serum-to-CSF partition ratios. The same data are provided in the `Model_input` sheet of Supplementary Data 2.
 
+[Supplementary Data 1](network/metabolite_network/data/Supplementary%20Data%201.xlsx) provides metabolite group summaries, pairwise comparison statistics, and reaction-to-gene mappings.
+
 **Metabolite Network** inputs comprise exported between-group comparison statistics, feature annotations and database identifiers. P values, adjusted P values and variable importance in projection (VIP) statistics are supplied as inputs. The code checks the Benjamini-Hochberg (BH) adjustment within each comparison and reconstructs the downstream association network.
 
 **Metascape and Cytoscape plugin results** are retained as archived external analysis outputs. The Python code imports these results and checks the corresponding input lists. New input gene lists require rerunning the relevant external analyses. Metascape adjusted P values are read directly from the original outputs rather than recalculated from filtered tables.
